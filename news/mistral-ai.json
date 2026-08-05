@@ -1,9 +1,9 @@
 {
   "company": "Mistral AI",
   "query": "\"Mistral AI\"",
-  "start": "20250101000000",
-  "end": "20250930235959",
-  "count": 225,
+  "start": null,
+  "end": null,
+  "count": 475,
   "articles": [
     {
       "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-30-google-gemini-ai-unleashes-instant-summarization-reshaping-productivity-and-googles-ai-ambitions",
@@ -2254,6 +2254,2506 @@
       "domain": "infotechlead.com",
       "language": "English",
       "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/rezolve-ais-550-specialist-india-operations-become-its-global-engine-for-agentic-ai/2398925",
+      "url_mobile": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/rezolve-ais-550-specialist-india-operations-become-its-global-engine-for-agentic-ai/2398925/amp",
+      "title": "Rezolve Ai 550 Specialist India Operations Become its Global Engine for Agentic AI",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/05/1164873.png",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.itnewsonline.com/GlobeNewswire/Rezolve-Ais-550-Specialist-India-Operations-Become-its-Global-Engine-for-Agentic-AI/127943",
+      "url_mobile": "",
+      "title": "Rezolve Ai 550 Specialist India Operations Become its Global Engine for Agentic AI",
+      "seendate": "20260805T123000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconrepublic.com/start-ups/iceye-finnish-space-tech-eu-scaleupfund-e300m",
+      "url_mobile": "",
+      "title": "Finnish space - tech Iceye bags \u20ac300m from Scaleup Europe Fund",
+      "seendate": "20260805T091500Z",
+      "socialimage": "",
+      "domain": "siliconrepublic.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://carbuzz.com/safety-innovations-making-cars-more-expensive-repair/",
+      "url_mobile": "",
+      "title": "The Hidden Engineering That Makes Modern Cars So Expensive To Fix",
+      "seendate": "20260803T030000Z",
+      "socialimage": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/mazda-sports-car-chassis-patent-fig-2-overlay.jpg?&fit=crop",
+      "domain": "carbuzz.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322674/20260802/ai4-2026-opens-tuesday-hinton-ng-face-off-ais-existential-stakes.htm",
+      "url_mobile": "",
+      "title": "Ai4 2026 Opens Tuesday : Hinton and Ng Face Off on AI Existential Stakes",
+      "seendate": "20260802T180000Z",
+      "socialimage": "https://d.techtimes.com/en/full/471007/ai4-2026.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/generative-ai-market-worth-1-658-97-billion-by-2033---report-by-marketsandmarkets-302839836.html",
+      "url_mobile": "",
+      "title": "Generative AI Market worth $1 , 658 . 97 billion by 2033 - Report by MarketsandMarkets\u2122",
+      "seendate": "20260731T150000Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/india/sarvam-ai-plans-trillion-parameter-model-sets-sights-on-competing-with-chatgpt-gemini-and-claude/articleshow/132760238.cms",
+      "url_mobile": "https://m.economictimes.com/news/india/sarvam-ai-plans-trillion-parameter-model-sets-sights-on-competing-with-chatgpt-gemini-and-claude/amp_articleshow/132760238.cms",
+      "title": "Sarvam AI plans trillion - parameter model , sets sights on competing with ChatGPT , Gemini and Claude",
+      "seendate": "20260731T083000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132760278,width-1200,height-630,imgsize-113740,overlay-economictimes/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.livetradingnews.com/this-week-in-ai-stocks-the-dollar750-billion-capex-wave-and-where-the-real-bottl",
+      "url_mobile": "",
+      "title": "This Week in AI Stocks : The $750 Billion Capex Wave and Where the Real Bottlenecks Are",
+      "seendate": "20260731T064500Z",
+      "socialimage": "https://livetradingnews-media.nyc3.digitaloceanspaces.com/media/2026/07/31/cmpgg3-9071739eb1166455.jpg",
+      "domain": "livetradingnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-q1-losses-narrow-groww-founders-plan-new-fund/articleshow/132753426.cms",
+      "url_mobile": "https://m.economictimes.com/tech/newsletters/morning-dispatch/swiggy-q1-losses-narrow-groww-founders-plan-new-fund/amp_articleshow/132753426.cms",
+      "title": "Swiggy Q1 losses narrow ; Groww founders plan new fund",
+      "seendate": "20260731T030000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132753426,width-1070,height-580,imgsize-212044,overlay-ettech/editionshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/hugging-face-incident-spurs-calls-for-european-ai-autonomy-a-32377",
+      "url_mobile": "",
+      "title": "Hugging Face Incident Spurs Calls for European AI Autonomy",
+      "seendate": "20260730T213000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/hugging-face-incident-spurs-calls-for-european-ai-autonomy-image_large-1-a-32377.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digit.in/news/general/sarvam-is-building-1t-ai-model-hires-elon-musks-xai-expert-to-take-on-openai-and-anthropic.html",
+      "url_mobile": "https://www.digit.in/news/general/sarvam-is-building-1t-ai-model-hires-elon-musks-xai-expert-to-take-on-openai-and-anthropic.html/amp/",
+      "title": "Sarvam is building 1T AI model , hires Elon Musk xAI expert to take on OpenAI and Anthropic",
+      "seendate": "20260730T131500Z",
+      "socialimage": "https://static.digit.in/sarvam-ai-2.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.itnews.com.au/news/fed-gov-boosts-govai-with-models-from-google-nvidia-and-more-627784",
+      "url_mobile": "",
+      "title": "Fed gov boosts GovAI with models from Google , Nvidia and more",
+      "seendate": "20260730T020000Z",
+      "socialimage": "https://i.nextmedia.com.au/News/Parliament_canberra_1.jpg",
+      "domain": "itnews.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://siliconangle.com/2026/07/28/anthropic-nvidia-come-blanket-bans-open-weight-ai-models/",
+      "url_mobile": "",
+      "title": "Anthropic and Nvidia come out against blanket bans on open - weight AI models",
+      "seendate": "20260728T180000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/A-digital-AI-agent-depicted-as-a-guiding-presence-in-a-software-project-environment-connecting-line.jpeg",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mercurynews.com/2026/07/28/palantirs-infamy-opens-doors-for-french-challenger/",
+      "url_mobile": "https://www.mercurynews.com/2026/07/28/palantirs-infamy-opens-doors-for-french-challenger/amp/",
+      "title": "Palantir infamy opens doors for French challenger \u2013 The Mercury News",
+      "seendate": "20260728T171500Z",
+      "socialimage": "https://www.mercurynews.com/wp-content/uploads/2026/03/miami.webp",
+      "domain": "mercurynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.eastbaytimes.com/2026/07/28/palantirs-infamy-opens-doors-for-french-challenger/",
+      "url_mobile": "https://www.eastbaytimes.com/2026/07/28/palantirs-infamy-opens-doors-for-french-challenger/amp/",
+      "title": "Palantir infamy opens doors for French challenger \u2013 East Bay Times",
+      "seendate": "20260728T170000Z",
+      "socialimage": "https://www.eastbaytimes.com/wp-content/uploads/2026/03/miami.webp",
+      "domain": "eastbaytimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconvalley.com/2026/07/28/palantirs-infamy-opens-doors-for-french-challenger/",
+      "url_mobile": "https://www.siliconvalley.com/2026/07/28/palantirs-infamy-opens-doors-for-french-challenger/amp/",
+      "title": "Palantir infamy opens doors for French challenger \u2013 Silicon Valley",
+      "seendate": "20260728T153000Z",
+      "socialimage": "",
+      "domain": "siliconvalley.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.az/news/the-ai-military-complex-which-are-the-main-companies-in-it",
+      "url_mobile": "",
+      "title": "The AI military complex : Which are the main companies in it ? ",
+      "seendate": "20260728T130000Z",
+      "socialimage": "https://news.az/photos/2026/07/1785242627.webp",
+      "domain": "news.az",
+      "language": "English",
+      "sourcecountry": "Azerbaijan"
+    },
+    {
+      "url": "https://www.mondaq.com:443/unitedstates/corporate-tax/1823408/are-ai-and-esg-redefining-transfer-pricing-roles-in-banking",
+      "url_mobile": "",
+      "title": "Are AI And ESG Redefining Transfer Pricing Roles In Banking",
+      "seendate": "20260728T123000Z",
+      "socialimage": "http://www.mondaq.com/images/MondaqThumb.png",
+      "domain": "mondaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconrepublic.com/business/nvidia-reportedly-commits-5bn-to-scale-safe-superintelligence",
+      "url_mobile": "",
+      "title": "Nvidia reportedly commits $5bn to scale Safe Superintelligence",
+      "seendate": "20260728T101500Z",
+      "socialimage": "",
+      "domain": "siliconrepublic.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://grenadachronicle.com/the-ai-military-complex-which-are-the-main-companies-in-it/",
+      "url_mobile": "",
+      "title": "The AI military complex : Which are the main companies in it ? - Grenada Chronicle \u2013 Daily Grenada And Caribbean News",
+      "seendate": "20260727T101500Z",
+      "socialimage": "https://grenadachronicle.com/app/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221-QVG70H.jpg",
+      "domain": "grenadachronicle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it",
+      "url_mobile": "https://www.aljazeera.com/amp/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it",
+      "title": "The AI military complex : Which are the main companies in it ? ",
+      "seendate": "20260727T091500Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wccftech.com/moonshot-ceo-says-openai-didnt-invent-anything-new-as-sam-altman-signs-the-letter-calling-for-open-weight-ai-models-after-the-fact-and-under-pressure/",
+      "url_mobile": "https://wccftech.com/moonshot-ceo-says-openai-didnt-invent-anything-new-as-sam-altman-signs-the-letter-calling-for-open-weight-ai-models-after-the-fact-and-under-pressure/amp/",
+      "title": "MoonShot CEO Says  OpenAI Didnt Invent Anything New , As Sam Altman Signs The Letter Calling For Open - Weight AI Models After The Fact And Under Pressure",
+      "seendate": "20260725T174500Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2025/06/Sam-Altman-4.jpg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boredpanda.com/robert-peston-future-prediction-ai-collapse/?cexp_id=158149&cexp_var=32&_f=homepage_featured",
+      "url_mobile": "",
+      "title": "Journalist Who Predicted Covid And The 2008 Market Crash Makes Another Shocking  Prophecy  ",
+      "seendate": "20260724T211500Z",
+      "socialimage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/robert-peston-future-prediction-ai-collapse-fb14.jpg",
+      "domain": "boredpanda.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wccftech.com/nvidia-starts-championing-open-weight-ai-models-as-they-increase-demand-for-compute-and-despite-doing-everything-to-maintain-its-cuda-moat/",
+      "url_mobile": "https://wccftech.com/nvidia-starts-championing-open-weight-ai-models-as-they-increase-demand-for-compute-and-despite-doing-everything-to-maintain-its-cuda-moat/amp/",
+      "title": "NVIDIA Starts Championing Open - Weight AI Models As They Increase Demand For Compute , And Despite Doing Everything To Maintain Its CUDA Moat",
+      "seendate": "20260724T174500Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/5MFNR2HFBFPPRLH4UXBGAJ2DFM-1.jpg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boredpanda.com/robert-peston-future-prediction-ai-collapse/?cexp_id=158149&cexp_var=28&_f=homepage_featured",
+      "url_mobile": "",
+      "title": "Journalist Who Predicted Covid And The 2008 Market Crash Makes Another Shocking  Prophecy  ",
+      "seendate": "20260724T164500Z",
+      "socialimage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/robert-peston-future-prediction-ai-collapse-fb14.jpg",
+      "domain": "boredpanda.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boredpanda.com/robert-peston-future-prediction-ai-collapse/?cexp_id=157847&cexp_var=4&_f=homepage_featured",
+      "url_mobile": "",
+      "title": "Journalist Who Predicted Covid And The 2008 Market Crash Makes Another Shocking  Prophecy  ",
+      "seendate": "20260724T154500Z",
+      "socialimage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/robert-peston-future-prediction-ai-collapse-fb.jpg",
+      "domain": "boredpanda.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boredpanda.com/robert-peston-future-prediction-ai-collapse/?cexp_id=158149&cexp_var=9&_f=homepage_featured",
+      "url_mobile": "",
+      "title": "Journalist Who Predicted Covid And The 2008 Market Crash Makes Another Shocking  Prophecy  ",
+      "seendate": "20260724T131500Z",
+      "socialimage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/robert-peston-future-prediction-ai-collapse-fb.jpg",
+      "domain": "boredpanda.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boredpanda.com/robert-peston-future-prediction-ai-collapse/?cexp_id=158149&cexp_var=25&_f=homepage_featured",
+      "url_mobile": "",
+      "title": "Journalist Who Predicted Covid And The 2008 Market Crash Makes Another Shocking  Prophecy  ",
+      "seendate": "20260724T130000Z",
+      "socialimage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/robert-peston-future-prediction-ai-collapse-fb.jpg",
+      "domain": "boredpanda.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boredpanda.com/robert-peston-future-prediction-ai-collapse/?cexp_id=158149&cexp_var=16&_f=homepage_featured",
+      "url_mobile": "",
+      "title": "Journalist Who Predicted Covid And The 2008 Market Crash Makes Another Shocking  Prophecy  ",
+      "seendate": "20260724T123000Z",
+      "socialimage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/robert-peston-future-prediction-ai-collapse-fb.jpg",
+      "domain": "boredpanda.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boredpanda.com/robert-peston-future-prediction-ai-collapse/?cexp_id=158149&cexp_var=15&_f=homepage_featured",
+      "url_mobile": "",
+      "title": "Journalist Who Predicted Covid And The 2008 Market Crash Makes Another Shocking  Prophecy  ",
+      "seendate": "20260724T113000Z",
+      "socialimage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/robert-peston-future-prediction-ai-collapse-fb.jpg",
+      "domain": "boredpanda.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boredpanda.com/robert-peston-future-prediction-ai-collapse/?cexp_id=158149&cexp_var=10&_f=homepage_featured",
+      "url_mobile": "",
+      "title": "Journalist Who Predicted Covid And The 2008 Market Crash Makes Another Shocking  Prophecy  ",
+      "seendate": "20260724T111500Z",
+      "socialimage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/robert-peston-future-prediction-ai-collapse-fb.jpg",
+      "domain": "boredpanda.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.straitstimes.com/business/temasek-eyes-defence-deals-as-europe-boosts-military-spending-executive-says",
+      "url_mobile": "",
+      "title": "Temasek eyes defence deals as Europe boosts military spending , executive says",
+      "seendate": "20260724T093000Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/straitstimes/3ca2c500240a202791adc7bec50903fe9d5d57a6aaf5ade361398eda2edc0022",
+      "domain": "straitstimes.com",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://thenextweb.com/news/genesis-ai-500m-raise-robotics-foundation-model",
+      "url_mobile": "",
+      "title": "Genesis AI is in talks to raise about $500m for its robot brains",
+      "seendate": "20260724T090000Z",
+      "socialimage": "https://media.thenextweb.com/2026/06/genesis-ai-eno-robot-humanoid-alternative.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.asiaone.com:443/money/temasek-eyes-defence-deals-europe-boosts-military-spending-executive-says",
+      "url_mobile": "",
+      "title": "Temasek eyes defence deals as Europe boosts military spending , executive says",
+      "seendate": "20260724T081500Z",
+      "socialimage": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/2407_temasek_holdings.jpg?itok=1QBuMfTi",
+      "domain": "asiaone.com",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2026/07/23/sap-q2-earnings-call-highlights.html",
+      "url_mobile": "",
+      "title": "SAP Q2 Earnings Call Highlights",
+      "seendate": "20260724T020000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techcentral.ie/microsoft-invests-billions-in-european-ai-expansion-of-mistral/",
+      "url_mobile": "",
+      "title": "Microsoft invests billions in European AI expansion of Mistral",
+      "seendate": "20260723T173000Z",
+      "socialimage": "https://www.techcentral.ie/wp-content/uploads/2026/05/Mensch_Mistral.jpg",
+      "domain": "techcentral.ie",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
+      "url_mobile": "",
+      "title": "Scanning for Pangram errors",
+      "seendate": "20260723T144500Z",
+      "socialimage": "https://substackcdn.com/image/fetch/$s_!W0gp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8269b5a-4619-4e2a-ab5c-ad6e327f7b7b_3184x2002.jpeg",
+      "domain": "veryfineprint.substack.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.sammobile.com/news/samsung-mulls-major-investment-in-ai-startup-mistral-at-e20-billion-valuation/",
+      "url_mobile": "",
+      "title": "Samsung mulls major investment in AI startup Mistral at \u20ac20 billion valuation",
+      "seendate": "20260723T131500Z",
+      "socialimage": "",
+      "domain": "sammobile.com",
+      "language": "English",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.medianama.com/2026/07/223-openai-dean-ball-open-weight-ai-communism-kimi-china/",
+      "url_mobile": "",
+      "title": "OpenAI Executive Calls Open AI Models  AI Communism  ",
+      "seendate": "20260723T071500Z",
+      "socialimage": "https://www.medianama.com/wp-content/uploads/2025/12/AI.jpg",
+      "domain": "medianama.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://infotechlead.com/artificial-intelligence/microsoft-and-mistral-expand-ai-partnership-with-multibillion-dollar-europe-compute-investment-97219",
+      "url_mobile": "https://infotechlead.com/artificial-intelligence/microsoft-and-mistral-expand-ai-partnership-with-multibillion-dollar-europe-compute-investment-97219?amp=1",
+      "title": "Microsoft and Mistral Expand AI Partnership with Multibillion - Dollar Europe Compute Investment",
+      "seendate": "20260722T100000Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2024/10/Microsoft-AI-investment.jpg",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://nypost.com/2026/07/21/us-news/silicon-valley-boss-charged-for-145mph-crash-that-killed-mom-and-daughter/",
+      "url_mobile": "",
+      "title": "Silicon Valley boss charged for 145mph crash that killed mom and daughter",
+      "seendate": "20260722T001500Z",
+      "socialimage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135113872.jpg?quality=75&strip=all",
+      "domain": "nypost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newswire.ca/news-releases/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control-869542007.html",
+      "url_mobile": "",
+      "title": " / C O R R E C T I O N -- Microsoft Corp ./ ",
+      "seendate": "20260721T201500Z",
+      "socialimage": "",
+      "domain": "newswire.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.yahoo.com/news/us/articles/silicon-valley-developer-accused-murder-161700992.html",
+      "url_mobile": "",
+      "title": "Silicon Valley developer accused of murder after investigators say Tesla reached 142 mph before fatal crash",
+      "seendate": "20260721T200000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4042d8ab36482887bd4c68344832afc1fbf674a858b96c5f12d3a4d2945d07d9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F51c0a0c0cdb500ef156f5f23f3c7f921",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.deccanchronicle.com/technology/microsoft-bets-big-on-ai-signs-multi-billion-dollar-pact-with-mistral-1972813",
+      "url_mobile": "https://www.deccanchronicle.com/amp/technology/microsoft-bets-big-on-ai-signs-multi-billion-dollar-pact-with-mistral-1972813",
+      "title": "Microsoft Bets Big on AI , Signs Multi - Billion - Dollar Pact With Mistral",
+      "seendate": "20260721T193000Z",
+      "socialimage": "https://www.deccanchronicle.com/h-upload/2026/07/21/2066916-aa-7803265.jpg",
+      "domain": "deccanchronicle.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.digitaljournal.com/article/microsoft-strikes-deal-for-mistrals-ai-computing-power/",
+      "url_mobile": "",
+      "title": "Microsoft strikes deal for Mistral AI computing power",
+      "seendate": "20260721T191500Z",
+      "socialimage": "https://www.digitaljournal.com/wp-content/uploads/2026/07/203d1741a77bbc96a80057a435ec9c6a51c7f616.jpg",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/07/21/microsoft-strikes-deal-for-mistrals-ai-computing-power",
+      "url_mobile": "",
+      "title": "Microsoft strikes deal for Mistral AI computing power",
+      "seendate": "20260721T180000Z",
+      "socialimage": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/03/a61c852f-microsoft-epa-image-200325.webp",
+      "domain": "freemalaysiatoday.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.channelstv.com/2026/07/21/microsoft-strikes-deal-for-mistrals-ai-computing-power/",
+      "url_mobile": "",
+      "title": "Microsoft Strikes Deal For Mistral AI Computing Power",
+      "seendate": "20260721T164500Z",
+      "socialimage": "https://www.channelstv.com/wp-content/uploads/2026/07/Microsoft.jpg",
+      "domain": "channelstv.com",
+      "language": "English",
+      "sourcecountry": "Nigeria"
+    },
+    {
+      "url": "https://thenextweb.com/news/microsoft-fund-mistral-european-ai-expansion",
+      "url_mobile": "",
+      "title": "Microsoft to fund Mistral European AI expansion in multibillion - dollar deal",
+      "seendate": "20260721T161500Z",
+      "socialimage": "https://media.thenextweb.com/2026/07/Mistral-Microsoft.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thailand-business-news.com/pr-news/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control",
+      "url_mobile": "",
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
+      "seendate": "20260721T134500Z",
+      "socialimage": "",
+      "domain": "thailand-business-news.com",
+      "language": "English",
+      "sourcecountry": "Thailand"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69082697-microsoft-corp-microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control-008.htm",
+      "url_mobile": "",
+      "title": "Microsoft Corp .: Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
+      "seendate": "20260721T130000Z",
+      "socialimage": "",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/xebia-launches-xebia-axis-agentic-data-foundation-for-faster-ai-readiness/articleshow/132508269.cms",
+      "url_mobile": "https://m.economictimes.com/small-biz/security-tech/technology/xebia-launches-xebia-axis-agentic-data-foundation-for-faster-ai-readiness/amp_articleshow/132508269.cms",
+      "title": "Xebia launches Xebia Axis : Agentic data foundation for faster AI readiness",
+      "seendate": "20260720T074500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132508281,width-1200,height-630,imgsize-1618763,overlay-etrise/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://iafrica.com/morocco-partners-with-undp-to-launch-womens-leadership-academy-for-the-digital-era/",
+      "url_mobile": "",
+      "title": "Morocco Partners With UNDP to Launch Women Leadership Academy for the Digital Era",
+      "seendate": "20260719T190000Z",
+      "socialimage": "https://iafrica.com/wp-content/uploads/2026/07/morocco-tech-leadership-academy.jpg",
+      "domain": "iafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.express.co.uk/news/uk/2229678/tesco-clubcard-gaffe-customers-charged-more",
+      "url_mobile": "https://www.express.co.uk/news/uk/2229678/tesco-clubcard-gaffe-customers-charged-more/amp",
+      "title": "Tesco confirms major Clubcard gaffe as customers charged MORE | united kingdom | News",
+      "seendate": "20260718T084500Z",
+      "socialimage": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7043662.jpg",
+      "domain": "express.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.livemint.com/ai/chinas-moonshot-ai-adds-to-chip-investors-worries-11784340802634.html",
+      "url_mobile": "https://www.livemint.com/ai/chinas-moonshot-ai-adds-to-chip-investors-worries/amp-11784340802634.html",
+      "title": "China moonshot AI adds to chip investor worries",
+      "seendate": "20260718T041500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/07/18/600x338/im-29072909_1784340807866_1784340842963_9a810707-9e72-4ec1-9bfd-06e7bceffb5d.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.lemauricien.com/le-mauricien/chart-of-the-week-economic-growth-financial-market-reforms-could-lift-europes-growth/712835/",
+      "url_mobile": "",
+      "title": "Chart of the Week Economic growth : Financial Market Reforms Could Lift Europe Growth",
+      "seendate": "20260717T144500Z",
+      "socialimage": "https://lmwebstatic.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/07/Capture-de%CC%81cran-2026-07-17-a%CC%80-12.14.50-1.jpg",
+      "domain": "lemauricien.com",
+      "language": "English",
+      "sourcecountry": "Mauritius"
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/16/lm-studio-expands-beyond-chat-with-bionic-a-new-ai-agent-app-for-open-models/",
+      "url_mobile": "",
+      "title": "LM Studio launches Bionic , a new AI agent app for open models",
+      "seendate": "20260717T004500Z",
+      "socialimage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg",
+      "domain": "9to5mac.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "url_mobile": "",
+      "title": "Introducing LM Studio Bionic : the AI agent for open models",
+      "seendate": "20260716T220000Z",
+      "socialimage": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg",
+      "domain": "lmstudio.ai",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://gcn.com/nvidia-nemotron-open-models-draw-enterprise/19732/",
+      "url_mobile": "",
+      "title": "NVIDIA Nemotron open models draw enterprise partners citing up to 20x inference cost advantage over closed AI",
+      "seendate": "20260716T151500Z",
+      "socialimage": "",
+      "domain": "gcn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/ai/how-to-make-ai-safe-and-free-of-america-and-china-11784187586152.html",
+      "url_mobile": "https://www.livemint.com/ai/how-to-make-ai-safe-and-free-of-america-and-china/amp-11784187586152.html",
+      "title": "How to make AI safe and free of America and China",
+      "seendate": "20260716T124500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/07/16/600x338/SAMBANOVA-FUNDING--0_1784118091544_1784118117809_bd641e38-b420-4787-8331-742bed475aaa_1784190372777_ae3acaab-381f-4135-b77c-ff6cc0e6d5d1.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.hindustantimes.com/world-news/how-to-make-ai-safe-and-free-of-america-and-china-101784174943459.html",
+      "url_mobile": "https://www.hindustantimes.com/world-news/how-to-make-ai-safe-and-free-of-america-and-china-101784174943459-amp.html",
+      "title": "How to make AI safe and free of America and China",
+      "seendate": "20260716T090000Z",
+      "socialimage": "https://www.hindustantimes.com/ht-img/img/2026/07/16/550x309/pexels-photo-8849295_1784174978772_1784174990421_f1db5019-db90-4b89-98e8-fde281465cc6.jpeg",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/business/commentary/article-what-can-canada-do-as-a-future-looms-of-ai-dependence-on-the-us/",
+      "url_mobile": "",
+      "title": "What can Canada do as a future looms of AI dependence on the U . S .? ",
+      "seendate": "20260714T210000Z",
+      "socialimage": "https://www.theglobeandmail.com/resizer/v2/XCK2KMFA3VAILM5ZLCK6YIPYJM.JPG?auth=7c7f8b5ccb2f931d9067eeb0b2e23f79c22396a83461fd965a01a3fd61f57d90&quality=80&smart=true",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.eenews.net/articles/frances-edge-in-ai-race-is-cheap-energy-if-american-big-tech-doesnt-plug-in-first/",
+      "url_mobile": "",
+      "title": "France edge in AI race is cheap energy if American Big Tech doesnt plug in first",
+      "seendate": "20260714T113000Z",
+      "socialimage": "https://static.politico.com/30/1a/b9b1f22549f49e56407610a8d934/https-delivery-gettyimages.com/downloads/2207733302",
+      "domain": "eenews.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/xebia-axis-now-available-an-agentic-data-foundation-that-prepares-enterprise-data-for-ai/2383942",
+      "url_mobile": "https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/xebia-axis-now-available-an-agentic-data-foundation-that-prepares-enterprise-data-for-ai/2383942/amp",
+      "title": "Xebia Axis Now Available : An Agentic Data Foundation That Prepares Enterprise Data for AI",
+      "seendate": "20260714T110000Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/14/1136165.png",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.hindustantimes.com/opinion/become-creators-not-just-consumers-of-tech-future-artificial-intelligence-ai-growth-hinges-on-smaller-specialised-models-101783952177007.html",
+      "url_mobile": "https://www.hindustantimes.com/opinion/become-creators-not-just-consumers-of-tech-future-artificial-intelligence-ai-growth-hinges-on-smaller-specialised-models-101783952177007-amp.html",
+      "title": "Become creators , not just consumers of tech",
+      "seendate": "20260714T024500Z",
+      "socialimage": "https://www.hindustantimes.com/ht-img/img/2026/07/13/550x309/aiiiii_1783952704541_1783952710261_667db888-5b12-4a19-91e1-cc45470aa3e8.jpg",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://thenextweb.com/news/france-energy-advantage-ai-data-centres",
+      "url_mobile": "",
+      "title": "France energy advantage is its AI edge , if it keeps it",
+      "seendate": "20260713T180000Z",
+      "socialimage": "https://media.thenextweb.com/2026/07/Arthur-Mensch.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20260713VL204/tsmc-cowos-capacity-hbm-weekly-news-roundup.html",
+      "url_mobile": "",
+      "title": "Weekly news roundup : TSMC widens AI chip lead as HBM and CoWoS bottlenecks reshape supply chains",
+      "seendate": "20260713T051500Z",
+      "socialimage": "https://img.digitimes.com/newsshow/20260713vl204_files/2_b.jpg",
+      "domain": "digitimes.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://propakistani.pk/2026/07/11/mistral-open-sources-ai-model-that-can-verify-code-and-mathematical-proofs/",
+      "url_mobile": "https://propakistani.pk/2026/07/11/mistral-open-sources-ai-model-that-can-verify-code-and-mathematical-proofs/amp/",
+      "title": "Mistral Open - Sources AI Model That Can Verify Code and Mathematical Proofs",
+      "seendate": "20260711T121500Z",
+      "socialimage": "https://propakistani.pk/wp-content/uploads/2026/07/Mistral-Leanstral-1.5.jpg",
+      "domain": "propakistani.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://en.antaranews.com/news/422244/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260711T063000Z",
+      "socialimage": "",
+      "domain": "en.antaranews.com",
+      "language": "English",
+      "sourcecountry": "Indonesia"
+    },
+    {
+      "url": "https://www.techradar.com/pro/mistral-vibe-review",
+      "url_mobile": "",
+      "title": "Mistral Vibe review",
+      "seendate": "20260710T163000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/VVwigEF5B8qBsGqp5TgxNk-1376-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-tcs-employee-addition-just-hit-4-year-high-amid-ai-job-loss-fears/articleshow/132306730.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/why-tcs-employee-addition-just-hit-4-year-high-amid-ai-job-loss-fears/amp_articleshow/132306730.cms",
+      "title": "Why TCS employee addition just hit 4 - year high amid AI job loss fears",
+      "seendate": "20260710T084500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132306729,width-1200,height-630,imgsize-50845,overlay-etmarkets/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://techstory.in/the-open-blueprint-why-open-source-matters-more-than-ever/",
+      "url_mobile": "",
+      "title": "Why Open Source Matters More Than Ever : The AI & Tech Shift",
+      "seendate": "20260709T211500Z",
+      "socialimage": "https://techstory.in/wp-content/uploads/2026/07/Screenshot-2026-07-09-204014.png",
+      "domain": "techstory.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://tech.yahoo.com/ai/articles/behind-ai-gold-rush-raise-162933677.html",
+      "url_mobile": "",
+      "title": "Behind The AI Gold Rush At RAISE Summit Paris",
+      "seendate": "20260709T170000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/76a58df3015d94c7e6ab1802c85fac158eddca40ce28cc05ffa5fe613cac784e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F1618a0224f0ca288e4301ae217e40f51",
+      "domain": "tech.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.shanghaisun.com/news/279176017/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T104500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/7f05011/541c0ad5-85f1-4a9f-9a2e-96311121966a/0/ANI-20260709043524-600x315.jpg",
+      "domain": "shanghaisun.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.siliconrepublic.com/machines/mistral-expands-physical-ai-first-robotics-launch",
+      "url_mobile": "",
+      "title": "Mistral expands physical AI offering with first robotics launch",
+      "seendate": "20260709T104500Z",
+      "socialimage": "",
+      "domain": "siliconrepublic.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://athens-times.com/pierakakis-in-brussels-for-eurogroup-and-ecofin-ai-and-cybersecurity-top-agenda-in-finance/",
+      "url_mobile": "",
+      "title": "Pierakakis in Brussels for Eurogroup & ECOFIN",
+      "seendate": "20260709T080000Z",
+      "socialimage": "",
+      "domain": "athens-times.com",
+      "language": "English",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "http://www.vietnamtribune.com/news/279176017/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T080000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/7f05011/541c0ad5-85f1-4a9f-9a2e-96311121966a/0/ANI-20260709043524-600x315.jpg",
+      "domain": "vietnamtribune.com",
+      "language": "English",
+      "sourcecountry": "Vietnam"
+    },
+    {
+      "url": "http://www.pakistantelegraph.com/news/279176017/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T071500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/7f05011/541c0ad5-85f1-4a9f-9a2e-96311121966a/0/ANI-20260709043524-600x315.jpg",
+      "domain": "pakistantelegraph.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "http://www.malaysiasun.com/news/279176017/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T061500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/7f05011/541c0ad5-85f1-4a9f-9a2e-96311121966a/0/ANI-20260709043524-600x315.jpg",
+      "domain": "malaysiasun.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "http://www.laosnews.net/news/279176017/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T061500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/7f05011/541c0ad5-85f1-4a9f-9a2e-96311121966a/0/ANI-20260709043524-600x315.jpg",
+      "domain": "laosnews.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://aninews.in/news/business/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation20260709100543/",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T060000Z",
+      "socialimage": "",
+      "domain": "aninews.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.australiannews.net/news/279175715/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T060000Z",
+      "socialimage": "",
+      "domain": "australiannews.net",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://news.webindia123.com/news/Articles/Business/20260709/4472667.html",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T060000Z",
+      "socialimage": "",
+      "domain": "news.webindia123.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.sydneysun.com/news/279175715/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T053000Z",
+      "socialimage": "",
+      "domain": "sydneysun.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation/article71200776.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/brandhub/pr-release/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation/article71200776.ece/amp/",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T040000Z",
+      "socialimage": "",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.singaporestar.com/news/279175715/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T034500Z",
+      "socialimage": "",
+      "domain": "singaporestar.com",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "http://www.asiabulletin.com/news/279175715/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T034500Z",
+      "socialimage": "",
+      "domain": "asiabulletin.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.philippinetimes.com/news/279175715/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T031500Z",
+      "socialimage": "",
+      "domain": "philippinetimes.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.itnewsonline.com/PRNewswire/NCS-launches-enterprise-AI-platforms-and-products-deepens-partnerships-to-accelerate-AI-driven-business-transformation/1136280",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T020000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.malaysiasun.com/news/279175715/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation",
+      "url_mobile": "",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T011500Z",
+      "socialimage": "",
+      "domain": "malaysiasun.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/pr-newswire/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation/2381287",
+      "url_mobile": "https://www.manilatimes.net/2026/07/09/tmt-newswire/pr-newswire/ncs-launches-enterprise-ai-platforms-and-products-deepens-partnerships-to-accelerate-ai-driven-business-transformation/2381287/amp",
+      "title": "NCS launches enterprise AI platforms and products ; deepens partnerships to accelerate AI - driven business transformation",
+      "seendate": "20260709T004500Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/09/1130446.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/ncs-expands-sunshine-ai-with-sector-deals-hiring",
+      "url_mobile": "",
+      "title": "NCS expands Sunshine . AI with sector deals & hiring",
+      "seendate": "20260709T004500Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/07/09/compatible_Sam_Liew.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1408507-mistral-launches-its-first-robotics-model-expanding-into-physical-ai",
+      "url_mobile": "",
+      "title": "Mistral launches its first robotics model , expanding into physical AI",
+      "seendate": "20260708T204500Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/2026-07-08/1408507_113251_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.mercurynews.com/2026/07/08/mistral-ai-releases-robotics-model-to-support-physical-ai-push/",
+      "url_mobile": "https://www.mercurynews.com/2026/07/08/mistral-ai-releases-robotics-model-to-support-physical-ai-push/amp/",
+      "title": "Mistral AI releases robotics model to support physical AI push",
+      "seendate": "20260708T184500Z",
+      "socialimage": "https://www.mercurynews.com/wp-content/uploads/2025/12/Humanoids_Summit_63244.jpg",
+      "domain": "mercurynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.businessghana.com/site/news/technology/351523/What-is-Mistral-AI",
+      "url_mobile": "",
+      "title": "What is Mistral AI ? Everything to know about the OpenAI competitor",
+      "seendate": "20260707T061500Z",
+      "socialimage": "http://www.businessghana.com/cms/img/news/2026-07-06-16565501.jpg",
+      "domain": "businessghana.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "url_mobile": "",
+      "title": "Station F ramps up as a launchpad for Europe hottest AI startups",
+      "seendate": "20260706T151500Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/319752/20260705/elevenlabs-valuation-doubles-22-billion-voice-cloning-reaches-its-biggest-test.htm",
+      "url_mobile": "",
+      "title": "ElevenLabs Valuation Doubles to $22 Billion : Voice Cloning Reaches Its Biggest Test",
+      "seendate": "20260705T220000Z",
+      "socialimage": "",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://iafrica.com/morocco-strengthens-un-partnerships-on-ai-and-south-south-cooperation-at-open-source-week/",
+      "url_mobile": "",
+      "title": "Morocco Strengthens UN Partnerships on AI and South - South Cooperation at Open Source Week",
+      "seendate": "20260630T154500Z",
+      "socialimage": "https://iafrica.com/wp-content/uploads/2026/06/Morocco_minister-of-Digital-Transition_Amal-El-Fallah-Seghrouchni_Under-SG-Special-Envoy-for-Digital-and-Emerging-Technologies_-Amandeep-Singh-Gill-1210x642-1.jpg",
+      "domain": "iafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "url_mobile": "",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "seendate": "20260630T030000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.beijingbulletin.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260628T010000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "beijingbulletin.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.kenyastar.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T210000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "kenyastar.com",
+      "language": "English",
+      "sourcecountry": "Kenya"
+    },
+    {
+      "url": "http://www.russiaherald.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T204500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "russiaherald.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.newzealandstar.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "newzealandstar.com",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "http://www.myanmarnews.net/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "myanmarnews.net",
+      "language": "English",
+      "sourcecountry": "Myanmar"
+    },
+    {
+      "url": "http://www.europesun.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "europesun.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.mainemirror.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "mainemirror.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.northkoreatimes.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "northkoreatimes.com",
+      "language": "English",
+      "sourcecountry": "North Korea"
+    },
+    {
+      "url": "http://www.australianherald.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "australianherald.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "http://www.texasguardian.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "texasguardian.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.bruneinews.net/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T201500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "bruneinews.net",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "http://www.shanghaisun.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T200000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "shanghaisun.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.coloradostar.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T200000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "coloradostar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.southeastasiapost.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T193000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "southeastasiapost.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "http://www.oklahomastar.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T193000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "oklahomastar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.parisguardian.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T191500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "parisguardian.com",
+      "language": "English",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "http://www.nigeriasun.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T191500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "nigeriasun.com",
+      "language": "English",
+      "sourcecountry": "Nigeria"
+    },
+    {
+      "url": "http://www.tucsonpost.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T183000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "tucsonpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.chinanationalnews.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "chinanationalnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.thailandnews.net/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "thailandnews.net",
+      "language": "English",
+      "sourcecountry": "Thailand"
+    },
+    {
+      "url": "http://www.middleeaststar.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "middleeaststar.com",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "http://www.arabherald.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "arabherald.com",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "http://www.afghanistannews.net/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "afghanistannews.net",
+      "language": "English",
+      "sourcecountry": "Afghanistan"
+    },
+    {
+      "url": "http://www.cambodiantimes.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "cambodiantimes.com",
+      "language": "English",
+      "sourcecountry": "Cambodia"
+    },
+    {
+      "url": "http://www.oklahomacitysun.com/news/279151984/wired-for-war-pax-silica-is-ai-slavery-disguised-as-strength",
+      "url_mobile": "",
+      "title": "Wired for War : Pax Silica is AI slavery disguised as strength",
+      "seendate": "20260627T174500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4153d6c/fb0c5ff1-02f5-4c91-b8a3-491e690868b4/0/NjlmZGI4MzQtODQ-600x315.jpg",
+      "domain": "oklahomacitysun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moroccoworldnews.com/2026/06/325465/morocco-outlines-digital-sovereignty-vision-at-un-open-source-week/",
+      "url_mobile": "",
+      "title": "Morocco Outlines Digital Sovereignty Vision at UN Open Source Week",
+      "seendate": "20260626T130000Z",
+      "socialimage": "https://www.moroccoworldnews.com/wp-content/uploads/2025/12/amal-el-fallah-seghrouchni-ai-has-vast-diverse-applications-1024x576-1.jpeg",
+      "domain": "moroccoworldnews.com",
+      "language": "English",
+      "sourcecountry": "Morocco"
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/06/25/frances-largest-startup-campus-station-f-turns-nine-heres-why-its-nervous-about-the-electi",
+      "url_mobile": "",
+      "title": "France largest startup campus Station F turns nine . Here why it nervous about the election",
+      "seendate": "20260625T074500Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/81/19/70/1200x675_cmsv2_9c21a4d9-eaf4-5e3d-a215-705ce8095d6c-9811970.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ianslive.in/india-seeks-to-build-partnerships-across-europe-to-advance-its-interests-in-trade-technology-report--20260624170026",
+      "url_mobile": "",
+      "title": "India seeks to build partnerships across Europe to advance its interests in trade , technology : Report",
+      "seendate": "20260624T150000Z",
+      "socialimage": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/20260614408f.jpg",
+      "domain": "ianslive.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.prokerala.com/news/articles/a1779515.html",
+      "url_mobile": "",
+      "title": "India seeks to build partnerships across Europe to advance its interests in trade , technology : Report",
+      "seendate": "20260624T140000Z",
+      "socialimage": "",
+      "domain": "prokerala.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/318862/20260624/naver-bets-efficiency-win-back-ai-share-china-most-used-models.htm",
+      "url_mobile": "",
+      "title": "Naver Bets on Efficiency to Win Back AI Share From China Most - Used Models",
+      "seendate": "20260624T114500Z",
+      "socialimage": "https://d.techtimes.com/en/full/467198/naver.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/318978/20260624/mistral-ocr-4-ships-structure-aware-document-ai-runs-your-own-infrastructure.htm",
+      "url_mobile": "",
+      "title": "Mistral OCR 4 Ships : Structure - Aware Document AI Runs On Your Own Infrastructure",
+      "seendate": "20260624T114500Z",
+      "socialimage": "https://d.techtimes.com/en/full/467318/mistral-ai.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/national/2026/06/23/874881.htm",
+      "url_mobile": "https://amp.insurancejournal.com/news/national/2026/06/23/874881.htm",
+      "title": "Anthropic Ban Forces Investor Rethink of Political Risk",
+      "seendate": "20260623T081500Z",
+      "socialimage": "https://www.insurancejournal.com/app/uploads/2026/05/Anthropic-AI-Bloomberg-scaled.jpg",
+      "domain": "insurancejournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.infoworld.com/article/4187526/is-mistral-late-or-savvy.html",
+      "url_mobile": "",
+      "title": "Is Mistral late or savvy ? ",
+      "seendate": "20260622T093000Z",
+      "socialimage": "https://www.infoworld.com/wp-content/uploads/2026/06/4187526-0-34986900-1782118995-shutterstock_69103444.jpg?quality=50&strip=all",
+      "domain": "infoworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260619-india-meab01.htm",
+      "url_mobile": "",
+      "title": "Transcript of Special Briefing on the visit of Prime Minister to Paris , France ( June 19 , 2026 ) ",
+      "seendate": "20260620T114500Z",
+      "socialimage": "",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-sarvam-ai-share-something-142020747.html",
+      "url_mobile": "",
+      "title": "Anthropic and Sarvam AI Share Something Beyond Their Focus on AI",
+      "seendate": "20260619T220000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/6_GahQDPNnOlEFzxJTuUuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/2a569199b0ab622e37aef9376ebe6c57",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://oilreviewmiddleeast.com/technical-focus/totalenergies-advances-use-of-data-and-ai-to-tackle-methane-emissions",
+      "url_mobile": "",
+      "title": "TotalEnergies advances use of data and AI to tackle methane emissions",
+      "seendate": "20260619T164500Z",
+      "socialimage": "https://oilreviewmiddleeast.com/",
+      "domain": "oilreviewmiddleeast.com",
+      "language": "English",
+      "sourcecountry": "Saudi Arabia"
+    },
+    {
+      "url": "https://www.courant.com/2026/06/19/anthropic-ban-forces-investor-rethink-of-political-risk-3/",
+      "url_mobile": "",
+      "title": "Anthropic ban forces investor rethink of political risk",
+      "seendate": "20260619T141500Z",
+      "socialimage": "https://www.courant.com/wp-content/uploads/2026/06/202606181613MCT_____PHOTO____BIZ-CPT-AI-POLITICAL-RISK-ANTHROPIC-FILEPIC-GET.jpg",
+      "domain": "courant.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://newstodaynet.com/2026/06/19/modi-meets-top-ceos-highlights-tremendous-opportunities-in-india/",
+      "url_mobile": "",
+      "title": "Modi meets top CEOs , highlights tremendous opportunities in India - News Today",
+      "seendate": "20260619T123000Z",
+      "socialimage": "https://newstodaynet.com/storage/2026/06/20260618143L.jpg",
+      "domain": "newstodaynet.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.newkerala.com/news/a/pm-modi-gifts-kalamkari-mahabharata-painting-french-president-296.htm",
+      "url_mobile": "",
+      "title": "PM Modi Gifts Kalamkari Art to Macron in France",
+      "seendate": "20260619T104500Z",
+      "socialimage": "https://one.newkerala.com/images/t/newkerala-com-news250.webp",
+      "domain": "newkerala.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://kashmirreader.com/2026/06/19/pm-modi-meets-leading-ceos-in-france/",
+      "url_mobile": "",
+      "title": "PM Modi meets leading CEOs in France",
+      "seendate": "20260619T053000Z",
+      "socialimage": "https://kashmirreader.com/wp-content/uploads/2026/06/PM.webp",
+      "domain": "kashmirreader.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.parisguardian.com/news/279132327/mistral-ai-ceo-arthur-mensch-discusses-sovereign-ai-partnership-with-pm-modi",
+      "url_mobile": "",
+      "title": "Mistral AI CEO Arthur Mensch discusses sovereign AI partnership with PM Modi",
+      "seendate": "20260619T001500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/97753ba/6d855c15-df7b-4ff4-94c8-5bbcd22f1497/0/ANI-20260618123848-600x315.jpg",
+      "domain": "parisguardian.com",
+      "language": "English",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.dailyexcelsior.com/modi-meets-leading-ceos-in-france-discusses-investment-plans-in-india/",
+      "url_mobile": "https://www.dailyexcelsior.com/modi-meets-leading-ceos-in-france-discusses-investment-plans-in-india/amp",
+      "title": "Modi meets leading CEOs in France , discusses investment plans in India",
+      "seendate": "20260619T000000Z",
+      "socialimage": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWU4ZDViODQwLTZiNjctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "domain": "dailyexcelsior.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.europesun.com/news/279131866/pm-modi-meets-mistral-ai-ceo-co-founder-arthur-mensch-in-paris",
+      "url_mobile": "",
+      "title": "PM Modi meets Mistral AI CEO , co - founder Arthur Mensch in Paris",
+      "seendate": "20260618T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/b75d4df/65f4e845-5fbc-4b85-8b06-d61ec95a216d/0/ANI-20260618103854-600x315.jpg",
+      "domain": "europesun.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.europesun.com/news/279131872/pm-modi-meets-ceo-of-cma-cgm-group-rodolphe-saade-in-paris",
+      "url_mobile": "",
+      "title": "PM Modi meets CEO of CMA CGM Group Rodolphe Saade in Paris",
+      "seendate": "20260618T203000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/b2d100e/2b380237-9966-43c1-9125-7908dc04a549/0/ANI-20260618104801-600x315.jpg",
+      "domain": "europesun.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.bignewsnetwork.com/news/279132347/looking-forward-to-expanding-further-in-india-cma-cgm-group-chief-saade-hails-talks-with-pm-modi",
+      "url_mobile": "",
+      "title": "  Looking forward to expanding further in India : CMA CGM Group chief Saade hails talks with PM Modi",
+      "seendate": "20260618T193000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/a576a46/0ac72e65-9bbc-486a-b31b-cba6b6a364ad/0/ANI-20260618132639-600x315.jpg",
+      "domain": "bignewsnetwork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.webindia123.com/news/Articles/World/20260618/4464211.html",
+      "url_mobile": "",
+      "title": "PM Modi meets CEO of CMA CGM Group Rodolphe Saade in Paris",
+      "seendate": "20260618T181500Z",
+      "socialimage": "",
+      "domain": "news.webindia123.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.newindianexpress.com/india/2026/Jun/18/technology-can-lead-to-progress-only-when-it-is-democratised-pm-modi-at-vivatech",
+      "url_mobile": "https://www.newindianexpress.com/amp/story/india/2026/Jun/18/technology-can-lead-to-progress-only-when-it-is-democratised-pm-modi-at-vivatech",
+      "title": "Technology can lead to progress only when it is democratized ; for India AI means All Inclusive : PM Modi",
+      "seendate": "20260618T171500Z",
+      "socialimage": "https://cf-images.assettype.com/newindianexpress%2F2026-06-18%2Fwn6hn5er%2FPTI06182026000357B.jpg?rect=0%2C0%2C4800%2C2520&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "domain": "newindianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://aninews.in/news/world/europe/pm-modi-interacts-with-alstom-ceo-martin-sion-highlights-opportunities-for-global-collaboration-with-indias-youth20260618195138/",
+      "url_mobile": "",
+      "title": "PM Modi interacts with Alstom CEO Martin Sion , highlights opportunities for global collaboration with India youth",
+      "seendate": "20260618T163000Z",
+      "socialimage": "",
+      "domain": "aninews.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.calcuttanews.net/news/279131872/pm-modi-meets-ceo-of-cma-cgm-group-rodolphe-saade-in-paris",
+      "url_mobile": "",
+      "title": "PM Modi meets CEO of CMA CGM Group Rodolphe Saade in Paris",
+      "seendate": "20260618T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/b2d100e/2b380237-9966-43c1-9125-7908dc04a549/0/ANI-20260618104801-600x315.jpg",
+      "domain": "calcuttanews.net",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://indianewengland.com/modi-meets-top-ceos-in-paris-highlights-opportunities-in-india/",
+      "url_mobile": "",
+      "title": "Modi Meets Top CEOs in Paris , Highlights Opportunities in India",
+      "seendate": "20260618T151500Z",
+      "socialimage": "https://indianewengland.com/wp-content/uploads/2026/06/Narendra-Modi.png",
+      "domain": "indianewengland.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://news.webindia123.com/news/Articles/World/20260618/4464327.html",
+      "url_mobile": "",
+      "title": "PM Modi interacts with Alstom CEO Martin Sion , highlights opportunities for global collaboration with India youth",
+      "seendate": "20260618T151500Z",
+      "socialimage": "",
+      "domain": "news.webindia123.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.asiabulletin.com/news/279131866/pm-modi-meets-mistral-ai-ceo-co-founder-arthur-mensch-in-paris",
+      "url_mobile": "",
+      "title": "PM Modi meets Mistral AI CEO , co - founder Arthur Mensch in Paris",
+      "seendate": "20260618T144500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/b75d4df/65f4e845-5fbc-4b85-8b06-d61ec95a216d/0/ANI-20260618103854-600x315.jpg",
+      "domain": "asiabulletin.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.bignewsnetwork.com/news/279131872/pm-modi-meets-ceo-of-cma-cgm-group-rodolphe-saade-in-paris",
+      "url_mobile": "",
+      "title": "PM Modi meets CEO of CMA CGM Group Rodolphe Saade in Paris",
+      "seendate": "20260618T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/b2d100e/2b380237-9966-43c1-9125-7908dc04a549/0/ANI-20260618104801-600x315.jpg",
+      "domain": "bignewsnetwork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://aninews.in/news/world/europe/looking-forward-to-expanding-further-in-india-cma-cgm-group-chief-saade-hails-talks-with-pm-modi20260618185649/",
+      "url_mobile": "",
+      "title": "  Looking forward to expanding further in India : CMA CGM Group chief Saade hails talks with PM Modi",
+      "seendate": "20260618T141500Z",
+      "socialimage": "",
+      "domain": "aninews.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.azerbaijannews.net/news/279131866/pm-modi-meets-mistral-ai-ceo-co-founder-arthur-mensch-in-paris",
+      "url_mobile": "",
+      "title": "PM Modi meets Mistral AI CEO , co - founder Arthur Mensch in Paris",
+      "seendate": "20260618T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/b75d4df/65f4e845-5fbc-4b85-8b06-d61ec95a216d/0/ANI-20260618103854-600x315.jpg",
+      "domain": "azerbaijannews.net",
+      "language": "English",
+      "sourcecountry": "Azerbaijan"
+    },
+    {
+      "url": "https://news.webindia123.com/news/Articles/World/20260618/4464300.html",
+      "url_mobile": "",
+      "title": "  Looking forward to expanding further in India : CMA CGM Group chief Saade hails talks with PM Modi",
+      "seendate": "20260618T141500Z",
+      "socialimage": "",
+      "domain": "news.webindia123.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/318582/20260617/physics-ai-slashes-engineering-simulation-days-seconds-physicsx-raises-300m.htm",
+      "url_mobile": "",
+      "title": "Physics AI Slashes Engineering Simulation From Days to Seconds , PhysicsX Raises $300M",
+      "seendate": "20260618T140000Z",
+      "socialimage": "https://d.techtimes.com/en/full/466917/physics-ai.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theindianawaaz.com/indias-growth-story-in-focus-as-pm-modi-meets-mistral-ai-and-alstom-chiefs-in-paris/",
+      "url_mobile": "",
+      "title": "India Growth Story in Focus as PM Modi Meets Mistral AI and Alstom Chiefs in Paris \u2013 The Indian Awaaz",
+      "seendate": "20260618T140000Z",
+      "socialimage": "",
+      "domain": "theindianawaaz.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.newkerala.com/news/a/mistral-ai-ceo-arthur-mensch-discusses-sovereign-ai-976.htm",
+      "url_mobile": "",
+      "title": "Mistral AI CEO Meets PM Modi on Sovereign AI Partnership",
+      "seendate": "20260618T134500Z",
+      "socialimage": "https://one.newkerala.com/images/t/newkerala-com-news250.webp",
+      "domain": "newkerala.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thelocal.de/20260618/tough-work-but-worth-it-merz-hails-success-of-g7-summit",
+      "url_mobile": "",
+      "title": "  Tough work but worth it : Merz hails success of G7 summit",
+      "seendate": "20260618T134500Z",
+      "socialimage": "",
+      "domain": "thelocal.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-ceo-arthur-mensch-discusses-sovereign-ai-partnership-with-pm-modi/articleshow/131831718.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/mistral-ai-ceo-arthur-mensch-discusses-sovereign-ai-partnership-with-pm-modi/amp_articleshow/131831718.cms",
+      "title": "Mistral AI CEO Arthur Mensch discusses sovereign AI partnership with PM Modi",
+      "seendate": "20260618T134500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36920,resizemode-75,msid-131831718/tech/artificial-intelligence/mistral-ai-ceo-arthur-mensch-discusses-sovereign-ai-partnership-with-pm-modi.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/06/18/from-foxconn-to-nvidia-why-france-is-so-attractive-for-europes-ai-infrastructure",
+      "url_mobile": "",
+      "title": "From Foxconn to Nvidia : Why France is so attractive for Europe AI infrastructure",
+      "seendate": "20260618T123000Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/80/40/19/1200x675_cmsv2_99bbf0d0-3b9b-57f9-8eb6-ede1da8d11e7-9804019.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://stockhouse.com/news/press-releases/2026/06/18/vivatech-with-methanelive-totalenergies-uses-data-to-support-methane-emissions",
+      "url_mobile": "",
+      "title": "2026 - 06 - 18 | VivaTech : With MethaneLive , TotalEnergies Uses Data to Support Methane Emissions Reduction | TSX : TTES",
+      "seendate": "20260618T093000Z",
+      "socialimage": "",
+      "domain": "stockhouse.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/vivatech-with-methanelive-totalenergies-use-/9625342",
+      "url_mobile": "",
+      "title": "VivaTech : With MethaneLive , TotalEnergies Uses Data to Support Methane Emissions Reduction | Company Announcement",
+      "seendate": "20260618T090000Z",
+      "socialimage": "",
+      "domain": "investegate.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/26/06/53268563/eu-chief-calls-for-us-europe-ai-alliance-amid-growing-sovereignty-concerns",
+      "url_mobile": "",
+      "title": "EU Chief Calls For US - Europe AI Alliance Amid Growing Sovereignty Concerns",
+      "seendate": "20260618T084500Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/18/Brussels--Belgium--10th-July-2019--Ursul.jpeg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68799947-totalenergies-se-vivatech-with-methanelive-totalenergies-uses-data-to-support-methane-emissions-reduction-004.htm",
+      "url_mobile": "",
+      "title": "TotalEnergies SE : VivaTech : With MethaneLive , TotalEnergies Uses Data to Support Methane Emissions Reduction",
+      "seendate": "20260618T080000Z",
+      "socialimage": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260618645639r1&sid=gefi2&distro=ftp",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/president-donald-trump-sits-down-with-sam-altman-dario-amodei-and-other-ai-ceos-at-g7-we-have-to-be-very-careful-with-/articleshow/131812042.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/president-donald-trump-sits-down-with-sam-altman-dario-amodei-and-other-ai-ceos-at-g7-we-have-to-be-very-careful-with-/amp_articleshow/131812042.cms",
+      "title": "President Donald Trump sits down with Sam Altman , Dario Amodei and other AI CEOs at G7 :  We have to be very careful with ... ",
+      "seendate": "20260618T034500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-131812039,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/06/18/g7-leaders-welcome-trumps-change-on-ukraine",
+      "url_mobile": "",
+      "title": "G7 leaders welcome Trump  change  on Ukraine",
+      "seendate": "20260617T224500Z",
+      "socialimage": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/06/b6eac633-donald-trump-g7-18062026.webp",
+      "domain": "freemalaysiatoday.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/06/18/world/americas-emea/g7-leaders-applaud-iran-ukraine-progress/2367732",
+      "url_mobile": "https://www.manilatimes.net/2026/06/18/world/americas-emea/g7-leaders-applaud-iran-ukraine-progress/2367732/amp",
+      "title": "G7 leaders applaud Iran , Ukraine progress | The Manila Times",
+      "seendate": "20260617T193000Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/06/17/1103238.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.citizen.co.za/news/news-world/g7-leaders-applaud-iran-opportunity-host-ai-chiefs/",
+      "url_mobile": "",
+      "title": "G7 leaders applaud Iran  opportunity , host AI chiefs",
+      "seendate": "20260617T171500Z",
+      "socialimage": "https://media.citizen.co.za/wp-content/uploads/2026/06/G7-leaders-applaud-Iran-opportunity-host-AI-chiefs.jpg",
+      "domain": "citizen.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "http://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.html",
+      "url_mobile": "https://www.idahostatejournal.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_c980aa94-a108-54fb-9ffa-e490dbc13918.amp.html",
+      "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+      "seendate": "20260617T171500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/5/ec/5ec16b07-b22a-523c-8261-ed18998c9983/6a3197ff9d154.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "idahostatejournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.html",
+      "url_mobile": "https://www.postregister.com/news/national/the-latest-trump-and-g7-leaders-discuss-future-of-ai-on-last-day-of-summit/article_5823212b-9bc9-5415-a72d-53c1e7302dfc.amp.html",
+      "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+      "seendate": "20260617T170000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/a7/4a7e2f01-327b-5812-ae5f-4db889d2a99e/6a324eb5e28c6.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "postregister.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-shares-selfie-with-pm-modi-at-g7-summit-says-inspired-by-my/articleshow/131805430.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-shares-selfie-with-pm-modi-at-g7-summit-says-inspired-by-my/amp_articleshow/131805430.cms",
+      "title": "Salesforce CEO Marc Benioff shares selfie with PM Modi at G7 summit , says :  Inspired by my \u2026 ",
+      "seendate": "20260617T163000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-131805440,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.newsday.com/news/nation/g7-summit-trump-ai-france-17-june-2026-f72748",
+      "url_mobile": "",
+      "title": "The Latest : Trump and G7 leaders discuss future of AI on last day of summit",
+      "seendate": "20260617T154500Z",
+      "socialimage": "https://cdn.newsday.com/ace/c:NWNlYWFmYjctNzI1OS00:OWI4NjMwYTgtMzkxNS00/landscape/1280",
+      "domain": "newsday.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ianslive.in/india-ai-firm-joins-g7-tech-talks-in-france--20260617191203",
+      "url_mobile": "",
+      "title": "India AI firm joins G7 tech talks in France",
+      "seendate": "20260617T144500Z",
+      "socialimage": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/202606173829131.jpg",
+      "domain": "ianslive.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/06/g7-leaders-applaud-iran-opportunity-host-ai-chiefs",
+      "url_mobile": "",
+      "title": "G7 leaders applaud Iran  opportunity , host AI chiefs",
+      "seendate": "20260617T140000Z",
+      "socialimage": "",
+      "domain": "al-monitor.com",
+      "language": "English",
+      "sourcecountry": "Israel"
+    },
+    {
+      "url": "https://www.wptf.com/2026/06/17/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry/",
+      "url_mobile": "",
+      "title": "The Latest : G7 summit focuses on contentious future of AI and US dominance of the industry",
+      "seendate": "20260617T133000Z",
+      "socialimage": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3836/files/2026/06/gettyimages-2282009840-1200x675.jpg",
+      "domain": "wptf.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.theuknews.com/news/279128234/macron-winds-up-g7-with-ai-trump-dinner",
+      "url_mobile": "",
+      "title": "Macron winds up G7 with AI , Trump dinner",
+      "seendate": "20260617T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/a75e25d/2513c1ea-9cb4-4d4a-b76c-6329a57b4baf/0/YmE5YTMxZTItMzd-600x315.jpg",
+      "domain": "theuknews.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.theuknews.com/news/279128334/macron-invites-trump-to-versailles-dinner-as-g7-summit-wraps-up",
+      "url_mobile": "",
+      "title": "Macron invites Trump to Versailles dinner as G7 summit wraps up",
+      "seendate": "20260617T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/e9ea512/4520f2d6-6c3a-4e24-8abf-28fc8b7515f4/0/NGY2NWM4NzktZGY-600x315.jpg",
+      "domain": "theuknews.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/06/g7-leaders-applaud-iran-ukraine-progress-ahead-tackling-ai",
+      "url_mobile": "",
+      "title": "G7 leaders applaud Iran , Ukraine progress ahead of tackling AI",
+      "seendate": "20260617T110000Z",
+      "socialimage": "",
+      "domain": "al-monitor.com",
+      "language": "English",
+      "sourcecountry": "Israel"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/g7-leaders-applaud-iran-ukraine-progress-ahead-of-tackling-ai/articleshow/131794102.cms",
+      "url_mobile": "https://m.economictimes.com/news/international/world-news/g7-leaders-applaud-iran-ukraine-progress-ahead-of-tackling-ai/amp_articleshow/131794102.cms",
+      "title": "G7 leaders applaud Iran , Ukraine progress ahead of tackling AI",
+      "seendate": "20260617T100000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-131794128,width-1200,height-630,imgsize-160548,overlay-economictimes/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.modernghana.com/news/1503127/g7-leaders-discuss-ai-risks-before-macron-hosts.html",
+      "url_mobile": "https://www.modernghana.com/news/1503127/g7-leaders-discuss-ai-risks-before-macron-hosts.amp",
+      "title": "G7 leaders discuss AI risks before Macron hosts Trump at Versailles",
+      "seendate": "20260617T094500Z",
+      "socialimage": "https://cdn.modernghana.com/images/content/617202673613-8dt2wjivvq-5f95385e430853c95cfab873fbece923c5e5ae49.jpg",
+      "domain": "modernghana.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.modernghana.com/news/1503130/macron-invites-trump-to-versailles-dinner-as-g7.html",
+      "url_mobile": "https://www.modernghana.com/news/1503130/macron-invites-trump-to-versailles-dinner-as-g7.amp",
+      "title": "Macron invites Trump to Versailles dinner as G7 summit wraps up",
+      "seendate": "20260617T094500Z",
+      "socialimage": "https://cdn.modernghana.com/images/content/617202683616-rwnyqdcp53-5f95385e430853c95cfab873fbece923c5e5ae49.jpg",
+      "domain": "modernghana.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/06/17/from-jeff-bezos-to-europes-ai-push-everything-to-know-about-vivatech-2026",
+      "url_mobile": "",
+      "title": "From Jeff Bezos to Europe AI push : Everything to know about VivaTech 2026",
+      "seendate": "20260617T073000Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/80/04/88/1200x675_cmsv2_fc7bfb84-94e4-5a79-a5f7-c6ed8b3563df-9800488.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.euronews.com/my-europe/2026/06/17/newsletter-g7-aligns-on-ukraine-in-rare-moment-of-unity",
+      "url_mobile": "",
+      "title": "Newsletter : G7 aligns on Ukraine in rare moment of unity",
+      "seendate": "20260617T070000Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/80/16/47/1200x675_cmsv2_3c98dc57-4b8b-51ab-98e0-de4d6c0e2c31-9801647.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://dunyanews.tv/en/World/957655-macron-winds-up-g7-with-ai-trump-dinner",
+      "url_mobile": "https://dunyanews.tv/amp/english/957655.php",
+      "title": "Macron winds up G7 with AI , Trump dinner",
+      "seendate": "20260617T051500Z",
+      "socialimage": "https://img.dunyanews.tv/news/2026/June/06-17-26/news_big_images/957655_14962940.jpg",
+      "domain": "dunyanews.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/06/macron-winds-g7-ai-trump-dinner",
+      "url_mobile": "",
+      "title": "Macron winds up G7 with AI , Trump dinner",
+      "seendate": "20260617T021500Z",
+      "socialimage": "",
+      "domain": "al-monitor.com",
+      "language": "English",
+      "sourcecountry": "Israel"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
+      "url_mobile": "",
+      "title": "France to ditch AI data tools from Palantir for domestic provider",
+      "seendate": "20260616T173000Z",
+      "socialimage": "https://i.guim.co.uk/img/media/942b0bdfb08be89d9ecbc6bd39111c016108451c/404_0_4038_3231/master/4038.jpg?&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=debced440562731c659cf95d6b935317",
+      "domain": "theguardian.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/06/16/new-report-raises-concerns-over-russian-propaganda-spread-by-europes-flagship-ai-company-m",
+      "url_mobile": "",
+      "title": "New report raises concerns over Russian propaganda spread by Europe flagship AI company Mistral",
+      "seendate": "20260616T170000Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/80/07/66/1200x675_cmsv2_4077ac0e-6d86-511d-9197-fdea4ed17d9c-9800766.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://chimpreports.com/ruto-arrives-in-france-for-g7-summit/",
+      "url_mobile": "",
+      "title": "Ruto Arrives in France for G7 Summit",
+      "seendate": "20260616T130000Z",
+      "socialimage": "https://cdn-network.chimpreports.com/wp-content/uploads/2026/06/Ruto-arriving-in-France.jpeg",
+      "domain": "chimpreports.com",
+      "language": "English",
+      "sourcecountry": "Uganda"
+    },
+    {
+      "url": "https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html",
+      "url_mobile": "",
+      "title": "Applying Brevity and Language Efficiency in Prompt Engineering",
+      "seendate": "20260615T153000Z",
+      "socialimage": "https://prahladyeri.github.io/uploads/cover.jpg",
+      "domain": "prahladyeri.github.io",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/15/us-clampdown-on-anthropic-models-sends-eu-sovereignty-surge-into-overdrive/5255487",
+      "url_mobile": "",
+      "title": "US clampdown on Anthropic models sends EU sovereignty surge into overdrive",
+      "seendate": "20260615T150000Z",
+      "socialimage": "https://image.theregister.com/5240668.jpg?imageId=5240668&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending",
+      "url_mobile": "https://www.aljazeera.com/amp/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending",
+      "title": "G7 meeting in France : What on agenda , who is attending ? | Politics News",
+      "seendate": "20260615T111500Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-11T162455Z_1561683264_RC25RLAZ4AFS_RTRMADP_3_G7-SUMMIT-ENGAGEMENT-1781513333.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://dominicanrepublicpost.com/g7-meeting-in-france-whats-on-agenda-who-is-attending/",
+      "url_mobile": "",
+      "title": "G7 meeting in France : What on agenda , who is attending ? - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
+      "seendate": "20260615T103000Z",
+      "socialimage": "https://dominicanrepublicpost.com/app/uploads/2026/06/AP26130641085270-1778481102-ltAlJy.jpg",
+      "domain": "dominicanrepublicpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://aa.com.tr/en/politics/explainer-trump-wars-and-tariffs-what-to-expect-from-the-g7-summit-in-evian/3967007",
+      "url_mobile": "",
+      "title": "EXPLAINER - Trump , wars and tariffs : What to expect from the G7 summit in Evian ? ",
+      "seendate": "20260615T101500Z",
+      "socialimage": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/06/15/thumbs_b_c_4dea44e5e3cf966711e7784acbd51435.jpg",
+      "domain": "aa.com.tr",
+      "language": "English",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/technology/articles/mistral-ai-weighs-funding-23bn-091700112.html",
+      "url_mobile": "",
+      "title": "Mistral AI weighs new funding at $23bn valuation",
+      "seendate": "20260615T094500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/B55495Sf.hicuwHoJIL.ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/6c9757477fbd041cf17104a0c62ba681",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/06/15/g7-allies-seek-common-ground-with-trump-after-iran-accord",
+      "url_mobile": "",
+      "title": "G7 allies seek common ground with Trump after Iran accord",
+      "seendate": "20260615T093000Z",
+      "socialimage": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/03/8641d3d4-g7-flags.jpg",
+      "domain": "freemalaysiatoday.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "http://www.thejakartapost.com/world/2026/06/15/france-hosts-g7-dominated-by-trump-iran",
+      "url_mobile": "",
+      "title": "France hosts G7 dominated by Trump , Iran - Europe",
+      "seendate": "20260615T090000Z",
+      "socialimage": "https://img.jakpost.net/c/2026/06/15/2026_06_15_176707_1781499995._large.jpg",
+      "domain": "thejakartapost.com",
+      "language": "English",
+      "sourcecountry": "Indonesia"
+    },
+    {
+      "url": "https://www.bssnews.net/international/396042",
+      "url_mobile": "",
+      "title": "France hosts G7 dominated by Trump , Iran",
+      "seendate": "20260615T080000Z",
+      "socialimage": "https://www.bssnews.net/assets/news_photos/2026/06/15/image-396042-1781495969.jpg",
+      "domain": "bssnews.net",
+      "language": "English",
+      "sourcecountry": "Bangladesh"
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/06/france-hosts-g7-dominated-trump-iran",
+      "url_mobile": "",
+      "title": "France hosts G7 dominated by Trump , Iran",
+      "seendate": "20260615T054500Z",
+      "socialimage": "",
+      "domain": "al-monitor.com",
+      "language": "English",
+      "sourcecountry": "Israel"
+    },
+    {
+      "url": "https://www.ewn.co.za/2026/06/15/france-hosts-g7-dominated-by-trump-iran-1",
+      "url_mobile": "",
+      "title": "France hosts G7 dominated by Trump , Iran",
+      "seendate": "20260615T053000Z",
+      "socialimage": "https://media-cache.primedia-service.com/media/nodj4by1/250812-donald-trump-washington-crime.jpg",
+      "domain": "ewn.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://siliconangle.com/2026/06/14/white-house-forces-anthropic-disable-new-frontier-models-following-abrupt-export-ban/",
+      "url_mobile": "",
+      "title": "White House forces Anthropic to disable new frontier models following abrupt export ban",
+      "seendate": "20260615T043000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-01-21-06-32-23.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://meobserver.org/world/regional-focus/europe/2026/06/15/europe-tests-ai-alternative-to-palantirs-battlefield-system/",
+      "url_mobile": "",
+      "title": "Europe Tests AI Alternative to Palantir Battlefield System - The Middle East Observer",
+      "seendate": "20260615T021500Z",
+      "socialimage": "https://meobserver.org/wp-content/uploads/2026/06/7-1.png",
+      "domain": "meobserver.org",
+      "language": "English",
+      "sourcecountry": "Egypt"
+    },
+    {
+      "url": "https://siliconangle.com/2026/06/12/mistral-reportedly-seeking-3-5b-funding-round-amid-physics-ai-push/",
+      "url_mobile": "",
+      "title": "Mistral reportedly seeking $3 . 5B funding round amid physics AI push",
+      "seendate": "20260613T003000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Mistral1.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hellenicshippingnews.com/demonstrations-use-cases-and-tangible-innovations-cma-cgm-deploys-its-artificial-intelligence-strategy/",
+      "url_mobile": "",
+      "title": "Demonstrations , use cases and tangible innovations : CMA CGM deploys its artificial intelligence strategy",
+      "seendate": "20260612T223000Z",
+      "socialimage": "",
+      "domain": "hellenicshippingnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://organiser.org/2026/06/12/357901/bharat/pm-modi-macron-to-launch-india-innovates-2026-why-the-france-conclave-is-key-for-deep-tech-start-ups/",
+      "url_mobile": "https://organiser.org/2026/06/12/357901/bharat/pm-modi-macron-to-launch-india-innovates-2026-why-the-france-conclave-is-key-for-deep-tech-start-ups/amp/",
+      "title": "Modi , Macron set to unveil India Innovates 2026 in France",
+      "seendate": "20260612T133000Z",
+      "socialimage": "https://organiser.org/wp-content/uploads/2026/06/screenshot-2026-06-12-153618.webp",
+      "domain": "organiser.org",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.businesstoday.in/technology/story/from-nice-to-paris-pm-modis-france-visit-puts-indias-deeptech-ambitions-in-focus-at-bharat-innovates-and-vivatech-536558-2026-06-12",
+      "url_mobile": "https://www.businesstoday.in/amp/technology/story/from-nice-to-paris-pm-modis-france-visit-puts-indias-deeptech-ambitions-in-focus-at-bharat-innovates-and-vivatech-536558-2026-06-12",
+      "title": "From Nice to Paris , PM Modi France visit puts India deeptech ambitions in focus at Bharat Innovates and VivaTech",
+      "seendate": "20260612T104500Z",
+      "socialimage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2bc9c6f130e-in-nice--modi-and-french-president-emmanuel-macron-will-jointly-inaugurate-bharat-innovates-2026-125633444-16x9.jpg",
+      "domain": "businesstoday.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.arabnews.com/node/2646813/world",
+      "url_mobile": "https://www.arabnews.com/node/2646813/amp",
+      "title": "G7 allies seek to bridge divide with Trump at France summit",
+      "seendate": "20260611T180000Z",
+      "socialimage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/11/4720802-183460150.jpg?itok=5fDDkDg2",
+      "domain": "arabnews.com",
+      "language": "English",
+      "sourcecountry": "Saudi Arabia"
+    },
+    {
+      "url": "http://www.californiatelegraph.com/news/279114699/ai4-2026-unveils-expanded-exhibit-hall-featuring-nearly-400-exhibitors-new-interactive-experiences-and-the-industry-leading-ai-companies",
+      "url_mobile": "",
+      "title": "Ai4 2026 Unveils Expanded Exhibit Hall Featuring Nearly 400 Exhibitors , New Interactive Experiences , and the Industry Leading AI Companies",
+      "seendate": "20260610T230000Z",
+      "socialimage": "",
+      "domain": "californiatelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.tennesseedaily.com/news/279114699/ai4-2026-unveils-expanded-exhibit-hall-featuring-nearly-400-exhibitors-new-interactive-experiences-and-the-industry-leading-ai-companies",
+      "url_mobile": "",
+      "title": "Ai4 2026 Unveils Expanded Exhibit Hall Featuring Nearly 400 Exhibitors , New Interactive Experiences , and the Industry Leading AI Companies",
+      "seendate": "20260610T223000Z",
+      "socialimage": "",
+      "domain": "tennesseedaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newjerseytelegraph.com/news/279114699/ai4-2026-unveils-expanded-exhibit-hall-featuring-nearly-400-exhibitors-new-interactive-experiences-and-the-industry-leading-ai-companies",
+      "url_mobile": "",
+      "title": "Ai4 2026 Unveils Expanded Exhibit Hall Featuring Nearly 400 Exhibitors , New Interactive Experiences , and the Industry Leading AI Companies",
+      "seendate": "20260610T203000Z",
+      "socialimage": "",
+      "domain": "newjerseytelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/06/10/tmt-newswire/pr-newswire/superai-singapore-2026-sells-out-asias-largest-ai-event-brings-together-10000-global-innovators/2362251",
+      "url_mobile": "https://www.manilatimes.net/2026/06/10/tmt-newswire/pr-newswire/superai-singapore-2026-sells-out-asias-largest-ai-event-brings-together-10000-global-innovators/2362251/amp",
+      "title": "SuperAI Singapore 2026 Sells Out : Asia Largest AI Event Brings Together 10 , 000 Global Innovators",
+      "seendate": "20260610T031500Z",
+      "socialimage": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/10/1092624.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/superai-singapore-2026-sells-out-asias-largest-ai-event-brings-together-10-000-global-innovators-302795988.html",
+      "url_mobile": "",
+      "title": "SuperAI Singapore 2026 Sells Out : Asia Largest AI Event Brings Together 10 , 000 Global Innovators",
+      "seendate": "20260610T013000Z",
+      "socialimage": "https://mma.prnewswire.com/media/2996441/SuperAI_Sold_Out.jpg?p=facebook",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/06/08/how-data-sovereignty-is-reshaping-ai-strategy-and-software-development/",
+      "url_mobile": "",
+      "title": "How Data Sovereignty Is Reshaping AI Strategy And Software Development",
+      "seendate": "20260608T150000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/67530bc196183a6a09710493/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://meobserver.org/technology/2026/06/03/europe-wants-more-than-regulation-it-wants-its-own-tech-ecosystem/",
+      "url_mobile": "",
+      "title": "Europe Wants More Than Regulation . It Wants Its Own Tech Ecosystem . ",
+      "seendate": "20260608T081500Z",
+      "socialimage": "https://meobserver.org/wp-content/uploads/2026/06/8.png",
+      "domain": "meobserver.org",
+      "language": "English",
+      "sourcecountry": "Egypt"
+    },
+    {
+      "url": "https://thenextweb.com/news/miasma-worm-microsoft-github-supply-chain",
+      "url_mobile": "",
+      "title": "Self - replicating Miasma worm hits 73 Microsoft GitHub repositories in supply chain attack",
+      "seendate": "20260606T134500Z",
+      "socialimage": "https://media.thenextweb.com/2026/06/miasma-worm-microsoft-github-supply-chain.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-01610-9",
+      "url_mobile": "",
+      "title": "Europe is ditching US tech what does this mean for researchers ? ",
+      "seendate": "20260605T103000Z",
+      "socialimage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01610-9/d41586-026-01610-9_52511024.jpg",
+      "domain": "nature.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.com/can-europe-catch-us-china-ai-new-eu-plan-seeks-answers-3803684",
+      "url_mobile": "",
+      "title": "Can Europe Catch Up To The US And China In AI ? New EU Plan Seeks Answers",
+      "seendate": "20260604T114500Z",
+      "socialimage": "https://d.ibtimes.com/en/full/4649690/henna-virkkunen.jpg",
+      "domain": "ibtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://languagehat.com/ai-model-for-ancient-papyri/",
+      "url_mobile": "",
+      "title": "AI Model for Ancient Papyri . : languagehat . com",
+      "seendate": "20260603T221500Z",
+      "socialimage": "",
+      "domain": "languagehat.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/energy/articles/eiffage-wins-140m-contract-build-112000196.html",
+      "url_mobile": "",
+      "title": "Eiffage wins $140m contract to build power substation for Campus AI site",
+      "seendate": "20260603T114500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/bMx3LjrNHmpqHScTMGvZXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/world_construction_network_914/dccf6801faa68f8f04fb61b1fff65c8c",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thenextweb.com/news/eu-ai-data-centre-gigafactory-delays-funding-stumble",
+      "url_mobile": "",
+      "title": "EU AI gigafactory plan stumbles as delays alienate partners",
+      "seendate": "20260602T234500Z",
+      "socialimage": "https://media.thenextweb.com/2026/05/European-flag.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/tcs-mistral-ai-sign-strategic-partnership-a-31835",
+      "url_mobile": "",
+      "title": "TCS and Mistral AI Sign Strategic Partnership",
+      "seendate": "20260602T214500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/tcs-mistral-ai-sign-strategic-partnership-image_large-5-a-31835.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/fbi-warns-microsoft-365-users-about-dangerous-phishing-tool/",
+      "url_mobile": "",
+      "title": "FBI Warns Microsoft 365 Users About Dangerous Phishing Tool",
+      "seendate": "20260602T164500Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/05/FBI-Warns-Microsoft-365-Users-About-Dangerous-Phishing-Tool-.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.techcentral.ie/mistral-considers-custom-made-chips-to-cut-costs/",
+      "url_mobile": "",
+      "title": "Mistral considers custom - made chips to cut costs",
+      "seendate": "20260602T121500Z",
+      "socialimage": "https://www.techcentral.ie/wp-content/uploads/2026/04/Arthur_Mensch_Mistral.AI_.jpg",
+      "domain": "techcentral.ie",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://indiaeducationdiary.in/tcs-partners-with-mistral-becomes-the-first-global-systems-integrator-gsi-to-bring-mistral-forge-to-enterprises-worldwide/",
+      "url_mobile": "",
+      "title": "TCS Partners with Mistral ; becomes the first Global Systems Integrator ( GSI ) to bring Mistral Forge to enterprises worldwide - India Education | Latest Education News | Global Educational News",
+      "seendate": "20260601T180000Z",
+      "socialimage": "",
+      "domain": "indiaeducationdiary.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://itwire.com/business-it-news/data/tcs-partners-with-mistral-becomes-the-first-global-systems-integrator-gsi-to-bring-mistral-forge-to-enterprises-worldwide",
+      "url_mobile": "",
+      "title": "TCS Partners with Mistral ; becomes the first Global Systems Integrator ( GSI ) to bring Mistral Forge to enterprises worldwide",
+      "seendate": "20260601T070000Z",
+      "socialimage": "https://media.itwire.com/2026/06/01/tcs-partners-with-mistral-becomes-the-first-global-systems-integrator-gsi-to-bring-mistral-forge-to-enterprises-worldwide-4998cb20cec0.jpg",
+      "domain": "itwire.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/06/01/2003858302",
+      "url_mobile": "",
+      "title": "Softbank to invest in AI data centers in France",
+      "seendate": "20260531T161500Z",
+      "socialimage": "https://img.taipeitimes.com/images/2026/06/01/P09-260601-323.jpg",
+      "domain": "taipeitimes.com",
+      "language": "English",
+      "sourcecountry": "Taiwan"
+    },
+    {
+      "url": "https://thenewswheel.com/bmw-turns-ai-improve-crash-simulations-engineering-workflows/",
+      "url_mobile": "",
+      "title": "BMW Turns to AI to Improve CACrash Simulations and Engineering Workflows",
+      "seendate": "20260531T141500Z",
+      "socialimage": "https://thenewswheel.com/wp-content/uploads/2026/05/BMW-Group-and-Mistral-AI-advance-AI-in-crash-simulation-1.jpg",
+      "domain": "thenewswheel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://sana.sy/en/economic/2320449/",
+      "url_mobile": "",
+      "title": "SoftBank plans up to \u20ac75 billion investment in French AI data centers",
+      "seendate": "20260531T140000Z",
+      "socialimage": "https://cdn.sananews.sy/2026/05/SoftBank-plans-up-to-E75-billion-investment-in-French-AI-data-centers.jpeg",
+      "domain": "sana.sy",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "https://thenextweb.com/news/softbank-75-billion-ai-data-centres-france-macron",
+      "url_mobile": "",
+      "title": "SoftBank is investing \u20ac75 billion to build 5 gigawatts of AI data centres in France . It Son biggest European bet . ",
+      "seendate": "20260531T110000Z",
+      "socialimage": "https://media.thenextweb.com/2026/05/softbank-75-billion-ai-data-centres-france-macron.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.businessghana.com/site/news/technology/349265/Why-Paris-may-be-the-most-important-AI-city-outside-Silicon-Valley",
+      "url_mobile": "",
+      "title": "Why Paris may be the most important AI city outside Silicon Valley",
+      "seendate": "20260531T061500Z",
+      "socialimage": "http://www.businessghana.com/cms/img/news/2026-05-30-2359125.jpg",
+      "domain": "businessghana.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://fortune.com/2026/05/30/softbank-75-billion-investment-french-ai-data-centers-masayoshi-son-emmanuel-macron/",
+      "url_mobile": "",
+      "title": "SoftBank plans up to \u20ac75 billion investment in French AI centers",
+      "seendate": "20260530T220000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2197366150-e1780174500603.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.koreaherald.com/article/10759937",
+      "url_mobile": "https://m.koreaherald.com/article/10759937",
+      "title": "S . Korea attends G7 digital ministers meeting in Paris",
+      "seendate": "20260530T034500Z",
+      "socialimage": "https://wimg.heraldcorp.com/news/cms/2026/05/30/news-p.v1.20260530.bc3b414699114152a873a5e1d68aecf4_T1.jpg",
+      "domain": "koreaherald.com",
+      "language": "English",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://memeburn.com/chatgpt-alternative/",
+      "url_mobile": "",
+      "title": "Best ChatGPT Alternative in 2026 : 10 Options Worth Considering",
+      "seendate": "20260529T121500Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/05/best-chatgpt-alternative.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/technology/articles/edf-mistral-partner-bring-sovereign-010457929.html",
+      "url_mobile": "",
+      "title": "EDF and Mistral Partner to Bring Sovereign AI to Nuclear Power",
+      "seendate": "20260529T013000Z",
+      "socialimage": "https://s.yimg.com/os/en/oilprice.com/d0d20c5ffa068def3f12b6cfd19e59f1",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/market/european-stocks-trim-losses-on-report-us-iran-extend-truce-11779995077692.html",
+      "url_mobile": "https://www.livemint.com/market/european-stocks-trim-losses-on-report-us-iran-extend-truce/amp-11779995077692.html",
+      "title": "European Stocks Trim Losses on Report US , Iran Extend Truce",
+      "seendate": "20260528T200000Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2024/12/06/600x338/market_2_1733466021722_1733466033367.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.livemint.com/market/european-stocks-fall-on-growing-mideast-tensions-dassault-drops-11779995017446.html",
+      "url_mobile": "https://www.livemint.com/market/european-stocks-fall-on-growing-mideast-tensions-dassault-drops/amp-11779995017446.html",
+      "title": "European Stocks Fall on Growing Mideast Tensions ; Dassault Drops",
+      "seendate": "20260528T200000Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2024/12/06/600x338/market1_1733465997762_1733466008348.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.livemint.com/market/european-stocks-end-weaker-as-traders-await-truce-confirmation-11779995077699.html",
+      "url_mobile": "https://www.livemint.com/market/european-stocks-end-weaker-as-traders-await-truce-confirmation/amp-11779995077699.html",
+      "title": "European Stocks End Weaker as Traders Await Truce Confirmation",
+      "seendate": "20260528T200000Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2024/12/06/600x338/market_2_1733466021722_1733466033367.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+      "url_mobile": "",
+      "title": "Why Paris may be the most important AI city outside Silicon Valley",
+      "seendate": "20260528T184500Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch7.jpeg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.euronews.com/business/2026/05/28/airbus-and-bmw-strike-deals-with-frances-mistral-to-bring-ai-to-defence-and-safety-systems",
+      "url_mobile": "",
+      "title": "Airbus and BMW strike deals with France Mistral to bring AI to defence and safety systems",
+      "seendate": "20260528T170000Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/77/58/93/1200x675_cmsv2_8f7bc277-cdd8-5503-a011-b6a8cdcb7771-9775893.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/mistral-signs-airbus-and-bmw-it-brings-ai-manufacturing",
+      "url_mobile": "",
+      "title": "Mistral signs Airbus and BMW as it brings AI to manufacturing",
+      "seendate": "20260528T143000Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/1c2fb8175e5e62712e243bb9abca629638bd25eefdb462a376802cb37792b966?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/business/tcs-partners-mistral-to-build-custom-ai-models-for-enterprises-sets-up-dedicated-coe-13934773.html",
+      "url_mobile": "https://www.moneycontrol.com/news/business/tcs-partners-mistral-to-build-custom-ai-models-for-enterprises-sets-up-dedicated-coe-13934773.html/amp",
+      "title": "TCS partners Mistral to build custom AI models for enterprises , sets up dedicated CoE",
+      "seendate": "20260528T133000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/04/20260422043820_TCS-NASHIK.jpeg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/tcs-ties-up-with-french-firm-mistral-to-build-custom-ai-models-for-enterprises/articleshow/131369447.cms",
+      "url_mobile": "https://m.economictimes.com/tech/technology/tcs-ties-up-with-french-firm-mistral-to-build-custom-ai-models-for-enterprises/amp_articleshow/131369447.cms",
+      "title": "TCS ties up with French firm Mistral to build custom AI models for enterprises",
+      "seendate": "20260528T123000Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-40664,resizemode-75,msid-131369447/tech/technology/tcs-ties-up-with-french-firm-mistral-to-build-custom-ai-models-for-enterprises.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.rappler.com/technology/mistral-defends-artificial-intelligence-use-warfare-rebuts-pope-leo-criticism/",
+      "url_mobile": "",
+      "title": "Mistral defends AI use in warfare , rebuts Pope criticism",
+      "seendate": "20260528T110000Z",
+      "socialimage": "https://www.rappler.com/tachyon/2026/05/mistral-ai-may-21-2026-reuters.jpg",
+      "domain": "rappler.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/technology/articles/bnp-paribas-expands-ties-mistral-192716928.html",
+      "url_mobile": "",
+      "title": "BNP Paribas expands ties with Mistral AI to boost generative AI capabilities",
+      "seendate": "20260528T074500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/mKISOIBzDaFzzYEc8SCuQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/retail_banker_international_407/0ad117ee9bf3e833f1c16f1130ec65cb",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://israelvalley.com/2026/05/27/every-day-europe-loses-competitiveness-we-are-drowning-in-regulations/",
+      "url_mobile": "",
+      "title": "Every day Europe loses Competitiveness .  We are drowning in regulations . ",
+      "seendate": "20260527T121500Z",
+      "socialimage": "https://israelvalley.com/wp-content/uploads/2026/04/israel-Valley.png",
+      "domain": "israelvalley.com",
+      "language": "English",
+      "sourcecountry": "Israel"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/ecb-convening-bank-meeting-fix-flaws-exposed-ai-models-report",
+      "url_mobile": "",
+      "title": "ECB convening bank meeting to fix flaws exposed by AI models : report",
+      "seendate": "20260525T100000Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/76af2307f734788a33ed2570fb14a611a85a79d6e105252e3a5b69c3e209a6f8?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.drive.com.au/news/ram-dakota-citroen-2cv-headline-100-billion-stellantis-comeback-plan/",
+      "url_mobile": "",
+      "title": "Stellantis will pour $100 billion into turning around its car business",
+      "seendate": "20260525T070000Z",
+      "socialimage": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/07b67dd6-6610-5a4f-b836-263879150000",
+      "domain": "drive.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://allafrica.com/stories/202605250012.html",
+      "url_mobile": "",
+      "title": "Africa : How Women Are Paving Their Own Way Through Africa Tech Sector",
+      "seendate": "20260525T063000Z",
+      "socialimage": "",
+      "domain": "allafrica.com",
+      "language": "English",
+      "sourcecountry": "Nigeria"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/05/25/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+      "url_mobile": "",
+      "title": "ECB convenes banks to fix flaws exposed by AI Models , FT says",
+      "seendate": "20260525T060000Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/05/25/3925326.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/317057/20260523/500-poisoned-packages-hundreds-companies-teampcps-worm-just-reached-github.htm",
+      "url_mobile": "",
+      "title": "500 Poisoned Packages , Hundreds of Companies : TeamPCP Worm Just Reached GitHub",
+      "seendate": "20260523T164500Z",
+      "socialimage": "https://d.techtimes.com/en/full/465280/github.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.com/500-poisoned-packages-hundreds-companies-teampcps-worm-just-reached-github-3803230",
+      "url_mobile": "",
+      "title": "500 Poisoned Packages , Hundreds of Companies : TeamPCP Worm Just Reached GitHub",
+      "seendate": "20260523T124500Z",
+      "socialimage": "https://d.ibtimes.com/en/full/4649160/github.png",
+      "domain": "ibtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
     }
   ]
 }

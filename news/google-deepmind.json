@@ -1,9 +1,9 @@
 {
   "company": "Google DeepMind",
   "query": "\"DeepMind\"",
-  "start": "20250101000000",
-  "end": "20250930235959",
-  "count": 250,
+  "start": null,
+  "end": null,
+  "count": 501,
   "articles": [
     {
       "url": "https://observer.com/2025/10/periodic-labs-launches-300m-real-science-ai/",
@@ -2504,6 +2504,2516 @@
       "domain": "yorkpress.co.uk",
       "language": "English",
       "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8",
+      "url_mobile": "",
+      "title": "Google Shakes up AI Leadership . Hassabis Steps Down As DeepMind CEO . ",
+      "seendate": "20260805T173000Z",
+      "socialimage": "https://i.insider.com/6a736564f9ea6266446ef024?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+      "url_mobile": "https://www.cnbc.com/amp/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+      "title": "Google chief scientist Jeff Dean leaving company after 27 years",
+      "seendate": "20260805T170000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107165046-1785947673833-107165046-1670885047420-gettyimages-1197130647-GOOGLE_AI.jpeg?v=1785947872",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.local10.com/weather/hurricane/2026/08/05/colorado-state-experts-release-final-predictions-for-the-2026-atlantic-hurricane-season/",
+      "url_mobile": "",
+      "title": "Colorado State experts release final predictions for the 2026 Atlantic hurricane season",
+      "seendate": "20260805T170000Z",
+      "socialimage": "https://www.local10.com/resizer/v2/KZZLUZOCHVAFXFHB5J6S5XOCJY.jpg?auth=6fe83c386f00f45b18a3ab4827cf934e5aa2eadecd5fffacf1801d31b01a6837",
+      "domain": "local10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://jerseyeveningpost.com/business/2026/08/05/fighting-the-good-fight-in-the-rapidly-changing-world-of-ai/",
+      "url_mobile": "",
+      "title": "Fighting  the good fight  in the rapidly changing world of AI",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://jerseyeveningpost.com/wp-content/uploads/2026/08/42214741.jpg",
+      "domain": "jerseyeveningpost.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/rezolve-ais-550-specialist-india-operations-become-its-global-engine-for-agentic-ai/2398925",
+      "url_mobile": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/rezolve-ais-550-specialist-india-operations-become-its-global-engine-for-agentic-ai/2398925/amp",
+      "title": "Rezolve Ai 550 Specialist India Operations Become its Global Engine for Agentic AI",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/05/1164873.png",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.itnewsonline.com/GlobeNewswire/Rezolve-Ais-550-Specialist-India-Operations-Become-its-Global-Engine-for-Agentic-AI/127943",
+      "url_mobile": "",
+      "title": "Rezolve Ai 550 Specialist India Operations Become its Global Engine for Agentic AI",
+      "seendate": "20260805T123000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/chatgpt-6-release-date/",
+      "url_mobile": "",
+      "title": "ChatGPT 6 Release Date : OpenAI Next Model Exists",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/08/ChatGPT-6-Release-Date.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.fonearena.com/blog/488824/sandisk-sk-hynix-high-bandwidth-flash-specifications.html",
+      "url_mobile": "https://www.fonearena.com/blog/488824/sandisk-sk-hynix-high-bandwidth-flash-specifications.html/amp",
+      "title": "Sandisk and SK hynix release standard specifications for High Bandwidth Flash ( HBF ) through OCP",
+      "seendate": "20260805T050000Z",
+      "socialimage": "",
+      "domain": "fonearena.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/ten-best-inventions-this-year-2026-08/",
+      "url_mobile": "",
+      "title": "Ten Best Inventions This Year \u22c6 Electronics Weekly",
+      "seendate": "20260805T033000Z",
+      "socialimage": "",
+      "domain": "electronicsweekly.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/google-adds-security-controls-for-ai-agents-in-chrome",
+      "url_mobile": "",
+      "title": "Google adds security controls for AI agents in Chrome",
+      "seendate": "20260805T014500Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/08/05/compatible_calm-ai-agent-security-shields-secure-office-dlp-browser-illustration-story-312952.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.koreaherald.com:443/article/10830479",
+      "url_mobile": "https://m.koreaherald.com/article/10830479",
+      "title": "SK hynix , Sandisk set first HBF standard for AI memory",
+      "seendate": "20260805T011500Z",
+      "socialimage": "https://wimg.heraldcorp.com/news/cms/2026/08/04/news-p.v1.20260804.c650f761e2fa4ed1aac2854cc83e8809_T1.jpg",
+      "domain": "koreaherald.com",
+      "language": "English",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ashishbhatia/2026/08/04/the-china-ai-thesis/",
+      "url_mobile": "",
+      "title": "The China AI Thesis : : Why AI Is Now A US - China Duopoly , Not One Race",
+      "seendate": "20260805T000000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a72384a953d4a43c1db1a15/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "url_mobile": "",
+      "title": "Open - weight AI models are catching up to the frontier . The safety gap remains . ",
+      "seendate": "20260804T204500Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://hothardware.com/news/sk-hynix-sandisk-high-bandwidth-flash",
+      "url_mobile": "",
+      "title": "SK Hynix And SanDisk Unleash High - Bandwidth Flash To Fix AI Bottlenecks",
+      "seendate": "20260804T204500Z",
+      "socialimage": "https://hothardware.com/contentimages/NewsItem/71293/content/16x9_2133x1200_highres-first-hbf.jpg",
+      "domain": "hothardware.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.local10.com/weather/hurricane/2026/08/04/what-august-activity-might-reveal-about-the-rest-of-the-hurricane-season/",
+      "url_mobile": "",
+      "title": "What August activity might reveal about the rest of the hurricane season",
+      "seendate": "20260804T173000Z",
+      "socialimage": "https://www.local10.com/resizer/v2/5B5JIDU7JBBUNHJXOFBQULNMPE.png?auth=efdcdd6163a6d151d8df32fa31dc7a7dc38cdd360fd5e64c6b4db1934f9d6490",
+      "domain": "local10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/bernardmarr/2026/08/04/what-is-the-singularity-and-are-we-there-yet/",
+      "url_mobile": "",
+      "title": "What Is The Singularity And Are We There Yet ? ",
+      "seendate": "20260804T090000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a717f4f4ada4f5af523fba7/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-anthropic-google-to-join-white-house-ai-safety-meeting/article71303832.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/info-tech/openai-anthropic-google-to-join-white-house-ai-safety-meeting/article71303832.ece/amp/",
+      "title": "OpenAI , Anthropic , Google to join White House AI safety meeting",
+      "seendate": "20260804T044500Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/dijs2c/article71303858.ece/alternates/LANDSCAPE_1200/2026-08-03T185319Z_684638_RC22RMA599HN_RTRMADP_3_USA-TRUMP.JPG",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.itnewsonline.com/PRNewswire/SK-hynix-Unveils-First-HBF-Standard-Specifications-with-Sandisk-Presenting-AI-Memory-Solutions-at-FMS-2026/1140161",
+      "url_mobile": "",
+      "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk , Presenting AI Memory Solutions at  FMS 2026  ",
+      "seendate": "20260804T043000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.adn.com/nation-world/2026/08/03/openai-anthropic-and-google-to-join-white-house-ai-safety-meeting/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic and Google to join White House AI safety meeting",
+      "seendate": "20260804T003000Z",
+      "socialimage": "https://www.adn.com/resizer/v2/SP6L4RR7C2H7Q3QSQVJJCYLU5E.jpg?smart=true&auth=c624d50dffd672005e97b4592c9751897e7455ce46b989860f52791da95b9b12",
+      "domain": "adn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newscientist.com/article/2580566-will-a-new-kind-of-ai-that-understands-physical-reality-change-the-world-again/",
+      "url_mobile": "",
+      "title": "Will a new kind of AI that understands physical reality change the world again ? ",
+      "seendate": "20260803T181500Z",
+      "socialimage": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306689129.jpg",
+      "domain": "newscientist.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://autonews.gasgoo.com/articles/news/google-releases-next-generation-robotics-foundation-model-paired-with-sharpa-dexterous-hand-to-complete-complex-tasks-2084290853274095616",
+      "url_mobile": "",
+      "title": "Google Releases Next - Generation Robotics Foundation Model , Paired with Sharpa Dexterous Hand to Complete Complex Tasks",
+      "seendate": "20260803T164500Z",
+      "socialimage": "",
+      "domain": "autonews.gasgoo.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.forbes.com/sites/drewbernstein/2026/08/03/chinese-ai-models-at-the-frontier/",
+      "url_mobile": "",
+      "title": "Chinese AI Models At The Frontier",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6bfa528a77a0e1091f66ea/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.malaysiasun.com/news/279220467/tech-week-singapore-2026-charting-the-next-phase-of-the-infrastructure-era-across-asia",
+      "url_mobile": "",
+      "title": "Tech Week Singapore 2026 : Charting the next phase of",
+      "seendate": "20260803T124500Z",
+      "socialimage": "",
+      "domain": "malaysiasun.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.digit.in/news/mobile-phones/google-reportedly-had-its-own-chatgpt-before-openai-but-never-released-it-former-employee-reveals-why.html",
+      "url_mobile": "https://www.digit.in/news/mobile-phones/google-reportedly-had-its-own-chatgpt-before-openai-but-never-released-it-former-employee-reveals-why.html/amp/",
+      "title": "Google reportedly had its own ChatGPT before OpenAI , but never released it : Former employee reveals why",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://static.digit.in/Google-own-ChatGpt-.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://cpa.org.au/guardian/issue-2200/ai-and-your-job/",
+      "url_mobile": "",
+      "title": "AI and your job",
+      "seendate": "20260803T104500Z",
+      "socialimage": "",
+      "domain": "cpa.org.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "http://www.australiannews.net/news/279220467/tech-week-singapore-2026-charting-the-next-phase-of-the-infrastructure-era-across-asia",
+      "url_mobile": "",
+      "title": "Tech Week Singapore 2026 : Charting the next phase of",
+      "seendate": "20260803T093000Z",
+      "socialimage": "",
+      "domain": "australiannews.net",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "http://www.asiabulletin.com/news/279220467/tech-week-singapore-2026-charting-the-next-phase-of-the-infrastructure-era-across-asia",
+      "url_mobile": "",
+      "title": "Tech Week Singapore 2026 : Charting the next phase of",
+      "seendate": "20260803T093000Z",
+      "socialimage": "",
+      "domain": "asiabulletin.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322710/20260802/openais-astra-solves-ten-decade-old-math-problems-machine-checkable-lean-proofs.htm",
+      "url_mobile": "",
+      "title": "OpenAI Astra Solves Ten Decade - Old Math Problems With Machine - Checkable Lean Proofs",
+      "seendate": "20260802T230000Z",
+      "socialimage": "https://d.techtimes.com/en/full/471014/astra-canyon.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/books/reviews/a-dispatch-from-the-last-sane-era-of-ai/article71298321.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/books/reviews/a-dispatch-from-the-last-sane-era-of-ai/article71298321.ece/amp/",
+      "title": "A dispatch from the last sane era of AI - The HinduBusinessLine",
+      "seendate": "20260802T151500Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/okml5x/article71298314.ece/alternates/LANDSCAPE_1200/91nZiBJWZJL._SL1500_.jpg",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "url_mobile": "",
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "seendate": "20260802T103000Z",
+      "socialimage": "https://media.wired.com/photos/6a6cafc65913ec07bfc317fe/191:100/w_1280,c_limit/073126_Europeans%20Are%20About%20to%20See%20How%20Entrenched%20AI%20Is%20in%20Their%20Daily%20Lives.jpg",
+      "domain": "wired.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/education/26/08/60861602/ted-cruz-warns-america-is-facing-a-national-literacy-crisis-pushes-bipartisan-bill-to-overhaul-federal-literacy-programs",
+      "url_mobile": "",
+      "title": "Ted Cruz Warns  America Is Facing a National Literacy Crisis , Pushes Bipartisan Bill to Overhaul Federal",
+      "seendate": "20260802T071500Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/02/Dallas--Tx---August-5--2022-Senator-Ted-.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theautochannel.com/news/2026/08/01/1698765-hyundai-motor-america-reports-record-breaking-july-2026-sales.html",
+      "url_mobile": "",
+      "title": "Hyundai Motor America Reports Record - Breaking July 2026 Sales",
+      "seendate": "20260802T004500Z",
+      "socialimage": "",
+      "domain": "theautochannel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kotaku.com/book-database-shutters-ai-service-following-outrage-over-destroyed-rare-texts-2000721018",
+      "url_mobile": "",
+      "title": "Suppliers Scramble As Rare Books Destroyed To Train AI",
+      "seendate": "20260801T220000Z",
+      "socialimage": "https://kotaku.com/app/uploads/2026/08/brainiacinj2-1200x675.jpg",
+      "domain": "kotaku.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/google-earths-ai-adventure-lasted-only-a-day-it-was-a-tale-of-dangerous-ignorance/",
+      "url_mobile": "",
+      "title": "Google Earth AI misadventure lasted only a day . It was a tale of dangerous ignorance . ",
+      "seendate": "20260801T193000Z",
+      "socialimage": "https://www.digitaltrends.com/tachyon/2026/08/google-AI-flub-scaled.jpg",
+      "domain": "digitaltrends.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322592/20260801/gpt-live-voice-gets-synthid-watermarks-one-day-before-eu-ai-act-enforcement.htm",
+      "url_mobile": "",
+      "title": "GPT - Live Voice Gets SynthID Watermarks One Day Before EU AI Act Enforcement",
+      "seendate": "20260801T143000Z",
+      "socialimage": "https://d.techtimes.com/en/full/470926/user-using-gpt-live.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ashishbhatia/2026/08/01/openai-and-anthropics-july-breaches-revive-the-paperclip-maximizer/",
+      "url_mobile": "",
+      "title": "OpenAI And Anthropic July Breaches Revive The Paperclip Maximizer",
+      "seendate": "20260801T114500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6d873680ad76bd165a6100/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.publishersweekly.com:443/pw/by-topic/authors/interviews/article/100941-the-new-manhattan-project-pw-talks-with-kevin-roose.html",
+      "url_mobile": "",
+      "title": "The New Manhattan Project : PW Talks with Kevin Roose",
+      "seendate": "20260801T043000Z",
+      "socialimage": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130623-1.PNG",
+      "domain": "publishersweekly.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/rashishrivastava/2026/07/31/ai-startup-flapping-airplanes-is-in-talks-to-raise-funding-at-a-5-billion-valuation/",
+      "url_mobile": "",
+      "title": "AI Startup Flapping Airplanes Is In Talks To Raise Funding At A $5 Billion Valuation",
+      "seendate": "20260731T221500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6ce2e9d5ebf3c51461401d/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investmentwatchblog.com/trump-admin-100k-opt-fee-set-to-erase-americas-biggest-high-skill-immigrant-pipeline/",
+      "url_mobile": "",
+      "title": "Trump admin $100k OPT fee set to erase Americas biggest high skill immigrant pipeline",
+      "seendate": "20260731T211500Z",
+      "socialimage": "",
+      "domain": "investmentwatchblog.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techradar.com/ai-platforms-assistants/gemini/this-hilarious-robot-collapse-reminds-me-that-robot-development-is-nowhere-near-where-it-needs-to-be-but-a-huge-breakthrough-from-deepmind-could-change-all-that",
+      "url_mobile": "",
+      "title": "This hilarious robot collapse reminds me that robot development is nowhere near where it needs to be , but a huge breakthrough from DeepMind could change all that",
+      "seendate": "20260731T203000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/sSUXHeuFKKS28q4NKB4k8S-2000-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.forbes.com/sites/forbes-global-properties/2026/07/31/how-ai-wealth-is-reshaping-the-global-property-market/",
+      "url_mobile": "",
+      "title": "How AI Wealth Is Reshaping The Global Property Market",
+      "seendate": "20260731T181500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6c0db774706a6b681b1082/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.local10.com/weather/hurricane/2026/07/31/august-us-hurricanes-where-do-they-form-and-where-do-they-strike/",
+      "url_mobile": "",
+      "title": "August US hurricanes : Where do they form and where do they strike ? ",
+      "seendate": "20260731T180000Z",
+      "socialimage": "https://www.local10.com/resizer/v2/63TF7JXMVZBJBNEHMHXB2BGOKI.png?auth=a32733890a03b609b4242f9ce611830b09a852be9ff1fa8b8d709038ac7a679d",
+      "domain": "local10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investorideas.com/news/2026/technology/07312-amazon-amzn-strongest-single-day-gains-years.asp",
+      "url_mobile": "",
+      "title": "Tech Giant Amazon . com , Inc . ( NASDAQ : AMZN ) Sees Strongest Single - Day Gains in Years",
+      "seendate": "20260731T180000Z",
+      "socialimage": "https://www.investorideas.com/news/2026/technology/images/073126-2.jpg",
+      "domain": "investorideas.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "url_mobile": "",
+      "title": "Is AI Reasoning Right for the Wrong Reasons ? ",
+      "seendate": "20260731T170000Z",
+      "socialimage": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Social.jpg",
+      "domain": "quantamagazine.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://pagosadailypost.com/2026/07/31/editorial-data-centers-in-pagosa-springs-part-five/",
+      "url_mobile": "",
+      "title": "EDITORIAL : Data Centers in Pagosa Springs ? Part Five \u2013 Pagosa Daily Post News Events & Video for Pagosa Springs Colorado",
+      "seendate": "20260731T170000Z",
+      "socialimage": "",
+      "domain": "pagosadailypost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.houstontexans.com/news/from-the-moon-to-the-meeting-room-talking-day-2-of-camp",
+      "url_mobile": "",
+      "title": "From the moon to the meeting room ! Talking Day 2 of Camp",
+      "seendate": "20260731T160000Z",
+      "socialimage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/texans/twzfaok5msua0rrv836t",
+      "domain": "houstontexans.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://mashable.com/tech/google-deepmind-gemini-robotics-2-household-chores",
+      "url_mobile": "",
+      "title": "Google DeepMind shows off Gemini Robotics 2",
+      "seendate": "20260731T140000Z",
+      "socialimage": "https://helios-i.mashable.com/imagery/videos/00FMkkD3Bo5JbSZ0RAw3imQ/hero-image.fill.size_1200x675.v1785501324.webp",
+      "domain": "mashable.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2026/07/31/2019-gp-l-l-c-gv-sells-196931-shares-of-alphabet-nasdaqgoog-stock.html",
+      "url_mobile": "",
+      "title": "2019 Gp L . L . C . Gv Sells 196 , 931 Shares of Alphabet ( NASDAQ : GOOG ) Stock",
+      "seendate": "20260731T123000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "url_mobile": "",
+      "title": "Stronger with every update : How were making Chrome and the web safer in the AI Era",
+      "seendate": "20260731T103000Z",
+      "socialimage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-17_at_5.00.43PM.width-1300.png",
+      "domain": "blog.google",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itechpost.com/articles/236895/20260731/google-deepmind-robotics-launches-gemini-robotics-2-intelligent-whole-body-control-ai-humanoid.htm",
+      "url_mobile": "",
+      "title": "Google DeepMind Robotics Launches Gemini Robotics 2",
+      "seendate": "20260731T094500Z",
+      "socialimage": "https://d.itechpost.com/en/full/222578/gemini-robotics-2.png",
+      "domain": "itechpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13523713/financial-avengers-inc-sells-7083-shares-of-alphabet-inc-goog.html",
+      "url_mobile": "",
+      "title": "Financial Avengers Inc . Sells 7 , 083 Shares of Alphabet Inc . $GOOG",
+      "seendate": "20260731T090000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://arynews.tv/google-says-ai-fixed-1072-security-bugs-in-chrome",
+      "url_mobile": "https://arynews.tv/google-says-ai-fixed-1072-security-bugs-in-chrome.amp",
+      "title": "Google says AI fixed 1 , 072 security bugs in Chrome",
+      "seendate": "20260731T080000Z",
+      "socialimage": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/ARY-1200-x-675-px-91.jpg",
+      "domain": "arynews.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/amazon-custom-frontier-model-cut-costs-target-niches-a-32382",
+      "url_mobile": "",
+      "title": "Amazon : Custom Frontier Model Can Cut Costs , Target Niches",
+      "seendate": "20260731T071500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/amazon-says-custom-frontier-model-cut-costs-target-niches-image_large-6-a-32382.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://infotechlead.com/cloud/aws-revenue-jumps-37-to-42-2-bn-as-amazon-ai-and-cloud-businesses-cross-25-bn-run-rates-97417",
+      "url_mobile": "https://infotechlead.com/cloud/aws-revenue-jumps-37-to-42-2-bn-as-amazon-ai-and-cloud-businesses-cross-25-bn-run-rates-97417?amp=1",
+      "title": "AWS Revenue Jumps 37 % to $42 . 2 bn as Amazon AI and Cloud Businesses Cross $25 bn Run Rates",
+      "seendate": "20260731T053000Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2026/07/AWS-chips-for-AI.jpg",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.digitaltrends.com/cool-tech/googles-new-ai-gives-robots-better-balance-smarter-hands-and-teamwork-capabilities/",
+      "url_mobile": "",
+      "title": "Google new AI gives robots better balance , smarter hands , and teamwork capabilities",
+      "seendate": "20260731T053000Z",
+      "socialimage": "https://www.digitaltrends.com/tachyon/2026/07/Gemini-robotics-2.0.jpg",
+      "domain": "digitaltrends.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/amazon-custom-frontier-model-cut-costs-target-niches-a-32382",
+      "url_mobile": "",
+      "title": "Amazon : Custom Frontier Model Can Cut Costs , Target Niches",
+      "seendate": "20260731T050000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/amazon-says-custom-frontier-model-cut-costs-target-niches-image_large-6-a-32382.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/07/30/3-reasons-why-alphabet-is-the-most-underrated-magn/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "3 Reasons Alphabet Is the Most Underrated  Magnificent Seven  Stock",
+      "seendate": "20260731T040000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/880927/gettyimages-2171857890.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://siliconangle.com/2026/07/30/google-deepmind-debuts-gemini-robotics-2-model-series-humanoid-robots/",
+      "url_mobile": "",
+      "title": "Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots",
+      "seendate": "20260731T030000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Google-1.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/31/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
+      "url_mobile": "",
+      "title": "Google unveils Gemini AI for robots struggling with dexterity",
+      "seendate": "20260731T024500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/07/31/4036118.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.naturalnews.com/2026-07-30-google-search-indexes-public-claude-chat-links.html",
+      "url_mobile": "",
+      "title": "Google Search Indexes Public Claude AI Chat Links , Privacy Researchers Report \u2013 NaturalNews . com",
+      "seendate": "20260730T234500Z",
+      "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/google-search-indexing-claude-ai-public-chat-links-3024-original.jpg",
+      "domain": "naturalnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theatlantic.com/technology/2026/07/ai-industry-keeps-breaking-internet/688124/",
+      "url_mobile": "",
+      "title": "The AI Industry Keeps Breaking the Internet",
+      "seendate": "20260730T231500Z",
+      "socialimage": "https://cdn.theatlantic.com/thumbor/1aKV2KjYzMz5Jm0TJZHZ6j3qMOQ=/0x61:2876x1559/1200x625/media/img/mt/2026/07/2026_07_28_ai_breaking_internet/original.jpg",
+      "domain": "theatlantic.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.daily-tribune.com/online_features/press_releases/beyond-artificial-intelligence-dr-terrance-j-bell-and-brightminds-technologies-created-the-missing-1-trillion/article_3a0a46ea-3436-5a59-91d0-fa339dee7781.html",
+      "url_mobile": "",
+      "title": "Beyond Artificial Intelligence : Dr . Terrance J . Bell and Brightminds Technologies Created the Missing $1 Trillion Architectural Layer for Tech Giants",
+      "seendate": "20260730T223000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/daily-tribune.com/content/tncms/assets/v3/editorial/d/37/d374a2aa-8dcb-5375-b453-1d46fdc3d851/6a6bcb83f08ef.image.jpg?crop=690%2C362%2C195%2C0",
+      "domain": "daily-tribune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/cio/2026/07/30/the-ai-math-to-do-before-laying-off-employees/",
+      "url_mobile": "",
+      "title": "The AI Math To Do Before Laying Off Employees",
+      "seendate": "20260730T203000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6b7de1583e3f1566e61d51/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://deadline.com/print-article/1237013599/",
+      "url_mobile": "",
+      "title": "Deadline",
+      "seendate": "20260730T200000Z",
+      "socialimage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvZGVhZGxpbmUuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8wNFwvY3JvcHBlZC1pY29uLTUxMng1MTIucG5nIiwidHh0IjoiRGVhZGxpbmUiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTc5MjkwMTQ5fQ.IHL7P_bYC7Sr4W2XvHh7kLwSO5arBq8LoHSjTj-l-uAMQ",
+      "domain": "deadline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2026/07/30/openai-ai-industry-slowdown-hugging-face-hack-pac-ai-development/",
+      "url_mobile": "",
+      "title": "Has OpenAI already quietly hit pause on some AI development ? ",
+      "seendate": "20260730T193000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287517288.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "url_mobile": "",
+      "title": "Google DeepMind new AI model can control a robot entire body",
+      "seendate": "20260730T174500Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control",
+      "url_mobile": "",
+      "title": "Google DeepMind Gemini Robotics 2 controls whole humanoids",
+      "seendate": "20260730T173000Z",
+      "socialimage": "https://media.thenextweb.com/2026/07/gemini-robotics-er-2.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/ragan-names-better-together-agency-founder-catharine-montgomery-an-ai-and-innovation-leader-302839177.html",
+      "url_mobile": "",
+      "title": "Ragan Names Better Together Agency Founder Catharine Montgomery An AI And Innovation Leader",
+      "seendate": "20260730T171500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-ai-industry-has-a-problem-rogue-ai-agents/articleshow/132739293.cms",
+      "url_mobile": "",
+      "title": "The AI industry has a problem : Rogue AI agents",
+      "seendate": "20260730T130000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132739293,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/chatgpt-5-6-sol-ai-slowdown/",
+      "url_mobile": "",
+      "title": "ChatGPT 5 . 6 Sol Update Efficiency and New Usage Limits",
+      "seendate": "20260730T130000Z",
+      "socialimage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/openai-gpt-sol.jpg",
+      "domain": "geeky-gadgets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://thenextweb.com/news/relation-morgan-cell-foundation-model-gsk-110-million",
+      "url_mobile": "",
+      "title": "Relation unveils MORGAN , a cell model , plus a $110M GSK deal",
+      "seendate": "20260730T124500Z",
+      "socialimage": "https://media.thenextweb.com/2026/07/Relation-Therapeutics-leadership.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.businessghana.com/site/news/technology/353042/As-AI-content-floods-the-internet,-Pangram-raises-$9M-to-detect-it",
+      "url_mobile": "",
+      "title": "As AI content floods the internet , Pangram raises $9M to detect it",
+      "seendate": "20260730T111500Z",
+      "socialimage": "http://www.businessghana.com/cms/img/news/2026-07-29-1631227.jpg",
+      "domain": "businessghana.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.hindustantimes.com/business/tech-tonic-big-ai-keeps-making-the-same-mistake-about-chinese-ai-companies-101785405636171.html",
+      "url_mobile": "https://www.hindustantimes.com/business/tech-tonic-big-ai-keeps-making-the-same-mistake-about-chinese-ai-companies-101785405636171-amp.html",
+      "title": "Tech Tonic | Big AI keeps making the same mistake about Chinese AI companies",
+      "seendate": "20260730T103000Z",
+      "socialimage": "",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/07/30/2019-gp-l-l-c-gv-sells-23417-shares-of-alphabet-nasdaqgoogl-stock.html",
+      "url_mobile": "",
+      "title": "2019 Gp L . L . C . Gv Sells 23 , 417 Shares of Alphabet ( NASDAQ : GOOGL ) Stock",
+      "seendate": "20260730T101500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tribuneonlineng.com/icao-hails-nigeria-for-competence-in-civil-aviation/",
+      "url_mobile": "https://tribuneonlineng.com/icao-hails-nigeria-for-competence-in-civil-aviation/amp/",
+      "title": "ICAO hails Nigeria for competence in civil aviation",
+      "seendate": "20260730T043000Z",
+      "socialimage": "https://tribuneonlineng.com/wp-content/uploads/2024/03/ICAO-programme-e1711295023568.jpg",
+      "domain": "tribuneonlineng.com",
+      "language": "English",
+      "sourcecountry": "Nigeria"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-disbands-alphafold-team-031617001.html",
+      "url_mobile": "",
+      "title": "Alphabet ( GOOGL ) Disbands AlphaFold Team As DeepMind Pushes Gemini Further",
+      "seendate": "20260730T034500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/3629F38653F88BEE92D5E665DC80994C419663A15173D3D5B121C97DB9EAFCD8/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F1fc7d8c4b041b0aaed5c1d373b17b5b4",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnews.com.au/news/fed-gov-boosts-govai-with-models-from-google-nvidia-and-more-627784",
+      "url_mobile": "",
+      "title": "Fed gov boosts GovAI with models from Google , Nvidia and more",
+      "seendate": "20260730T020000Z",
+      "socialimage": "https://i.nextmedia.com.au/News/Parliament_canberra_1.jpg",
+      "domain": "itnews.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/07/30/alphabet-nasdaqgoogl-major-shareholder-2019-gp-l-l-c-gv-sells-196931-shares.html",
+      "url_mobile": "",
+      "title": "Alphabet ( NASDAQ : GOOGL ) Major Shareholder 2019 Gp L . L . C . Gv Sells 196 , 931 Shares",
+      "seendate": "20260730T013000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322117/20260729/openais-safety-architect-lilian-weng-returns-single-mission-making-ai-improve-itself.htm",
+      "url_mobile": "",
+      "title": "OpenAI Safety Architect Lilian Weng Returns With a Single Mission : Making AI Improve Itself",
+      "seendate": "20260730T011500Z",
+      "socialimage": "https://d.techtimes.com/en/full/470437/lillian-weng-showcasing-speech-speech-features-thinking-machines.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322120/20260729/altman-lobbies-congress-after-openai-models-hacked-rival-cheating-test.htm",
+      "url_mobile": "",
+      "title": "Altman Lobbies Congress After OpenAI Models Hacked a Rival by Cheating a Test",
+      "seendate": "20260730T011500Z",
+      "socialimage": "https://d.techtimes.com/en/full/470447/open-ai-ceo-sam-altman-gets-elevator.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322113/20260729/googles-lyria-35-sharpens-vocals-lyrics-while-rivals-fight-court.htm",
+      "url_mobile": "",
+      "title": "Google Lyria 3 . 5 Sharpens Vocals and Lyrics While Rivals Fight in Court",
+      "seendate": "20260730T011500Z",
+      "socialimage": "https://d.techtimes.com/en/full/470440/google-deepminds-lyria.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mediapost.com/publications/article/416887/ai-developers-call-for-slowdown-could-stifle-ad-i.html",
+      "url_mobile": "",
+      "title": "AI Developers Call For Slowdown , Could Stifle Ad Industry",
+      "seendate": "20260729T230000Z",
+      "socialimage": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/07/29/aiartificialintelligence-statement-600_O8hbZwn.jpg",
+      "domain": "mediapost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2026/07/29/anthropic-deepmind-openai-meta-washington-ai-slowdown-plan/",
+      "url_mobile": "",
+      "title": "More than 1 , 200 AI workers are asking for Washington help to build an AI slowdown plan",
+      "seendate": "20260729T214500Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2282033774.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/christiancatalini/2026/07/29/dont-pace-the-frontier-look-inside-the-trojan-horse/",
+      "url_mobile": "",
+      "title": "Dont Pace The Frontier . Look Inside The Trojan Horse . ",
+      "seendate": "20260729T213000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6a3a6f6c54127defe3293c/0x0.jpg?format=jpg&crop=2236,2320,x1168,y14,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+      "url_mobile": "",
+      "title": "It Frighteningly Easy to Jailbreak Some Frontier AI Models",
+      "seendate": "20260729T200000Z",
+      "socialimage": "https://media.wired.com/photos/6a68e96a01173a5bff236fa1/191:100/w_1280,c_limit/AI-Lab-Still-Frighteningly-Easy-to-Jailbreak-Frontier-AI-Models-Business.jpg",
+      "domain": "wired.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/farai-launches-ai-security-leaderboard-revealing-hundredfold-gap-in-frontier-ai-model-safeguards-302838216.html",
+      "url_mobile": "",
+      "title": "FAR . AI Launches AI Security Leaderboard Revealing Hundredfold Gap in Frontier AI Model Safeguards",
+      "seendate": "20260729T200000Z",
+      "socialimage": "https://mmx.prnewswire.com/media/MS1960706/FAr-AI-research.jpg?id=OA2800289&p=facebook",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://abc30.com/story/employees-worlds-biggest-ai-companies-are-calling-slowdown-development/19596454/",
+      "url_mobile": "https://abc30.com/amp/story/employees-worlds-biggest-ai-companies-are-calling-slowdown-development/19596454/",
+      "title": "Employees at the world biggest AI companies are calling for a slowdown in AI development",
+      "seendate": "20260729T181500Z",
+      "socialimage": "https://cdn.abcotvs.com/dip/images/19596625_072926-kgo-ap-open-ai-img.jpg",
+      "domain": "abc30.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mediapost.com/publications/article/416887/ai-innovators-call-for-slowdown-could-stifle-ad-i.html",
+      "url_mobile": "",
+      "title": "AI Innovators Call For Slowdown , Could Stifle Ad Industry",
+      "seendate": "20260729T180000Z",
+      "socialimage": "",
+      "domain": "mediapost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/07/30/2003861651",
+      "url_mobile": "",
+      "title": "World News Quick Take - Taipei Times",
+      "seendate": "20260729T173000Z",
+      "socialimage": "https://img.taipeitimes.com/images/2026/07/30/P05-260730-316.jpg",
+      "domain": "taipeitimes.com",
+      "language": "English",
+      "sourcecountry": "Taiwan"
+    },
+    {
+      "url": "https://abc13.com/story/employees-worlds-biggest-ai-companies-are-calling-slowdown-development/19596454/",
+      "url_mobile": "https://abc13.com/amp/story/employees-worlds-biggest-ai-companies-are-calling-slowdown-development/19596454/",
+      "title": "Employees at the world biggest AI companies are calling for a slowdown in AI development",
+      "seendate": "20260729T170000Z",
+      "socialimage": "https://cdn.abcotvs.com/dip/images/19596625_072926-kgo-ap-open-ai-img.jpg",
+      "domain": "abc13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+      "url_mobile": "",
+      "title": "How a medical database developed at MIT evolved into a global standard of data - sharing",
+      "seendate": "20260729T160000Z",
+      "socialimage": "https://news.mit.edu/sites/default/files/images/202607/mit-RogerMark-GeorgeMoody.jpg",
+      "domain": "news.mit.edu",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.the-independent.com/tech/ai-chatgpt-openai-anthropic-open-letter-b3023713.html",
+      "url_mobile": "",
+      "title": "AI workers call for an urgent slowdown in development amid fears artificial intelligence could go out of control",
+      "seendate": "20260729T153000Z",
+      "socialimage": "https://static.the-independent.com/2026/07/29/11/2280226508..?trim=0,0,0,0&crop=1200:800",
+      "domain": "the-independent.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "url_mobile": "",
+      "title": "As AI content floods the internet , Pangram raises $9M to detect it",
+      "seendate": "20260729T140000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.howtogeek.com/hyundais-880-million-robot-bet-2028/",
+      "url_mobile": "",
+      "title": "Hyundai $880 million humanoid robot bet is about to get real 30 , 000 units a year by 2028",
+      "seendate": "20260729T140000Z",
+      "socialimage": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/07/hyundai-atlas-humanoid-robot-fifa-world-cup-2026-1.png?&fit=crop",
+      "domain": "howtogeek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2026/07/29/button-mashing-gaming-tokenmaxxing-nnamdi-iregbulem-lightspeed-ai/",
+      "url_mobile": "",
+      "title": "Button - mashing never worked in StarCraft . Tokenmaxxing wont work in AI",
+      "seendate": "20260729T134500Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/nnamdi.png",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1410606-openai-ai-agent-escape-extended-to-modal-labs-report-reveals",
+      "url_mobile": "",
+      "title": "OpenAI AI agent escape extended to Modal Labs , report reveals",
+      "seendate": "20260729T133000Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/2026-07-29/1410606_061028_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "url_mobile": "",
+      "title": "Google SynthID watermark is hard to break , but it doesnt solve AI misinformation",
+      "seendate": "20260729T130000Z",
+      "socialimage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
+      "domain": "arstechnica.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.efinancialcareers.com/news/hedge-funds-index-rebalancing-trades",
+      "url_mobile": "",
+      "title": "The highest earning hedge fund managers are not the most sexy",
+      "seendate": "20260729T120000Z",
+      "socialimage": "https://www.efinancialcareers.com/img/resize=width:1200,height:675,fit:crop/xWC7pNRbQr6AjA8hqQ2o",
+      "domain": "efinancialcareers.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.livetradingnews.com/the-ai-compute-arms-race-united-states-vs-china",
+      "url_mobile": "",
+      "title": "The AI Compute Arms Race : United States vs . China",
+      "seendate": "20260729T114500Z",
+      "socialimage": "https://livetradingnews-media.nyc3.digitaloceanspaces.com/media/2026/07/29/cmpgg3-1fb28cc08207dc69.jpg",
+      "domain": "livetradingnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://countercurrents.org/2026/07/the-tech-princes-threaten-our-democracy/",
+      "url_mobile": "",
+      "title": "The tech princes threaten our democracy",
+      "seendate": "20260729T104500Z",
+      "socialimage": "https://cdn.countercurrents.org/2026/07/G7-AI-CEOs.jpg",
+      "domain": "countercurrents.org",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-and-anthropics-staff-share-letter-asking-us-to-help-govern-ai/article71280915.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/info-tech/openai-and-anthropics-staff-share-letter-asking-us-to-help-govern-ai/article71280915.ece/amp/",
+      "title": "OpenAI and Anthropic staff share letter asking US to help govern AI",
+      "seendate": "20260729T104500Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/xngojy/article71275817.ece/alternates/LANDSCAPE_1200/iStock-1452604857.jpg",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://slguardian.org/zuckerberg-rejects-calls-to-ban-chinese-ai-as-global-competition-intensifies/",
+      "url_mobile": "",
+      "title": "Zuckerberg Rejects Calls to Ban Chinese AI as Global Competition Intensifies",
+      "seendate": "20260729T094500Z",
+      "socialimage": "https://slguardian.org/wp-content/uploads/2026/07/Zuckerberg-lk.jpg",
+      "domain": "slguardian.org",
+      "language": "English",
+      "sourcecountry": "Sri Lanka"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69151465-ustwo-brings-ai-governance-to-the-boardroom-with-appointment-of-google-deepmind-executive-simon-bouton-004.htm",
+      "url_mobile": "",
+      "title": "ustwo brings AI governance to the boardroom with appointment of Google DeepMind executive Simon Bouton",
+      "seendate": "20260729T073000Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-alphabet-inc-cl-a-aktie-intraklein-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-not-convinced-if-openai-and-anthropic-really-want-chinese-ai-models-in-america-says-signal-is-/articleshow/132702989.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-not-convinced-if-openai-and-anthropic-really-want-chinese-ai-models-in-america-says-signal-is-/amp_articleshow/132702989.cms",
+      "title": "Mark Zuckerberg is not convinced if OpenAI and Anthropic really want Chinese AI models in America , says : Signal is ... ",
+      "seendate": "20260729T073000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132703040,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://arynews.tv/ai-industry-slowdown-may-be-needed-after-security-scare",
+      "url_mobile": "https://arynews.tv/ai-industry-slowdown-may-be-needed-after-security-scare.amp",
+      "title": "  AI industry slowdown may be needed after security scare  ",
+      "seendate": "20260729T053000Z",
+      "socialimage": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/AI-content.jpg",
+      "domain": "arynews.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.executivegov.com/articles/noaa-wcoss-google-cloud-migration",
+      "url_mobile": "",
+      "title": "NOAA Migrates Weather Supercomputing System to Google Cloud",
+      "seendate": "20260729T013000Z",
+      "socialimage": "https://media.executivegov.com/2026/07/google-cloud-noaa-wcoss-transitions.jpg",
+      "domain": "executivegov.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://us.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter",
+      "url_mobile": "",
+      "title": "Employees at the world biggest AI companies are calling for a slowdown in AI development",
+      "seendate": "20260729T004500Z",
+      "socialimage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1460688324-20260728210550546.jpg?c=16x9&q=w_800,c_fill",
+      "domain": "us.cnn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter",
+      "url_mobile": "",
+      "title": "Employees at the world biggest AI companies are calling for a slowdown in AI development",
+      "seendate": "20260729T001500Z",
+      "socialimage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1460688324-20260728210550546.jpg?c=16x9&q=w_800,c_fill",
+      "domain": "cnn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://edition.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter",
+      "url_mobile": "",
+      "title": "Employees at the world biggest AI companies are calling for a slowdown in AI development",
+      "seendate": "20260728T234500Z",
+      "socialimage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1460688324-20260728210550546.jpg?c=16x9&q=w_800,c_fill",
+      "domain": "edition.cnn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic scientists ask U . S . for tools to pace AI development",
+      "seendate": "20260728T231500Z",
+      "socialimage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-11/231102-data-center-stock-mn-1420-c79938.jpg",
+      "domain": "nbcnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investorplace.com/2026/07/google-beats-ai-stocks-fall/",
+      "url_mobile": "",
+      "title": "Google Beat but AI Stocks Are Still Sinking . What Going On ? ",
+      "seendate": "20260728T221500Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2019/07/sell-man-distress-arrow-down.jpg",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ashishbhatia/2026/07/28/sam-altman-says-were-in-the-singularity-what-does-he-actually-mean/",
+      "url_mobile": "",
+      "title": "AI Singularity : What Sam Altman Actually Means",
+      "seendate": "20260728T220000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a691deafb13b67195d604aa/0x0.jpg?format=jpg&crop=2019,1134,x1966,y921,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wjcl.com/article/savannah-el-nino-hurricane-season-forecast/73284752",
+      "url_mobile": "",
+      "title": "El Ni\u00f1o may limit tropical systems , fuel winter storms",
+      "seendate": "20260728T203000Z",
+      "socialimage": "https://kubrick.htvapps.com/vidthumb/b166853b-5a71-49d5-a998-2ac238280fcb/314e7ef7-6e79-4e83-8ad8-da7aab09e652.jpg?crop=1xw%3A1xh%3Bcenter%2Ctop",
+      "domain": "wjcl.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://americanbazaaronline.com/2026/07/28/money-wont-matter-in-2036-elon-musk-predicts-485367/",
+      "url_mobile": "",
+      "title": "  Money wont matter in 2036  Elon Musk predicts",
+      "seendate": "20260728T194500Z",
+      "socialimage": "https://americanbazaaronline.com/wp-content/uploads/2017/05/Elon-Musk.jpg",
+      "domain": "americanbazaaronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theatlantic.com/ideas/2026/07/white-house-ai-regulation/688088/",
+      "url_mobile": "",
+      "title": "The Worst Way to Regulate AI",
+      "seendate": "20260728T193000Z",
+      "socialimage": "https://cdn.theatlantic.com/thumbor/4aHfgW-qDRTp7kpCFwlreR3MBh0=/0x61:2876x1559/1200x625/media/img/mt/2026/07/2026_07_26_AI_regulation/original.jpg",
+      "domain": "theatlantic.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ronschmelzer/2026/07/28/ai-singularity-evidence/",
+      "url_mobile": "",
+      "title": "If The AI Singularity Is Here , Where Is The Evidence ? ",
+      "seendate": "20260728T184500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a68e2326db031ea512fa5fb/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thenextweb.com/news/icon-anthropic-claude-clinical-trials-enrolment-bottleneck",
+      "url_mobile": "",
+      "title": "Anthropic new pharma deal targets paperwork , not molecules",
+      "seendate": "20260728T181500Z",
+      "socialimage": "",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://channellife.news/story/noaa-picks-google-cloud-for-weather-supercomputer-shift",
+      "url_mobile": "",
+      "title": "NOAA picks Google Cloud for weather supercomputer shift",
+      "seendate": "20260728T174500Z",
+      "socialimage": "https://channellife.news/uploads/story/2026/07/28/compatible_progress-noaa-forecaster-weather-maps-supercomputer-public-cloud-digital-illustration.jpg",
+      "domain": "channellife.news",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.mercurynews.com/2026/07/28/anthropics-amodei-rejects-open-model-ban-calls-for-testing/",
+      "url_mobile": "https://www.mercurynews.com/2026/07/28/anthropics-amodei-rejects-open-model-ban-calls-for-testing/amp/",
+      "title": "Anthropic Dario Amodei rejects open model ban , calls for testing \u2013 The Mercury News",
+      "seendate": "20260728T171500Z",
+      "socialimage": "https://www.mercurynews.com/wp-content/uploads/2026/07/Trump_Anthropic_AI_49628_563b7b.jpg",
+      "domain": "mercurynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://brobible.com/culture/article/sam-altman-ai-singularity/",
+      "url_mobile": "",
+      "title": "Why Did OpenAI CEO Sam Altman Say AI Entered Singularity ? ",
+      "seendate": "20260728T164500Z",
+      "socialimage": "https://brobible.com/wp-content/uploads/2026/07/artificial-intelligence-robot.jpg",
+      "domain": "brobible.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconvalley.com/2026/07/28/anthropics-amodei-rejects-open-model-ban-calls-for-testing/",
+      "url_mobile": "https://www.siliconvalley.com/2026/07/28/anthropics-amodei-rejects-open-model-ban-calls-for-testing/amp/",
+      "title": "Anthropic Dario Amodei rejects open model ban , calls for testing \u2013 Silicon Valley",
+      "seendate": "20260728T153000Z",
+      "socialimage": "",
+      "domain": "siliconvalley.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.chinatechnews.com/2026/07/28/126337-anthropic-never-advocated-for-ban-on-open-weights-models-amodei",
+      "url_mobile": "",
+      "title": "Anthropic Never Advocated For Ban on Open - Weights Models : Amodei",
+      "seendate": "20260728T150000Z",
+      "socialimage": "https://www.deccanchronicle.com/h-upload/2026/07/28/2069442-46155389511zon.jpg",
+      "domain": "chinatechnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://memeburn.com/white-house-watches-openai-rogue-ai-as-kill-switch-bill-lands/",
+      "url_mobile": "",
+      "title": "White House Watches OpenAI Rogue AI as Kill Switch Bill Lands",
+      "seendate": "20260728T143000Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/07/White-House-Watches-OpenAI-Rogue-AI-as-Kill-Switch-Bill-Lands.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.defenseone.com/technology/2026/07/nist-unveils-new-ai-evaluation-platform/415044/",
+      "url_mobile": "",
+      "title": "NIST unveils new AI evaluation platform",
+      "seendate": "20260728T143000Z",
+      "socialimage": "https://cdn.defenseone.com/media/img/cd/2026/07/28/072726NISTNG/open-graph.jpg",
+      "domain": "defenseone.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://en.tempo.co/read/2115778/openais-sam-altman-says-ai-has-reached-the-singularity",
+      "url_mobile": "//en.tempo.co/amp/2115778/openais-sam-altman-says-ai-has-reached-the-singularity",
+      "title": "OpenAI Sam Altman Says AI Has Reached the Singularity",
+      "seendate": "20260728T070000Z",
+      "socialimage": "https://statik.tempo.co/data/2023/06/14/id_1212016/1212016_720.jpg",
+      "domain": "en.tempo.co",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropics-dario-amodei-rejects-open-model-ban-but-calls-for-testing/article71275424.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/info-tech/anthropics-dario-amodei-rejects-open-model-ban-but-calls-for-testing/article71275424.ece/amp/",
+      "title": "Anthropic Dario Amodei rejects open model ban but calls for testing",
+      "seendate": "20260728T053000Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/f138z1/article71275427.ece/alternates/LANDSCAPE_1200/Amazon-deepens-G3BFSO9P1.4.jpg.jpg",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://siliconangle.com/2026/07/27/enigma-raises-71m-develop-foundation-models-robots/",
+      "url_mobile": "",
+      "title": "Enigma raises $71M to develop foundation models for robots",
+      "seendate": "20260728T043000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Enigma.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.samaa.tv/2087354297-microsoft-launches-ai-cybersecurity-model-to-rival-openai-google-and-anthropic",
+      "url_mobile": "",
+      "title": "Microsoft launches AI cybersecurity model to rival OpenAI , Google and Anthropic",
+      "seendate": "20260728T033000Z",
+      "socialimage": "https://images.samaa.tv/images/Microsoft-cyber.jpg",
+      "domain": "samaa.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/07/nist-unveils-new-ai-evaluation-platform/415035/",
+      "url_mobile": "",
+      "title": "NIST unveils new AI evaluation platform",
+      "seendate": "20260728T010000Z",
+      "socialimage": "https://cdn.nextgov.com/media/img/cd/2026/07/27/072726NISTNG/open-graph.jpg",
+      "domain": "nextgov.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.com/ai-leaders-rarely-agree-future-technology-many-share-same-fear-about-bioweapons-3805701",
+      "url_mobile": "",
+      "title": "AI Leaders Rarely Agree On The Future Of The Technology . Many Share The Same Fear About Bioweapons",
+      "seendate": "20260727T234500Z",
+      "socialimage": "https://d.ibtimes.com/en/full/4624924/data-center.jpg",
+      "domain": "ibtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "url_mobile": "",
+      "title": "Microsoft launches its first cybersecurity model , plus a new agentic cybersecurity system",
+      "seendate": "20260727T193000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/ai-singularity-experts-disagree-sam-altman-2026-7",
+      "url_mobile": "",
+      "title": "Has AI Reached the Singularity ? Experts Disagree With Sam Altman",
+      "seendate": "20260727T190000Z",
+      "socialimage": "https://i.insider.com/6a67612ece52cb26b839440f?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investorplace.com/2026/07/5-takeover-targets-ai-revolution/",
+      "url_mobile": "",
+      "title": "5 Takeover Targets for the AI Revolution",
+      "seendate": "20260727T171500Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2023/06/ai-stocks-to-buy1600.png",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://indiacurrents.com/will-ai-affect-my-health-wellbeing/",
+      "url_mobile": "",
+      "title": "Will AI Affect My Health & Wellbeing ? ",
+      "seendate": "20260727T164500Z",
+      "socialimage": "https://i0.wp.com/indiacurrents.com/wp-content/uploads/2026/07/igor-omilaev-gVQLAbGVB6Q-unsplash.jpg?fit=1200%2C675&ssl=1",
+      "domain": "indiacurrents.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.newjerseytelegraph.com/news/279212108/enigma-raises-71-million-seed-round-and-puts-the-world-first-interactive-ai-robots-online",
+      "url_mobile": "",
+      "title": "Enigma Raises $71 Million Seed Round and Puts the World First Interactive AI Robots Online",
+      "seendate": "20260727T164500Z",
+      "socialimage": "",
+      "domain": "newjerseytelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnewsonline.com/news/Enigma-Raises-USD71-Million-Seed-Round-and-Puts-the-Worlds-First-Interactive-AI-Robots-Online/37947",
+      "url_mobile": "",
+      "title": "IT News Online - Enigma Raises $71 Million Seed Round and Puts the World First Interactive AI Robots Online",
+      "seendate": "20260727T161500Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/timkeary/2026/07/27/wiz-and-google-have-an-answer-to-mythos-and-its-not-a-model/",
+      "url_mobile": "",
+      "title": "Wiz And Google Have An Answer To Mythos , And It Not A Model",
+      "seendate": "20260727T144500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/69fcc9c052c8f6808675d4e0/0x0.jpg?format=jpg&crop=2278,1281,x0,y33,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/news/why-demis-hassabis-sold-deepmind-to-google-in-2014-needed-7-billion-but-could-barely-raise-10-million-11785149495757.html",
+      "url_mobile": "https://www.livemint.com/news/why-demis-hassabis-sold-deepmind-to-google-in-2014-needed-7-billion-but-could-barely-raise-10-million/amp-11785149495757.html",
+      "title": "Why Demis Hassabis sold DeepMind to Google in 2014 : Needed $7 billion but could  barely raise $10 million  ",
+      "seendate": "20260727T140000Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/07/27/600x338/INDIA-AI-GOOGLE-19_1771483190493_1771483218605_1785150730590_46794294-f198-4b8b-83da-7f7c0691f2b0.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.pr-inside.com/enigma-raises-71-million-seed-round-and-puts-the-world-s-first-interactive-r5205118.htm",
+      "url_mobile": "",
+      "title": "Enigma Raises $71 Million Seed Round and Puts the World First Interactive ... ",
+      "seendate": "20260727T133000Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gcn.com/google-atlas-report-gemini-interactions-occupations/20134/",
+      "url_mobile": "",
+      "title": "Google ATLAS report maps 15 million Gemini interactions across 800 occupations in 150 countries",
+      "seendate": "20260727T131500Z",
+      "socialimage": "https://gcn.com/wp-content/uploads/2026/07/google-atlas-report-gemini-interactions-occupations-photo-scaled.png",
+      "domain": "gcn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/gem-browser-imagines-an-internet-where-every-website-is-yours-to-redesign/",
+      "url_mobile": "",
+      "title": "Gem Browser imagines an internet where every website is yours to redesign",
+      "seendate": "20260727T123000Z",
+      "socialimage": "https://www.digitaltrends.com/tachyon/2026/07/Gem-Browser-after.jpg",
+      "domain": "digitaltrends.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ai-ceo-demis-hassabis-on-why-deepmind-sold-to-google-the-atari-work-alerted-the-silicon-valley-and-they-came-after-my-people/articleshow/132653736.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/google-ai-ceo-demis-hassabis-on-why-deepmind-sold-to-google-the-atari-work-alerted-the-silicon-valley-and-they-came-after-my-people/amp_articleshow/132653736.cms",
+      "title": "Google AI CEO Demis Hassabis on why DeepMind sold to Google : The Atari work alerted the Silicon Valley , and they came after my people",
+      "seendate": "20260727T070000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132653723,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://myhostnews.com/google-deepmind-delays-in-gemini-departures-of-researchers-and-internal-tensions-could-weaken-googles-ai/",
+      "url_mobile": "",
+      "title": "Google DeepMind : delays in Gemini , departures of researchers , and internal tensions could weaken Google AI",
+      "seendate": "20260727T053000Z",
+      "socialimage": "https://myhostnews.com/wp-content/uploads/2026/07/Google-Deepmind-1953311-1.webp.webp",
+      "domain": "myhostnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.timeshighereducation.com/news/asia-embraces-philosophy-and-ai-courses",
+      "url_mobile": "",
+      "title": "Asia embraces philosophy and AI courses",
+      "seendate": "20260727T030000Z",
+      "socialimage": "https://www.timeshighereducation.com/sites/default/files/gettyimages-1498271918_0.jpg",
+      "domain": "timeshighereducation.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://tech.yahoo.com/ai/articles/sam-altman-says-singularity-moment-180054442.html",
+      "url_mobile": "",
+      "title": "Sam Altman says we are in the singularity :  This is the moment  ",
+      "seendate": "20260726T200000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/392880da3ca3e3eb4a6e58fb75af17cbce8f194351f0fcb49c0390fb622cb6c5/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F945c6e9bc4e5ed573ef34805ba1bef26",
+      "domain": "tech.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.upi.com/Top_News/World-News/2026/07/26/hyundai-motor-group-physical-ai-company/2171785094384/",
+      "url_mobile": "https://www.upi.com/amp/Top_News/World-News/2026/07/26/hyundai-motor-group-physical-ai-company/2171785094384/",
+      "title": "Hyundai outlines South Korea physical AI expansion",
+      "seendate": "20260726T200000Z",
+      "socialimage": "https://cdnph.upi.com/sv/ph/og/upi_com/2171785094384/2026/1/847e889d3741f971a66b202e5f7cdc9e/v1.5/Hyundai-outlines-South-Korea-physical-AI-expansion.jpg",
+      "domain": "upi.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+      "url_mobile": "",
+      "title": "CEOs and Execs Cant Agree on What AI Means for Gen Z Workers",
+      "seendate": "20260726T120000Z",
+      "socialimage": "https://i.insider.com/6a63689254f9875261779512?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/education/careers/news/15-tech-moguls-who-built-billion-dollar-companies-without-a-college-degree/articleshow/132639496.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/education/careers/news/15-tech-moguls-who-built-billion-dollar-companies-without-a-college-degree/amp_articleshow/132639496.cms",
+      "title": "15 tech moguls who built billion - dollar companies without a college degree",
+      "seendate": "20260726T111500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132639763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.koreatimes.co.kr/business/companies/20260726/samsung-sk-hyundai-expand-ai-partnerships-with-big-tech-firms-to-950-bil",
+      "url_mobile": "https://www.koreatimes.co.kr/amp/business/companies/20260726/samsung-sk-hyundai-expand-ai-partnerships-with-big-tech-firms-to-950-bil",
+      "title": "Samsung , SK , Hyundai expand AI partnerships with Big Tech firms to $950 bil . ",
+      "seendate": "20260726T073000Z",
+      "socialimage": "https://newsimg.koreatimes.co.kr/2026/07/26/5d3e063f-c36c-48f1-9990-dcc59c4469c5.jpg",
+      "domain": "koreatimes.co.kr",
+      "language": "English",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.livemint.com/companies/news/what-is-prentis-reid-hoffman-backed-ai-startup-in-talks-to-raise-100-million-funding-report-11785035306888.html",
+      "url_mobile": "https://www.livemint.com/companies/news/what-is-prentis-reid-hoffman-backed-ai-startup-in-talks-to-raise-100-million-funding-report/amp-11785035306888.html",
+      "title": "What is Prentis ? Reid Hoffman - backed AI startup in talks to raise $100 million funding : Report",
+      "seendate": "20260726T071500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/07/26/600x338/US-TECH-11_1733249845630_1785044986968_0581893a-265a-423d-88cc-d6b8803be36d.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://topnews.ae/index.php/accel-and-google-ai-futures-fund-back-five-startups-2026-atoms-ai-cohort-2212",
+      "url_mobile": "",
+      "title": "Accel and Google AI Futures Fund Back Five Startups in 2026 Atoms AI Cohort",
+      "seendate": "20260725T200000Z",
+      "socialimage": "",
+      "domain": "topnews.ae",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/",
+      "url_mobile": "",
+      "title": "Google Data Compares Gemini & AI Mode Use Against Daily Life",
+      "seendate": "20260725T180000Z",
+      "socialimage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/google-ai-daily-life-shutterstock-1505088710.jpg",
+      "domain": "searchenginejournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theautochannel.com/news/2026/07/25/1696114-hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai.html",
+      "url_mobile": "",
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision at San Francisco AI Summit",
+      "seendate": "20260725T164500Z",
+      "socialimage": "",
+      "domain": "theautochannel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/openai-rogue-ai-hacking-hugging-face/",
+      "url_mobile": "",
+      "title": "OpenAI AI Escaped Its Lab and Hacked Another Company",
+      "seendate": "20260725T153000Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/07/OpenAIs-AI-Escaped-Its-Lab-and-Hacked-Another-Company.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://cleantechnica.com/2026/07/24/hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai-vision-at-san-francisco-ai-summit/",
+      "url_mobile": "",
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision at San Francisco AI Summit",
+      "seendate": "20260725T143000Z",
+      "socialimage": "https://cleantechnica.com/wp-content/uploads/2026/07/Hyundai-Boston-Dynamics-Atlas-Robot.jpg",
+      "domain": "cleantechnica.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai-vision-at-san-francisco-ai-summit-302834583.html",
+      "url_mobile": "",
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision at San Francisco AI Summit",
+      "seendate": "20260725T114500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/07/25/tmt-newswire/pr-newswire/hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai-vision-at-san-francisco-ai-summit/2391386",
+      "url_mobile": "https://www.manilatimes.net/2026/07/25/tmt-newswire/pr-newswire/hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai-vision-at-san-francisco-ai-summit/2391386/amp",
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision at San Francisco AI Summit",
+      "seendate": "20260725T081500Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150723.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai-vision-at-san-francisco-ai-summit-302834583.html",
+      "url_mobile": "",
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision at San Francisco AI Summit",
+      "seendate": "20260725T074500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/07/25/tmt-newswire/pr-newswire/hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai-vision-at-san-francisco-ai-summit/2391372",
+      "url_mobile": "https://www.manilatimes.net/2026/07/25/tmt-newswire/pr-newswire/hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai-vision-at-san-francisco-ai-summit/2391372/amp",
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision at San Francisco AI Summit",
+      "seendate": "20260725T060000Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/25/1150683.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/hyundai-motor-group-executive-chair-euisun-chung-announces-physical-ai-vision-at-san-francisco-ai-summit-302834557.html",
+      "url_mobile": "",
+      "title": "Hyundai Motor Group Executive Chair Euisun Chung Announces Physical AI Vision at San Francisco AI Summit",
+      "seendate": "20260725T053000Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "url_mobile": "",
+      "title": "Prentis , new AI lab co - founded by Reid Hoffman , Mark Pincus in talks to raise $100M",
+      "seendate": "20260725T020000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://newsroom.ucla.edu/releases/ucla-alumni-association-board-2026",
+      "url_mobile": "",
+      "title": "UCLA Alumni Association board welcomes 2026 \u2013 27 officers , members",
+      "seendate": "20260725T001500Z",
+      "socialimage": "https://s3.amazonaws.com/cms.ipressroom.com/173/files/20266/6a622e702cfac23ca910124b_Cinthia+Flores+stands+with+arms+crossed+in+front+of+vertical+blue+banner+with+UCLA+Alumni+in+white+letters/Cinthia+Flores+stands+with+arms+crossed+in+front+of+vertical+blue+banner+with+UCLA+Alumni+in+white+letters_mid.jpg",
+      "domain": "newsroom.ucla.edu",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/321520/20260724/disney-code-nam-joo-hyuk-plays-lawyer-whose-wish-granting-app-encodes-ais-alignment-problem.htm",
+      "url_mobile": "",
+      "title": "Disney+ Code : Nam Joo - hyuk Plays Lawyer Whose Wish - Granting App Encodes AI Alignment Problem",
+      "seendate": "20260724T230000Z",
+      "socialimage": "https://d.techtimes.com/en/full/469822/disney-code.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://marketbusinessnews.com/what-googles-new-ai-study-tells-us-about-how-we-really-use-ai/449525/",
+      "url_mobile": "",
+      "title": "What Google new AI study tells us about how we really use AI",
+      "seendate": "20260724T213000Z",
+      "socialimage": "https://marketbusinessnews.com/wp-content/uploads/2025/07/ai-world-abstract.jpg",
+      "domain": "marketbusinessnews.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.techradar.com/ai-platforms-assistants/google-deepminds-demis-hassabis-calls-for-urgent-action-during-precious-window-before-agi-arrives-and-its-all-starting-to-feel-a-bit-skynet",
+      "url_mobile": "",
+      "title": "Google DeepMind Demis Hassabis calls for  urgent action  during  precious window before AGI arrive and it all starting to feel a bit Skynet",
+      "seendate": "20260724T171500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/KrLJtRfrQNCBaifpgDWmhV-1920-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "url_mobile": "",
+      "title": "As US weighs response to Chinese AI , industry urges against broad open - weight restrictions",
+      "seendate": "20260724T170000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/microsoft-nvidia-meta-palantir-jensen-huang-open-source-ai-letter-2026-7",
+      "url_mobile": "",
+      "title": "Microsoft , Nvidia , Meta , and Palantir Message to DC",
+      "seendate": "20260724T160000Z",
+      "socialimage": "https://i.insider.com/6a6370f7548c9c486b31024a?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://propakistani.pk/2026/07/24/more-details-surface-on-why-google-is-suddenly-missing-from-the-ai-race/",
+      "url_mobile": "https://propakistani.pk/2026/07/24/more-details-surface-on-why-google-is-suddenly-missing-from-the-ai-race/amp/?fbclid=IwY2xjawTQSNRleHRuA2FlbQIxMABicmlkETEwUUYzSHF6aGs4ekhXdTVOc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgadQFCdGaSi9azH9ZtNfc0HpoEKru29gTEi6JGTSv0MezLNmj8YhuadSUOZ_aem_WVZkWTaz1kCw_1m5hCXumw",
+      "title": "More Details Surface on Why Google is Suddenly Missing from the AI Race",
+      "seendate": "20260724T141500Z",
+      "socialimage": "https://propakistani.pk/wp-content/uploads/2026/07/Google-Gemini-chip.jpg",
+      "domain": "propakistani.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.dailymail.com/money/markets/article-16001877/ALEX-BRUMMER-Jonathan-Reynolds-tougher-line-foreign-takeovers.html",
+      "url_mobile": "",
+      "title": "ALEX BRUMMER : Jonathan Reynolds must take a tougher line on foreign takeovers",
+      "seendate": "20260724T103000Z",
+      "socialimage": "https://i.dailymail.com/1s/2026/07/24/07/110224733-0-image-a-8_1784876333795.jpg",
+      "domain": "dailymail.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsx.com/business/meet-kanishka-narayan-bihar-born-mp-becomes-uks-first-ai-minister-in-andy-burnham-cabinet-251954/",
+      "url_mobile": "https://www.newsx.com/business/meet-kanishka-narayan-bihar-born-mp-becomes-uks-first-ai-minister-in-andy-burnham-cabinet-251954/amp/",
+      "title": "Meet Kanishka Narayan , Bihar - Born MP Becomes united kingdom First AI Minister in Andy Burnham Cabinet",
+      "seendate": "20260724T101500Z",
+      "socialimage": "https://www.newsx.com/wp-content/uploads/2026/07/kanishka-narayan.jpg",
+      "domain": "newsx.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://bestmediainfo.com/insights/ai-reaches-68-of-occupations-but-automates-under-10-of-tasks-google-12192867",
+      "url_mobile": "",
+      "title": "AI reaches 68 % of occupations but automates under 10 % of tasks : Google",
+      "seendate": "20260724T093000Z",
+      "socialimage": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/03/17/ai-agent-2026-03-17-15-58-36.png",
+      "domain": "bestmediainfo.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.tribuneindia.com/news/science-technology/who-is-kanishka-narayan-bihar-born-mp-becomes-uks-first-ai-minister/",
+      "url_mobile": "https://www.tribuneindia.com/news/science-technology/who-is-kanishka-narayan-bihar-born-mp-becomes-uks-first-ai-minister/amp",
+      "title": "Who is Kanishka Narayan ? Bihar - born MP becomes united kingdom first AI minister",
+      "seendate": "20260724T083000Z",
+      "socialimage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTljMTQzZTUwLTg3MjgtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+      "domain": "tribuneindia.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.digit.in/news/general/who-is-kanishka-narayan-bihar-born-mp-becomes-uks-first-cabinet-level-ai-minister.html",
+      "url_mobile": "https://www.digit.in/news/general/who-is-kanishka-narayan-bihar-born-mp-becomes-uks-first-cabinet-level-ai-minister.html/amp/",
+      "title": "Who is Kanishka Narayan ? Bihar - born MP becomes united kingdom first Cabinet - level AI Minister",
+      "seendate": "20260724T083000Z",
+      "socialimage": "https://static.digit.in/Kanishka-Narayan.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://memeburn.com/gemini-3-5-flash-cyber-found-55-real-bugs-waiting-days-to-patch-may-soon-be-too-slow/",
+      "url_mobile": "",
+      "title": "Gemini 3 . 5 Flash Cyber Found 55 Real Bugs . Waiting Days to Patch May Soon Be Too Slow . ",
+      "seendate": "20260724T063000Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/07/Gemini-3.5-Flash-Cyber-Found-55-Real-Bugs.-Waiting-Days-to-Patch-May-Soon-Be-Too-Slow.jpeg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.dailygazette.com/life_and_arts/entertainment/the-25-books-startups-and-founders-bought-most-in-the-first-half-of-2026-according/article_c2301edc-c2aa-54d3-ac45-6d4067771355.html",
+      "url_mobile": "",
+      "title": "The 25 books startups and founders bought most in the first half of 2026 , according to Brex spend data",
+      "seendate": "20260724T023000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/4/ae/4ae10b14-99a4-5eaf-86eb-ec95b7a950cf/6a622d115118c.image.jpg?crop=1280%2C672%2C0%2C23",
+      "domain": "dailygazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://bubblear.com/applications-open-for-gemini-startup-forum-by-google-for-startups/31935/",
+      "url_mobile": "",
+      "title": "Applications open for Gemini Startup Forum by Google for Startups",
+      "seendate": "20260723T234500Z",
+      "socialimage": "https://bubblear.com/wp-content/uploads/2026/07/applications-open-for-gemini-startup-forum-by-google-for-sta.webp",
+      "domain": "bubblear.com",
+      "language": "English",
+      "sourcecountry": "Argentina"
+    },
+    {
+      "url": "https://techstory.in/amd-signs-multi-billion-dollar-deal-to-supply-anthropic-with-2-gigawatts-of-mi450-chips-invest-up-to-5-billion/",
+      "url_mobile": "",
+      "title": "AMD Signs Multi - Billion - Dollar Deal to Supply Anthropic With 2 Gigawatts of MI450 Chips , Invest Up to $5 Billion",
+      "seendate": "20260723T211500Z",
+      "socialimage": "",
+      "domain": "techstory.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://cfotech.news/story/google-commits-usd-40-million-to-us-genesis-mission",
+      "url_mobile": "",
+      "title": "Google commits USD $40 million to US Genesis Mission",
+      "seendate": "20260723T161500Z",
+      "socialimage": "https://cfotech.news/uploads/story/2026/07/23/compatible_dr-steven-r-spurgeon-and-dr-henry-kvinge(2).jpg",
+      "domain": "cfotech.news",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.businessinsider.com/moonshot-ai-kimi-k3-founder-professor-on-unique-strengths-qualities-2026-7",
+      "url_mobile": "",
+      "title": "Now We Know What Makes the Moonshot AI Founder so Exceptional",
+      "seendate": "20260723T133000Z",
+      "socialimage": "https://i.insider.com/6a60991654f9875261778164?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/opinion/what-s-common-between-coal-nobody-sees-burning-and-ai-s-value-creation-13981873.html",
+      "url_mobile": "https://www.moneycontrol.com/news/opinion/what-s-common-between-coal-nobody-sees-burning-and-ai-s-value-creation-13981873.html/amp",
+      "title": "What common between coal nobody sees burning and AI value creation ? ",
+      "seendate": "20260723T120000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260219062446_artificial-intelligence-finance.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.dailymail.com/sciencetech/article-15999233/Firm-hacked-OpenAI-rogue-AI.html",
+      "url_mobile": "https://www.dailymail.com/sciencetech/article-15999233/amp/Firm-hacked-OpenAI-rogue-AI.html",
+      "title": "Firm hacked by rogue AI calls the attack  a wake - up call  after ChatGPT maker OpenAI admits advanced bot broke containment during a security test",
+      "seendate": "20260723T111500Z",
+      "socialimage": "https://i.dailymail.com/1s/2026/07/23/11/110202703-0-image-m-38_1784802353360.jpg",
+      "domain": "dailymail.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://digg.com/tech/xgddoles",
+      "url_mobile": "",
+      "title": "RedNote dots - note - 3 . 0 AI claims perfect 42 / 42 score at IMO \u00b7 Digg",
+      "seendate": "20260723T110000Z",
+      "socialimage": "",
+      "domain": "digg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wsws.org/en/articles/2026/07/23/zxec-j23.html",
+      "url_mobile": "",
+      "title": "The specter of  AI communism : Chinese open - weight models and the crisis of the American AI bubble",
+      "seendate": "20260723T050000Z",
+      "socialimage": "",
+      "domain": "wsws.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/google-unveils-youtube-ai-prototype-stack-to-cut-risk",
+      "url_mobile": "",
+      "title": "Google unveils YouTube AI prototype stack to cut risk",
+      "seendate": "20260723T030000Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/07/23/compatible_benji-bear-and-addy-osmani.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.moneycontrol.com/artificial-intelligence/from-bihar-s-muzaffarpur-to-britain-s-ai-minister-kanishka-narayan-s-rise-to-uk-cabinet-article-13981094.html",
+      "url_mobile": "https://www.moneycontrol.com/artificial-intelligence/from-bihar-s-muzaffarpur-to-britain-s-ai-minister-kanishka-narayan-s-rise-to-uk-cabinet-article-13981094.html/amp",
+      "title": "From Bihar Muzaffarpur to Britain AI minister : Kanishka Narayan rise to united kingdom cabinet",
+      "seendate": "20260723T023000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/07/20260721010903_K-Narayan.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://gizmodo.com/darren-aronofskys-company-that-makes-very-bad-ai-movies-just-raised-a-ton-of-investor-money-2000789515",
+      "url_mobile": "",
+      "title": "Darren Aronofsky Company That Makes Very Bad AI Movies Just Raised a Ton of Investor Money",
+      "seendate": "20260723T014500Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2026/07/franklin-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://deadline.com/print-article/1237000853/",
+      "url_mobile": "",
+      "title": "Deadline",
+      "seendate": "20260723T013000Z",
+      "socialimage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvZGVhZGxpbmUuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8wNFwvY3JvcHBlZC1pY29uLTUxMng1MTIucG5nIiwidHh0IjoiRGVhZGxpbmUiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTc5MjkwMTQ5fQ.IHL7P_bYC7Sr4W2XvHh7kLwSO5arBq8LoHSjTj-l-uAMQ",
+      "domain": "deadline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://deadline.com/2026/07/darren-aronofsky-ai-firm-primordial-soup-fundraising-million-1237000853/",
+      "url_mobile": "",
+      "title": "Darren Aronofsky AI Firm Primordial Soup Looking To Raise $15M",
+      "seendate": "20260723T000000Z",
+      "socialimage": "https://deadline.com/wp-content/uploads/2024/04/GettyImages-1434550634.jpg",
+      "domain": "deadline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.timescall.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T230000Z",
+      "socialimage": "https://www.timescall.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "timescall.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailylocal.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T230000Z",
+      "socialimage": "https://www.dailylocal.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "dailylocal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.broomfieldenterprise.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T230000Z",
+      "socialimage": "https://www.broomfieldenterprise.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "broomfieldenterprise.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2026/07/22/openais-rogue-hacking-incident-was-a-warning-shot-will-it-be-a-wake-up-call-to-finally-create-ai-safety-regulation/",
+      "url_mobile": "",
+      "title": "Will OpenAI models hacking Hugging Face finally be a wake - up call for AI safety regulation ? ",
+      "seendate": "20260722T224500Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281424331-e1784747314978.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.canoncitydailyrecord.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T224500Z",
+      "socialimage": "https://www.canoncitydailyrecord.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "canoncitydailyrecord.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fortmorgantimes.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T223000Z",
+      "socialimage": "https://www.fortmorgantimes.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "fortmorgantimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pilotonline.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed hacking event on AI models going rogue",
+      "seendate": "20260722T214500Z",
+      "socialimage": "https://www.pilotonline.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "pilotonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://variety.com/2026/film/news/darren-aronofsky-ai-primordial-soup-raising-15-million-1236818544/",
+      "url_mobile": "",
+      "title": "Darren Aronofsky AI Studio Primordial Soup Raising $15 Million",
+      "seendate": "20260722T214500Z",
+      "socialimage": "https://variety.com/wp-content/uploads/2025/03/Darren-Aronosky.jpg?&crop=1",
+      "domain": "variety.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thetimes-tribune.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T213000Z",
+      "socialimage": "https://www.thetimes-tribune.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "thetimes-tribune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bostonherald.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T213000Z",
+      "socialimage": "https://www.bostonherald.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "bostonherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pottsmerc.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T213000Z",
+      "socialimage": "https://www.pottsmerc.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "pottsmerc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.timesherald.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T211500Z",
+      "socialimage": "https://www.timesherald.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "timesherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sun-sentinel.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T211500Z",
+      "socialimage": "https://www.sun-sentinel.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "sun-sentinel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.journal-advocate.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T204500Z",
+      "socialimage": "https://www.journal-advocate.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "journal-advocate.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.standardspeaker.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T204500Z",
+      "socialimage": "https://www.standardspeaker.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "standardspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mainlinemedianews.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T203000Z",
+      "socialimage": "https://www.mainlinemedianews.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "mainlinemedianews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailydemocrat.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T203000Z",
+      "socialimage": "https://www.dailydemocrat.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "dailydemocrat.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sentinelandenterprise.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T201500Z",
+      "socialimage": "https://www.sentinelandenterprise.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "sentinelandenterprise.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newscientist.com/article/2580504-why-open-source-software-can-be-both-good-and-bad/",
+      "url_mobile": "",
+      "title": "Why open - source software can be both good and bad",
+      "seendate": "20260722T201500Z",
+      "socialimage": "https://www.newscientist.com/wp-content/uploads/2026/07/SEI_305872559.jpg",
+      "domain": "newscientist.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.courant.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T200000Z",
+      "socialimage": "https://www.courant.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "courant.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nydailynews.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T200000Z",
+      "socialimage": "https://www.nydailynews.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "nydailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/",
+      "url_mobile": "",
+      "title": "The Scariest Part of OpenAI Hugging Face Hack",
+      "seendate": "20260722T200000Z",
+      "socialimage": "",
+      "domain": "theatlantic.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.akronnewsreporter.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T194500Z",
+      "socialimage": "https://www.akronnewsreporter.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "akronnewsreporter.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.baltimoresun.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T194500Z",
+      "socialimage": "https://www.baltimoresun.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "baltimoresun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.capitalgazette.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T194500Z",
+      "socialimage": "https://www.capitalgazette.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "capitalgazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.orlandosentinel.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T194500Z",
+      "socialimage": "https://www.orlandosentinel.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "orlandosentinel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "url_mobile": "",
+      "title": "Are AI labs pelicanmaxxing ? \u2013 Dylan Castillo",
+      "seendate": "20260722T194500Z",
+      "socialimage": "https://dylancastillo.co/posts/images/social_media_card.webp",
+      "domain": "dylancastillo.co",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.greeleytribune.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T193000Z",
+      "socialimage": "https://www.greeleytribune.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "greeleytribune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ocregister.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T193000Z",
+      "socialimage": "https://www.ocregister.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "ocregister.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypress.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed hacking event on AI models going rogue",
+      "seendate": "20260722T191500Z",
+      "socialimage": "https://www.dailypress.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "dailypress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.lowellsun.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T190000Z",
+      "socialimage": "https://www.lowellsun.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "lowellsun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.record-bee.com/2026/07/22/openai-ai-models-hack-hugging-face-cyber-incident/",
+      "url_mobile": "",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue",
+      "seendate": "20260722T190000Z",
+      "socialimage": "https://www.record-bee.com/wp-content/uploads/2026/07/OpenAI_56692-1.jpg",
+      "domain": "record-bee.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.com.au/shin-jin-seo-defeats-katago-go-series-1872772",
+      "url_mobile": "",
+      "title": "World No . 1 Shin Jin - seo Beats AI KataGo 2 - 1 , Ten Years After Lee Sedol Historic Match With AlphaGo",
+      "seendate": "20260722T144500Z",
+      "socialimage": "https://d.ibtimes.com.au/en/full/1895260/world-no-1-shin-jin-seo-beats-ai-katago-2-1-ten.jpg",
+      "domain": "ibtimes.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.infosecurity-magazine.com/news/google-codemender-available-ai/",
+      "url_mobile": "",
+      "title": "Google Makes CodeMender Available as Managed AI Security Agent",
+      "seendate": "20260722T134500Z",
+      "socialimage": "https://assets.infosecurity-magazine.com/webpage/og/78c7b048-bbee-455c-88b2-46247af37a1a.jpg",
+      "domain": "infosecurity-magazine.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://gcn.com/google-launches-gemini-flash-cybersecurity-model/19924/",
+      "url_mobile": "",
+      "title": "Google launches Gemini 3 . 6 Flash and a cybersecurity model with 17 % fewer output tokens",
+      "seendate": "20260722T134500Z",
+      "socialimage": "https://gcn.com/wp-content/uploads/2026/07/google-launches-gemini-flash-cybersecurity-model-photo-scaled.png",
+      "domain": "gcn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.latimes.com/business/story/2026-07-22/they-built-ai-now-silicon-valley-workers-protest-its-threat-to-jobs-humanity",
+      "url_mobile": "",
+      "title": "They built AI . Now Silicon Valley workers protest its threat to jobs and humanity",
+      "seendate": "20260722T111500Z",
+      "socialimage": "https://california-times-brightspot.s3.amazonaws.com/f8/e5/1247d10e4a8183db1b22211ff073/gettyimages-2285098283.jpg",
+      "domain": "latimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gizmodo.com/google-is-really-getting-into-miami-lately-2000788866",
+      "url_mobile": "",
+      "title": "Google Is Really Getting Into Miami Lately",
+      "seendate": "20260722T101500Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2026/07/miami-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.arkansasonline.com/news/2026/jul/22/altman-to-brief-white-house-on-ai/",
+      "url_mobile": "",
+      "title": "Altman to brief White House on AI | The Arkansas Democrat - Gazette - Arkansa Best News Source",
+      "seendate": "20260722T100000Z",
+      "socialimage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213288840_1DAltman0722_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "domain": "arkansasonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/gemini-3-6-flash-release/",
+      "url_mobile": "",
+      "title": "Gemini 3 . 6 Flash Performance Against Top AI Models",
+      "seendate": "20260722T084500Z",
+      "socialimage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/gemini-flash-ai-model.jpg",
+      "domain": "geeky-gadgets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://thebull.com.au/us-news/google-earnings-on-deck-what-to-expect-from-goog/",
+      "url_mobile": "",
+      "title": "Google Earnings On Deck : What To Expect From GOOG",
+      "seendate": "20260722T071500Z",
+      "socialimage": "",
+      "domain": "thebull.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.politico.eu/article/europes-27-leaders-to-take-on-ai-finally/",
+      "url_mobile": "",
+      "title": "Europe 27 leaders to take on AI finally \u2013 POLITICO",
+      "seendate": "20260722T044500Z",
+      "socialimage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/21/GettyImages-2286902188-scaled.jpg",
+      "domain": "politico.eu",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://telecom.economictimes.indiatimes.com/news/internet/google-delays-launch-of-gemini-35-pro-amid-new-model-releases/132549333",
+      "url_mobile": "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-delays-launch-of-gemini-35-pro-amid-new-model-releases/132549333",
+      "title": "Google Gemini AI : Google Delays Launch of Gemini 3 . 5 Pro Amid New Model Releases , ETTelecom",
+      "seendate": "20260722T043000Z",
+      "socialimage": "https://etimg.etb2bimg.com/thumb/msid-132549333,imgsize-29016,width-1200,height=627,overlay-ettelecom,resizemode-75/internet/google-delays-launch-of-gemini-35-pro-amid-new-model-releases.jpg",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.forbes.com/sites/forbeseq/2026/07/21/ai-is-making-us-more-productive-now-we-need-to-decide-what-productivity-is-for/",
+      "url_mobile": "",
+      "title": "AI Is Making Us More Productive . Now We Need To Decide What Productivity Is For",
+      "seendate": "20260722T023000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a5eb05566f5dc62068b0e0d/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://americanbazaaronline.com/2026/07/21/alphabet-gemini-delay-ai-spending-earnings-investor-scrutiny-484969/",
+      "url_mobile": "",
+      "title": "Alphabet faces investor scrutiny as Gemini delay tests AI spending",
+      "seendate": "20260722T014500Z",
+      "socialimage": "https://americanbazaaronline.com/wp-content/uploads/2026/07/Alphabet-Gemini-delay.jpg",
+      "domain": "americanbazaaronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/google-gates-new-ai-bug-hunter-behind-limited-access-a-32277",
+      "url_mobile": "",
+      "title": "Google Gates New AI Bug - Hunter Behind Limited Access",
+      "seendate": "20260722T003000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/google-gates-new-ai-bug-hunter-behind-limited-access-image_large-4-a-32277.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/07/21/openai-says-its-ai-technology-acted-on-its-own-in-an-unprecedented-hack-of-another-company",
+      "url_mobile": "",
+      "title": "OpenAI says its AI technology acted on its own in an  unprecedented  hack of another company \u2013 Winnipeg Free Press",
+      "seendate": "20260722T003000Z",
+      "socialimage": "",
+      "domain": "winnipegfreepress.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/321173/20260721/openais-math-ai-bypassed-its-sandbox-controls-real-deployment-not-drill.htm",
+      "url_mobile": "",
+      "title": "OpenAI Math AI Bypassed Its Sandbox Controls : Real Deployment , Not a Drill",
+      "seendate": "20260722T001500Z",
+      "socialimage": "https://d.techtimes.com/en/full/469436/chatgpt-solves-erdos-unit-distance-conjecture.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/321174/20260721/eu-finalizes-ai-disclosure-rules-watermarking-mandate-outpaces-technology.htm",
+      "url_mobile": "",
+      "title": "EU Finalizes AI Disclosure Rules as Watermarking Mandate Outpaces Technology",
+      "seendate": "20260722T001500Z",
+      "socialimage": "https://d.techtimes.com/en/full/469437/eu-ai-check.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/substack-anti-ai-slop-plan-label-2026-7",
+      "url_mobile": "",
+      "title": "Substack Anti - Slop Plan Points to the Next Phase of the AI Boom",
+      "seendate": "20260721T214500Z",
+      "socialimage": "https://i.insider.com/6a5fd417548c9c486b30ebb0?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/07/21/berkshire-hathaways-next-leader-has-loaded-up-on-a/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Berkshire Hathaway New Leader Has Loaded Up on Alphabet With $10 Billion in Cash . Here the Likely Reason . ",
+      "seendate": "20260721T214500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/879063/googl.png",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-leader-loaded-alphabet-204400694.html",
+      "url_mobile": "",
+      "title": "Berkshire Hathaway New Leader Has Loaded Up on Alphabet With $10 Billion in Cash . Here the Likely Reason . ",
+      "seendate": "20260721T211500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/7DFD6D6A13BE51B8282D406DE87528E5FE36983C25CC2E34BA00949D255A303A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F14e89ba90f77877f7db30bf4982c5044",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://infotechlead.com/artificial-intelligence/google-launches-gemini-3-6-flash-and-new-lightweight-ai-models-delays-gemini-3-5-pro-amid-coding-challenges-97202",
+      "url_mobile": "https://infotechlead.com/artificial-intelligence/google-launches-gemini-3-6-flash-and-new-lightweight-ai-models-delays-gemini-3-5-pro-amid-coding-challenges-97202?amp=1",
+      "title": "Google Launches Gemini 3 . 6 Flash and New Lightweight AI Models , Delays Gemini 3 . 5 Pro Amid Coding Challenges",
+      "seendate": "20260721T203000Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2026/07/Gemini-3.6-Flash-price.png",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://thefrontierpost.com/google-updates-lightweight-gemini-models-but-flagship-still-delayed/",
+      "url_mobile": "https://thefrontierpost.com/google-updates-lightweight-gemini-models-but-flagship-still-delayed/amp/",
+      "title": "Google updates lightweight Gemini models , but flagship still delayed",
+      "seendate": "20260721T194500Z",
+      "socialimage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvdGhlZnJvbnRpZXJwb3N0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNlwvMDdcLzIwMjYtMDctMjFUMTUwMzQ4Wl8xX0xZTlhNUEVNNksxRUVfUlRST1BUUF8zX0FMUEhBQkVULUFJLmF2aWYiLCJ0eHQiOiJHb29nbGUgdXBkYXRlcyBsaWdodHdlaWdodCBHZW1pbmkgbW9kZWxzLCBidXQgZmxhZ3NoaXAgc3RpbGwgZGVsYXllZCIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMzc1ODIzNDN9.x3YCgWyOsZp8sqxCUdgbLUPpoG-YqPi9P1b-mWtW0WwMQ",
+      "domain": "thefrontierpost.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.cnet.com/tech/services-and-software/google-releases-three-new-gemini-models-3-5-pro-still-not-available/",
+      "url_mobile": "",
+      "title": "Google Releases 3 New Gemini Models , 3 . 5 Pro Still Not Available",
+      "seendate": "20260721T194500Z",
+      "socialimage": "https://www.cnet.com/wp-content/uploads/sites/2/adobestock-1023254920-editorial-use-only.jpg",
+      "domain": "cnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "url_mobile": "",
+      "title": "Google releases three new Gemini models but no 3 . 5 Pro",
+      "seendate": "20260721T193000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://siliconangle.com/2026/07/21/google-expands-gemini-cheaper-models-bug-hunter-keeps-leash/",
+      "url_mobile": "",
+      "title": "Google expands Gemini with cheaper models and a bug - hunter it keeps on a leash",
+      "seendate": "20260721T173000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/gemini36flash.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/new-updates/google-deepmind-ceo-demis-hassabis-reveals-who-will-use-ai-10-times-more-effectively-than-everyone-else-why-students-should-still-learn-coding/articleshow/132541834.cms",
+      "url_mobile": "https://m.economictimes.com/news/new-updates/google-deepmind-ceo-demis-hassabis-reveals-who-will-use-ai-10-times-more-effectively-than-everyone-else-why-students-should-still-learn-coding/amp_articleshow/132541834.cms",
+      "title": "Google DeepMind CEO Demis Hassabis reveals who will use AI 10 times more effectively than everyone else , & why students should still learn coding",
+      "seendate": "20260721T170000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132541981,width-1200,height-630,imgsize-584143,overlay-economictimes/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://digg.com/tech/2k0nm3dq",
+      "url_mobile": "",
+      "title": "Google launches Gemini 3 . 6 Flash with lower token pricing \u00b7 Digg",
+      "seendate": "20260721T163000Z",
+      "socialimage": "",
+      "domain": "digg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://arynews.tv/google-updates-lightweight-gemini-models-but-flagship-still-delayed",
+      "url_mobile": "https://arynews.tv/google-updates-lightweight-gemini-models-but-flagship-still-delayed.amp",
+      "title": "Google updates lightweight Gemini models , but flagship still delayed",
+      "seendate": "20260721T163000Z",
+      "socialimage": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Google-1.jpg",
+      "domain": "arynews.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://news.az/news/can-alphabet-justify-its-ai-spending-investors-await-earnings-answers",
+      "url_mobile": "",
+      "title": "Can Alphabet justify its AI spending ? Investors await earnings answers",
+      "seendate": "20260721T150000Z",
+      "socialimage": "https://news.az/photos/2026/07/1784644849.webp",
+      "domain": "news.az",
+      "language": "English",
+      "sourcecountry": "Azerbaijan"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/321152/20260721/googles-frozen-v2-chip-hardwires-gemini-architecture-tenfold-inference-efficiency.htm",
+      "url_mobile": "",
+      "title": "Google Frozen v2 Chip Hardwires Gemini Architecture : Up to Tenfold Inference Efficiency",
+      "seendate": "20260721T150000Z",
+      "socialimage": "https://d.techtimes.com/en/full/469407/google-ceo-sundar-pichai-delivers-keynote-address.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabets-gemini-delay-spending-worries-134510067.html",
+      "url_mobile": "",
+      "title": "Alphabet Gemini delay , spending worries loom over earnings",
+      "seendate": "20260721T143000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/D1AFE408399E1382F548B0757AD85EB82E8AAD1C6713FFEEC73E52E791C748E9/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Fa955ce57f96b794c2b9dcfc49ad146d5",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneycontrol.com/artificial-intelligence/why-google-is-overhauling-its-ai-leadership-all-the-key-changes-explained-article-13995717.html",
+      "url_mobile": "https://www.moneycontrol.com/artificial-intelligence/why-google-is-overhauling-its-ai-leadership-all-the-key-changes-explained-article-13995717.html/amp",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role",
+      "seendate": "20260805T174500Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/08/20260731232353_461113220.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
     }
   ]
 }

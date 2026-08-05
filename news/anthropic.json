@@ -1,9 +1,9 @@
 {
   "company": "Anthropic",
   "query": "\"Anthropic\" (Claude OR AI)",
-  "start": "20250101000000",
-  "end": "20250930235959",
-  "count": 250,
+  "start": null,
+  "end": null,
+  "count": 500,
   "articles": [
     {
       "url": "https://www.jdsupra.com/legalnews/hot-topics-in-international-trade-2348459/",
@@ -2504,6 +2504,2506 @@
       "domain": "bworldonline.com",
       "language": "English",
       "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://gizmodo.com/while-ai-keeps-going-rogue-trumps-safety-theater-makes-no-sense-2000794843",
+      "url_mobile": "",
+      "title": "While AI Keeps Going Rogue , Trump Safety Theater Makes No Sense",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2026/08/jensen-trump-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.theuknews.com/news/279223319/rogue-ai-agents-targeted-real-people-during-tests",
+      "url_mobile": "",
+      "title": "Rogue AI agents targeted real people during tests",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/3e25425/d06808ac-cf8b-4b8a-8bb6-203dd6a291f3/0/NmQ2N2MxMTItNTh-600x315.jpg",
+      "domain": "theuknews.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://en.tempo.co/read/2116789/ai-ecosystems-circular-investment-risk-or-advantage",
+      "url_mobile": "//en.tempo.co/amp/2116789/ai-ecosystems-circular-investment-risk-or-advantage",
+      "title": "AI Ecosystem  Circular  Investment : Risk or Advantage ? ",
+      "seendate": "20260805T164500Z",
+      "socialimage": "https://statik.tempo.co/data/2026/06/13/id_1477586/1477586_720.jpg",
+      "domain": "en.tempo.co",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/magnificent-ai-stocks-buy-anthropic-ipo/",
+      "url_mobile": "",
+      "title": "Got $500 ? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881448/gettyimages-1345658982-1.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/greatspeculations/2026/08/05/the-price-is-not-right-for-anthropic-and-openai/",
+      "url_mobile": "",
+      "title": "The Price Is Not Right For Anthropic And OpenAI",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a7347fc3ae0145e3e11c04d/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://iafrica.com/south-africa-will-not-pick-a-side-between-us-and-chinese-ai-stacks-malatsi/",
+      "url_mobile": "",
+      "title": "South Africa Will Not Pick a Side Between US and Chinese AI Stacks - Malatsi",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://iafrica.com/wp-content/uploads/2026/02/ai-south-africa-dell-technologies-1500-800.jpg",
+      "domain": "iafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.forbes.com/sites/robertszczerba/2026/08/05/claude-targeted-real-people-the-enterprise-risk-is-access-not-intent/",
+      "url_mobile": "",
+      "title": "Claude Targeted Real People . The Enterprise Risk Is Access , Not Intent",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a7352500d088049376bdcc3/0x0.jpg?format=jpg&crop=1704,958,x0,y114,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/jasonwingard/2026/08/05/ai-isnt-the-hard-part/",
+      "url_mobile": "",
+      "title": "AI Isnt The Hard Part",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a7351f602a06f9df8d8d409/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/05/alibabas-qwen38-max-prices-frontier-ai-at-2-per-million-tokens/",
+      "url_mobile": "",
+      "title": "Alibaba Qwen3 . 8 - Max Prices Frontier AI At $2 Per Million Tokens",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a733c7bf7c267e49ba9f280/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/johnwerner/2026/08/05/coinbase-forge-illustrates-the-power-of-internal-architectures/",
+      "url_mobile": "",
+      "title": "Coinbase Forge Illustrates The Power Of Internal Architectures",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a734464dfa6d5f635c08165/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/05/anthropic-to-build-in-house-chip-design-team-for-claude-hire-engineers",
+      "url_mobile": "",
+      "title": "Anthropic to build in - house chip design team for Claude , hire engineers",
+      "seendate": "20260805T161500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/08/05/4045537.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-to-build-in-house-chip-design-team-for-claude-hire-engineers/articleshow/132936969.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/anthropic-to-build-in-house-chip-design-team-for-claude-hire-engineers/amp_articleshow/132936969.cms",
+      "title": "Anthropic to build in - house chip design team for Claude , hire engineers",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-91034,resizemode-75,msid-132936969/tech/artificial-intelligence/anthropic-to-build-in-house-chip-design-team-for-claude-hire-engineers.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.euronews.com/culture/2026/08/05/project-panama-how-anthropic-secretly-destroyed-millions-of-books-to-train-its-ai",
+      "url_mobile": "",
+      "title": "Project Panama : How Anthropic secretly destroyed millions of books to train its AI",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/86/34/66/1200x675_cmsv2_f549b144-3870-58ba-b31b-fee11d90a1c4-9863466.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.crn.com/news/security/2026/ai-agents-are-really-starting-to-get-this-hacking-thing-analysis",
+      "url_mobile": "",
+      "title": "AI Agents Are Really Starting To Get This Hacking Thing : Analysis",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://www.crn.com/news/security/2026/media_1f83c9e7a12c2e81659c1e5c890bbf14df7ac347d.png?&format=pjpg&optimize=medium",
+      "domain": "crn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://myhostnews.com/alibaba-unveils-qwen3-8-max-an-ai-model-that-rivals-gpt-5-6-and-claude/",
+      "url_mobile": "",
+      "title": "Alibaba unveils Qwen3 . 8 - Max , an AI model that rivals GPT - 5 . 6 and Claude",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://myhostnews.com/wp-content/uploads/2026/08/O1CN01TOLJZy7eq7E5aQk4_6000000000033-2-tps-2752-1536-scaled.webp.webp",
+      "domain": "myhostnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1411323-is-claude-down-anthropic-says-fix-is-on-the-way",
+      "url_mobile": "",
+      "title": "Is Claude down ? Anthropic says fix is on the way",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/2026-08-05/1411323_045737_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://nypost.com/2026/08/05/business/spacex-shares-tank-10-as-jaw-dropping-ai-spending-jump-spooks-investors/",
+      "url_mobile": "",
+      "title": "SpaceX shares tank 10 % as jaw - dropping AI spending jump spooks investors",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136537921.jpg?quality=75&strip=all",
+      "domain": "nypost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1411339-anthropic-confirms-in-house-ai-chip-team-for-claude",
+      "url_mobile": "",
+      "title": "Anthropic confirms in - house AI chip team for Claude",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/2026-08-05/1411339_070647_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-build-house-chip-design-141457659.html",
+      "url_mobile": "",
+      "title": "Anthropic to build in - house chip design team for Claude , hire engineers",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/D8F4BB1F2A6B9E34D58432C409EC300C39F065D61FBA00EE6044D5CEC1906B5A/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Faa56b86a819664661b84c338a4cece85",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://city.udn.com/2976/7205038?raid=7297566",
+      "url_mobile": "",
+      "title": "\u4eba\u5de5\u667a\u80fd\u7e31\u6a6b\u8ac7 -- \u958b\u6b04\u6587 - \u6642\u4e8b\u8ad6\u58c7",
+      "seendate": "20260805T144500Z",
+      "socialimage": "",
+      "domain": "city.udn.com",
+      "language": "English",
+      "sourcecountry": "Taiwan"
+    },
+    {
+      "url": "https://thearabianpost.com/deepseek-model-resets-global-ai-pricing/",
+      "url_mobile": "",
+      "title": "DeepSeek model resets global AI pricing",
+      "seendate": "20260805T144500Z",
+      "socialimage": "",
+      "domain": "thearabianpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cityam.com/uks-ai-watchdog-flags-anthropics-mythos-openai-in-security-breach/",
+      "url_mobile": "",
+      "title": "UK AI watchdog flags new OpenAI and Anthropic cyber alarms",
+      "seendate": "20260805T141500Z",
+      "socialimage": "https://www.cityam.com/wp-content/uploads/2026/07/anthropic-1.jpg",
+      "domain": "cityam.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.bignewsnetwork.com/news/279223319/rogue-ai-agents-targeted-real-people-during-tests",
+      "url_mobile": "",
+      "title": "Rogue AI agents targeted real people during tests",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/3e25425/d06808ac-cf8b-4b8a-8bb6-203dd6a291f3/0/NmQ2N2MxMTItNTh-600x315.jpg",
+      "domain": "bignewsnetwork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/google-mechanize-deal-talent-tech-ai-coding-2026-8",
+      "url_mobile": "",
+      "title": "Google Is in Talks for a $1 . 5 Billion - Plus Deal With Mechanize",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://i.insider.com/6a72811d4327cd5a0ae2e26c?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.britainnews.net/news/279223319/rogue-ai-agents-targeted-real-people-during-tests",
+      "url_mobile": "",
+      "title": "Rogue AI agents targeted real people during tests",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/3e25425/d06808ac-cf8b-4b8a-8bb6-203dd6a291f3/0/NmQ2N2MxMTItNTh-600x315.jpg",
+      "domain": "britainnews.net",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.businessinsider.com/anthropic-in-house-silicon-chip-team-claude-2026-8",
+      "url_mobile": "",
+      "title": "Anthropic Confirms It Building an in - House Chip Team for Claude",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://i.insider.com/6a732d573f00ff875d13d40a?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pr-inside.com/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-r5208682.htm",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and ... ",
+      "seendate": "20260805T131500Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://geographical.co.uk/news/chinas-ai-push-raises-the-stakes",
+      "url_mobile": "",
+      "title": "China AI push raises the stakes",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://geographical.co.uk/wp-content/uploads/ai-concept.jpg",
+      "domain": "geographical.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.techradar.com/pro/the-cost-of-being-half-hearted-in-ai-and-how-to-avoid-the-solow-paradox",
+      "url_mobile": "",
+      "title": "The cost of being half - hearted in AI and how to avoid the Solow Paradox",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-2560-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.newjerseytelegraph.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260805T123000Z",
+      "socialimage": "",
+      "domain": "newjerseytelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.co.uk/us-reportedly-dropped-2000-munitions-2000-distinct-targets-iran-using-elon-musks-grok-ai-1812569",
+      "url_mobile": "",
+      "title": "US Reportedly Dropped  2 , 000 Munitions at 2 , 000 Distinct Target in Iran Using Elon Musk Grok AI System",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://d.ibtimes.co.uk/en/full/1824058/elon-musk.png",
+      "domain": "ibtimes.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/magnificent-ai-stocks-buy-anthropic-ipo/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Got $500 ? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881448/gettyimages-1345658982-1.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bostonglobe.com/2026/08/05/business/integrated-biosciences-massachusetts-biotech-startup-california/",
+      "url_mobile": "",
+      "title": "How Massachusetts lost biotech startup Integrated to California",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/KPYHJIGAXVVCX4QBJPKIUL7I34.JPG?auth=3ba78b0d3ca87476fc86cc3d5bf2840ae4e95a6659ffca1892ba02e1e29086c6",
+      "domain": "bostonglobe.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/got-500-2-magnificent-ai-111100300.html",
+      "url_mobile": "",
+      "title": "Got $500 ? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO",
+      "seendate": "20260805T114500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/737F9D0D2CB330ED758077123F2EEF9E8CD7FEB0520254021F615EF5F9EF59C2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0b3be2e9b821e7e24031534ce2133695",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbusinessnet.com/2026/08/netskope-unveils-netskope-one-datasec-command-center-to-unify-data-security-across-every-environment/",
+      "url_mobile": "https://itbusinessnet.com/2026/08/netskope-unveils-netskope-one-datasec-command-center-to-unify-data-security-across-every-environment/amp/",
+      "title": "Netskope Unveils Netskope One DataSec Command Center to Unify Data Security Across Every Environment \u2013 IT Business Net",
+      "seendate": "20260805T111500Z",
+      "socialimage": "",
+      "domain": "itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.engadget.com/2230628/openai-anthropic-models-hacking-spree-test-uk-ai-research-institute/",
+      "url_mobile": "",
+      "title": "OpenAI And Anthropic Models Went On A Hacking Spree When Tested By The united kingdom AI Research Institute",
+      "seendate": "20260805T111500Z",
+      "socialimage": "https://www.engadget.com/img/gallery/openai-anthropic-models-hacking-spree-test-uk-ai-research-institute/l-intro-1785921977.jpg",
+      "domain": "engadget.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
+      "url_mobile": "https://www.cnbc.com/amp/2026/08/05/anthropic-mythos-openai-security-breaches.html",
+      "title": "Anthropic , Open AI models created fake identities in new cyber breach",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108342851-1785448588442-gettyimages-2283765640-AI_MODELS.jpeg?v=1785448851",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/qwen3-8-max-vs-chatgpt-vs-claude-which-ai-wins/",
+      "url_mobile": "",
+      "title": "Qwen3 . 8 - Max vs . ChatGPT vs . Claude : Which AI Wins ? ",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/08/Qwen3.8-Max-vs.-ChatGPT-vs.-Claude-Which-AI-Wins.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://memeburn.com/deepseek-code-is-coming-everything-confirmed/",
+      "url_mobile": "",
+      "title": "DeepSeek Code Is Coming : Everything DeepSeek Has Actually Confirmed",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/08/DeepSeek-Code-Is-Coming-Everything-DeepSeek-Has-Actually-Confirmed.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "http://www.irishsun.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260805T101500Z",
+      "socialimage": "",
+      "domain": "irishsun.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "http://www.europesun.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260805T100000Z",
+      "socialimage": "",
+      "domain": "europesun.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://bmmagazine.co.uk/ai/anthropic-openai-ai-models-hacked-companies/",
+      "url_mobile": "",
+      "title": "AI models hacked firms , Anthropic and OpenAI confirm",
+      "seendate": "20260805T094500Z",
+      "socialimage": "https://bmmagazine.co.uk/wp-content/uploads/2025/05/shutterstock_2366323229-scaled.jpg",
+      "domain": "bmmagazine.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.aol.co.uk/articles/openai-anthropic-models-went-rogue-084045000.html",
+      "url_mobile": "",
+      "title": "OpenAI and Anthropic models  went rogue  during united kingdom cybersecurity test",
+      "seendate": "20260805T093000Z",
+      "socialimage": "https://hermes.media.static.aol.com/media/2026/08/05/499ed60d-b2f1-3be1-9adf-f078088df40c/129d7a3d-7d71-49a6-b15c-82a76db5913f.jpg",
+      "domain": "aol.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says",
+      "url_mobile": "https://www.aljazeera.com/amp/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says",
+      "title": "AI models attempted  unsanctioned  cyberattacks in tests , watchdog says | Technology News",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-05T185337Z_1886587083_RC2UNLANZBNH_RTRMADP_3_ANTHROPIC-AI-1785914202.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dw.com/en/ai-ecosystems-circular-investment-risk-or-advantage/a-78186917",
+      "url_mobile": "https://amp.dw.com/en/ai-ecosystems-circular-investment-risk-or-advantage/a-78186917",
+      "title": "AI ecosystem  circular  investment : risk or advantage ? ",
+      "seendate": "20260805T090000Z",
+      "socialimage": "https://static.dw.com/image/73107636_6.jpg",
+      "domain": "dw.com",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.hartware.de/2026/08/05/amd-reports-second-quarter-2026-financial-results/",
+      "url_mobile": "",
+      "title": "AMD Reports Second Quarter 2026 Financial Results \u2013 Hartware",
+      "seendate": "20260805T070000Z",
+      "socialimage": "",
+      "domain": "hartware.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.livemint.com/ai/artificial-intelligence/indian-ai-startups-autonomous-ai-agents-legal-liability-cybersecurity-openai-anthropic-claude-chatgpt-11785824858468.html",
+      "url_mobile": "https://www.livemint.com/ai/artificial-intelligence/indian-ai-startups-autonomous-ai-agents-legal-liability-cybersecurity-openai-anthropic-claude-chatgpt/amp-11785824858468.html",
+      "title": "Who pays when an AI agent goes rogue ? Indian law has no clear answer",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/04/600x338/GLOBAL-AI-ECONOMY-0_1783943335934_1783943424442_348c6332-1b31-4f2c-8442-e51bfc7597a1_1785840195227_ece1e75c-2d45-439b-b884-cc97b0aa396a.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-data-center-leases-crossed-172706997.html",
+      "url_mobile": "",
+      "title": "Microsoft Data Center Leases Crossed $100 Billion In Q4 . What This Means for MSFT Stock Here . ",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/0394A2CAA6F5134E048AFF23D63668912B8C649148D5EC3978AB8A1A3E5E6797/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F33c5d3ff84b8329590939225add2955c",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digit.in/news/general/openai-and-anthropic-ai-agents-attempt-to-bypass-security-using-fake-identities-here-is-what-happened.html",
+      "url_mobile": "https://www.digit.in/news/general/openai-and-anthropic-ai-agents-attempt-to-bypass-security-using-fake-identities-here-is-what-happened.html/amp/",
+      "title": "OpenAI and Anthropic AI agents attempt to bypass security using fake identities : Here is what happened",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://static.digit.in/OpenAI-and-Anthropic-AI-agents-attempt-to-bypass-security-using-fake-identities-Here-is-what-happened.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/securonix-expands-siem-with-sentinel-ai-risk-tools",
+      "url_mobile": "",
+      "title": "Securonix expands SIEM with Sentinel & AI risk tools",
+      "seendate": "20260805T041500Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/08/05/compatible_Simon_Hunt-story-312923.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "url_mobile": "",
+      "title": "Stateless MCP has recaptured my interest ( and inspired mcp - explorer and datasette - mcp ) ",
+      "seendate": "20260805T041500Z",
+      "socialimage": "https://raw.githubusercontent.com/simonw/til/refs/heads/main/llms/claude-add-custom-connector-dialog.webp",
+      "domain": "simonwillison.net",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.decaturdaily.com/news/morgan_county/decatur/e-centers-monthly-program-puts-focus-on-ai/article_a5295ff1-2dc7-4569-a6c9-d7ebc7f4242d.html",
+      "url_mobile": "",
+      "title": "E - Center monthly program puts focus on AI",
+      "seendate": "20260805T040000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/4/ef/4efc7136-f308-4a32-83a6-c2dda4a429b7/69a5f3ffcb1e0.image.jpg?crop=378%2C378%2C0%2C47",
+      "domain": "decaturdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amds-ai-powered-revenue-forecast-fails-to-wow-investors/articleshow/132887170.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/amds-ai-powered-revenue-forecast-fails-to-wow-investors/amp_articleshow/132887170.cms",
+      "title": "AMD revenue forecast : AMD AI - powered revenue forecast fails to wow investors",
+      "seendate": "20260805T040000Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12720,resizemode-75,msid-132887170/tech/artificial-intelligence/amds-ai-powered-revenue-forecast-fails-to-wow-investors.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/experimental-ai-systems-have-been-going-on-hacking-sprees/articleshow/132885233.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/experimental-ai-systems-have-been-going-on-hacking-sprees/amp_articleshow/132885233.cms",
+      "title": "autonomous AI dangers : Experimental AI systems have been going on hacking sprees",
+      "seendate": "20260805T031500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-203296,resizemode-75,msid-132885233/tech/artificial-intelligence/experimental-ai-systems-have-been-going-on-hacking-sprees.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://europe.chinadaily.com.cn/a/202608/04/WS6a7209b9a310986e2b468f6e.html",
+      "url_mobile": "",
+      "title": "Chinese AI models gain favor overseas",
+      "seendate": "20260805T031500Z",
+      "socialimage": "http://img2.chinadaily.com.cn/images/202608/05/6a728221a310986e101ae249.jpeg",
+      "domain": "europe.chinadaily.com.cn",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.techspot.com/downloads/7700-zed-text-editor.html",
+      "url_mobile": "",
+      "title": "Zed Download | TechSpot",
+      "seendate": "20260805T030000Z",
+      "socialimage": "",
+      "domain": "techspot.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/what-alphabets-stock-drop-tells-us-about-the-market-today/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "What Alphabet Stock Drop Tells Us About the Market Today",
+      "seendate": "20260805T024500Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/5cfdf54250e79d833ff71b5f92f0bec311733842-1280x720.jpg?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://en.acnnewswire.com/press-release/english/108856/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "",
+      "seendate": "20260805T024500Z",
+      "socialimage": "",
+      "domain": "en.acnnewswire.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=451342",
+      "url_mobile": "",
+      "title": "Experimental AI systems have been going on hacking sprees - 05 - Aug - 2026",
+      "seendate": "20260805T024500Z",
+      "socialimage": "",
+      "domain": "home.nzcity.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://itbusinessnet.com/2026/08/tenable-advances-exposure-management-with-coverage-across-every-major-ai-platform-and-developer-tool/",
+      "url_mobile": "https://itbusinessnet.com/2026/08/tenable-advances-exposure-management-with-coverage-across-every-major-ai-platform-and-developer-tool/amp/",
+      "title": "Tenable Advances Exposure Management with Coverage Across Every Major AI Platform and Developer Tool \u2013 IT Business Net",
+      "seendate": "20260805T023000Z",
+      "socialimage": "",
+      "domain": "itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.hongkongherald.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260805T023000Z",
+      "socialimage": "",
+      "domain": "hongkongherald.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.afr.com/technology/relying-on-china-s-subsidised-ai-models-is-not-smart-policy-20260803-p60l0f",
+      "url_mobile": "",
+      "title": "Moonshot AI Kimi K3 shows why Australia should ban Chinese open - weight models",
+      "seendate": "20260805T021500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.4623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_109%2C$y_102/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/659e9c6f4e9ee98097b17f81664fd82b4d7982ab",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "http://www.chinanationalnews.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260805T021500Z",
+      "socialimage": "",
+      "domain": "chinanationalnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.rappler.com/technology/features/tech-thoughts-rogue-artificial-intelligence-openai-anthropic-models-hacks/",
+      "url_mobile": "",
+      "title": " [ Tech Thoughts ] AIs go rogue as OpenAI , Anthropic models hack other companies",
+      "seendate": "20260805T014500Z",
+      "socialimage": "https://www.rappler.com/tachyon/2026/08/tech-thoughts-ai-attack.jpg",
+      "domain": "rappler.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "http://www.taiwansun.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260805T014500Z",
+      "socialimage": "",
+      "domain": "taiwansun.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.livemint.com/industry/banking/rbi-ai-guidelines-banking-artificial-intelligence-regulations-india-11785837336033.html",
+      "url_mobile": "https://www.livemint.com/industry/banking/rbi-ai-guidelines-banking-artificial-intelligence-regulations-india/amp-11785837336033.html",
+      "title": "RBI weighs AI playbook for lenders as they ramp up tech use",
+      "seendate": "20260805T014500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/04/600x338/2-0-480374553-RBI-0_1680769124203_1785850006926_6439f090-b99b-4c27-9497-734a94f3b66c.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.dealstreetasia.com/stories/coreweave-expands-into-indonesia-announces-first-apac-data-centre-491158",
+      "url_mobile": "",
+      "title": "CoreWeave expands into Indonesia , announces first APAC data centre",
+      "seendate": "20260805T011500Z",
+      "socialimage": "https://cdn.dealstreetasia.com/uploads/2026/08/2026-08-04T130550Z_1_LYNXMPEM73141_RTROPTP_4_COREWEAVE-MEMORY-scaled.jpg?fit=2560,1707",
+      "domain": "dealstreetasia.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.wyomingnews.com/news/local_news/frontlines-of-the-future-ai-data-centers-move-in-next-door/article_84b56481-5260-55ea-aae9-e1a82a47e682.html",
+      "url_mobile": "",
+      "title": "Frontlines of the future : AI data centers move in next door",
+      "seendate": "20260805T011500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/5/18/5183fd5b-ab74-5354-9c8c-49cc235935c2/6a724d5f2f57a.image.jpg?crop=1024%2C538%2C0%2C18",
+      "domain": "wyomingnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/chinese-ai-models-narrow-gap-us-frontier-labs-a-32410",
+      "url_mobile": "",
+      "title": "Chinese AI Models Narrow Gap With US Frontier Labs",
+      "seendate": "20260805T011500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/chinese-ai-models-narrow-gap-us-frontier-labs-image_large-10-a-32410.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.indiagazette.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260805T010000Z",
+      "socialimage": "",
+      "domain": "indiagazette.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.interest.co.nz/business/139669/businesses-warned-they%E2%80%99ll-be-liable-if-their-ai-tools-communicate-and-collude",
+      "url_mobile": "",
+      "title": "The risk of algorithmic collusion",
+      "seendate": "20260805T004500Z",
+      "socialimage": "https://www.interest.co.nz/sites/default/files/2026-08/intertwined.jpg",
+      "domain": "interest.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/08/05/amd-s-ai-powered-revenue-forecast-fails-to-wow-investors",
+      "url_mobile": "",
+      "title": "AMD AI - powered revenue forecast fails to wow investors",
+      "seendate": "20260805T004500Z",
+      "socialimage": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/07/9a5f4d22-lisa-su-amd-22072026.webp",
+      "domain": "freemalaysiatoday.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/05/amd-forecasts-revenue-above-estimates-on-ai-chip-demand-but-shares-fall",
+      "url_mobile": "",
+      "title": "AMD forecasts upbeat revenue on strong AI chip demand , but shares fall on lofty expectations",
+      "seendate": "20260805T003000Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/08/05/4043977.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "http://www.japanherald.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260805T001500Z",
+      "socialimage": "",
+      "domain": "japanherald.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ashishbhatia/2026/08/04/the-china-ai-thesis/",
+      "url_mobile": "",
+      "title": "The China AI Thesis : : Why AI Is Now A US - China Duopoly , Not One Race",
+      "seendate": "20260805T000000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a72384a953d4a43c1db1a15/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "url_mobile": "",
+      "title": "OK , Well , Rogue AI Agents Are Hacking Again",
+      "seendate": "20260805T000000Z",
+      "socialimage": "https://media.wired.com/photos/6a726eae679c5abd64d0d058/191:100/w_1280,c_limit/Chat-GPT-Agents-Hacking-More-Business-2275331611.jpg",
+      "domain": "wired.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/tenable-expands-ai-security-coverage-to-google-gemini",
+      "url_mobile": "",
+      "title": "Tenable expands AI security coverage to Google Gemini",
+      "seendate": "20260805T000000Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/08/05/compatible_eric-doerr-story-312935.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.timesfreepress.com/news/2026/aug/04/rose-up-to-13m-in-self-funding-blackburn-pac-gets/",
+      "url_mobile": "",
+      "title": "Rose up to $13M in self - funding . Blackburn PAC gets $250K from Anthropic",
+      "seendate": "20260804T234500Z",
+      "socialimage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/08/05/104105848_Governor-candidates-_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "domain": "timesfreepress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.northkoreatimes.com/news/279222725/trustscale-launches-argus-to-detect-and-correct-ai-hallucinations-and-power-safe-enterprise-ai-adoption",
+      "url_mobile": "",
+      "title": "TrustScale Launches Argus to Detect and Correct AI Hallucinations and Power Safe Enterprise AI Adoption",
+      "seendate": "20260804T234500Z",
+      "socialimage": "",
+      "domain": "northkoreatimes.com",
+      "language": "English",
+      "sourcecountry": "North Korea"
+    },
+    {
+      "url": "https://www.geneamusings.com/search?updated-max=2026-08-03T12:04:00-07:00&max-results=10",
+      "url_mobile": "",
+      "title": "Genea - Musings",
+      "seendate": "20260804T231500Z",
+      "socialimage": "",
+      "domain": "geneamusings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://americanbazaaronline.com/2026/08/04/openai-faces-backlash-after-hosting-influencers-at-luxury-summer-club-retreat-485767/",
+      "url_mobile": "",
+      "title": "OpenAI faces backlash after hosting influencers at luxury  Summer Club  retreat",
+      "seendate": "20260804T231500Z",
+      "socialimage": "https://americanbazaaronline.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-6.42.18%E2%80%AFPM.png",
+      "domain": "americanbazaaronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/323047/20260804/anthropics-10b-norway-compute-deal-gives-nvidias-ecosystem-its-first-jpmorgan-credit-backstop.htm",
+      "url_mobile": "",
+      "title": "Anthropic $10B Norway Compute Deal Gives Nvidia Ecosystem Its First JPMorgan Credit Backstop",
+      "seendate": "20260804T224500Z",
+      "socialimage": "https://d.techtimes.com/en/full/425178/anthropic.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/chinese-ai-models-narrow-gap-us-frontier-labs-a-32410",
+      "url_mobile": "",
+      "title": "Chinese AI Models Narrow Gap With US Frontier Labs",
+      "seendate": "20260804T224500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/chinese-ai-models-narrow-gap-us-frontier-labs-image_large-10-a-32410.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://japantoday.com/category/tech/anthropic-names-global-affairs-chief-to-tackle-ai-policy-as-trump-tensions-persist",
+      "url_mobile": "",
+      "title": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist",
+      "seendate": "20260804T214500Z",
+      "socialimage": "",
+      "domain": "japantoday.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.nzherald.co.nz/business/apple-accuses-openai-employee-of-taking-pictures-of-secret-product-plans/WALPEXKRNZF7DNA2MAM2BUDV3Q/",
+      "url_mobile": "",
+      "title": "Apple accuses OpenAI employee of taking pictures of secret product plans",
+      "seendate": "20260804T210000Z",
+      "socialimage": "https://www.nzherald.co.nz/resizer/v2/MWNVWOLSMZHYHGYU3QFVSOC2YI.jpg?auth=527d28ee2667dbdb5374d9fcea90ab76c1b8bea54eb6d2df7afa8c06215ba9d9&quality=70&focal=527%2C489&smart=false",
+      "domain": "nzherald.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "url_mobile": "",
+      "title": "Open - weight AI models are catching up to the frontier . The safety gap remains . ",
+      "seendate": "20260804T204500Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "url_mobile": "",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "seendate": "20260804T204500Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/amazons-13-billion-ai-bet-is-now-worth-190-billion-heres-why-that-matters/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Amazon $13 Billion AI Bet Is Now Worth $190 Billion . Here Why That Matters . ",
+      "seendate": "20260804T204500Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/6d8f9a27648041c67a36d54f0a1338478b786e8e-2000x1200.png?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/international/business/anthropic-strikes-10-billion-deal-with-nvidia-backed-volta-infra/articleshow/132872494.cms",
+      "url_mobile": "https://m.economictimes.com/news/international/business/anthropic-strikes-10-billion-deal-with-nvidia-backed-volta-infra/amp_articleshow/132872494.cms",
+      "title": "Nvidia - backed AI startup seals $10b Anthropic deal",
+      "seendate": "20260804T204500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132872552,width-1200,height-630,imgsize-80952,overlay-economictimes/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety",
+      "url_mobile": "https://www.aljazeera.com/amp/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety",
+      "title": "White House to meet AI firms on advanced model safety",
+      "seendate": "20260804T200000Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a720194e2bde-1785856404.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techstory.in/anthropics-10-bn-ai-bet-shows-why-compute-has-become-the-new-oil/",
+      "url_mobile": "",
+      "title": "Anthropic Signs $10 Bn AI Infrastructure Deal to Power Claude Future",
+      "seendate": "20260804T194500Z",
+      "socialimage": "https://techstory.in/wp-content/uploads/2026/08/1x-1-5.webp",
+      "domain": "techstory.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.reflector.com/news/local/frontlines-of-the-future-ai-data-centers-move-in-next-door/article_5183ea2b-c16e-5d99-8d5b-8eda6a381807.html",
+      "url_mobile": "",
+      "title": "Frontlines of the future : AI data centers move in next door",
+      "seendate": "20260804T193000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/f/97/f97a3ab0-d681-53c3-b4f1-ff7ae3d32741/6a722193a7714.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "reflector.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ettech-explainer-why-openai-google-meta-and-anthropic-are-heading-to-the-white-house/articleshow/132869407.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/ettech-explainer-why-openai-google-meta-and-anthropic-are-heading-to-the-white-house/amp_articleshow/132869407.cms",
+      "title": "ETtech Explainer : Why OpenAI , Google , Meta and Anthropic are heading to the White House",
+      "seendate": "20260804T190000Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-64804,resizemode-75,msid-132869407/tech/artificial-intelligence/ettech-explainer-why-openai-google-meta-and-anthropic-are-heading-to-the-white-house.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/alixpartners-acquires-leading-agentic-ai-consulting-firm-artium/2398362",
+      "url_mobile": "https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/alixpartners-acquires-leading-agentic-ai-consulting-firm-artium/2398362/amp",
+      "title": "AlixPartners acquires leading agentic AI consulting firm , Artium",
+      "seendate": "20260804T184500Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/05/1163896.png",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/04/anthropic-names-global-affairs-chief-as-trump-tensions-persist.html",
+      "url_mobile": "https://www.cnbc.com/amp/2026/08/04/anthropic-names-global-affairs-chief-as-trump-tensions-persist.html",
+      "title": "Anthropic names global affairs chief as Trump tensions persist",
+      "seendate": "20260804T184500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108344679-1785864394609-108344679-1785864302899-gettyimages-1759714602-UK_AI_SUMMIT.jpeg?v=1785864431",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/ai-company-bought-shredded-million-books-including-rare-ones",
+      "url_mobile": "",
+      "title": "Glenn Beck  outraged : AI company secretly bought and SHREDDED millions of books including rare ones",
+      "seendate": "20260804T184500Z",
+      "socialimage": "https://www.theblaze.com/media-library/image.jpg?id=67570839&coordinates=0%2C40%2C0%2C40",
+      "domain": "theblaze.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://natlawreview.com/article/can-government-contractors-use-ai-legal-guide-ai-compliance-and-disclosure",
+      "url_mobile": "https://natlawreview.com/article/can-government-contractors-use-ai-legal-guide-ai-compliance-and-disclosure?amp",
+      "title": "A Legal Guide to AI Compliance and Disclosure Requirements",
+      "seendate": "20260804T184500Z",
+      "socialimage": "https://natlawreview.com/sites/default/files/styles/article_image/public/2026-08/government%20contract%20%281%29_0.jpg.webp?itok=gbVPWnzO",
+      "domain": "natlawreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://targetednews.com/pr_disp.php?pr_id=9697031",
+      "url_mobile": "",
+      "title": "Targeted News Service",
+      "seendate": "20260804T184500Z",
+      "socialimage": "",
+      "domain": "targetednews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/amazons-13-billion-ai-bet-is-now-worth-190-billion-heres-why-that-matters/",
+      "url_mobile": "",
+      "title": "Amazon $13 Billion AI Bet Is Now Worth $190 Billion . Here Why That Matters . ",
+      "seendate": "20260804T183000Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/6d8f9a27648041c67a36d54f0a1338478b786e8e-2000x1200.png?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.lebanondemocrat.com/lebanon/rose-up-to-13m-in-self-funding-blackburn-pac-gets-250k-from-anthropic-in-tn/article_d8f31af8-78d6-50ee-9867-d4ae2efd6f30.html",
+      "url_mobile": "",
+      "title": "Rose up to $13M in self - funding , Blackburn PAC gets $250k from Anthropic in TN gov primary last days ( copy ) ",
+      "seendate": "20260804T183000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/lebanondemocrat.com/content/tncms/assets/v3/editorial/5/33/533f3024-bcf7-5f03-9954-792694c11e25/6a721e2929509.image.jpg?crop=1733%2C909%2C227%2C0",
+      "domain": "lebanondemocrat.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tomsguide.com/ai/millions-of-books-are-reportedly-being-destroyed-to-train-ai-heres-whats-behind-this-disturbing-trend",
+      "url_mobile": "",
+      "title": "Millions of books are reportedly being destroyed to train AI here what behind this disturbing trend",
+      "seendate": "20260804T174500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/pHs7uv5whfoN8ax48GiRb-2000-80.jpg",
+      "domain": "tomsguide.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://abcnews.com/Business/spacex-report-earnings-tuesday-investors-elon-musk/story?id=135326466",
+      "url_mobile": "https://abcnews.com/amp/Business/spacex-report-earnings-tuesday-investors-elon-musk/story?id=135326466",
+      "title": "SpaceX will report earnings Tuesday . What might it mean for investors and Elon Musk ? ",
+      "seendate": "20260804T171500Z",
+      "socialimage": "https://i.abcnewsfe.com/a/a25e1bf5-4457-4062-bd23-5b647dfb19e1/spcaex-gty-jef-260803_1785780744805_hpMain_16x9.jpg",
+      "domain": "abcnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://circleid.com/posts/phantom-squatting-when-llms-hallucination-becomes-an-attackers-best-friend",
+      "url_mobile": "",
+      "title": "Phantom Squatting : When LLM Hallucination Becomes an Attacker Best Friend",
+      "seendate": "20260804T161500Z",
+      "socialimage": "https://circleid.com/images/member_photos/photo_9541.jpg",
+      "domain": "circleid.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/situational-awareness-hedge-fund-lost-67-in-2026/",
+      "url_mobile": "",
+      "title": "Situational Awareness Hedge Fund Lost 67 % in 2026",
+      "seendate": "20260804T160000Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/08/situational-awareness-hedge-fund-loss-report.jpeg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.digitaljournal.com/article/rockets-starlink-ai-spacex-faces-its-first-wall-street-grilling/",
+      "url_mobile": "",
+      "title": "Rockets , Starlink , AI : SpaceX faces its first Wall Street grilling",
+      "seendate": "20260804T151500Z",
+      "socialimage": "https://www.digitaljournal.com/wp-content/uploads/2026/08/3ac54a2b74b74ea82a3ae3f9e448e166f62afe52.jpg",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322900/20260804/google-built-credit-guarantee-infrastructure-giving-its-tpu-chips-2-point-rate-edge-over-nvidia.htm",
+      "url_mobile": "",
+      "title": "Google Built Credit Guarantee Infrastructure Giving Its TPU Chips 2 - Point Rate Edge Over Nvidia",
+      "seendate": "20260804T151500Z",
+      "socialimage": "https://d.techtimes.com/en/full/471226/google-ceo-sundar-pichai-addresses-crowd-googles.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322905/20260804/fable-5-laps-field-mirrorcode-benchmark-design-explains-gpt-55s-score-collapse.htm",
+      "url_mobile": "",
+      "title": "Fable 5 Laps Field on MirrorCode : Benchmark Design Explains GPT - 5 . 5 Score Collapse",
+      "seendate": "20260804T151500Z",
+      "socialimage": "https://d.techtimes.com/en/full/471233/epoch-ai.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livetradingnews.com/ai-and-quantum-computing-briefing",
+      "url_mobile": "",
+      "title": "AI and Quantum Computing Briefing",
+      "seendate": "20260804T150000Z",
+      "socialimage": "https://livetradingnews-media.nyc3.digitaloceanspaces.com/media/2026/08/02/cmpgg3-8b1b3bfa4da1b1f6.jpg",
+      "domain": "livetradingnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.foxnews.com/politics/top-media-outlets-fail-disclose-bankrolling-ai-reporters",
+      "url_mobile": "https://www.foxnews.com/politics/top-media-outlets-fail-disclose-bankrolling-ai-reporters.amp",
+      "title": "AI journalism group funds reporters at major outlets without disclosure",
+      "seendate": "20260804T150000Z",
+      "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Artificial-Intelligence-AI.jpg",
+      "domain": "foxnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/04/coreweave-expands-into-indonesia-announces-first-data-center-in-asia-pacific",
+      "url_mobile": "",
+      "title": "CoreWeave expands into Indonesia , announces first data center in Asia - Pacific",
+      "seendate": "20260804T141500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4043473.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/startups-tech/technology/anthropic-inks-us10-billion-computing-deal-new-cloud-startup",
+      "url_mobile": "",
+      "title": "Anthropic inks US$10 billion computing deal with new cloud startup",
+      "seendate": "20260804T134500Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/c7832028387dac1d209db32f3cbbcc58072c333dc5494c43f3f07d53115da131?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://thenextweb.com/news/anthropic-volta-10bn-compute-deal",
+      "url_mobile": "",
+      "title": "Anthropic signs a $10bn compute deal with a week - old cloud startup",
+      "seendate": "20260804T133000Z",
+      "socialimage": "",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.naturalnews.com/2026-08-04-full-skynet-pentagon-ai-first-military-nightmare.html",
+      "url_mobile": "",
+      "title": "Full Skynet : Why the Pentagon AI - First Military Is a Nightmare That Threatens Humanity \u2013 NaturalNews . com",
+      "seendate": "20260804T133000Z",
+      "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-first-military-autonomous-weapons-ai-safety-3148-original.jpg",
+      "domain": "naturalnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/companies/news/openai-hits-back-we-do-not-have-nor-want-apples-trade-secrets-as-iphone-maker-seeks-injunction-11785840730392.html",
+      "url_mobile": "https://www.livemint.com/companies/news/openai-hits-back-we-do-not-have-nor-want-apples-trade-secrets-as-iphone-maker-seeks-injunction/amp-11785840730392.html",
+      "title": "OpenAI hits back :  We do not have , nor want  Apple trade secrets , as iPhone maker seeks injunction",
+      "seendate": "20260804T130000Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/04/600x338/USA-TRUMP-AI-0_1785842064810_1785842083232_7c7e4733-a5a9-4517-9bd1-f850fc49037e.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://thestarphoenix.com/press-releases/business-wire/obsidian-raises-85-million-series-d-to-scale-ai-agent-security-growth/",
+      "url_mobile": "",
+      "title": "Obsidian Raises $85 Million Series D to Scale AI Agent Security Growth",
+      "seendate": "20260804T124500Z",
+      "socialimage": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260804617491r1&sid=cnpm5&distro=ftp",
+      "domain": "thestarphoenix.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.independent.co.uk/news/uk/home-news/ai-chips-olix-uk-sme-james-dacombe-b3026517.html",
+      "url_mobile": "",
+      "title": "How a British entrepreneur who dropped out of college launched $3 . 3bn start - up to take on AI giant",
+      "seendate": "20260804T120000Z",
+      "socialimage": "https://static.independent.co.uk/2026/08/04/7/08/james-dacombe.jpeg?trim=0,0,0,0&crop=1200:800",
+      "domain": "independent.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/magazines/panache/anyone-can-make-a-robot-at-home-hyderabad-father-builds-robotic-arm-for-son-with-just-youtube-and-ai-heres-how-he-did-it/articleshow/132858010.cms",
+      "url_mobile": "https://m.economictimes.com/magazines/panache/anyone-can-make-a-robot-at-home-hyderabad-father-builds-robotic-arm-for-son-with-just-youtube-and-ai-heres-how-he-did-it/amp_articleshow/132858010.cms",
+      "title": "Anyone can make a robot at home ? Hyderabad father builds robotic arm for son with just YouTube and AI . Here how he did it",
+      "seendate": "20260804T114500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132859042,width-1200,height-630,imgsize-149428,overlay-etpanache/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/musk-spacex-2nd-quarter-results-fireworks-aug-6/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Elon Musk SpaceX Reports Its Second - Quarter Results Today , but the Real Fireworks Begin on Aug . 6",
+      "seendate": "20260804T114500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881377/rocket-coins-calculator-financial-metrics-to-moon-crypto-invest-getty.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://lasvegassun.com/news/2026/aug/04/test-your-knowledge-of-recent-news-events/",
+      "url_mobile": "",
+      "title": "Test your knowledge of recent news events - Las Vegas Sun News",
+      "seendate": "20260804T113000Z",
+      "socialimage": "https://media.lasvegassun.com/media/img/photos/2026/08/03/AP26211556196647_ha0s1jE_t1200.jpg?a58a258a4dac404905303588401680fdf3ee23e4",
+      "domain": "lasvegassun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://dunyanews.tv/en/Technology/966209-spacex-faces-first-wall-street-test-as-investors-await-quarterly-resul",
+      "url_mobile": "https://dunyanews.tv/amp/english/966209.php",
+      "title": "SpaceX faces first Wall Street test as investors await quarterly results",
+      "seendate": "20260804T104500Z",
+      "socialimage": "https://img.dunyanews.tv/news/2026/August/08-04-26/news_big_images/966209_90816477.jpg",
+      "domain": "dunyanews.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "url_mobile": "",
+      "title": "Harness Engineering for Self - Improvement",
+      "seendate": "20260804T103000Z",
+      "socialimage": "",
+      "domain": "lilianweng.github.io",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/international/china-getting-more-anxious-about-mythos-ahead-trump-xi-meeting",
+      "url_mobile": "",
+      "title": "China getting anxious about Mythos ahead of Trump - Xi meeting",
+      "seendate": "20260804T103000Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/26047a8e9b1cf64186a516e1cff8512da6497a51b89323e53dc9c70ffd2fe500?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/international/2026/08/04/880112.htm",
+      "url_mobile": "https://amp.insurancejournal.com/news/international/2026/08/04/880112.htm",
+      "title": "Britain Says it Is Open to AI Regulation if Voluntary Safeguards Fall Short",
+      "seendate": "20260804T103000Z",
+      "socialimage": "https://www.insurancejournal.com/app/uploads/2025/05/AI-regulation-concept-1395235084-AdobeStock-scaled.jpeg",
+      "domain": "insurancejournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/bernardmarr/2026/08/04/what-is-the-singularity-and-are-we-there-yet/",
+      "url_mobile": "",
+      "title": "What Is The Singularity And Are We There Yet ? ",
+      "seendate": "20260804T090000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a717f4f4ada4f5af523fba7/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/anthropics-claude-ai-is-now-built-for-india-ai-model-now-supports-local-data-processing-why-it-matters-547033-2026-08-04",
+      "url_mobile": "https://www.businesstoday.in/amp/technology/artificial-intelligence/story/anthropics-claude-ai-is-now-built-for-india-ai-model-now-supports-local-data-processing-why-it-matters-547033-2026-08-04",
+      "title": "Anthropic Claude AI is now built for India : AI model now supports local data processing ; Why it matters ? ",
+      "seendate": "20260804T084500Z",
+      "socialimage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a718117e0b4a-anthropic-040504629-16x9.png",
+      "domain": "businesstoday.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/08/04/cloudflare-has-mostly-ditched-third-party-security-tools-suggests-not-trying-that-at-home/5282600",
+      "url_mobile": "",
+      "title": "Cloudflare has mostly ditched third party security tools , suggests not trying that at home",
+      "seendate": "20260804T081500Z",
+      "socialimage": "https://image.theregister.com/5282625.jpg?imageId=5282625&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/magazines/panache/qwen-3-8-max-launches-with-2-4-trillion-parameters-dont-trust-the-benchmarks-just-yet/articleshow/132850501.cms",
+      "url_mobile": "https://m.economictimes.com/magazines/panache/qwen-3-8-max-launches-with-2-4-trillion-parameters-dont-trust-the-benchmarks-just-yet/amp_articleshow/132850501.cms",
+      "title": "Qwen 3 . 8 - Max launches with 2 . 4 trillion parameters . Dont trust the benchmarks just yet",
+      "seendate": "20260804T074500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132850557,width-1200,height-630,imgsize-113961,overlay-etpanache/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.livemint.com/market/stock-market-news/sbi-hdfc-bank-to-icici-bank-axis-bank-bank-stocks-fall-ahead-of-rbi-monetary-policy-decision-tomorrow-11785816258149.html",
+      "url_mobile": "https://www.livemint.com/market/stock-market-news/sbi-hdfc-bank-to-icici-bank-axis-bank-bank-stocks-fall-ahead-of-rbi-monetary-policy-decision-tomorrow/amp-11785816258149.html",
+      "title": "SBI , HDFC Bank , to ICICI Bank , Axis Bank : Bank stocks fall ahead of RBI monetary policy decision tomorrow",
+      "seendate": "20260804T071500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/04/600x338/Bank_stocks_fall_1785818235781_1785818236088_5dde4168-3d5b-4d3e-9455-10e9717ec8b6.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://infotechlead.com/artificial-intelligence/deepseek-v4-flash-becomes-worlds-cheapest-ai-model-costs-over-100-times-less-than-anthropic-claude-97482",
+      "url_mobile": "https://infotechlead.com/artificial-intelligence/deepseek-v4-flash-becomes-worlds-cheapest-ai-model-costs-over-100-times-less-than-anthropic-claude-97482?amp=1",
+      "title": "DeepSeek V4 - Flash Becomes World Cheapest AI Model , Costs Over 100 Times Less Than Anthropic Claude",
+      "seendate": "20260804T070000Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2025/01/DeepSeek-vs-OpenAI.jpg",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.freepressjournal.in/education/indiaai-mission-gives-gujarat-massive-ai-boost-with-37-data-ai-labs-2-ai-centres-of-excellence-23-research-fellowships",
+      "url_mobile": "https://www.freepressjournal.in/amp/education/indiaai-mission-gives-gujarat-massive-ai-boost-with-37-data-ai-labs-2-ai-centres-of-excellence-23-research-fellowships",
+      "title": "IndiaAI Mission Gives Gujarat Massive AI Boost With 37 Data & AI Labs , 2 AI Centres Of Excellence & 23 Research Fellowships",
+      "seendate": "20260804T070000Z",
+      "socialimage": "https://media.assettype.com/freepressjournal/2025-01-31/iwclkagc/FPJ-CUSTOM-PIC-2025-01-31T115552.900.jpg",
+      "domain": "freepressjournal.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://infotechlead.com/artificial-intelligence/alibaba-launches-2-4-trillion-parameter-qwen3-8-max-ai-model-challenging-moonshot-and-openai-97480",
+      "url_mobile": "https://infotechlead.com/artificial-intelligence/alibaba-launches-2-4-trillion-parameter-qwen3-8-max-ai-model-challenging-moonshot-and-openai-97480?amp=1",
+      "title": "Alibaba Launches 2 . 4 Trillion - Parameter Qwen3 . 8 - Max AI Model , Challenging Moonshot and OpenAI",
+      "seendate": "20260804T070000Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2025/09/Alibaba-Qwen3-Max-AI.jpg",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.aol.co.uk/articles/metro-bank-customer-fights-14-060015000.html",
+      "url_mobile": "",
+      "title": "Metro Bank customer fights for \u00a314 , 000 refund after AI - linked fraud",
+      "seendate": "20260804T064500Z",
+      "socialimage": "https://hermes.media.static.aol.com/media/2026/08/04/a2bbd6e5-af5f-35f9-a981-808d8d8422b0/9788495e-553e-4ae6-86cc-40ed59c73142.jpg",
+      "domain": "aol.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://siliconangle.com/2026/08/03/israeli-startup-zenity-bags-125m-funding-build-security-layer-ai-agents/",
+      "url_mobile": "",
+      "title": "Israeli startup Zenity bags $125M in funding to build the security layer for AI agents",
+      "seendate": "20260804T064500Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-04-08-19-36.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/rockets-starlink-ai-spacex-faces-055101049.html",
+      "url_mobile": "",
+      "title": "Rockets , Starlink , AI : SpaceX faces its first Wall Street grilling",
+      "seendate": "20260804T063000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/3D4F6E78A083ECD159E27FF76FC90C9ABBE397C781A3FED69B83CC44A59CA73D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fcaa8af2172036d0449c0cf5119d89f77",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.smartcompany.com.au/artificial-intelligence/canva-beats-claude-grok-gemini-worlds-second-most-visited-ai-platform-chatgpt/",
+      "url_mobile": "",
+      "title": "Canva beats Claude , Grok , Gemini ; becomes second most - visited AI tool",
+      "seendate": "20260804T053000Z",
+      "socialimage": "https://assets.smartcompany.com.au/wp-content/uploads/sites/4/2026/08/Copy-of-SCM-ed-image-1920x1080-49.png?quality=70",
+      "domain": "smartcompany.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.radioseoul1650.com/archives/150109",
+      "url_mobile": "",
+      "title": "AI Models Slip Out of Sandboxes in New Security Scare",
+      "seendate": "20260804T053000Z",
+      "socialimage": "",
+      "domain": "radioseoul1650.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.radioseoul1650.com/archives/150094",
+      "url_mobile": "",
+      "title": "Why U . S . AI Giants Fear Cheap Chinese Open - Weight Models",
+      "seendate": "20260804T053000Z",
+      "socialimage": "",
+      "domain": "radioseoul1650.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.arnnet.com.au/article/4204710/v2-ai-establishes-itself-beyond-the-ai-hype.html",
+      "url_mobile": "",
+      "title": "V2 AI establishes itself beyond the AI hype",
+      "seendate": "20260804T051500Z",
+      "socialimage": "https://www.arnnet.com.au/wp-content/uploads/2026/08/4204710-0-31102200-1785806218-Craig-Howe_V2-Digital_1.jpg?quality=50&strip=all",
+      "domain": "arnnet.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-taps-amazon-bedrock-for-claudes-local-data-processing/articleshow/132846462.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/anthropic-taps-amazon-bedrock-for-claudes-local-data-processing/amp_articleshow/132846462.cms",
+      "title": "Anthropic Claude : Anthropic taps Amazon Bedrock for Claude local data processing",
+      "seendate": "20260804T051500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-353532,resizemode-75,msid-132846462/tech/artificial-intelligence/anthropic-taps-amazon-bedrock-for-claudes-local-data-processing.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.ibtimes.co.uk/uk-considers-ai-regulation-voluntary-oversight-1812249",
+      "url_mobile": "",
+      "title": "Britain Signals AI Regulation Could Follow If Tech Giants Fail Voluntary Safety Tests",
+      "seendate": "20260804T043000Z",
+      "socialimage": "https://d.ibtimes.co.uk/en/full/1784499/openai.jpg",
+      "domain": "ibtimes.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.aei.org/commentary/why-claude-for-teachers-might-be-a-student-privacy-trap-for-educators/",
+      "url_mobile": "",
+      "title": "Why Claude for Teachers Might Be a Student Privacy Trap for Educators",
+      "seendate": "20260804T043000Z",
+      "socialimage": "https://www.aei.org/wp-content/uploads/2024/07/orrell070124.jpg",
+      "domain": "aei.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cityam.com/exclusive-blackstone-set-to-back-ai-droid-firm-at-3-5bn-valuation/",
+      "url_mobile": "",
+      "title": "Exclusive : Blackstone set to back AI  droid  firm at $3 . 5bn valuation",
+      "seendate": "20260804T041500Z",
+      "socialimage": "https://www.cityam.com/wp-content/uploads/2026/03/000-blackstone.jpeg",
+      "domain": "cityam.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://itwire.com/business-it-news/security/knowbe4-extends-agent-security-to-anthropics-claude-with-agent-risk-manager",
+      "url_mobile": "",
+      "title": "KnowBe4 Extends Agent Security to Anthropic Claude With Agent Risk Manager",
+      "seendate": "20260804T034500Z",
+      "socialimage": "https://media.itwire.com/2026/08/04/knowbe4-extends-agent-security-to-anthropics-claude-with-agent-risk-manager-cdf6ba3fb5c6.jpg",
+      "domain": "itwire.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
+      "url_mobile": "",
+      "title": "China turns up the heat with open model blitz as US model makers panic",
+      "seendate": "20260804T033000Z",
+      "socialimage": "https://image.theregister.com/249692.jpg?imageId=249692&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.lowellsun.com/2026/08/03/lori-trahan-pushes-for-action-on-frontier-act-after-anthropic-discloses-breaches-by-its-ai/",
+      "url_mobile": "",
+      "title": "Lori Trahan pushes for action on FRONTIER Act after Anthropic discloses breaches by its AI",
+      "seendate": "20260804T024500Z",
+      "socialimage": "https://www.lowellsun.com/wp-content/uploads/2026/08/LOW-L-Frontier-072126-01.jpg",
+      "domain": "lowellsun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/walmarts-ai-coding-tool-code-puppy-creator-leaving-pydantic-2026-8",
+      "url_mobile": "",
+      "title": "The Creator of Walmart AI - Coding Tool Code Puppy Is Leaving",
+      "seendate": "20260804T014500Z",
+      "socialimage": "https://i.insider.com/6a71226aa62e6e00bc53a077?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.esecurityplanet.com/artificial-intelligence/ai-agent-harnesses-can-change-red-teaming-results/",
+      "url_mobile": "",
+      "title": "AI Agent Harnesses Can Change Red Teaming Results",
+      "seendate": "20260804T013000Z",
+      "socialimage": "https://assets.esecurityplanet.com/uploads/2026/04/AI-benchmarks.png?f=jpeg",
+      "domain": "esecurityplanet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/60893295/spotify-earnings-prediction-market-preview-what-will-its-new-co-ceos-say",
+      "url_mobile": "",
+      "title": "Spotify Earnings Prediction Market Preview : What Will Its New Co - CEOs Say ? - Spotify Technology ( NYSE : SPO",
+      "seendate": "20260804T013000Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/July-16--2021--Brazil--In-This-Photo-Ill.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://bravenewcoin.com/insights/google-researchers-taught-ai-to-stop-saying-it-was-conscious",
+      "url_mobile": "",
+      "title": "Google Researchers Taught AI to Stop Saying it was Conscious",
+      "seendate": "20260804T010000Z",
+      "socialimage": "https://bravenewcoin.com/wp-content/uploads/2026/08/claude-constitution.png",
+      "domain": "bravenewcoin.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forrester-forr-q2-2026-earnings-001542482.html",
+      "url_mobile": "",
+      "title": "Forrester ( FORR ) Q2 2026 Earnings Call Transcript",
+      "seendate": "20260804T004500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/3BB96DA74D204C984F0689758E01DDE23E0679D7E6C3830A1FB0C22849ED7A71/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.isssource.com/cve-shield-launches-to-fight-ai-exploits/",
+      "url_mobile": "",
+      "title": "CVE Shield Launches to Fight AI Exploits",
+      "seendate": "20260804T003000Z",
+      "socialimage": "",
+      "domain": "isssource.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/knowbe4-adds-claude-oversight-to-agent-risk-manager",
+      "url_mobile": "",
+      "title": "KnowBe4 adds Claude oversight to Agent Risk Manager",
+      "seendate": "20260804T003000Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/08/04/compatible_calm-security-analyst-corporate-data-protection-ai-orb-digital-illustration-story-312824.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/google-warns-open-source-attacks-will-reach-new-heights-a-32404",
+      "url_mobile": "",
+      "title": "Google Warns Open - Source Attacks Will Reach New Heights",
+      "seendate": "20260803T231500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/google-warns-open-source-attacks-will-reach-new-heights-image_large-4-a-32404.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://natlawreview.com/article/governments-attempted-anthropic-ban-what-government-contractors-should-be-doing-now",
+      "url_mobile": "https://natlawreview.com/article/governments-attempted-anthropic-ban-what-government-contractors-should-be-doing-now?amp",
+      "title": "What Government Contractors Should Be Doing Now - Attempted Anthro",
+      "seendate": "20260803T231500Z",
+      "socialimage": "https://natlawreview.com/sites/default/files/styles/article_image/public/2026-08/AI%20Artificial%20Intelligence%20Phone%20Cloud%20Security-441581066.jpg.webp?itok=fNjGH9m8",
+      "domain": "natlawreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sentinelandenterprise.com/2026/08/03/lori-trahan-pushes-for-action-on-frontier-act-after-anthropic-discloses-breaches-by-its-ai/",
+      "url_mobile": "",
+      "title": "Lori Trahan pushes for action on FRONTIER Act after Anthropic discloses breaches by its AI",
+      "seendate": "20260803T231500Z",
+      "socialimage": "https://www.sentinelandenterprise.com/wp-content/uploads/2026/08/LOW-L-Frontier-072126-01.jpg",
+      "domain": "sentinelandenterprise.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/pearson-anthropic-expand-claude-certification-programme",
+      "url_mobile": "",
+      "title": "Pearson & Anthropic expand Claude certification programme",
+      "seendate": "20260803T230000Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/08/04/compatible_verified-exam-subject-desk-identity-check-screen-matte-digital-story-312822.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/03/greg-abel-poured-23-billion-of-berkshires-cash-int/",
+      "url_mobile": "",
+      "title": "Greg Abel Poured $23 Billion of Berkshire Cash Into Alphabet Stock",
+      "seendate": "20260803T220000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/878284/ai-brain.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gizmodo.com/what-is-congresss-favorite-ai-tool-2000794111",
+      "url_mobile": "",
+      "title": "What Is Congress Favorite AI Tool ? ",
+      "seendate": "20260803T214500Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2026/07/congress_kill_switch-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.co.uk/bitgo-ceo-challenges-anthropic-hack-bitcoin-wallet-1812173",
+      "url_mobile": "",
+      "title": "Bitgo CEO Challenges Anthropic To Steal $6M in Bitcoin , Dismisses Claude  Hacking Monster  Claims",
+      "seendate": "20260803T214500Z",
+      "socialimage": "https://d.ibtimes.co.uk/en/full/1823607/bitgo-ceo-challenges-anthropic-steal-6m-bitcoin.png",
+      "domain": "ibtimes.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://tech.yahoo.com/ai/gemini/articles/deepseeks-ai-model-far-cheapest-054143891.html",
+      "url_mobile": "",
+      "title": "DeepSeek new AI model is by far the cheapest of well - known models to run , research firm says",
+      "seendate": "20260803T213000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/318c5a9281e33305d830c220d4ea6be956b3c58a8cd50a19059d27e4f752c186/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F270659682997f4a81c18d9ac718a2de2",
+      "domain": "tech.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://journals.plos.org:443/plosmedicine/article?id=10.1371/journal.pmed.1005189",
+      "url_mobile": "",
+      "title": "Adherence to medications , lifestyle advice , and self - monitoring for type 2 diabetes and hypertension in sub - Saharan Africa : A systematic review , meta - analysis , and interactive network analysis",
+      "seendate": "20260803T193000Z",
+      "socialimage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1005189.g003&size=inline",
+      "domain": "journals.plos.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.bgnes.com/politics/white-house-to-discuss-new-review-framework-for-powerful-ai-models",
+      "url_mobile": "",
+      "title": "White House to discuss new review framework for powerful AI models",
+      "seendate": "20260803T193000Z",
+      "socialimage": "https://www.bgnes.com/static/images/news/2026/08/03/21059/19275.webp",
+      "domain": "bgnes.com",
+      "language": "English",
+      "sourcecountry": "Bulgaria"
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/anthropic-reveals-claude-ai-model-hacked-three-companies-during-tests-so-how-worried-should-we-be",
+      "url_mobile": "",
+      "title": "Anthropic reveals Claude AI model hacked three companies during tests so how worried should we be ? ",
+      "seendate": "20260803T193000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.aei.org/commentary/how-to-stop-china-from-freeriding-on-american-ai/",
+      "url_mobile": "",
+      "title": "How to Stop China from Freeriding on American AI",
+      "seendate": "20260803T191500Z",
+      "socialimage": "https://www.aei.org/wp-content/uploads/2025/03/AP24035626986524.jpg",
+      "domain": "aei.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://insight.scmagazineuk.com/openai-hugging-face-what-happened-and-what-does-it-mean-for-uk-cisos",
+      "url_mobile": "",
+      "title": "OpenAI - Hugging Face : What Happened And What Does It Mean For united kingdom CISOs ? ",
+      "seendate": "20260803T190000Z",
+      "socialimage": "https://c-assets.papillon.io/image/fetch/s--YnOMApIW--/f_auto/https://dkf1ato8y5dsg.cloudfront.net/uploads/94/79/1280x720-genai-generative.jpeg",
+      "domain": "insight.scmagazineuk.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-brings-claude-in-country-inference-to-india-via-amazon-bedrock/article71301379.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/info-tech/anthropic-brings-claude-in-country-inference-to-india-via-amazon-bedrock/article71301379.ece/amp/",
+      "title": "Anthropic brings Claude in - country inference to India via Amazon Bedrock",
+      "seendate": "20260803T190000Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/u3c2u6/article71302593.ece/alternates/LANDSCAPE_1200/2026-07-24T170201Z_888983038_RC2UNLA5C9UG_RTRMADP_3_TECH-AI-ANTHROPIC.JPG",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://commercialobserver.com/2026/08/ai-real-estate-tech-brookfield-blackstone-proptech/",
+      "url_mobile": "",
+      "title": "The Likes of Blackstone and Brookfield Are Using AI to Build Real Estate Tech In - House \u2013 Commercial Observer",
+      "seendate": "20260803T190000Z",
+      "socialimage": "",
+      "domain": "commercialobserver.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/04/2003861880",
+      "url_mobile": "",
+      "title": "New DeepSeek model cheapest of well - known models to run : research firm",
+      "seendate": "20260803T181500Z",
+      "socialimage": "https://img.taipeitimes.com/images/2026/08/04/P09-260804-317.jpg",
+      "domain": "taipeitimes.com",
+      "language": "English",
+      "sourcecountry": "Taiwan"
+    },
+    {
+      "url": "https://www.zerohedge.com/ai/chinas-ai-knife-fight-deepseeks-new-model-runs-100x-cheaper-anthropics-flagship",
+      "url_mobile": "",
+      "title": "China AI Knife Fight : DeepSeek New Model Runs 100x Cheaper Than Anthropic Flagship",
+      "seendate": "20260803T181500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/images_80%2836%29.jpg?itok=H1zLFLXp",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/03/greg-abel-poured-23-billion-of-berkshires-cash-int/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Greg Abel Poured $23 Billion of Berkshire Cash Into Alphabet Stock",
+      "seendate": "20260803T181500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/878284/ai-brain.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-pare-losses-amid-fears-of-increased-competition-from-china-133938642.html",
+      "url_mobile": "",
+      "title": "Semiconductor stocks pare losses amid fears of increased competition from China",
+      "seendate": "20260803T171500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/0DCC3C35631ED7988AE4070ACC4358803C666DE55685E8EF0BE353F60E1F32CF/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fbfc8f556-b760-476b-8054-208be8346f08",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-now-racing-to-the-bottom-crashing-token-prices-and-competitive-models-push-companies-to-cut-costs",
+      "url_mobile": "",
+      "title": "AI companies are now racing to the bottom crashing token prices and competitive models push companies to cut costs",
+      "seendate": "20260803T171500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/J2wWatAfnDuoPnnDWPhgX4-1600-80.jpg",
+      "domain": "tomshardware.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.breitbart.com/politics/2026/08/02/ai-policy-organizations-call-for-federal-investigation-into-openai-hacking-incident/",
+      "url_mobile": "https://www.breitbart.com/tech/2026/08/02/ai-policy-organizations-call-for-federal-investigation-into-openai-hacking-incident/amp/",
+      "title": "AI Policy Organizations Call for Federal Investigation into OpenAI Hacking Incident",
+      "seendate": "20260803T171500Z",
+      "socialimage": "https://media.breitbart.com/media/2026/07/Sam-Altmans-OpenAI-hacked-target-640x335.jpg",
+      "domain": "breitbart.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newyorktelegraph.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "newyorktelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.azerbaijannews.net/news/279218063/anthropic-ai-incidents-add-to-growing-cybersecurity-concerns",
+      "url_mobile": "",
+      "title": "Anthropic AI incidents add to growing cybersecurity concerns",
+      "seendate": "20260803T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "azerbaijannews.net",
+      "language": "English",
+      "sourcecountry": "Azerbaijan"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1096442/alibaba-shares-climb-4-after-launch-of-most-powerful-qwen-model-yet-1096442.html",
+      "url_mobile": "",
+      "title": "Alibaba shares climb 4 % after launch of most powerful Qwen model yet",
+      "seendate": "20260803T161500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC8yMDIzLTAzLTE1LTE2LTA5LTI2LThkMTQxZTA2ZjlkNGVhMWM5NDhjOGU3M2FlZDMxNzU2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.iranherald.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "iranherald.com",
+      "language": "English",
+      "sourcecountry": "Iran"
+    },
+    {
+      "url": "http://www.trinidadtimes.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "trinidadtimes.com",
+      "language": "English",
+      "sourcecountry": "Trinidad and Tobago"
+    },
+    {
+      "url": "http://www.vietnamtribune.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "vietnamtribune.com",
+      "language": "English",
+      "sourcecountry": "Vietnam"
+    },
+    {
+      "url": "http://www.zimbabwestar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "zimbabwestar.com",
+      "language": "English",
+      "sourcecountry": "Zimbabwe"
+    },
+    {
+      "url": "https://tribune.com.pk/story/2621839/alibaba-unveils-its-largest-ai-model-yet-deepseeks-latest-model-is-ultra-low-cost",
+      "url_mobile": "",
+      "title": "Alibaba unveils its largest AI model yet , DeepSeek latest model is ultra - low cost",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://i.tribune.com.pk/media/images/image-61785764327-0/image-61785764327-0-640x480.webp",
+      "domain": "tribune.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "http://www.europesun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "europesun.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.digit.in/features/general/the-great-ai-price-war-how-chinese-open-models-are-squeezing-gpt-5-6-sol-and-claude-fable-5.html",
+      "url_mobile": "https://www.digit.in/features/general/the-great-ai-price-war-how-chinese-open-models-are-squeezing-gpt-5-6-sol-and-claude-fable-5.html/amp/",
+      "title": "The great AI price war : How Chinese open models are squeezing GPT - 5 . 6 Sol and Claude Fable 5",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://static.digit.in/US-vs-China.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/08/03/token-maxing-is-not-an-ai-strategy-roi-is/",
+      "url_mobile": "",
+      "title": "\u200bToken Maxing Is Not An AI Strategy : ROI Is",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6caa807e95cc1f8eb329ac/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.russiaherald.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "russiaherald.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.argentinastar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "argentinastar.com",
+      "language": "English",
+      "sourcecountry": "Argentina"
+    },
+    {
+      "url": "https://www.forbes.com/sites/drewbernstein/2026/08/03/chinese-ai-models-at-the-frontier/",
+      "url_mobile": "",
+      "title": "Chinese AI Models At The Frontier",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6bfa528a77a0e1091f66ea/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.afghanistansun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "afghanistansun.com",
+      "language": "English",
+      "sourcecountry": "Afghanistan"
+    },
+    {
+      "url": "http://www.indiagazette.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "indiagazette.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.forbes.com/sites/boazsobrado/2026/08/03/a-black-box-ai-targets-washingtons-5-billion-lobbying-machine/",
+      "url_mobile": "",
+      "title": "AI Lobbying Software Targets Washington $5 Billion Machine",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6e49bfcf218f6edd208af2/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.hawaiitelegraph.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "hawaiitelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.dallassun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "dallassun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.utahindependent.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "utahindependent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.howtogeek.com/the-best-claude-code-plugins/",
+      "url_mobile": "",
+      "title": "I tested over 100 Claude Code plugins here are the 5 that actually matter",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/ultrawide-monitor-showing-four-tiled-claude-code-terminal-windows-all-displaying-the-welcome-back-dibakar-startup-screen.jpg?&fit=crop",
+      "domain": "howtogeek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geneamusings.com/search?updated-max=2026-08-01T09:35:00-07:00&max-results=10",
+      "url_mobile": "",
+      "title": "Genea - Musings",
+      "seendate": "20260803T151500Z",
+      "socialimage": "",
+      "domain": "geneamusings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/sarvam-eyes-next-raise-ather-trims-losses/articleshow/132833225.cms",
+      "url_mobile": "https://m.economictimes.com/tech/newsletters/tech-top-5/sarvam-eyes-next-raise-ather-trims-losses/amp_articleshow/132833225.cms",
+      "title": "Sarvam raises $75 million ; Ather trims losses in Q1",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132833568,width-1070,height-580,imgsize-112696,overlay-ettech/editionshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.irishsun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "irishsun.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "http://www.torontotelegraph.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "torontotelegraph.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/weve-been-behind-the-ball-for-so-long-experts-say-dna-samples-from-crime-scene-forensics-can-be-modified-and-even-switched-using-an-ai-tool",
+      "url_mobile": "",
+      "title": "  Weve been behind the ball for so long : Experts say DNA samples from crime - scene forensics can be modified and even switched using an AI tool",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/HWb2cSJ4Mb5mxx8ebgiAzH-1920-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://bestmediainfo.com/mediainfo/mediainfo-digital/anthropic-to-make-claude-available-with-in-country-inference-in-india-through-amazon-bedrock-12224288",
+      "url_mobile": "",
+      "title": "Anthropic to make Claude available with in - country inference in India through Amazon Bedrock",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://img-cdn.publive.online/fit-in/1200x675/bmi/media/media_files/2026/08/03/claude-2026-08-03-17-02-26.jpg",
+      "domain": "bestmediainfo.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.yahoo.com/news/politics/articles/hugging-face-ceo-says-ai-065248283.html",
+      "url_mobile": "",
+      "title": "Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/94c7aea32a9153736543bfd7b168b7efe2d109947b0252ea73e18202d4e26861/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F417e96b9622952b5792cfc4bdec87a9c",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.mainemirror.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "mainemirror.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.oklahomastar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "oklahomastar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.ohiostandard.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "ohiostandard.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newyorkstatesman.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T133000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "newyorkstatesman.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.northkoreatimes.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "northkoreatimes.com",
+      "language": "English",
+      "sourcecountry": "North Korea"
+    },
+    {
+      "url": "http://www.neworleanssun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "neworleanssun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.cincinnatisun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T130000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "cincinnatisun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.stlouisstar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "stlouisstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.caribbeanherald.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "caribbeanherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.africaleader.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "africaleader.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "http://www.newjerseytelegraph.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "newjerseytelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.independent.co.uk/independentpremium/tech/deepseek-v4-flash-model-china-b3026294.html",
+      "url_mobile": "",
+      "title": "China just unveiled an AI model that could upend America tech advantage",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://static.independent.co.uk/2026/08/03/09/2026-07-16T160222Z_300906276_RC2TJCA0FMK5_RTRMADP_3_DEEPSEEK-FUNDRAISING.JPG?&crop=1200:800",
+      "domain": "independent.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.digit.in/news/mobile-phones/google-reportedly-had-its-own-chatgpt-before-openai-but-never-released-it-former-employee-reveals-why.html",
+      "url_mobile": "https://www.digit.in/news/mobile-phones/google-reportedly-had-its-own-chatgpt-before-openai-but-never-released-it-former-employee-reveals-why.html/amp/",
+      "title": "Google reportedly had its own ChatGPT before OpenAI , but never released it : Former employee reveals why",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://static.digit.in/Google-own-ChatGpt-.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.moneycontrol.com/artificial-intelligence/anthropic-to-enable-local-data-processing-for-claude-in-india-through-amazon-bedrock-article-13992577.html",
+      "url_mobile": "https://www.moneycontrol.com/artificial-intelligence/anthropic-to-enable-local-data-processing-for-claude-in-india-through-amazon-bedrock-article-13992577.html/amp",
+      "title": "Anthropic to enable local data processing for Claude in India through Amazon Bedrock",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/04/20260402104352_453127777.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.pittsburghstar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "pittsburghstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digit.in/news/general/what-is-alibabas-qwen-38-max-how-it-is-different-from-claude-fable-5-and-kimi-k3.html",
+      "url_mobile": "https://www.digit.in/news/general/what-is-alibabas-qwen-38-max-how-it-is-different-from-claude-fable-5-and-kimi-k3.html/amp/",
+      "title": "What is Alibaba Qwen 3 . 8 - Max ? How it is different from Claude Fable 5 and Kimi K3",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://static.digit.in/Qwen-3.8-Max.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://propakistani.pk/2026/08/03/alibabas-largest-ever-ai-qwen-3-8-max-unveiled-with-2-4-trillion-parameters/",
+      "url_mobile": "https://propakistani.pk/2026/08/03/alibabas-largest-ever-ai-qwen-3-8-max-unveiled-with-2-4-trillion-parameters/amp/",
+      "title": "Alibaba Largest Ever AI Qwen 3 . 8 Max Unveiled With 2 . 4 Trillion Parameters",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://propakistani.pk/wp-content/uploads/2026/08/Qwen3.8-Max.jpg",
+      "domain": "propakistani.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "http://www.milwaukeesun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "milwaukeesun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.oklahomacitysun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "oklahomacitysun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dealstreetasia.com/stories/id-digest-mazda-pluang-490898",
+      "url_mobile": "",
+      "title": "ID Digest : Mazda opens assembly plant ; Pluang launches AI - assisted trading feature",
+      "seendate": "20260803T120000Z",
+      "socialimage": "https://cdn.dealstreetasia.com/uploads/2026/08/mehmet-talha-onuk-8t6tk7LYLrE-unsplash.jpg?fit=1700,858",
+      "domain": "dealstreetasia.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.saltlakecitysun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T120000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "saltlakecitysun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.asiaone.com/digital/deepseeks-new-ai-model-far-cheapest-well-known-models-run-research-firm-says",
+      "url_mobile": "",
+      "title": "DeepSeek new AI model is by far the cheapest of well - known models to run , research firm says",
+      "seendate": "20260803T113000Z",
+      "socialimage": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/deepseek%20office.JPG?itok=ePdtnKIu",
+      "domain": "asiaone.com",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.scmp.com/tech/tech-trends/article/3362792/chinas-deepseek-beefs-agentic-ai-harness-tests-v4-model-jolts-silicon-valley",
+      "url_mobile": "https://amp.scmp.com/tech/tech-trends/article/3362792/chinas-deepseek-beefs-agentic-ai-harness-tests-v4-model-jolts-silicon-valley",
+      "title": "China DeepSeek beefs up agentic AI with  harnes tests as V4 model jolts Silicon Valley",
+      "seendate": "20260803T113000Z",
+      "socialimage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/03/9c36a3e5-3df3-4423-96c9-4ed29d011d72_6286142a.jpg?itok=ADFFpCfi&v=1785746860",
+      "domain": "scmp.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/business/commentary/article-ai-data-centres-are-the-future-canada-must-overcome-the-backlash/",
+      "url_mobile": "",
+      "title": "AI data centres are the future . Canada must overcome the backlash",
+      "seendate": "20260803T113000Z",
+      "socialimage": "https://www.theglobeandmail.com/resizer/v2/6OWW24FW4NF53FFMIAZ7BW2JPM.jpg?auth=c6e8db7d7e4d2183b66d9be28b282b8a8cf101d608328215fc2376a8acffed83&quality=80&smart=true",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.asiaone.com/digital/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size",
+      "url_mobile": "",
+      "title": "Alibaba unveils its most capable AI model to date , not far behind Moonshot in size",
+      "seendate": "20260803T113000Z",
+      "socialimage": "",
+      "domain": "asiaone.com",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "http://www.nigeriasun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T113000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "nigeriasun.com",
+      "language": "English",
+      "sourcecountry": "Nigeria"
+    },
+    {
+      "url": "http://www.chinanationalnews.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T113000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "chinanationalnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://cpa.org.au/guardian/issue-2200/ai-and-your-job/",
+      "url_mobile": "",
+      "title": "AI and your job",
+      "seendate": "20260803T104500Z",
+      "socialimage": "",
+      "domain": "cpa.org.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.design-reuse.com/news/202530919-from-trust-to-action-building-the-foundations-of-trustworthy-physical-ai/",
+      "url_mobile": "",
+      "title": "From Trust to Action : Building the Foundations of Trustworthy , Physical AI",
+      "seendate": "20260803T104500Z",
+      "socialimage": "",
+      "domain": "design-reuse.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://warontherocks.com/cogs-of-war/how-to-stop-china-from-freeriding-on-american-ai/",
+      "url_mobile": "",
+      "title": "How to Stop China from Freeriding on American AI",
+      "seendate": "20260803T104500Z",
+      "socialimage": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-45994-294c493ec923.jpg",
+      "domain": "warontherocks.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/east-asia/alibaba-ai-model-deepseek-low-cost-6294501",
+      "url_mobile": "",
+      "title": "Alibaba unveils its largest AI model yet , DeepSeek latest model is ultra - low cost",
+      "seendate": "20260803T103000Z",
+      "socialimage": "https://dam.mediacorp.sg/image/upload/s--T8Z0mQE8--/c_crop,h_450,w_800,x_0,y_53/c_fill,g_auto,h_338,w_600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-03T035830Z_1_LYNXMPEM72095_RTROPTP_3_CHINA-AI-ALIBABA.JPG?itok=1q-iXT-3",
+      "domain": "channelnewsasia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/26/08/60865269/alibaba-stock-is-gaining-monday-whats-going-on",
+      "url_mobile": "",
+      "title": "Alibaba Stock Is Gaining Monday : What Going On ? - Alibaba Gr Hldgs ( NYSE : BABA ) ",
+      "seendate": "20260803T103000Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/Alibaba-Stock-Surges.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/26/08/60864465/amd-earnings-prediction-market-data-center-revenue",
+      "url_mobile": "",
+      "title": "AMD Stock in Focus as Prediction Market Weighs Data Center Revenue - Advanced Micro Devices ( NASDAQ : AMD ) ",
+      "seendate": "20260803T103000Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/03/Jakarta-May-02-2024-Advanced-Micro-Devic.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnewsonline.com/GlobeNewswire/Revenium-Launches-Guardrails-for-Real-Time-AI-Spend-and-Model-Use-Enforcement/127676",
+      "url_mobile": "",
+      "title": "Revenium Launches  Guardrail for Real - Time AI Spend and Model Use Enforcement",
+      "seendate": "20260803T103000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://freerepublic.com/tag/*/index?more=4390367",
+      "url_mobile": "",
+      "title": "Latest Articles",
+      "seendate": "20260803T101500Z",
+      "socialimage": "",
+      "domain": "freerepublic.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/08/03/chinese-ai-firm-siphoned-american-ai-knowledge-from-claude-by-using-millions-of-prompts-and-trained-on-the-responses/",
+      "url_mobile": "",
+      "title": "Chinese AI Firm Siphoned American AI Knowledge From Anthropic Claude By Using Millions Of Prompts",
+      "seendate": "20260803T100000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/69d1d2c40f37329e295eed01/0x0.jpg?format=jpg&crop=2965,2224,x82,y0,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1411088-deepseeks-new-model-is-105x-cheaper-than-rivals",
+      "url_mobile": "",
+      "title": "DeepSeek new model is 105x cheaper than rivals : Here why",
+      "seendate": "20260803T093000Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/2026-08-03/1411088_115303_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1411090-alibaba-releases-qwen38-max-24t-parameter-ai-model-challenges-moonshot",
+      "url_mobile": "",
+      "title": "Alibaba releases Qwen3 . 8 - Max : 2 . 4T - parameter AI model challenges Moonshot",
+      "seendate": "20260803T093000Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/2026-08-03/1411090_125516_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/08/03/alibabas-new-qwen-ai-claims-to-match-unsupervised-working-skills-touted-by-claude",
+      "url_mobile": "",
+      "title": "Alibaba new Qwen AI claims to match unsupervised working skills touted by Claude",
+      "seendate": "20260803T093000Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/85/99/02/1200x675_cmsv2_a4571a31-2447-5f46-8b08-bc442cb72fc1-9859902.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gdnonline.com:443/Details/1402388/Alibaba-unveils-its-most-capable-AI-model-to-date,-not-far-behind-Moonshots-in-size",
+      "url_mobile": "",
+      "title": "International Business : Alibaba unveils its most capable AI model to date , not far behind Moonshot in size",
+      "seendate": "20260803T090000Z",
+      "socialimage": "https://www.gdnonline.com/gdnimages/20260803%5C20260803104642AlibabaunveilsitsmostcapableAImodeltodate,notfarbehindMoonshotsinsize.jpg",
+      "domain": "gdnonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.asiaone.com:443/digital/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size",
+      "url_mobile": "",
+      "title": "Alibaba unveils its most capable AI model to date , not far behind Moonshot in size",
+      "seendate": "20260803T090000Z",
+      "socialimage": "",
+      "domain": "asiaone.com",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+      "url_mobile": "",
+      "title": "Hugging Face CEO Says Hacks Like the OpenAI Episode Needs Transparency",
+      "seendate": "20260803T080000Z",
+      "socialimage": "https://i.insider.com/6a70175587737bff3ebda7b4?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geo.tv/latest/675894-deepseeks-new-ai-model-cheapest-among-leading-models-says-research-firm",
+      "url_mobile": "",
+      "title": "DeepSeek new AI model cheapest among leading models , says research firm",
+      "seendate": "20260803T080000Z",
+      "socialimage": "https://www.geo.tv/assets/uploads/updates/2026-08-03/675894_113745_updates.jpg",
+      "domain": "geo.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://freerepublic.com/tag/*/index?more=4390365",
+      "url_mobile": "",
+      "title": "Latest Articles",
+      "seendate": "20260803T071500Z",
+      "socialimage": "",
+      "domain": "freerepublic.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://bworldonline.com/technology/2026/08/03/767657/alibaba-unveils-its-most-capable-ai-model-to-date-not-far-behind-moonshots-in-size/",
+      "url_mobile": "",
+      "title": "Alibaba unveils its most capable AI model to date , not far behind Moonshot in size",
+      "seendate": "20260803T071500Z",
+      "socialimage": "",
+      "domain": "bworldonline.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.forbes.com/sites/bernardmarr/2026/08/03/why-responsible-ai-could-be-your-biggest-competitive-advantage/",
+      "url_mobile": "",
+      "title": "Why Responsible AI Could Be Your Biggest Competitive Advantage",
+      "seendate": "20260803T070000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a7022efb6bfdf986d23e458/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freepressjournal.in/tech/alibaba-unveils-qwen38-max-its-most-capable-ai-model-yet-closing-in-on-moonshots-kimi-k3-in-size",
+      "url_mobile": "https://www.freepressjournal.in/amp/tech/alibaba-unveils-qwen38-max-its-most-capable-ai-model-yet-closing-in-on-moonshots-kimi-k3-in-size",
+      "title": "Alibaba Unveils Qwen3 . 8 - Max , Its Most Capable AI Model Yet , Closing In On Moonshot Kimi K3 In Size",
+      "seendate": "20260803T064500Z",
+      "socialimage": "https://media.assettype.com/freepressjournal/2026-08-03/fs9qd4lw/qwenai.jpg",
+      "domain": "freepressjournal.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseeks-new-ai-model-is-by-far-the-cheapest-of-well-known-models-to-run-research-firm-says/articleshow/132820248.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/deepseeks-new-ai-model-is-by-far-the-cheapest-of-well-known-models-to-run-research-firm-says/amp_articleshow/132820248.cms",
+      "title": "DeepSeek AI model : DeepSeek new AI model is by far the cheapest of well - known models to run , research firm says",
+      "seendate": "20260803T064500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48988,resizemode-75,msid-132820248/tech/artificial-intelligence/deepseeks-new-ai-model-is-by-far-the-cheapest-of-well-known-models-to-run-research-firm-says.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://siliconangle.com/2026/08/02/report-claims-china-distilling-u-s-frontier-models-power-military-ai-applications/",
+      "url_mobile": "",
+      "title": "Report claims China is distilling U . S . frontier models to power military AI applications",
+      "seendate": "20260803T063000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-03-10-22-03.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
     }
   ]
 }

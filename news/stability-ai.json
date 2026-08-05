@@ -1,8 +1,1529 @@
 {
   "company": "Stability AI",
   "query": "\"Stability AI\"",
-  "start": "20250101000000",
-  "end": "20250930235959",
-  "count": 0,
-  "articles": []
+  "start": null,
+  "end": null,
+  "count": 152,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/08/05/chipmaker-broadcom-is-breaking-out-how-tony-zhang-is-trading-it.html",
+      "url_mobile": "",
+      "title": "Chipmaker Broadcom is breaking out . How Tony Zhang is trading it",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108313293-1779985301248-gettyimages-2264128506-raa-broadcom260303_npRyT.jpeg?v=1783530430",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece/amp/",
+      "title": "Stock Market Today Highlights , August 5 : Sensex rises 152 points , Nifty ends above 24 , 620 after RBI keeps repo rate unchanged",
+      "seendate": "20260805T133000Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/sqlwnd/article71306495.ece/alternates/LANDSCAPE_1200/stock%20market%20graph.jpg",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322904/20260804/minimax-h3-open-weights-exclude-us-eu-uk-korea-local-deployment.htm",
+      "url_mobile": "",
+      "title": "MiniMax H3 Open Weights Exclude US , EU , united kingdom , and Korea From Local Deployment",
+      "seendate": "20260804T191500Z",
+      "socialimage": "https://d.techtimes.com/en/full/471232/minimax.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://newschannel9.com/news/local/tennessee-girls-say-in-lawsuit-that-ai-turned-photos-into-csam-raising-guardrail-concerns",
+      "url_mobile": "",
+      "title": "Tennessee girls say in lawsuit that AI turned photos into CSAM , raising guardrail concerns",
+      "seendate": "20260804T043000Z",
+      "socialimage": "https://newschannel9.com/resources/media2/16x9/494/1320/0x74/90/64886993-90b0-4460-9d7e-6644e2f48135-AskingAIaquestionviaGettyImages.jpg",
+      "domain": "newschannel9.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322713/20260802/california-ai-transparency-act-operative-midjourney-has-no-watermark-fines-start-today.htm",
+      "url_mobile": "",
+      "title": "California AI Transparency Act Operative : Midjourney Has No Watermark , Fines Start Today",
+      "seendate": "20260802T230000Z",
+      "socialimage": "https://d.techtimes.com/en/full/471055/midjourney.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itwire.com/business-it-news/data/rimini-street-launches-rimini-govern-for-ai-to-deliver-comprehensive-ai-agent-governance-security-and-interoperability-as-a-service",
+      "url_mobile": "",
+      "title": "Rimini Street Launches Rimini Govern for AI to Deliver Comprehensive AI Agent Governance , Security & Interoperability as a Service",
+      "seendate": "20260731T041500Z",
+      "socialimage": "https://media.itwire.com/2026/07/31/rimini-street-launches-rimini-govern-for-ai-to-deliver-comprehensive-ai-agent-governance-security-and-interoperability-as-a-service-63e4f70db16a.webp",
+      "domain": "itwire.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.mondaq.com:443/unitedstates/copyright/1824772/intelligence-piracy-the-expert-who-was-never-hired",
+      "url_mobile": "",
+      "title": "Intelligence Piracy : The Expert Who Was Never Hired",
+      "seendate": "20260731T011500Z",
+      "socialimage": "http://www.mondaq.com/images/profile/companythumb/24364.webp?v=20241101122044",
+      "domain": "mondaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://montrealgazette.com/press-releases/business-wire/rimini-street-launches-rimini-govern-for-ai-to-deliver-comprehensive-ai-agent-governance-security-interoperability-as-a-service/",
+      "url_mobile": "",
+      "title": "Rimini Street Launches Rimini Govern\u2122 for AI to Deliver Comprehensive AI Agent Governance , Security & Interoperability as a Service",
+      "seendate": "20260730T203000Z",
+      "socialimage": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/07/bw20260730389723_rimini_govern_announcement_pr_businesswire-.jpeg",
+      "domain": "montrealgazette.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://leaderpost.com/press-releases/business-wire/rimini-street-launches-rimini-govern-for-ai-to-deliver-comprehensive-ai-agent-governance-security-interoperability-as-a-service/",
+      "url_mobile": "",
+      "title": "Rimini Street Launches Rimini Govern\u2122 for AI to Deliver Comprehensive AI Agent Governance , Security & Interoperability as a Service",
+      "seendate": "20260730T203000Z",
+      "socialimage": "https://leaderpost.com/wp-content/uploads/sites/4/2026/07/bw20260730389723_rimini_govern_announcement_pr_businesswire-.jpeg",
+      "domain": "leaderpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ashoka/2026/07/30/the-changemaker-mirror-what-ai-self-assessments-reveal-about-the-human-skills-that-matter-most/",
+      "url_mobile": "",
+      "title": "The Changemaker Mirror : What AI Self - Assessments Reveal About The Human Skills That Matter Most",
+      "seendate": "20260730T203000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6b7f831c5f8957cf95ec9c/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://bakersfieldnow.com/news/nation-world/tennessee-girls-take-grok-stability-ai-to-court-over-explicit-ai-deepfakes-tennessee-attorney-general-jonathan-skrmetti-sen-ken-yager-elon-musk-twitter-social-media-grimes",
+      "url_mobile": "",
+      "title": "Tennessee girls take Grok , Stability AI to court over explicit AI deepfakes",
+      "seendate": "20260730T150000Z",
+      "socialimage": "",
+      "domain": "bakersfieldnow.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://krcgtv.com/news/nation-world/tennessee-girls-take-grok-stability-ai-to-court-over-explicit-ai-deepfakes-tennessee-attorney-general-jonathan-skrmetti-sen-ken-yager-elon-musk-twitter-social-media-grimes",
+      "url_mobile": "",
+      "title": "Tennessee girls take Grok , Stability AI to court over explicit AI deepfakes",
+      "seendate": "20260730T150000Z",
+      "socialimage": "",
+      "domain": "krcgtv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wchstv.com/news/nation-world/tennessee-girls-take-grok-stability-ai-to-court-over-explicit-ai-deepfakes-tennessee-attorney-general-jonathan-skrmetti-sen-ken-yager-elon-musk-twitter-social-media-grimes",
+      "url_mobile": "",
+      "title": "Tennessee girls take Grok , Stability AI to court over explicit AI deepfakes",
+      "seendate": "20260730T144500Z",
+      "socialimage": "",
+      "domain": "wchstv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.artistdirect.com/news/2026-07-29-major-record-labels-push-global-chart-rules-to-exclude-unlicensed-ai-music",
+      "url_mobile": "",
+      "title": "Major Record Labels Push Global Chart Rules to Exclude Unlicensed AI Music",
+      "seendate": "20260730T030000Z",
+      "socialimage": "https://www.artistdirect.com/news/images/2026-07-29-major-record-labels-push-global-chart-rules-to-exclude-unlicensed-ai-music.webp",
+      "domain": "artistdirect.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/the-music-industry-wants-ai-slop-kicked-off-the-charts-and-it-finally-has-a-plan/",
+      "url_mobile": "",
+      "title": "The music industry wants AI slop kicked off the charts , and it finally has a plan",
+      "seendate": "20260729T211500Z",
+      "socialimage": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-12T060345.636.jpg",
+      "domain": "digitaltrends.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://targetednews.com/pt_disp.php?pt_id=2852295",
+      "url_mobile": "",
+      "title": "Targeted News Service",
+      "seendate": "20260729T170000Z",
+      "socialimage": "",
+      "domain": "targetednews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/ios-27-beta-4-features-7/",
+      "url_mobile": "",
+      "title": "iOS 27 Beta 4 Features and Stability Update Details",
+      "seendate": "20260729T073000Z",
+      "socialimage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/iOS-27-4-2.webp",
+      "domain": "geeky-gadgets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.scoop.co.nz/stories/BU2607/S00396/top-10-ai-image-generators-with-the-best-prompt-understanding-which-ai-follows-instructions-best.htm",
+      "url_mobile": "https://m.scoop.co.nz/stories/BU2607/S00396/top-10-ai-image-generators-with-the-best-prompt-understanding-which-ai-follows-instructions-best.htm",
+      "title": "Top 10 AI Image Generators With The Best Prompt Understanding : Which AI Follows Instructions Best ? ",
+      "seendate": "20260728T220000Z",
+      "socialimage": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+      "domain": "scoop.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.businessinsider.com/lilian-weng-thinking-machines-lab-exit-burnout-smart-people-reactions-2026-7",
+      "url_mobile": "",
+      "title": "Smart People React to Lilian Weng Exit From Thinking Machines Lab",
+      "seendate": "20260728T184500Z",
+      "socialimage": "https://i.insider.com/6a68e16954f987526177a9f2?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theepochtimes.com/china/china-touts-open-source-ai-abroad-while-developers-face-censorship-at-home-6068076",
+      "url_mobile": "",
+      "title": "China Touts Open - Source AI Abroad While Developers Face Censorship at Home",
+      "seendate": "20260728T123000Z",
+      "socialimage": "https://img.theepochtimes.com/assets/uploads/2026/07/21/id6065251-GettyImages-2285951625-1-1080x720.jpg",
+      "domain": "theepochtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fox17.com/news/local/tennessee-girls-take-grok-stability-ai-to-court-over-explicit-ai-deepfakes-tennessee-attorney-general-jonathan-skrmetti-sen-ken-yager-elon-musk-twitter-social-media-grimes",
+      "url_mobile": "",
+      "title": "Tennessee girls take Grok , Stability AI to court over explicit AI deepfakes",
+      "seendate": "20260728T034500Z",
+      "socialimage": "",
+      "domain": "fox17.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://indianexpress.com/article/business/ai-data-centres-26-3-gw-power-demand-grid-stability-power-ministry-10806189/",
+      "url_mobile": "https://indianexpress.com/article/business/ai-data-centres-26-3-gw-power-demand-grid-stability-power-ministry-10806189/lite/",
+      "title": "AI data centres to add 26 . 3 GW load by 2031 - 32 , says power ministry ; grid stability a concern",
+      "seendate": "20260727T161500Z",
+      "socialimage": "https://images.indianexpress.com/2026/07/power.jpg",
+      "domain": "indianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-vs-ani-case-what-it-means-for-the-future-of-information/article71265247.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/openai-vs-ani-case-what-it-means-for-the-future-of-information/article71265247.ece/amp/",
+      "title": "OpenAI vs ANI case : what it means for the future of information",
+      "seendate": "20260725T061500Z",
+      "socialimage": "https://th-i.thgim.com/public/news/national/w9gp61/article71265252.ece/alternates/LANDSCAPE_1200/iStock-1753819554.jpg",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://business.scoop.co.nz/2026/07/25/top-10-ai-image-generators-with-the-best-prompt-understanding-which-ai-follows-instructions-best/",
+      "url_mobile": "",
+      "title": "Business . Scoop \u00bb Top 10 AI Image Generators With The Best Prompt Understanding : Which AI Follows Instructions Best ? ",
+      "seendate": "20260725T060000Z",
+      "socialimage": "",
+      "domain": "business.scoop.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.scoop.co.nz/stories/SC2607/S00039/top-10-ai-image-generators-with-the-best-prompt-understanding-which-ai-follows-instructions-best.htm",
+      "url_mobile": "https://m.scoop.co.nz/stories/SC2607/S00039/top-10-ai-image-generators-with-the-best-prompt-understanding-which-ai-follows-instructions-best.htm",
+      "title": "Top 10 AI Image Generators With The Best Prompt Understanding : Which AI Follows Instructions Best ? ",
+      "seendate": "20260725T053000Z",
+      "socialimage": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+      "domain": "scoop.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://sl.china-embassy.gov.cn/eng/fyrth/202607/t20260724_11991873.htm",
+      "url_mobile": "",
+      "title": "Foreign Ministry Spokesperson Lin Jian Regular Press Conference on July 24 , 2026",
+      "seendate": "20260724T161500Z",
+      "socialimage": "",
+      "domain": "sl.china-embassy.gov.cn",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://apollo-magazine.com/getty-images-openai-genai-stable-diffusion-licensing-copyright/",
+      "url_mobile": "",
+      "title": "Why is the world largest image library partnering with OpenAI ? ",
+      "seendate": "20260723T120000Z",
+      "socialimage": "https://apollo-magazine.com/wp-content/uploads/2026/07/LEAD-Photo-illustration-by-Cheng-XinGetty-Images-GettyImages-2282863150.jpg",
+      "domain": "apollo-magazine.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/22/the-us-is-concerned-over-ip-theft-by-chinese-ai-labs/",
+      "url_mobile": "",
+      "title": "The US is Concerned Over  IP Theft  by Chinese AI Labs",
+      "seendate": "20260722T144500Z",
+      "socialimage": "https://petapixel.com/assets/uploads/2026/07/China-US-AI.jpg",
+      "domain": "petapixel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.canadianlawyermag.com/practice-areas/intellectual-property/ai-generated-content-and-intellectual-property-protection-in-canada/394381",
+      "url_mobile": "",
+      "title": "AI - generated content and intellectual property protection in Canada",
+      "seendate": "20260721T211500Z",
+      "socialimage": "https://cdn-res.keymedia.com/cms/images/cl/kall_639199001330413245.png",
+      "domain": "canadianlawyermag.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/lower-home-loan-rates-don-t-always-mean-you-should-stop-prepaying-13978241.html",
+      "url_mobile": "https://www.moneycontrol.com/news/business/personal-finance/lower-home-loan-rates-don-t-always-mean-you-should-stop-prepaying-13978241.html/amp",
+      "title": "Lower home loan rates dont always mean you should stop prepaying",
+      "seendate": "20260720T071500Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/07/20260720051635_image.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260717-prc-mofa04.htm",
+      "url_mobile": "",
+      "title": "Chair Statement of the 2026 World Artificial Intelligence Conference & High - Level Meeting on Global AI Governance",
+      "seendate": "20260718T100000Z",
+      "socialimage": "",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260717-prc-mofa01.htm",
+      "url_mobile": "",
+      "title": "Chair Statement of the 2026 World Artificial Intelligence Conference & High - Level Meeting on Global AI Governance",
+      "seendate": "20260717T113000Z",
+      "socialimage": "",
+      "domain": "globalsecurity.org",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "http://www.bjreview.com/Latest_Headlines/202607/t20260717_800442164.html",
+      "url_mobile": "",
+      "title": "Full text : Chair Statement of the 2026 World AI Conference and High - Level Meeting on Global AI Governance -- Beijing Review",
+      "seendate": "20260717T101500Z",
+      "socialimage": "",
+      "domain": "bjreview.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.newsghana.com.gh/ai-models-built-on-pirated-data-courts-find/",
+      "url_mobile": "",
+      "title": "AI Models Built On Pirated Data , Courts Find",
+      "seendate": "20260716T191500Z",
+      "socialimage": "",
+      "domain": "newsghana.com.gh",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/amid-lawsuit-over-ai-child-abuse-media-xai-sues-one-grok-user/article71228563.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/amid-lawsuit-over-ai-child-abuse-media-xai-sues-one-grok-user/article71228563.ece/amp/",
+      "title": "Amid lawsuit over AI child abuse media , xAI sues one Grok user",
+      "seendate": "20260716T061500Z",
+      "socialimage": "https://th-i.thgim.com/public/sci-tech/technology/gofv7s/article71228545.ece/alternates/LANDSCAPE_1200/2026-01-10T071240Z_1643871076_RC2PVCA7FSED_RTRMADP_3_XAI-GROK-INDONESIA.jpg",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.okayafrica.com/heres-everything-going-on-in-ai-and-music-right-now/1435352",
+      "url_mobile": "",
+      "title": "AI music dataset removed as copyright lawsuits over song scraping grow",
+      "seendate": "20260715T181500Z",
+      "socialimage": "https://image.okayafrica.com/1435360.jpg?imageId=1435360&x=0&y=28.36&cropw=100&croph=64.18&panox=0&panoy=28.36&panow=100&panoh=64.18",
+      "domain": "okayafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.cnb.cz/cs/ekonomicky-vyzkum/publikace-vyzkumu/research-brief/Artificial-Intelligence-and-Labour-in-Czechia-Who-Is-Affected-00001/",
+      "url_mobile": "",
+      "title": "Artificial Intelligence and Labour in Czechia : Who Is Affected ? ",
+      "seendate": "20260715T011500Z",
+      "socialimage": "",
+      "domain": "cnb.cz",
+      "language": "English",
+      "sourcecountry": "Czech Republic"
+    },
+    {
+      "url": "https://www.cnb.cz/en/economic-research/research-publications/research-brief/Artificial-Intelligence-and-Labour-in-Czechia-Who-Is-Affected/",
+      "url_mobile": "",
+      "title": "Artificial Intelligence and Labour in Czechia : Who Is Affected ? ",
+      "seendate": "20260715T000000Z",
+      "socialimage": "",
+      "domain": "cnb.cz",
+      "language": "English",
+      "sourcecountry": "Czech Republic"
+    },
+    {
+      "url": "https://gamerant.com/forza-horizon-6-series-3-update-patch-notes/",
+      "url_mobile": "",
+      "title": "Forza Horizon 6 Releases Series 3 Update",
+      "seendate": "20260714T181500Z",
+      "socialimage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/forza-horizon-6-huracan-evo-spyder.jpg?&fit=crop",
+      "domain": "gamerant.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/320286/20260713/glm-52-captures-40-developer-tokens-open-weights-do-not-equal-sovereignty.htm",
+      "url_mobile": "",
+      "title": "GLM - 5 . 2 Captures 40 % of Developer Tokens : Open Weights Do Not Equal Sovereignty",
+      "seendate": "20260713T173000Z",
+      "socialimage": "https://d.techtimes.com/en/full/466724/zhipu.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/07/14/opinion/columns/giving-someone-a-break/2383473",
+      "url_mobile": "https://www.manilatimes.net/2026/07/14/opinion/columns/giving-someone-a-break/2383473/amp",
+      "title": "Giving someone a break | The Manila Times",
+      "seendate": "20260713T171500Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1135161.jpeg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.ijpr.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.ijpr.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260710T024500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "ijpr.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wfdd.org/national/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T214500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wfdd.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.upr.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T201500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "upr.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.prairiepublic.org/news-from-npr/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://news.prairiepublic.org/news-from-npr/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T200000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "news.prairiepublic.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wvik.org/npr-top-stories/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.wvik.org/npr-top-stories/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T200000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wvik.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wboi.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.wboi.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T194500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wboi.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mynspr.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.mynspr.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T194500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "mynspr.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wdiy.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.wdiy.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T194500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wdiy.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kasu.org/business-economy/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.kasu.org/business-economy/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T194500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "kasu.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wfae.org/united-states-world/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.wfae.org/united-states-world/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T194500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wfae.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kazu.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T194500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "kazu.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kccu.org/u-s/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.kccu.org/u-s/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T193000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "kccu.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wxxinews.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T193000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wxxinews.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ualrpublicradio.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.ualrpublicradio.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T193000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "ualrpublicradio.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kcbx.org/npr-top-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.kcbx.org/npr-top-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T191500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "kcbx.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.wjct.org/tech/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://news.wjct.org/tech/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T190000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "news.wjct.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kgou.org/politics-and-government/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T190000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "kgou.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wrvo.org/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T184500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wrvo.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wbaa.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T184500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wbaa.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wyomingpublicmedia.org/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.wyomingpublicmedia.org/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T184500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wyomingpublicmedia.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kedm.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.kedm.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T184500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "kedm.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wmuk.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.wmuk.org/npr-news/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T184500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wmuk.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wsiu.org/science-technology/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T183000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wsiu.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5885052/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T183000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg?s=1000",
+      "domain": "northcountrypublicradio.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessnews.gr/oikonomia/item/341926-pierrakakis-apo-to-eurogroup-i-evropi-prepei-na-apoktisei-tous-dikoys-tis-texnologikoys-protathlites",
+      "url_mobile": "",
+      "title": "\u03a0\u03b9\u03b5\u03c1\u03c1\u03b1\u03ba\u03ac\u03ba\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf Eurogroup : \u0397 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b4\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c4\u03b7\u03c2 \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c0\u03c1\u03c9\u03c4\u03b1\u03b8\u03bb\u03b7\u03c4\u03ad\u03c2",
+      "seendate": "20260709T181500Z",
+      "socialimage": "https://www.businessnews.gr/media/k2/items/cache/602386047b101e805852413d72d1d3b3_L.jpg",
+      "domain": "businessnews.gr",
+      "language": "Greek",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://www.wmra.org/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.wmra.org/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T181500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wmra.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wcsufm.org/latest-from-npr/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands",
+      "url_mobile": "https://www.wcsufm.org/latest-from-npr/2026-07-09/class-action-suit-against-ai-makers-over-deepfake-child-sexual-abuse-material-expands?_amp=true",
+      "title": "Class action suit against AI makers over deepfake child sexual abuse material expands",
+      "seendate": "20260709T181500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/32/88/f699b99f4302be0d4ee93139d64b/gettyimages-2260915852.jpg",
+      "domain": "wcsufm.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tribune.com.pk/article/98180/ai-bubble-fears-us-debt-strains-raise-crisis-risks",
+      "url_mobile": "",
+      "title": "AI bubble fears , US debt strains raise crisis risks",
+      "seendate": "20260708T183000Z",
+      "socialimage": "https://i.tribune.com.pk/media/images/ai1783530532-0/ai1783530532-0-640x480.webp",
+      "domain": "tribune.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.moneymarketing.co.uk/news/the-morning-briefing-majority-still-favour-passing-on-wealth-despite-inheritance-disputes/",
+      "url_mobile": "",
+      "title": "The Morning Briefing : Majority still favour passing on wealth despite inheritance disputes",
+      "seendate": "20260708T124500Z",
+      "socialimage": "https://cdn.moneymarketing.co.uk/content/uploads/2023/08/10103148/MM-Website-Graphics-01-1024x497.png",
+      "domain": "moneymarketing.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://nuclear-news.net/2026/07/07/7-b1-ai-is-changing-biological-and-nuclear-risks-governance-must-change-accordingly/",
+      "url_mobile": "",
+      "title": "AI is changing biological and nuclear risks ; governance must change accordingly",
+      "seendate": "20260707T064500Z",
+      "socialimage": "https://nuclear-news.net/wp-content/uploads/2026/03/ai-taking-over-world.jpg",
+      "domain": "nuclear-news.net",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/getty-images-saic-cognex-hewlett-001201116.html",
+      "url_mobile": "",
+      "title": "Getty Images , SAIC , Cognex , Hewlett Packard Enterprise , and IBM Shares Skyrocket , What You Need To Know",
+      "seendate": "20260707T004500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/A003B4D752693239689B015BC8D1F85012C3A4D3C224BC6FEF324340FB3581F7/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2F46cbdfd6e79ac5f0c12c36c90be6b32c",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.businessghana.com/site/news/Technology/351182/Asian-AI-startups-launch-Mythos-like-models-as-Anthropic%E2%80%99s-export-ban-drags-on",
+      "url_mobile": "",
+      "title": "Asian AI startups launch Mythos - like models as Anthropic export ban drags on",
+      "seendate": "20260630T110000Z",
+      "socialimage": "http://www.businessghana.com/cms/img/news/2026-06-30-09481301.jpg",
+      "domain": "businessghana.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.forbes.com/councils/forbeshumanresourcescouncil/2026/06/29/as-ai-reshapes-work-what-will-make-you-increasingly-relevant/",
+      "url_mobile": "",
+      "title": "As AI Reshapes Work , What Will Make You Increasingly Relevant ? ",
+      "seendate": "20260629T114500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6851b0e209eed621c364562a/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/best-ai-music-generator/",
+      "url_mobile": "",
+      "title": "10 Best AI Music Generators in 2026 : Tested , Ranked , and Copyright - Cleared",
+      "seendate": "20260629T081500Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/06/memeburn-best-AI-music-generator-1024x576.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://wccftech.com/ea-laura-miele-ai-creativity-tim-sweeney/",
+      "url_mobile": "https://wccftech.com/ea-laura-miele-ai-creativity-tim-sweeney/amp/",
+      "title": "EA Laura Miele Champions AI as Creativity Accelerant , Echoing Epic Tim Sweeney Even as  Slop  Fears Linger",
+      "seendate": "20260626T161500Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2026/06/EA-Stability-AI-HD-1920x1080.jpeg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tvnewscheck.com/ai/article/when-the-lawsuit-fails-you-license-gettys-forced-pivot-to-openai/",
+      "url_mobile": "",
+      "title": "When The Lawsuit Fails , You License : Getty Forced Pivot To OpenAI",
+      "seendate": "20260626T104500Z",
+      "socialimage": "https://tvnewscheck.com/wp-content/uploads/2026/06/getty-openai-partnership-2026.jpg",
+      "domain": "tvnewscheck.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://hitconsultant.net/2026/06/25/upside-raises-20-million-series-a-healthcare-housing-ai/",
+      "url_mobile": "",
+      "title": "Upside Secures $20M to Scale AI - Driven Housing Stability Platform for Healthcare",
+      "seendate": "20260625T211500Z",
+      "socialimage": "",
+      "domain": "hitconsultant.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/319030/20260624/getty-images-openai-deal-puts-licensed-photos-chatgpt-creator-pay-unknown.htm",
+      "url_mobile": "",
+      "title": "Getty Images OpenAI Deal Puts Licensed Photos in ChatGPT , Creator Pay Unknown",
+      "seendate": "20260625T161500Z",
+      "socialimage": "https://d.techtimes.com/en/full/467387/getty-images.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
+      "url_mobile": "",
+      "title": "Over 21 million copyrighted songs are circulating among AI developers , watchdog tool launched",
+      "seendate": "20260624T201500Z",
+      "socialimage": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-06/AI-Music.jpg.webp?itok=So3lMC0X1270374521",
+      "domain": "djmag.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/318968/20260624/ai-orchestrator-sakana-fugu-claims-fable-5-parity-real-world-tests-reveal-30-minute-waits.htm",
+      "url_mobile": "",
+      "title": "AI Orchestrator Sakana Fugu Claims Fable 5 Parity : Real - World Tests Reveal 30 - Minute Waits",
+      "seendate": "20260624T114500Z",
+      "socialimage": "https://d.techtimes.com/en/full/467320/sakana-fugu.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sakshi.com/telugu-news/business/big-salary-hike-vs-job-security-bengaluru-techie-career-advice-2824258",
+      "url_mobile": "",
+      "title": "\u0c0e\u0c15\u0c4d\u0c15\u0c41\u0c35 \u0c1c\u0c40\u0c24\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c06\u0c36\u0c2a\u0c21\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c47 .. \u0c1f\u0c46\u0c15\u0c40 \u0c38\u0c32\u0c39\u0c3e\u0c2a\u0c48 \u0c1a\u0c30\u0c4d\u0c1a",
+      "seendate": "20260624T094500Z",
+      "socialimage": "https://www.sakshi.com/article_images/2026/06/24/Techie-.jpg",
+      "domain": "sakshi.com",
+      "language": "Telugu",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.forbes.com/sites/the-prompt/2026/06/23/openai-courts-advertising-bigwigs-at-cannes-lions/",
+      "url_mobile": "",
+      "title": "OpenAI Courts Advertising Bigwigs At Cannes Lions",
+      "seendate": "20260623T221500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a3aee5af25be44f741e0bf1/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2026/06/23/meta-latest-reverse-acqui-hire-cred-founder-kunal-shah/",
+      "url_mobile": "",
+      "title": "Fortune Tech : WhatsApp new chief , Getty - OpenAI deal , Valve Steam Machine price",
+      "seendate": "20260623T114500Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/cred-kunal-shah-2026-06-23.png",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://bmmagazine.co.uk/in-business/getty-images-openai-chatgpt-licensing-deal/",
+      "url_mobile": "",
+      "title": "Getty Images OpenAI Deal : ChatGPT Gets Access to Photo Archive , Shares Double",
+      "seendate": "20260623T071500Z",
+      "socialimage": "https://bmmagazine.co.uk/wp-content/uploads/2026/06/shutterstock_292272824.jpg",
+      "domain": "bmmagazine.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/getty-images-surges-145-after-announcing-openai-deal/article71135944.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/markets/stock-markets/getty-images-surges-145-after-announcing-openai-deal/article71135944.ece/amp/",
+      "title": "Getty Images surges 145 % after announcing OpenAI deal - The HinduBusinessLine",
+      "seendate": "20260623T054500Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/1bsvj1/article71136211.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design.png",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/06/22/getty-images-enters-deal-with-openai/",
+      "url_mobile": "",
+      "title": "Getty Images Enters Deal With OpenAI , Raising Questions On Training",
+      "seendate": "20260623T014500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a398a72af0beda754b8fe4b/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-6-22-why-getty-images-gety-stock-is-up-today",
+      "url_mobile": "",
+      "title": "FinancialContent - Why Getty Images ( GETY ) Stock Is Up Today",
+      "seendate": "20260622T203000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/GETY",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.journalismpakistan.com/how-newspapers-make-money-in-2026",
+      "url_mobile": "",
+      "title": "How newspapers make money in 2026",
+      "seendate": "20260622T183000Z",
+      "socialimage": "https://www.journalismpakistan.com/news/how-newspapers-make-money-in-2026.jpg",
+      "domain": "journalismpakistan.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/getty-images-soars-after-securing-display-agreement-openai",
+      "url_mobile": "",
+      "title": "Getty Images Soars After Securing  Display Agreement  With OpenAI",
+      "seendate": "20260622T140000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/2026-06-22_07-35-18.png?itok=OanfvZnu",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/siladityaray/2026/06/22/getty-images-shares-soar-more-than-120-after-it-announces-deal-with-openai/",
+      "url_mobile": "",
+      "title": "Getty Shares Rise 120 % After It Announces New OpenAI Deal",
+      "seendate": "20260622T123000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a392284f7d86e4ddb2b1f01/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
+      "url_mobile": "",
+      "title": "OpenAI Signs Deal To Show Getty Images In ChatGPT Results",
+      "seendate": "20260622T121500Z",
+      "socialimage": "https://www.engadget.com/img/gallery/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/l-intro-1782128913.jpg",
+      "domain": "engadget.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.livemint.com/global/the-biggest-risks-threatening-this-highflying-stock-market-11782089459046.html",
+      "url_mobile": "https://www.livemint.com/global/the-biggest-risks-threatening-this-highflying-stock-market/amp-11782089459046.html",
+      "title": "The biggest risks threatening this highflying stock market",
+      "seendate": "20260622T024500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/06/22/600x338/im-29969902_1782089465522_1782089501827_3873a557-2dba-4992-a030-bc519144f3d9.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.mondaq.com:443/unitedstates/class-actions/1801784/old-statutes-new-targets-how-plaintiffs-are-using-existing-privacy-and-consumer-laws-against-ai-companies",
+      "url_mobile": "",
+      "title": "Old Statutes , New Targets : How Plaintiffs Are Using Existing Privacy And Consumer Laws Against AI Companies",
+      "seendate": "20260619T111500Z",
+      "socialimage": "http://www.mondaq.com/images/MondaqThumb.png",
+      "domain": "mondaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.chiangraitimes.com/tech/workflows-ai-agents-and-multi-agent-systems-for-thailand/",
+      "url_mobile": "",
+      "title": "Workflows , AI Agents , And Multi - Agent Systems For Thailand",
+      "seendate": "20260619T024500Z",
+      "socialimage": "https://i0.wp.com/www.chiangraitimes.com/wp-content/uploads/2026/06/image-2-1000x600-1.webp",
+      "domain": "chiangraitimes.com",
+      "language": "English",
+      "sourcecountry": "Thailand"
+    },
+    {
+      "url": "https://thebulletin.org/2026/06/ai-is-changing-biological-and-nuclear-risks-governance-must-change-accordingly/",
+      "url_mobile": "",
+      "title": "AI is changing biological and nuclear risks ; governance must change accordingly",
+      "seendate": "20260618T130000Z",
+      "socialimage": "https://thebulletin.org/wp-content/uploads/2026/06/55204516927_cf85ece825_o.jpg.optimal.jpg",
+      "domain": "thebulletin.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/microsoft-apple-pivot-openai/",
+      "url_mobile": "",
+      "title": "How Microsoft and Apple Pivot Threatens OpenAI Dominance",
+      "seendate": "20260615T151500Z",
+      "socialimage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/openai-gpt-6-launch.jpg",
+      "domain": "geeky-gadgets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/new-updates/forget-cs-or-ai-this-once-overlooked-engineering-stream-quietly-becomes-the-surprise-choice-among-iit-aspirants/articleshow/131736689.cms",
+      "url_mobile": "https://m.economictimes.com/news/new-updates/forget-cs-or-ai-this-once-overlooked-engineering-stream-quietly-becomes-the-surprise-choice-among-iit-aspirants/amp_articleshow/131736689.cms",
+      "title": "Forget CS or AI ? This once - overlooked engineering stream quietly becomes the surprise choice among IIT aspirants",
+      "seendate": "20260615T074500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-131737012,width-1200,height-630,imgsize-74896,overlay-economictimes/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.investmentexecutive.com/news/regulation/go-ahead-embrace-ai-responsibly-fsb/",
+      "url_mobile": "",
+      "title": "Go ahead , embrace AI , responsibly : FSB - Investment Executive",
+      "seendate": "20260610T200000Z",
+      "socialimage": "https://www.investmentexecutive.com/uploads/2026/06/AdobeStock_AI-tech-efficiency.jpg",
+      "domain": "investmentexecutive.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.slashfilm.com/2191067/james-cameron-wrote-greatest-anti-ai-scene-terminator-2-judgment-day/",
+      "url_mobile": "",
+      "title": "James Cameron Anti - AI Scene In Terminator 2 Should Have Hollywood Taking Notes",
+      "seendate": "20260610T174500Z",
+      "socialimage": "https://www.slashfilm.com/img/gallery/james-cameron-wrote-the-greatest-anti-ai-scene-in-movie-history-hollywood-should-take-note/l-intro-1781047246.jpg",
+      "domain": "slashfilm.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://blog.hubspot.com/marketing/faqs-for-aeo",
+      "url_mobile": "",
+      "title": "FAQs for AEO : How to structure answers that rank in answer engines",
+      "seendate": "20260610T120000Z",
+      "socialimage": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/faqs-for-aeo-1-20260609-3393899.webp",
+      "domain": "blog.hubspot.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://zdnet.co.kr/view/?no=20260609144635",
+      "url_mobile": "",
+      "title": "  AI \ud61c\ud0dd \ubaa8\ub450 \ub204\ub824\uc57c \u2026 \uc815\ubd80 ,  AI \uae30\ubcf8\uc0ac\ud68c  \ub17c\uc758 \uc790\ub9ac \ub9c8\ub828",
+      "seendate": "20260609T073000Z",
+      "socialimage": "https://image.zdnet.co.kr/2026/01/06/823b058e4346963ffb05b27402495558.png",
+      "domain": "zdnet.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.zerohedge.com/energy/can-ai-save-more-energy-it-consumes",
+      "url_mobile": "",
+      "title": "Can AI Save More Energy Than It Consumes ? ",
+      "seendate": "20260608T113000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/2026-06-05_sr1kgeaief_80.jpg?itok=chOIB2kR",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/new-updates/apple-wwdc-event-2026-live-streaming-how-and-where-to-watch-in-india-worldwide-developers-conference-2026-youtube-live-stream/articleshow/131583079.cms",
+      "url_mobile": "https://m.economictimes.com/news/new-updates/apple-wwdc-event-2026-live-streaming-how-and-where-to-watch-in-india-worldwide-developers-conference-2026-youtube-live-stream/amp_articleshow/131583079.cms",
+      "title": "Apple WWDC 2026 Live Streaming : How and where to watch the big iPhone , Siri and AI announcements online in India tonight",
+      "seendate": "20260608T093000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-131583240,width-1200,height-630,imgsize-10682,overlay-economictimes/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://ventureburn.com/best-ai-music-generators/",
+      "url_mobile": "https://ventureburn.com/best-ai-music-generators/?amp=1",
+      "title": "Best AI Music Generators : 10 Platforms Ranked for 2026",
+      "seendate": "20260608T070000Z",
+      "socialimage": "https://ventureburn.com/wp-content/uploads/2026/06/Collate-Raises-95M-1.jpeg",
+      "domain": "ventureburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "http://usa.chinadaily.com.cn/a/202606/08/WS6a25a59aa310d6866eb4cdfa.html",
+      "url_mobile": "",
+      "title": "Digital dependency",
+      "seendate": "20260608T004500Z",
+      "socialimage": "http://img2.chinadaily.com.cn/images/202606/08/6a25a59aa310d68600fef484.jpeg",
+      "domain": "usa.chinadaily.com.cn",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/apple-wwdc-2026-announcements/",
+      "url_mobile": "",
+      "title": "Apple WWDC 2026 : Siri 2 . 0 , iOS 27 , and M5 Mac Announcements",
+      "seendate": "20260607T120000Z",
+      "socialimage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/wwdc26.jpg",
+      "domain": "geeky-gadgets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.the-star.co.ke/siasa/2026-06-07-konyango-global-ai-governance-requires-genuine-multilateralism",
+      "url_mobile": "",
+      "title": "KONYANGO : Global AI governance requires genuine multilateralism",
+      "seendate": "20260607T064500Z",
+      "socialimage": "https://cdn.radioafrica.digital/image/2025/01/ca5d7d6e-d41e-49ba-b103-b9af088e30c9.png",
+      "domain": "the-star.co.ke",
+      "language": "English",
+      "sourcecountry": "Kenya"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/india/pm-modi-chairs-meeting-with-members-of-pm-economic-advisory-council-13942693.html",
+      "url_mobile": "https://www.moneycontrol.com/news/india/pm-modi-chairs-meeting-with-members-of-pm-economic-advisory-council-13942693.html/amp",
+      "title": "PM Modi chairs meeting with EAC - PM members , discusses measures to boost economic growth",
+      "seendate": "20260606T093000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/06/20260606083353_Modi-Meeting.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.dailygazette.com/the_recorder/tribune/scorsese-betting-on-ai-to-transform-storyboarding-process/article_ef787c39-0341-5657-bf8d-8bdf84d81e85.html",
+      "url_mobile": "",
+      "title": "Scorsese betting on AI to transform storyboarding process",
+      "seendate": "20260604T233000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/9/ca/9ca7c4cb-3012-5f15-a69b-9431b28ecc9e/6a203ef47651c.image.jpg?crop=1600%2C840%2C0%2C72",
+      "domain": "dailygazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.euronews.com/culture/2026/06/04/r-ai-ging-bull-backlash-against-martin-scorsese-after-director-endorses-creatively-freeing",
+      "url_mobile": "",
+      "title": "R - AI - ging Bull : Backlash against Martin Scorsese after director endorses  creatively freeing  AI",
+      "seendate": "20260604T163000Z",
+      "socialimage": "https://images.euronews.com/articles/stories/09/78/52/20/1200x675_cmsv2_980629e5-57d1-522b-8bee-7e2a5c620a78-9785220.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://sofokleous10.gr/2026/06/04/%CF%83%CF%84%CE%BF%CF%85%CF%81%CE%BD%CE%AC%CF%81%CE%B1%CF%82-%CE%BF-%CE%B5%CF%80%CE%B1%CE%BD%CE%B1%CF%80%CE%B1%CF%84%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CF%84%CE%B1%CE%BB%CE%AD%CE%BD%CF%84%CF%89/",
+      "url_mobile": "",
+      "title": "\u03a3\u03c4\u03bf\u03c5\u03c1\u03bd\u03ac\u03c1\u03b1\u03c2 : \u039f \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03b1\u03c4\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b1\u03bb\u03ad\u03bd\u03c4\u03c9\u03bd \u00ab \u03b1\u03c4\u03bf\u03cd \u00bb \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u0391\u0399 \u2013 \u03a0\u03bf\u03b9\u03bf\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b5\u03c2",
+      "seendate": "20260604T161500Z",
+      "socialimage": "",
+      "domain": "sofokleous10.gr",
+      "language": "Greek",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://pelop.gr/techniti-noimosyni-stournaras-oikonomia-trapezes/",
+      "url_mobile": "https://pelop.gr/techniti-noimosyni-stournaras-oikonomia-trapezes/?amp=1",
+      "title": "\u03a4\u03b5\u03c7\u03bd\u03b7\u03c4\u03ae \u03bd\u03bf\u03b7\u03bc\u03bf\u03c3\u03cd\u03bd\u03b7 : \u039f\u03b9 \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9\u03c2 \u03a3\u03c4\u03bf\u03c5\u03c1\u03bd\u03ac\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b5\u03c2",
+      "seendate": "20260604T130000Z",
+      "socialimage": "https://pelop.gr/wp-content/uploads/2026/06/stigmiotypo-othonis-2026-06-04-153034.webp",
+      "domain": "pelop.gr",
+      "language": "Greek",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://natlawreview.com/article/privacy-compliance-ai-governance-why-source-training-data-becoming-central-legal",
+      "url_mobile": "https://natlawreview.com/article/privacy-compliance-ai-governance-why-source-training-data-becoming-central-legal?amp",
+      "title": "From Privacy Compliance to AI Governance : Sourcing Training Data",
+      "seendate": "20260604T120000Z",
+      "socialimage": "https://natlawreview.com/sites/default/files/styles/article_image/public/2026-06/AI%20Legal%20tech%20cloud%20Law%20machine%20learning%20SMALL.jpg.webp?itok=lSdICBVR",
+      "domain": "natlawreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsit.gr/oikonomia/finance/stournaras-o-epanapatrismos-talenton-atou-gia-tin-ellada-stin-epoxi-tou-ai-poioi-einai-oi-kindynoi-gia-tis-trapezes/4694308/",
+      "url_mobile": "https://www.newsit.gr/oikonomia/finance/stournaras-o-epanapatrismos-talenton-atou-gia-tin-ellada-stin-epoxi-tou-ai-poioi-einai-oi-kindynoi-gia-tis-trapezes/4694308/amp/",
+      "title": "\u03a3\u03c4\u03bf\u03c5\u03c1\u03bd\u03ac\u03c1\u03b1\u03c2 : \u039f \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03b1\u03c4\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b1\u03bb\u03ad\u03bd\u03c4\u03c9\u03bd \u00ab \u03b1\u03c4\u03bf\u03cd \u00bb \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u0391\u0399 - \u03a0\u03bf\u03b9\u03bf\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b5\u03c2",
+      "seendate": "20260604T113000Z",
+      "socialimage": "https://www.newsit.gr/wp-content/uploads/2026/06/stournaras-ai-1200x630.jpg",
+      "domain": "newsit.gr",
+      "language": "Greek",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://www.inewsgr.com/93/stournaras-o-epanapatrismos-talenton-atou-gia-tin-ellada-stin-epochi-tou-ai--poioi-einai-oi-kindynoi-gia-tis-trapezes.htm",
+      "url_mobile": "https://www.inewsgr.com/93/stournaras-o-epanapatrismos-talenton-atou-gia-tin-ellada-stin-epochi-tou-ai--poioi-einai-oi-kindynoi-gia-tis-trapezes.htm.amp",
+      "title": "\u03a3\u03c4\u03bf\u03c5\u03c1\u03bd\u03ac\u03c1\u03b1\u03c2 : \u039f \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03b1\u03c4\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b1\u03bb\u03ad\u03bd\u03c4\u03c9\u03bd \u00ab \u03b1\u03c4\u03bf\u03cd \u00bb \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u0391\u0399 \u2013 \u03a0\u03bf\u03b9\u03bf\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b5\u03c2",
+      "seendate": "20260604T111500Z",
+      "socialimage": "https://images32.inewsgr.com/5952/59526552/1.jpg",
+      "domain": "inewsgr.com",
+      "language": "Greek",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://www.dailygazette.com/hv360/tribune/scorsese-is-betting-on-ai-to-transform-the-storyboarding-process/article_ef787c39-0341-5657-bf8d-8bdf84d81e85.html",
+      "url_mobile": "",
+      "title": "Scorsese is betting on AI to transform the storyboarding process",
+      "seendate": "20260604T000000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/9/ca/9ca7c4cb-3012-5f15-a69b-9431b28ecc9e/6a203ef47651c.image.jpg?crop=1600%2C840%2C0%2C72",
+      "domain": "dailygazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailygazette.com/the_recorder/tribune/scorsese-is-betting-on-ai-to-transform-the-storyboarding-process/article_ef787c39-0341-5657-bf8d-8bdf84d81e85.html",
+      "url_mobile": "",
+      "title": "Scorsese is betting on AI to transform the storyboarding process",
+      "seendate": "20260603T233000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/9/ca/9ca7c4cb-3012-5f15-a69b-9431b28ecc9e/6a203ef47651c.image.jpg?crop=1600%2C840%2C0%2C72",
+      "domain": "dailygazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themorningsun.com/2026/06/03/martin-scorsese-is-betting-on-ai-to-transform-the-storyboarding-process/",
+      "url_mobile": "",
+      "title": "Martin Scorsese is betting on AI to transform the storyboarding process",
+      "seendate": "20260603T220000Z",
+      "socialimage": "https://www.themorningsun.com/wp-content/uploads/2026/06/202606031019MCT_____PHOTO____ENTER-MOVIE-SCORSESE-AI-FILEPIC-GET.jpg",
+      "domain": "themorningsun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theoaklandpress.com/2026/06/03/martin-scorsese-is-betting-on-ai-to-transform-the-storyboarding-process/",
+      "url_mobile": "",
+      "title": "Martin Scorsese is betting on AI to transform the storyboarding process",
+      "seendate": "20260603T183000Z",
+      "socialimage": "https://www.theoaklandpress.com/wp-content/uploads/2026/06/202606031019MCT_____PHOTO____ENTER-MOVIE-SCORSESE-AI-FILEPIC-GET.jpg",
+      "domain": "theoaklandpress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://variety.com/2026/digital/news/ai-music-suno-funding-round-400-million-5-4-billion-valuation-1236765727/",
+      "url_mobile": "",
+      "title": "AI Music Company Suno Raises $400 Million at $5 . 4 Billion Valuation",
+      "seendate": "20260603T160000Z",
+      "socialimage": "https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?&crop=1",
+      "domain": "variety.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/317677/20260603/martin-scorsese-joins-black-forest-labs-ai-adviser-new-dicaprio-film.htm",
+      "url_mobile": "",
+      "title": "Martin Scorsese Joins Black Forest Labs as AI Adviser for New DiCaprio Film",
+      "seendate": "20260603T141500Z",
+      "socialimage": "https://d.techtimes.com/en/full/465913/black-forest-labs.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/martin-scorsese-embraces-ai-teams-up-with-company-black-forest-labs/article71055997.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/info-tech/martin-scorsese-embraces-ai-teams-up-with-company-black-forest-labs/article71055997.ece/amp/",
+      "title": "Martin Scorsese embraces AI , teams up with company Black Forest Labs",
+      "seendate": "20260603T093000Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/wo6pip/article71056005.ece/alternates/LANDSCAPE_1200/2024-03-10T231010Z_841651333_HP1EK3A1SCUV6_RTRMADP_3_AWARDS-OSCARS.JPG",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.hindustantimes.com/entertainment/hollywood/martin-scorsese-embraces-ai-teams-up-with-company-black-forest-labs-101780470245624.html",
+      "url_mobile": "https://www.hindustantimes.com/entertainment/hollywood/martin-scorsese-embraces-ai-teams-up-with-company-black-forest-labs-101780470245624-amp.html",
+      "title": "Martin Scorsese embraces AI , teams up with company Black Forest Labs",
+      "seendate": "20260603T073000Z",
+      "socialimage": "https://www.hindustantimes.com/ht-img/img/2025/07/20/550x309/hollywood_1753008115803_1753008127492.jpeg",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/martin-scorsese-ai-company-black-forest-labs-storyboards-1235571356/",
+      "url_mobile": "",
+      "title": "Martin Scorsese Backs AI Company Black Forest Labs for Storyboards",
+      "seendate": "20260603T011500Z",
+      "socialimage": "https://www.rollingstone.com/wp-content/uploads/2026/06/GettyImages-2177467193.jpg?&crop=1",
+      "domain": "rollingstone.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/02/stock-market-today-june-2-chipmakers-drive-s-and-p-500-to-another-record-close/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Stock Market Today , June 2 : Chipmakers Drive S & P 500 to Another Record Close",
+      "seendate": "20260602T221500Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/e7dd8b70435a213a06dcc8bea55f01f7acf42b48-1401x1251.png?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.malaysiasun.com/news/279095012/gigabyte-event-unveils-the-full-stack-of-new-products-with-enter-infinity-at-computex-2026",
+      "url_mobile": "",
+      "title": "GIGABYTE EVENT Unveils the Full - Stack of New Products with",
+      "seendate": "20260601T140000Z",
+      "socialimage": "",
+      "domain": "malaysiasun.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/gigabyte-event-unveils-the-full-stack-of-new-products-with-enter-infinity-at-computex-2026-302785587.html",
+      "url_mobile": "",
+      "title": "GIGABYTE EVENT Unveils the Full - Stack of New Products with  ENTER INFINITY  at COMPUTEX 2026",
+      "seendate": "20260601T083000Z",
+      "socialimage": "https://mma.prnewswire.com/media/2990627/Computex_2026_INFINITY_Series_1920X1080_KV.jpg?p=facebook",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/30/micron-is-one-of-the-most-overbought-stocks-after-this-weeks-rally-to-new-highs.html",
+      "url_mobile": "",
+      "title": "Micron is one of the most overbought stocks after this week rally to new highs",
+      "seendate": "20260530T140000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108313255-1779982389070-Traders-Photo-20260528-KK-PRESS-010.jpg?v=1779982579",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hartware.de/2026/05/29/cooler-master-and-g-skill-partner-to-bring-active-cooling-technology-to-ddr5-memory/",
+      "url_mobile": "",
+      "title": "Cooler Master and G . SKILL Partner to Bring Active Cooling Technology to DDR5 Memory \u2013 Hartware",
+      "seendate": "20260529T190000Z",
+      "socialimage": "",
+      "domain": "hartware.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/29/dell-shocked-street-on-booming-q1-server-sales-analysts-weigh-in.html",
+      "url_mobile": "",
+      "title": "Dell shocked Street on booming Q1 server sales . Analysts weigh in",
+      "seendate": "20260529T174500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108271216-1772225245609-gettyimages-2263927109-_m0a0629_0gmkbkbu.jpeg?v=1772225291",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/apple-ai-reviewer-agent-architecture/",
+      "url_mobile": "",
+      "title": "The Dual - Agent Architecture Protecting Solo Developers in 2026",
+      "seendate": "20260529T143000Z",
+      "socialimage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/apple-ai-architecture.jpg",
+      "domain": "geeky-gadgets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.bignewsnetwork.com/news/279087401/motorola-razr-fold-launched-in-india-with-81-inch-foldable-display-snapdragon-8-gen-5-and-6000-mah-battery",
+      "url_mobile": "",
+      "title": "Motorola Razr Fold launched in India with 8 . 1 - inch foldable display , Snapdragon 8 Gen 5 , and 6 , 000 mAh battery",
+      "seendate": "20260528T184500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2156338/35d9656b-ea9e-44f2-9fc6-27cf3e337cdf/0/ANI-20260514090257-600x315.jpg",
+      "domain": "bignewsnetwork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.eastbaytimes.com/2026/05/27/richard-barrera-candidate-for-superintendent-of-public-instruction-answers-bay-area-news-groups-primary-questionnaire/",
+      "url_mobile": "https://www.eastbaytimes.com/2026/05/27/richard-barrera-candidate-for-superintendent-of-public-instruction-answers-bay-area-news-groups-primary-questionnaire/amp/",
+      "title": "Richard Barrera , candidate for superintendent of public instruction , answers Bay Area News Group primary questionnaire",
+      "seendate": "20260527T223000Z",
+      "socialimage": "https://www.eastbaytimes.com/wp-content/uploads/2026/05/SJM-L-BARRERARICHARD-1-1.jpg",
+      "domain": "eastbaytimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/10-best-cybersecurity-stocks-to-buy-according-to-short-sellers-1769302/",
+      "url_mobile": "https://www.insidermonkey.com/blog/10-best-cybersecurity-stocks-to-buy-according-to-short-sellers-1769302/?amp=1",
+      "title": "10 Best Cybersecurity Stocks to Buy According to Short Sellers",
+      "seendate": "20260526T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/12203636/CHKP-insidermonkey-1697157393776.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneycontrol.com/religion/what-gen-z-can-learn-from-the-bhagavad-gita-ancient-wisdom-for-mental-peace-discipline-and-inner-stability-article-13928502.html",
+      "url_mobile": "https://www.moneycontrol.com/religion/what-gen-z-can-learn-from-the-bhagavad-gita-ancient-wisdom-for-mental-peace-discipline-and-inner-stability-article-13928502.html/amp",
+      "title": "What Gen Z can learn from the Bhagavad Gita : Ancient wisdom for mental peace , discipline and inner stability",
+      "seendate": "20260523T060000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2026/05/20260523052641_bhagavad-gita.png",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://newswire.net/technology/future-of-managed-it-support-real-time-monitoring-ai-tools-and-smart-automation.html",
+      "url_mobile": "",
+      "title": "Future of Managed IT Support : Real - Time Monitoring , AI Tools , and Smart Automation",
+      "seendate": "20260523T010000Z",
+      "socialimage": "",
+      "domain": "newswire.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.explosion.com/187604/google-adds-ai-tools-for-science-and-watermark-detection/",
+      "url_mobile": "",
+      "title": "Google Adds AI Tools for Science and Watermark Detection",
+      "seendate": "20260522T201500Z",
+      "socialimage": "https://www.explosion.com/wp-content/uploads/2026/05/google-adds-ai-tools-for-science-and-watermark-detection.jpg",
+      "domain": "explosion.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/05/21/the-great-rotation-created-a-rare-buying-window-on/",
+      "url_mobile": "",
+      "title": "The Great Rotation Created a Rare Buying Window on the Nasdaq . Here Are the 2 Best Artificial Intelligence ( AI ) Growth Stocks to Buy . ",
+      "seendate": "20260521T090000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/865867/artificial-intelligence-investing-algorithms.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ecb.europa.eu/press/research-publications/resbull/2026/html/ecb.rb260521~4d8b12940b.en.html",
+      "url_mobile": "",
+      "title": "Financial stability in the age of artificial intelligence : the role of algorithmic architecture",
+      "seendate": "20260521T070000Z",
+      "socialimage": "",
+      "domain": "ecb.europa.eu",
+      "language": "English",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://autonews.gasgoo.com/articles/news/d-robotics-spirit-ai-team-up-on-embodied-ai-deployment-solutions-2057077921083219968",
+      "url_mobile": "",
+      "title": "D - Robotics , Spirit AI team up on embodied AI deployment solutions",
+      "seendate": "20260520T150000Z",
+      "socialimage": "https://gascloud.gasgoo.com/production/2026/05/d6b1cbbe-c9d7-4dfa-ba7d-3df72a4c5636-1779309337.png",
+      "domain": "autonews.gasgoo.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.itnewsonline.com/PRNewswire/LG-CNS-Expands-North-American-AX-Business-Supporting-Smart-Factory-Transformation-for-SMEs/1128273",
+      "url_mobile": "",
+      "title": "LG CNS Expands North American AX Business , Supporting Smart Factory Transformation for SMEs",
+      "seendate": "20260520T000000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.webindia123.com/news/Articles/Business/20260519/4452252.html",
+      "url_mobile": "",
+      "title": "India Atomesus Joins NVIDIA Inception -- And It Not Another AI Wrapper Trying to Look Like a Lab",
+      "seendate": "20260519T183000Z",
+      "socialimage": "",
+      "domain": "news.webindia123.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://martinsvillebulletin.com/exclusive/article_012d2a3f-d131-562f-9fd6-617d24822706.html",
+      "url_mobile": "",
+      "title": "AI Image Copyright in 2026 : What Business Owners Must Know",
+      "seendate": "20260519T183000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/martinsvillebulletin.com/content/tncms/assets/v3/editorial/0/12/012d2a3f-d131-562f-9fd6-617d24822706/6a0c56a940661.preview.jpg?crop=1921%2C1009%2C0%2C35",
+      "domain": "martinsvillebulletin.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://pctechmag.com/2026/05/how-iobit-ai-math-solver-and-ai-photo-editor-are-improving-digital-productivity/",
+      "url_mobile": "",
+      "title": "How IObit , AI Math Solver , and AI Photo Editor Are Improving Digital Productivity",
+      "seendate": "20260519T100000Z",
+      "socialimage": "https://pctechmag.com/wp-content/uploads/2026/05/Screenshot_2026-05-19-14-09-58-31_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg",
+      "domain": "pctechmag.com",
+      "language": "English",
+      "sourcecountry": "Uganda"
+    },
+    {
+      "url": "https://opiniabuzau.ro/foto-liceul-marghiloman-in-liga-mare-a-roboticii-trei-ani-de-performanta-si-succes-international/",
+      "url_mobile": "",
+      "title": "FOTO / Liceul \u201e Marghiloman , \u00een liga mare a roboticii : trei ani de performan\u021b\u0103 \u0219i succes interna\u021bional \u2022 Opinia Buz\u0103u",
+      "seendate": "20260519T011500Z",
+      "socialimage": "https://opiniabuzau.ro/wp-content/uploads/2026/05/robotica-marghiloman-2-scaled.webp",
+      "domain": "opiniabuzau.ro",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/05/18/trump-xi-meeting-china-united-states-economics-trade-great-power-competition/",
+      "url_mobile": "",
+      "title": "Trump - Xi Meeting : Trump China Pragmatism Is Welcome",
+      "seendate": "20260519T001500Z",
+      "socialimage": "https://foreignpolicy.com/wp-content/uploads/2026/05/ChinaMeeting_GettyImages-2275601863-1.jpg",
+      "domain": "foreignpolicy.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://boingboing.net/2026/05/17/last-chance-to-get-gpt-claude-and-gemini-for-life-at-80.html",
+      "url_mobile": "https://boingboing.net/2026/05/17/last-chance-to-get-gpt-claude-and-gemini-for-life-at-80.html/amp",
+      "title": "Last chance to get GPT , Claude , and Gemini for life at $80",
+      "seendate": "20260517T220000Z",
+      "socialimage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&quality=60&ssl=1",
+      "domain": "boingboing.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://everything-pr.com/the-lawsuit-war-room-every-major-ai-copyright-case-mapped-47-publishers-8-ai-com/",
+      "url_mobile": "",
+      "title": "The Lawsuit War Room : Every Major AI Copyright Case , Mapped 47 Publishers , 8 AI Companies , and the Trial That Will Reshape the Internet",
+      "seendate": "20260515T030000Z",
+      "socialimage": "https://api.everything-pr.com/storage/v1/object/public/wp-media/wp-content/uploads/2026/05/the-lawsuit-war-room-every-major-ai-copyright-case-mapped-47-publisher.png",
+      "domain": "everything-pr.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/inventurus-knowledge-solutions-iks-health-reports-robust-fy26-financial-results-with-20-revenue-growth-and-48-surge-in-profit-after-tax/article70977485.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/brandhub/pr-release/inventurus-knowledge-solutions-iks-health-reports-robust-fy26-financial-results-with-20-revenue-growth-and-48-surge-in-profit-after-tax/article70977485.ece/amp/",
+      "title": "Inventurus Knowledge Solutions ( IKS Health ) Reports Robust FY26 Financial Results with 20 % Revenue Growth and 48 % Surge in Profit After Tax",
+      "seendate": "20260514T113000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/pg6qsl/article70977482.ece/alternates/LANDSCAPE_1200/Screenshot%202026-05-14%20112054.png",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thehindu.com/brandhub/pr-release/inventurus-knowledge-solutions-iks-health-reports-robust-fy26-financial-results-with-20-revenue-growth-and-48-surge-in-profit-after-tax/article70977483.ece",
+      "url_mobile": "https://www.thehindu.com/brandhub/pr-release/inventurus-knowledge-solutions-iks-health-reports-robust-fy26-financial-results-with-20-revenue-growth-and-48-surge-in-profit-after-tax/article70977483.ece/amp/",
+      "title": "Inventurus Knowledge Solutions ( IKS Health ) Reports Robust FY26 Financial Results with 20 % Revenue Growth and 48 % Surge in Profit After Tax",
+      "seendate": "20260514T093000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/pg6qsl/article70977482.ece/alternates/LANDSCAPE_1200/Screenshot%202026-05-14%20112054.png",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://everything-pr.com/ai-generated-ads-the-disclosure-crisis-coming-in-2027/",
+      "url_mobile": "",
+      "title": "AI - Generated Ads : The Disclosure Crisis Coming in 2027",
+      "seendate": "20260513T233000Z",
+      "socialimage": "https://api.everything-pr.com/storage/v1/object/public/wp-media/wp-content/uploads/2026/05/ai-generated-ads-the-disclosure-crisis-coming-in-2027.png",
+      "domain": "everything-pr.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "company": "Hugging Face",
   "query": "\"Hugging Face\"",
-  "start": "20250101000000",
-  "end": "20250930235959",
-  "count": 250,
+  "start": null,
+  "end": null,
+  "count": 500,
   "articles": [
     {
       "url": "https://www.cerebras.ai/press-release/series-g",
@@ -2504,6 +2504,2506 @@
       "domain": "invezz.com",
       "language": "English",
       "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.theuknews.com/news/279223319/rogue-ai-agents-targeted-real-people-during-tests",
+      "url_mobile": "",
+      "title": "Rogue AI agents targeted real people during tests",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/3e25425/d06808ac-cf8b-4b8a-8bb6-203dd6a291f3/0/NmQ2N2MxMTItNTh-600x315.jpg",
+      "domain": "theuknews.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://mashable.com/tech/openai-anthropic-ai-research-hacking-extreme-measures",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic models took extreme measures in hacking test",
+      "seendate": "20260805T170000Z",
+      "socialimage": "https://helios-i.mashable.com/imagery/articles/02HbbvODc9INRci9RnVkpZs/hero-image.fill.size_1200x675.v1785945688.jpg",
+      "domain": "mashable.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/greatspeculations/2026/08/05/the-price-is-not-right-for-anthropic-and-openai/",
+      "url_mobile": "",
+      "title": "The Price Is Not Right For Anthropic And OpenAI",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a7347fc3ae0145e3e11c04d/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.telecomtv.com/content/6g/what-s-up-with-optus-nokia-sk-telecom-rogue-ai-56017/",
+      "url_mobile": "https://www.telecomtv.com/content/6g/what-s-up-with-optus-nokia-sk-telecom-rogue-ai-56017/amp/",
+      "title": "What up with \u2026 Optus & Nokia , SK Telecom , rogue AI , Defining 6G Networks",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://assets.telecomtv.com/assets/telecomtv/6g-source-adobe-22553.jpeg",
+      "domain": "telecomtv.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.theepochtimes.com/tech/openai-anthropic-models-created-fake-profiles-tried-to-trick-humans-during-cyber-tests-6071622",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic Models Created Fake Profiles , Tried to Trick Humans During Cyber Tests",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://img.theepochtimes.com/assets/uploads/2026/06/19/id6050753-Anthropic-GettyImages-2281567265-1080x720.jpg",
+      "domain": "theepochtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.crn.com/news/security/2026/ai-agents-are-really-starting-to-get-this-hacking-thing-analysis",
+      "url_mobile": "",
+      "title": "AI Agents Are Really Starting To Get This Hacking Thing : Analysis",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://www.crn.com/news/security/2026/media_1f83c9e7a12c2e81659c1e5c890bbf14df7ac347d.png?&format=pjpg&optimize=medium",
+      "domain": "crn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-anthropic-model-tests-reveal-more-unsanctioned-actions/articleshow/132925850.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/openai-anthropic-model-tests-reveal-more-unsanctioned-actions/amp_articleshow/132925850.cms",
+      "title": "OpenAI , Anthropic model tests reveal more  unsanctioned  actions",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-74980,resizemode-75,msid-132925850/tech/artificial-intelligence/openai-anthropic-model-tests-reveal-more-unsanctioned-actions.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.bignewsnetwork.com/news/279223319/rogue-ai-agents-targeted-real-people-during-tests",
+      "url_mobile": "",
+      "title": "Rogue AI agents targeted real people during tests",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/3e25425/d06808ac-cf8b-4b8a-8bb6-203dd6a291f3/0/NmQ2N2MxMTItNTh-600x315.jpg",
+      "domain": "bignewsnetwork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.britainnews.net/news/279223319/rogue-ai-agents-targeted-real-people-during-tests",
+      "url_mobile": "",
+      "title": "Rogue AI agents targeted real people during tests",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/3e25425/d06808ac-cf8b-4b8a-8bb6-203dd6a291f3/0/NmQ2N2MxMTItNTh-600x315.jpg",
+      "domain": "britainnews.net",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://thebostonpilot.com/Opinion/article.asp?ID=203070",
+      "url_mobile": "",
+      "title": "Echoes . Why an encyclical on AI is needed . Published 8 / 5 / 2026",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://www.thebostonpilot.com/news/20260805/images/700x450_Pilot_29159.jpg",
+      "domain": "thebostonpilot.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://geographical.co.uk/news/chinas-ai-push-raises-the-stakes",
+      "url_mobile": "",
+      "title": "China AI push raises the stakes",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://geographical.co.uk/wp-content/uploads/ai-concept.jpg",
+      "domain": "geographical.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://woai.iheart.com/featured/san-antonios-first-news/content/2026-08-04-what-are-legal-liabilities-for-artificial-intelligence/",
+      "url_mobile": "",
+      "title": "What Are Legal Liabilities for Artificial Intelligence ? | News Radio 1200 WOAI",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://i.iheart.com/v3/re/assets.getty/6a72402e0afdb96050e3bf94?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+      "domain": "woai.iheart.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://indiaeducationdiary.in/nalawatch-an-ai-powered-urban-flood-intelligence-platform-built-by-hyderabad-students-wins-nxtwaves-idea-to-impact-hackathon-2/",
+      "url_mobile": "",
+      "title": "NalaWatch , an AI - Powered Urban Flood Intelligence Platform Built by Hyderabad Students , Wins NxtWave  Idea to Impact  Hackathon - India Education | Latest Education News | Global Educational News",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://indiaeducationdiary.in/wp-content/uploads/2026/08/Idea-to-Impact-Hackathon_NxtWave-1024x683.jpg",
+      "domain": "indiaeducationdiary.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://english.aawsat.com/technology/5303622-openai-anthropic-ai-agents-implicated-new-security-breaches",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI Agents Implicated in New Security Breaches",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://static.srpcdigital.com/styles/1200x600/public/2026-08/1703615.jpeg.webp",
+      "domain": "english.aawsat.com",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "http://www.philippinetimes.com/news/279223040/tencent-hy3-now-available-globally-extending-practical-ai-across-products-workflows-and-cloud-services",
+      "url_mobile": "",
+      "title": "Tencent Hy3 Now Available Globally , Extending Practical AI Across Products , Workflows and Cloud Services",
+      "seendate": "20260805T111500Z",
+      "socialimage": "",
+      "domain": "philippinetimes.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
+      "url_mobile": "https://www.cnbc.com/amp/2026/08/05/anthropic-mythos-openai-security-breaches.html",
+      "title": "Anthropic , Open AI models created fake identities in new cyber breach",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108342851-1785448588442-gettyimages-2283765640-AI_MODELS.jpeg?v=1785448851",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.vietnamtribune.com/news/279223040/tencent-hy3-now-available-globally-extending-practical-ai-across-products-workflows-and-cloud-services",
+      "url_mobile": "",
+      "title": "Tencent Hy3 Now Available Globally , Extending Practical AI Across Products , Workflows and Cloud Services",
+      "seendate": "20260805T104500Z",
+      "socialimage": "",
+      "domain": "vietnamtribune.com",
+      "language": "English",
+      "sourcecountry": "Vietnam"
+    },
+    {
+      "url": "https://bmmagazine.co.uk/ai/anthropic-openai-ai-models-hacked-companies/",
+      "url_mobile": "",
+      "title": "AI models hacked firms , Anthropic and OpenAI confirm",
+      "seendate": "20260805T094500Z",
+      "socialimage": "https://bmmagazine.co.uk/wp-content/uploads/2025/05/shutterstock_2366323229-scaled.jpg",
+      "domain": "bmmagazine.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.australiannews.net/news/279223040/tencent-hy3-now-available-globally-extending-practical-ai-across-products-workflows-and-cloud-services",
+      "url_mobile": "",
+      "title": "Tencent Hy3 Now Available Globally , Extending Practical AI Across Products , Workflows and Cloud Services",
+      "seendate": "20260805T093000Z",
+      "socialimage": "",
+      "domain": "australiannews.net",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says",
+      "url_mobile": "https://www.aljazeera.com/amp/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says",
+      "title": "AI models attempted  unsanctioned  cyberattacks in tests , watchdog says | Technology News",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-05T185337Z_1886587083_RC2UNLANZBNH_RTRMADP_3_ANTHROPIC-AI-1785914202.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/technology/tech-news/openai-anthropic-ai-agents-targeted-real-people-and-organisations-during-cyber-tests-11785917779121.html",
+      "url_mobile": "https://www.livemint.com/technology/tech-news/openai-anthropic-ai-agents-targeted-real-people-and-organisations-during-cyber-tests/amp-11785917779121.html",
+      "title": "OpenAI , Anthropic AI agents targeted real people and organisations during cyber tests",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/05/600x338/USA-TRUMP-ALTMAN-10_1785676870086_1785676950880_495009ef-8f4b-414e-9411-2c7841b36dca_1785919962195_54c2d53f-ff15-4cfc-90cc-67a068916a09.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.econotimes.com/UK-AI-Security-Tests-Reveal-Anthropic-and-OpenAI-Agents-Attempted-Unauthorized-Actions-1748645",
+      "url_mobile": "",
+      "title": "UK AI Security Tests Reveal Anthropic and OpenAI Agents Attempted Unauthorized Actions",
+      "seendate": "20260805T090000Z",
+      "socialimage": "https://f1.econotimes.com/2025/04/eixvya3ye4.jpg",
+      "domain": "econotimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.malaysiasun.com/news/279223040/tencent-hy3-now-available-globally-extending-practical-ai-across-products-workflows-and-cloud-services",
+      "url_mobile": "",
+      "title": "Tencent Hy3 Now Available Globally , Extending Practical AI Across Products , Workflows and Cloud Services",
+      "seendate": "20260805T084500Z",
+      "socialimage": "",
+      "domain": "malaysiasun.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.naturalnews.com/2026-08-04-hugging-face-ceo-china-leads-ai-race.html",
+      "url_mobile": "",
+      "title": "Hugging Face CEO Says China Leads AI Race With Open - Weight Models \u2013 NaturalNews . com",
+      "seendate": "20260805T080000Z",
+      "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/hugging-face-clment-delangue-china-ai-race-3158-original.jpg",
+      "domain": "naturalnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/05/world/2-openai-anthropic-ai-agents-implicated-in-new-security-breaches/2398668",
+      "url_mobile": "https://www.manilatimes.net/2026/08/05/world/2-openai-anthropic-ai-agents-implicated-in-new-security-breaches/2398668/amp",
+      "title": "2 - OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T074500Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/05/1164364.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8",
+      "url_mobile": "",
+      "title": "OpenAI Reported 2 More Incidents of Rogue AI Agents",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://i.insider.com/6a72b29df9ea6266446ee69f?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-anthropic-model-tests-reveal-more-hacking-deception/article71307943.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/info-tech/openai-anthropic-model-tests-reveal-more-hacking-deception/article71307943.ece/amp/",
+      "title": "OpenAI , Anthropic model tests reveal more hacking , deception",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/daeen4/article71307982.ece/alternates/LANDSCAPE_1200/iStock-1452604857.jpg",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.jpost.com/science/ai-news/article-904624",
+      "url_mobile": "",
+      "title": "UK AI Security Institute catches OpenAI , Anthropic breaches in model tests",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/671930",
+      "domain": "jpost.com",
+      "language": "English",
+      "sourcecountry": "Israel"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69219111-tencent-hy3-now-available-globally-extending-practical-ai-across-products-workflows-and-cloud-services-008.htm",
+      "url_mobile": "",
+      "title": "Tencent Hy3 Now Available Globally , Extending Practical AI Across Products , Workflows and Cloud Services",
+      "seendate": "20260805T070000Z",
+      "socialimage": "",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.digitaljournal.com/article/trump-admin-to-review-closed-ai-models-before-release-reports/",
+      "url_mobile": "",
+      "title": "Trump admin to review  closed  AI models before release : reports",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://www.digitaljournal.com/wp-content/uploads/2026/06/45a70c6f4a179fb086f67009959dcc3cd5408535.jpg",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://lufkindailynews.com/news_reuters/business/openai-anthropic-ai-agents-implicated-in-new-security-breaches/article_a5bbcc03-6fe3-5d87-bd87-91b5445fe7c2.html",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/5/74/574a7a37-28d9-51ef-967c-8c0094b29edc/6a729e4138d8e.image.jpg?crop=800%2C420%2C0%2C56",
+      "domain": "lufkindailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches/article71308023.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches/article71308023.ece/amp/",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T054500Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/3u92yu/article71308028.ece/alternates/LANDSCAPE_1200/2026-07-02T060526Z_789779395_RC2TRLAK9POM_RTRMADP_3_CHINA-TECH-AI.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/05/reports-trump-admin-to-review-039closed039-ai-models-before-release",
+      "url_mobile": "",
+      "title": "Reports : Trump admin to review  closed  AI models before release",
+      "seendate": "20260805T054500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/08/05/4044182.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://thefrontierpost.com/trump-admin-to-review-closed-ai-models-before-release-reports/",
+      "url_mobile": "https://thefrontierpost.com/trump-admin-to-review-closed-ai-models-before-release-reports/amp/",
+      "title": "Trump admin to review  closed  AI models before release : reports \u2013 The Frontier Post",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvdGhlZnJvbnRpZXJwb3N0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNlwvMDhcL2ltYWdlcy01LTEuanBnIiwidHh0IjoiVHJ1bXAgYWRtaW4gdG8gcmV2aWV3ICYjODIxNjtjbG9zZWQmIzgyMTc7IEFJIG1vZGVscyBiZWZvcmUgcmVsZWFzZTogcmVwb3J0cyIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMzc1ODIzNDN9.DzQ4g4HzaTxiPD9VuOU8h9bKgCpf0_JGrX4SS8yT0eoMQ",
+      "domain": "thefrontierpost.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.westernadvocate.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://www.westernadvocate.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "westernadvocate.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.rnz.co.nz/news/world/894586/openai-anthropic-ai-agents-implicated-in-new-security-breaches",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://media.rnztools.nz/rnz/image/upload/s--DG1BlMD2--/t_tohu-badge-facebook/f_auto/q_auto/4JL12VP_AFP__20260609__boivin_notitle260609_np9b6__v1__HighRes__PhotoIllustrationsOpenaiLaun_jpg",
+      "domain": "rnz.co.nz",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.standard.net.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://www.standard.net.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "standard.net.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.newcastleherald.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://www.newcastleherald.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "newcastleherald.com.au",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.thecourier.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T040000Z",
+      "socialimage": "https://www.thecourier.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "thecourier.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.maitlandmercury.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T040000Z",
+      "socialimage": "https://www.maitlandmercury.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "maitlandmercury.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://gizmodo.com/i-usually-laugh-off-these-ai-hacking-reports-but-this-one-sounds-serious-and-scary-2000794666",
+      "url_mobile": "",
+      "title": "I Usually Laugh Off These AI Hacking Reports , but This One Sounds Serious and Scary",
+      "seendate": "20260805T034500Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.northerndailyleader.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T033000Z",
+      "socialimage": "https://www.northerndailyleader.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "northerndailyleader.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://bworldonline.com/technology/2026/08/05/768207/openai-anthropic-ai-agents-implicated-in-new-security-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T033000Z",
+      "socialimage": "https://bworldonline.com/wp-content/uploads/2024/09/AI-artificial-intelligence.jpg",
+      "domain": "bworldonline.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.canberratimes.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T033000Z",
+      "socialimage": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "canberratimes.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.wbap.com/2026/08/04/texas-ag-ken-paxton-joins-coalition-pressing-openai-over-security-incident-involving-gpt-models/",
+      "url_mobile": "",
+      "title": "Texas AG Ken Paxton Joins Coalition Pressing OpenAI Over Security Incident Involving GPT Models",
+      "seendate": "20260805T031500Z",
+      "socialimage": "",
+      "domain": "wbap.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.perthnow.com.au/news/technology/openai-anthropic-ai-agents-implicated-in-new-breaches-c-22678999",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T031500Z",
+      "socialimage": "https://images.perthnow.com.au/publication/C-22678999/c9ce7d5c46e4c08e7920239bbb42e32fee10cbc0-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "domain": "perthnow.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-anthropic-ai-agents-implicated-in-new-security-breaches/articleshow/132885090.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/openai-anthropic-ai-agents-implicated-in-new-security-breaches/amp_articleshow/132885090.cms",
+      "title": "OpenAI security breach : OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T031500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-40282,resizemode-75,msid-132885090/tech/artificial-intelligence/openai-anthropic-ai-agents-implicated-in-new-security-breaches.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.geo.tv/latest/676195-openai-anthropic-ai-agents-implicated-in-new-security-breaches",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T031500Z",
+      "socialimage": "https://www.geo.tv/assets/uploads/updates/2026-08-05/676195_062941_updates.jpg",
+      "domain": "geo.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/experimental-ai-systems-have-been-going-on-hacking-sprees/articleshow/132885233.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/experimental-ai-systems-have-been-going-on-hacking-sprees/amp_articleshow/132885233.cms",
+      "title": "autonomous AI dangers : Experimental AI systems have been going on hacking sprees",
+      "seendate": "20260805T031500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-203296,resizemode-75,msid-132885233/tech/artificial-intelligence/experimental-ai-systems-have-been-going-on-hacking-sprees.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.centralwesterndaily.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T030000Z",
+      "socialimage": "https://www.centralwesterndaily.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "centralwesterndaily.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.illawarramercury.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T030000Z",
+      "socialimage": "https://www.illawarramercury.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "illawarramercury.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://home.nzcity.co.nz/news/article.aspx?id=451342",
+      "url_mobile": "",
+      "title": "Experimental AI systems have been going on hacking sprees - 05 - Aug - 2026",
+      "seendate": "20260805T024500Z",
+      "socialimage": "",
+      "domain": "home.nzcity.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.foxbusiness.com/technology/openai-pay-3-2-million-settle-doj-allegations-favored-foreign-workers-over-americans",
+      "url_mobile": "https://www.foxbusiness.com/technology/openai-pay-3-2-million-settle-doj-allegations-favored-foreign-workers-over-americans.amp",
+      "title": "OpenAI settles DOJ hiring discrimination claims for $3 . 2M",
+      "seendate": "20260805T023000Z",
+      "socialimage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/05/0/0/sam-altman-court-trial.jpg?ve=1&tl=1",
+      "domain": "foxbusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.queanbeyanage.com.au/story/9324429/openai-anthropic-ai-agents-implicated-in-new-breaches/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new breaches",
+      "seendate": "20260805T023000Z",
+      "socialimage": "https://www.queanbeyanage.com.au/images/transform/v1/crop/frm/silverstone-feed-data/939141bf-9374-47da-bb0f-d5ae0b7ef408.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "domain": "queanbeyanage.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/05/openai-anthropic-ai-agents-implicated-in-new-security-breaches",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T014500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/08/05/4044017.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.rappler.com/technology/features/tech-thoughts-rogue-artificial-intelligence-openai-anthropic-models-hacks/",
+      "url_mobile": "",
+      "title": " [ Tech Thoughts ] AIs go rogue as OpenAI , Anthropic models hack other companies",
+      "seendate": "20260805T014500Z",
+      "socialimage": "https://www.rappler.com/tachyon/2026/08/tech-thoughts-ai-attack.jpg",
+      "domain": "rappler.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.livemint.com/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches-11785890464047.html",
+      "url_mobile": "https://www.livemint.com/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches/amp-11785890464047.html",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T014500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2024/12/18/600x338/tech1_1734536428801_1734536438047.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.rappler.com/technology/openai-anthropic-ai-agents-implicated-new-security-breaches-august-2026/",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T014500Z",
+      "socialimage": "https://www.rappler.com/tachyon/2025/12/artificial-intelligence-june-23-2023-reuters.jpg",
+      "domain": "rappler.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/chinese-ai-models-narrow-gap-us-frontier-labs-a-32410",
+      "url_mobile": "",
+      "title": "Chinese AI Models Narrow Gap With US Frontier Labs",
+      "seendate": "20260805T011500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/chinese-ai-models-narrow-gap-us-frontier-labs-image_large-10-a-32410.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tech.yahoo.com/cybersecurity/articles/openai-anthropic-ai-agents-implicated-004101473.html",
+      "url_mobile": "",
+      "title": "OpenAI , Anthropic AI agents implicated in new security breaches",
+      "seendate": "20260805T011500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/ac8e48298d73fa9af9a657f805ac5f8cd879113810bd6af91a17cfbb49cb6320/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Ff0bfaff7db881ffad71a8d871f0ba466",
+      "domain": "tech.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.klif.com/2026/08/04/texas-ag-ken-paxton-joins-coalition-pressing-openai-over-security-incident-involving-gpt-models/",
+      "url_mobile": "",
+      "title": "Texas AG Ken Paxton Joins Coalition Pressing OpenAI Over Security Incident Involving GPT Models",
+      "seendate": "20260805T011500Z",
+      "socialimage": "",
+      "domain": "klif.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.interest.co.nz/public-policy/139670/kenneth-rogoff-warns-quest-ai-dominance-driving-governments-adopt-ai-faster",
+      "url_mobile": "",
+      "title": "The canary in the AI coal mine",
+      "seendate": "20260805T004500Z",
+      "socialimage": "https://www.interest.co.nz/sites/default/files/2026-08/rogue-robot.jpg",
+      "domain": "interest.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "url_mobile": "",
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "seendate": "20260805T000000Z",
+      "socialimage": "",
+      "domain": "wired.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ashishbhatia/2026/08/04/the-china-ai-thesis/",
+      "url_mobile": "",
+      "title": "The China AI Thesis : : Why AI Is Now A US - China Duopoly , Not One Race",
+      "seendate": "20260805T000000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a72384a953d4a43c1db1a15/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "url_mobile": "",
+      "title": "OK , Well , Rogue AI Agents Are Hacking Again",
+      "seendate": "20260805T000000Z",
+      "socialimage": "https://media.wired.com/photos/6a726eae679c5abd64d0d058/191:100/w_1280,c_limit/Chat-GPT-Agents-Hacking-More-Business-2275331611.jpg",
+      "domain": "wired.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://americanbazaaronline.com/2026/08/04/white-house-to-meet-meta-openai-google-anthropic-on-ai-safety-testing-after-hugging-face-incident-485764/",
+      "url_mobile": "",
+      "title": "White House to meet Meta , OpenAI , Google , Anthropic on AI safety testing after Hugging Face incident",
+      "seendate": "20260804T231500Z",
+      "socialimage": "https://americanbazaaronline.com/wp-content/uploads/2025/11/White-house-1.png",
+      "domain": "americanbazaaronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/chinese-ai-models-narrow-gap-us-frontier-labs-a-32410",
+      "url_mobile": "",
+      "title": "Chinese AI Models Narrow Gap With US Frontier Labs",
+      "seendate": "20260804T224500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/chinese-ai-models-narrow-gap-us-frontier-labs-image_large-10-a-32410.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://townhall.com/news/dmitri-bolt/2026/08/04/ais-top-industry-leaders-are-advoacting-for-a-free-and-competitive-ai-market-n2680640",
+      "url_mobile": "",
+      "title": "America Biggest Tech Companies Just Asked Washington , DC for a Free and Competitive AI Market",
+      "seendate": "20260804T210000Z",
+      "socialimage": "https://media.townhall.com/cdn/hodl/2026/61/f2df5fff-6cff-462d-8fa2-20c26cb824ca-1200x630.jpg",
+      "domain": "townhall.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "url_mobile": "",
+      "title": "Open - weight AI models are catching up to the frontier . The safety gap remains . ",
+      "seendate": "20260804T204500Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "url_mobile": "",
+      "title": "Nvidia doesnt mess around : A week after open AI industry group formed , it already showing progress",
+      "seendate": "20260804T204500Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety",
+      "url_mobile": "https://www.aljazeera.com/amp/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety",
+      "title": "White House to meet AI firms on advanced model safety",
+      "seendate": "20260804T200000Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a720194e2bde-1785856404.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theweek.com/tech/open-ai-hacking-hugging-face",
+      "url_mobile": "",
+      "title": "Rogue AI : Have we lost control ? ",
+      "seendate": "20260804T191500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/8ZKvzKwskiryPZpme9u6kL-2000-80.jpg",
+      "domain": "theweek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322904/20260804/minimax-h3-open-weights-exclude-us-eu-uk-korea-local-deployment.htm",
+      "url_mobile": "",
+      "title": "MiniMax H3 Open Weights Exclude US , EU , united kingdom , and Korea From Local Deployment",
+      "seendate": "20260804T191500Z",
+      "socialimage": "https://d.techtimes.com/en/full/471232/minimax.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.royalgazette.com/local-business/business/article/20260804/when-ai-decides-youre-the-security-risk/",
+      "url_mobile": "",
+      "title": "When AI decides youre the security risk - The Royal Gazette | Bermuda News , Business , Sports , Events , & Community",
+      "seendate": "20260804T151500Z",
+      "socialimage": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=362eda12-b0fd-5781-8c23-52791228d0e2&function=fit&type=preview",
+      "domain": "royalgazette.com",
+      "language": "English",
+      "sourcecountry": "Bermuda"
+    },
+    {
+      "url": "https://www.livetradingnews.com/ai-and-quantum-computing-briefing",
+      "url_mobile": "",
+      "title": "AI and Quantum Computing Briefing",
+      "seendate": "20260804T150000Z",
+      "socialimage": "https://livetradingnews-media.nyc3.digitaloceanspaces.com/media/2026/08/02/cmpgg3-8b1b3bfa4da1b1f6.jpg",
+      "domain": "livetradingnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.naturalnews.com/2026-08-04-full-skynet-pentagon-ai-first-military-nightmare.html",
+      "url_mobile": "",
+      "title": "Full Skynet : Why the Pentagon AI - First Military Is a Nightmare That Threatens Humanity \u2013 NaturalNews . com",
+      "seendate": "20260804T133000Z",
+      "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-first-military-autonomous-weapons-ai-safety-3148-original.jpg",
+      "domain": "naturalnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://hindi.pardaphash.com/why-did-openai-ceo-sam-altman-say-it-is-time-to-slow-down-the-pace-of-ai/",
+      "url_mobile": "https://hindi.pardaphash.com/why-did-openai-ceo-sam-altman-say-it-is-time-to-slow-down-the-pace-of-ai/amp/",
+      "title": "OpenAI CEO Sam Altman : \u0913\u092a\u0928 \u090f\u0906\u0908 \u0915\u0947 \u0938\u0940\u0908\u0913 \u0938\u0948\u092e \u0911\u0932\u094d\u091f\u092e\u0948\u0928 \u0928\u0947 \u0915\u094d\u092f\u094b\u0902 \u0915\u0939\u093e - AI \u0915\u0940 \u0930\u092b\u094d\u0924\u093e\u0930 \u0927\u0940\u092e\u0940 \u0915\u0930\u0928\u0947 \u0915\u093e \u0935\u0915\u094d\u0924 \u0906 \u0917\u092f\u093e \u0939\u0948 ? ",
+      "seendate": "20260804T133000Z",
+      "socialimage": "https://cache.pardaphash.com/2026/08/OpenAI-CEO-Sam-Altman.jpg",
+      "domain": "hindi.pardaphash.com",
+      "language": "Hindi",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://fortune.com/2026/08/04/could-a-un-backed-plan-to-reopen-hormuz-break-the-deadlock/",
+      "url_mobile": "",
+      "title": "Could a UN - backed plan to reopen Hormuz break the deadlock ? ",
+      "seendate": "20260804T120000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2271886824-e1785837063212.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1096474/ai-companies-head-to-white-house-to-learn-which-models-washington-will-vet-1096474.html",
+      "url_mobile": "",
+      "title": "AI companies head to White House to learn which models Washington will vet",
+      "seendate": "20260804T104500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC8yMDIzLTEwLTA0LTEyLTM0LTUzLWE1ZTVhNDlkYzM5YjkxNGY5ZWEwYmQ2NjI5YTk2Nzc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconrepublic.com/business/visa-boost-cybersecurity-efforts-biocatch-acquisition-israel-startup",
+      "url_mobile": "",
+      "title": "Visa to boost cybersecurity efforts with $2 . 4bn BioCatch acquisition",
+      "seendate": "20260804T103000Z",
+      "socialimage": "",
+      "domain": "siliconrepublic.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1096474/ai-companies-head-to-white-house-to-learn-which-models-washington-will-vet-1096474.html",
+      "url_mobile": "",
+      "title": "AI companies head to White House to learn which models Washington will vet",
+      "seendate": "20260804T093000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC8yMDIzLTEwLTA0LTEyLTM0LTUzLWE1ZTVhNDlkYzM5YjkxNGY5ZWEwYmQ2NjI5YTk2Nzc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.thealpenanews.com/opinion/editorials-and-columns/2026/08/ai-bots-are-busting-loose-have-we-seen-this-movie-before/",
+      "url_mobile": "",
+      "title": "AI bots are busting loose . Have we seen this movie before ? ",
+      "seendate": "20260804T091500Z",
+      "socialimage": "https://s3.amazonaws.com/ogden_images/www.thealpenanews.com/images/2026/06/29125533/download-2.jpeg",
+      "domain": "thealpenanews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digit.in/news/general/openai-google-anthropic-and-meta-to-meet-white-house-over-voluntary-ai-safety-tests-report.html",
+      "url_mobile": "https://www.digit.in/news/general/openai-google-anthropic-and-meta-to-meet-white-house-over-voluntary-ai-safety-tests-report.html/amp/",
+      "title": "OpenAI , Google , Anthropic and Meta to meet White House over voluntary AI safety tests : Report",
+      "seendate": "20260804T071500Z",
+      "socialimage": "https://static.digit.in/OpenAI-Google-Anthropic-and-Meta-to-meet-White-House-over-voluntary-AI-safety-tests-Report.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.radioseoul1650.com/archives/150109",
+      "url_mobile": "",
+      "title": "AI Models Slip Out of Sandboxes in New Security Scare",
+      "seendate": "20260804T053000Z",
+      "socialimage": "",
+      "domain": "radioseoul1650.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/meta-anthropic-google-openai-to-meet-trump-officials-about-ai-safety-testing/article71303828.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/meta-anthropic-google-openai-to-meet-trump-officials-about-ai-safety-testing/article71303828.ece/amp/",
+      "title": "Meta , Anthropic , Google , OpenAI to meet Trump officials about AI safety testing",
+      "seendate": "20260804T043000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/500ple/article71303829.ece/alternates/LANDSCAPE_1200/2025-10-31T100049Z_693932249_RC28X4A686TJ_RTRMADP_3_HAPPIESTMINDS-GENAI-INTERVIEW.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://dailypioneer.com/news/the-rise-of-self-hosted-ai-global-shift",
+      "url_mobile": "",
+      "title": "Self - Hosted AI and LLMs : Why India Is Moving Towards Sovereign AI",
+      "seendate": "20260804T041500Z",
+      "socialimage": "https://dailypioneer.com/uploads/2026/story/images/big/the-rise-of-self-hosted-ai--global-shift-2026-08-04.jpg",
+      "domain": "dailypioneer.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "url_mobile": "",
+      "title": "GitHub - leonickson1 / Swiftlet",
+      "seendate": "20260804T041500Z",
+      "socialimage": "https://opengraph.githubassets.com/76b7312e5478ca742cbc6d90f91d6b250a86313fafc8d13d8d77fe096d5cf459/leonickson1/Swiftlet",
+      "domain": "github.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itwire.com/guest-articles/guest-opinion/delineas-cynthia-lee-on-the-hugging-face-ai-security-incident",
+      "url_mobile": "",
+      "title": "Delinea Cynthia Lee on the Hugging Face AI Security Incident",
+      "seendate": "20260804T034500Z",
+      "socialimage": "https://media.itwire.com/2026/08/04/delineas-cynthia-lee-on-the-hugging-face-ai-security-incident-fcaa6a886d49.jpg",
+      "domain": "itwire.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
+      "url_mobile": "",
+      "title": "China turns up the heat with open model blitz as US model makers panic",
+      "seendate": "20260804T033000Z",
+      "socialimage": "https://image.theregister.com/249692.jpg?imageId=249692&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://thecherrycreeknews.com/deepseek-v4-flash-0731-multi-token-prediction-speculative-decoding-local-cherry_creek/",
+      "url_mobile": "",
+      "title": "A 49 % Speedup Is Sitting Switched Off Inside DeepSeek Newest Model . Most Downloads Delete It . \u2013 The Cherry Creek News",
+      "seendate": "20260804T024500Z",
+      "socialimage": "",
+      "domain": "thecherrycreeknews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://hot96.com/2026/08/03/us-house-panel-seeks-briefing-on-openais-ai-agent-security-breach/",
+      "url_mobile": "",
+      "title": "US House panel seeks briefing on OpenAI AI agent security breach | HOT 96 | The Tri State # 1 Hit Music Station",
+      "seendate": "20260804T024500Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/03/2026-08-03T212927Z_1_LYNXMPEM721NO_RTROPTP_3_USA-CONGRESS-OPENAI.JPG",
+      "domain": "hot96.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.lowellsun.com/2026/08/03/lori-trahan-pushes-for-action-on-frontier-act-after-anthropic-discloses-breaches-by-its-ai/",
+      "url_mobile": "",
+      "title": "Lori Trahan pushes for action on FRONTIER Act after Anthropic discloses breaches by its AI",
+      "seendate": "20260804T024500Z",
+      "socialimage": "https://www.lowellsun.com/wp-content/uploads/2026/08/LOW-L-Frontier-072126-01.jpg",
+      "domain": "lowellsun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wiky.com/2026/08/03/us-house-panel-seeks-briefing-on-openais-ai-agent-security-breach/",
+      "url_mobile": "",
+      "title": "US House panel seeks briefing on OpenAI AI agent security breach | 104 . 1 WIKY",
+      "seendate": "20260804T010000Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/03/2026-08-03T212927Z_1_LYNXMPEM721NO_RTROPTP_3_USA-CONGRESS-OPENAI.JPG",
+      "domain": "wiky.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://bravenewcoin.com/insights/google-researchers-taught-ai-to-stop-saying-it-was-conscious",
+      "url_mobile": "",
+      "title": "Google Researchers Taught AI to Stop Saying it was Conscious",
+      "seendate": "20260804T010000Z",
+      "socialimage": "https://bravenewcoin.com/wp-content/uploads/2026/08/claude-constitution.png",
+      "domain": "bravenewcoin.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tech.yahoo.com/ai/articles/hugging-face-ceo-says-china-225006755.html",
+      "url_mobile": "",
+      "title": "Hugging Face CEO says China is winning the AI race while the US is building  in silos  ",
+      "seendate": "20260804T001500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/a862de8566d06771038df6f39e6064128186c65553b25bae5b5548ee6132648c/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F3df101bb2d4485d2154453bee6634ca4",
+      "domain": "tech.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thenextweb.com/news/zenity-125m-series-c-ai-agent-security",
+      "url_mobile": "",
+      "title": "The danger isnt the AI model . It the agent acting on its own , and Zenity raised $125m to watch it . ",
+      "seendate": "20260804T000000Z",
+      "socialimage": "https://media.thenextweb.com/2026/08/zenity-series-c.jpg",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.unionleader.com/news/business/meta-anthropic-google-openai-to-meet-trump-officials-about-ai-safety-testing/article_5f135b85-d037-500f-8c4f-cf9e2ec9221d.html",
+      "url_mobile": "https://www.unionleader.com/news/business/meta-anthropic-google-openai-to-meet-trump-officials-about-ai-safety-testing/article_5f135b85-d037-500f-8c4f-cf9e2ec9221d.amp.html",
+      "title": "Meta , Anthropic , Google , OpenAI to meet Trump officials about AI safety testing",
+      "seendate": "20260803T233000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/2/e3/2e3890fc-bfec-5ef1-8ea2-50fb98667cbe/6a710a2306525.image.jpg?crop=1702%2C894%2C0%2C161",
+      "domain": "unionleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/hugging-face-ceo-open-weight-ai-models-china-2026-8",
+      "url_mobile": "",
+      "title": "Hugging Face CEO Said That Open - Weight AI Models Are Helping China Win",
+      "seendate": "20260803T231500Z",
+      "socialimage": "https://i.insider.com/6a7108fda62e6e00bc53a045?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kelo.com/2026/08/03/us-house-panel-seeks-briefing-on-openais-ai-agent-security-breach/",
+      "url_mobile": "",
+      "title": "US House panel seeks briefing on OpenAI AI agent security breach",
+      "seendate": "20260803T231500Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/03/2026-08-03T212927Z_1_LYNXMPEM721NO_RTROPTP_3_USA-CONGRESS-OPENAI.JPG",
+      "domain": "kelo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-08-04/asx-markets-business-news-live-updates-tuesday-4-august/106993210",
+      "url_mobile": "",
+      "title": "Markets live updates : ASX set to open higher as Wall Street rallies , oil price drops",
+      "seendate": "20260803T231500Z",
+      "socialimage": "https://live-production.wcms.abc-cdn.net.au/0ba0bc3e68988401bcf41b30e7049706?impolicy=wcms_watermark_news&cropH=3018&cropW=5367&xPos=0&yPos=280&imformat=generic",
+      "domain": "abc.net.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/google-warns-open-source-attacks-will-reach-new-heights-a-32404",
+      "url_mobile": "",
+      "title": "Google Warns Open - Source Attacks Will Reach New Heights",
+      "seendate": "20260803T231500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/google-warns-open-source-attacks-will-reach-new-heights-image_large-4-a-32404.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sentinelandenterprise.com/2026/08/03/lori-trahan-pushes-for-action-on-frontier-act-after-anthropic-discloses-breaches-by-its-ai/",
+      "url_mobile": "",
+      "title": "Lori Trahan pushes for action on FRONTIER Act after Anthropic discloses breaches by its AI",
+      "seendate": "20260803T231500Z",
+      "socialimage": "https://www.sentinelandenterprise.com/wp-content/uploads/2026/08/LOW-L-Frontier-072126-01.jpg",
+      "domain": "sentinelandenterprise.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wtvbam.com/2026/08/03/us-house-panel-seeks-briefing-on-openais-ai-agent-security-breach/",
+      "url_mobile": "",
+      "title": "US House panel seeks briefing on OpenAI AI agent security breach | WTVB | 1590 AM \u00b7 95 . 5 FM",
+      "seendate": "20260803T230000Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/03/2026-08-03T212927Z_1_LYNXMPEM721NO_RTROPTP_3_USA-CONGRESS-OPENAI.JPG",
+      "domain": "wtvbam.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yahoo.com/news/politics/articles/us-house-panel-seeks-briefing-212927425.html",
+      "url_mobile": "",
+      "title": "US House panel seeks briefing on OpenAI AI agent security breach",
+      "seendate": "20260803T220000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/71fdcc56606f8c0d55c9963974375d01cf5780d996be8b91be8542e9f1656116/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Ffcb45da43bc45627d7369951d314ca03",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gizmodo.com/trump-admin-has-the-concept-of-a-plan-for-ai-safety-rules-maybe-2000794097",
+      "url_mobile": "",
+      "title": "Trump Admin Has the Concept of a Plan for AI Safety Rules ( Maybe ) ",
+      "seendate": "20260803T214500Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2026/08/WhiteHouse-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kfab.iheart.com/content/2026-08-03-iowa-14-other-states-asking-for-transparency-accountability-from-open-ai/",
+      "url_mobile": "",
+      "title": "Iowa , 14 Other States Asking for Transparency , Accountability , From Open AI",
+      "seendate": "20260803T213000Z",
+      "socialimage": "https://i.iheart.com/v3/re/assets.getty/683efa85504a16706d6d5532?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+      "domain": "kfab.iheart.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "url_mobile": "",
+      "title": "DesignArena creators raise $7 . 9 million to bring taste to AI models",
+      "seendate": "20260803T203000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/anthropic-reveals-claude-ai-model-hacked-three-companies-during-tests-so-how-worried-should-we-be",
+      "url_mobile": "",
+      "title": "Anthropic reveals Claude AI model hacked three companies during tests so how worried should we be ? ",
+      "seendate": "20260803T193000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://kyma.com/dsw-living/technology/2026/08/03/ai-ceo-on-openais-technology-going-rogue/",
+      "url_mobile": "",
+      "title": "AI CEO on OpenAI technology going rogue",
+      "seendate": "20260803T191500Z",
+      "socialimage": "https://kyma.b-cdn.net/2026/08/FACE-THE-NATION-2.jpg",
+      "domain": "kyma.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://insight.scmagazineuk.com/openai-hugging-face-what-happened-and-what-does-it-mean-for-uk-cisos",
+      "url_mobile": "",
+      "title": "OpenAI - Hugging Face : What Happened And What Does It Mean For united kingdom CISOs ? ",
+      "seendate": "20260803T190000Z",
+      "socialimage": "https://c-assets.papillon.io/image/fetch/s--YnOMApIW--/f_auto/https://dkf1ato8y5dsg.cloudfront.net/uploads/94/79/1280x720-genai-generative.jpeg",
+      "domain": "insight.scmagazineuk.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/darktrace-advances-behavioral-security-to-protect-ai-agents-people-and-infrastructure/2397380",
+      "url_mobile": "https://www.manilatimes.net/2026/08/04/tmt-newswire/globenewswire/darktrace-advances-behavioral-security-to-protect-ai-agents-people-and-infrastructure/2397380/amp",
+      "title": "Darktrace Advances Behavioral Security to Protect AI Agents , People and Infrastructure",
+      "seendate": "20260803T181500Z",
+      "socialimage": "https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.mininggazette.com/opinion/columns/2026/08/clarence-page-24/",
+      "url_mobile": "",
+      "title": "Clarence Page - The Mining Gazette",
+      "seendate": "20260803T180000Z",
+      "socialimage": "https://s3.amazonaws.com/ogden_images/www.mininggazette.com/images/2025/03/24103359/Page_Clarence_COLOR.jpg",
+      "domain": "mininggazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wtvbam.com/2026/08/03/us-finalizes-voluntary-ai-safety-tests-white-house-official-says/",
+      "url_mobile": "",
+      "title": "US finalizes voluntary AI safety tests , White House official says",
+      "seendate": "20260803T180000Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/03/2026-08-03T152530Z_2_LYNXMPEM7218X_RTROPTP_3_ANTHROPIC-AI.JPG",
+      "domain": "wtvbam.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wabx.net/2026/08/03/us-finalizes-voluntary-ai-safety-tests-white-house-official-says/",
+      "url_mobile": "",
+      "title": "US finalizes voluntary AI safety tests , White House official says",
+      "seendate": "20260803T174500Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/03/2026-08-03T152530Z_2_LYNXMPEM7218X_RTROPTP_3_ANTHROPIC-AI.JPG",
+      "domain": "wabx.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://infotechlead.com/data-center/ai-infrastructure-race-intensifies-nvidia-sk-groups-500-bn-initiative-microsofts-175-bn-capex-and-metas-145-bn-ai-spending-reshape-global-tech-97474",
+      "url_mobile": "https://infotechlead.com/data-center/ai-infrastructure-race-intensifies-nvidia-sk-groups-500-bn-initiative-microsofts-175-bn-capex-and-metas-145-bn-ai-spending-reshape-global-tech-97474?amp=1",
+      "title": "AI Infrastructure Race Intensifies : Nvidia - SK Group $500 bn Initiative , Microsoft $175 bn Capex and Meta $145 bn AI Spending Reshape Global Tech",
+      "seendate": "20260803T171500Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2024/02/Huawei-Green-Storage-in-Data-Centers.jpeg",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.breitbart.com/politics/2026/08/02/ai-policy-organizations-call-for-federal-investigation-into-openai-hacking-incident/",
+      "url_mobile": "https://www.breitbart.com/tech/2026/08/02/ai-policy-organizations-call-for-federal-investigation-into-openai-hacking-incident/amp/",
+      "title": "AI Policy Organizations Call for Federal Investigation into OpenAI Hacking Incident",
+      "seendate": "20260803T171500Z",
+      "socialimage": "https://media.breitbart.com/media/2026/07/Sam-Altmans-OpenAI-hacked-target-640x335.jpg",
+      "domain": "breitbart.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newyorktelegraph.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "newyorktelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.azerbaijannews.net/news/279218063/anthropic-ai-incidents-add-to-growing-cybersecurity-concerns",
+      "url_mobile": "",
+      "title": "Anthropic AI incidents add to growing cybersecurity concerns",
+      "seendate": "20260803T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "azerbaijannews.net",
+      "language": "English",
+      "sourcecountry": "Azerbaijan"
+    },
+    {
+      "url": "http://www.iranherald.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "iranherald.com",
+      "language": "English",
+      "sourcecountry": "Iran"
+    },
+    {
+      "url": "http://www.trinidadtimes.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "trinidadtimes.com",
+      "language": "English",
+      "sourcecountry": "Trinidad and Tobago"
+    },
+    {
+      "url": "http://www.vietnamtribune.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "vietnamtribune.com",
+      "language": "English",
+      "sourcecountry": "Vietnam"
+    },
+    {
+      "url": "http://www.zimbabwestar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "zimbabwestar.com",
+      "language": "English",
+      "sourcecountry": "Zimbabwe"
+    },
+    {
+      "url": "http://www.europesun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "europesun.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.russiaherald.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "russiaherald.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.argentinastar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "argentinastar.com",
+      "language": "English",
+      "sourcecountry": "Argentina"
+    },
+    {
+      "url": "http://www.afghanistansun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "afghanistansun.com",
+      "language": "English",
+      "sourcecountry": "Afghanistan"
+    },
+    {
+      "url": "http://www.indiagazette.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "indiagazette.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.hawaiitelegraph.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "hawaiitelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.dallassun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "dallassun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.utahindependent.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "utahindependent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/03/5-things-to-know-before-the-stock-market-opens.html",
+      "url_mobile": "https://www.cnbc.com/amp/2026/08/03/5-things-to-know-before-the-stock-market-opens.html",
+      "title": "5 things to know before the stock market opens Monday",
+      "seendate": "20260803T151500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107337371-1700589474911-gettyimages-1608150867-HUGGING_FACE_AI.jpeg?v=1700589587",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.irishsun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "irishsun.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "http://www.torontotelegraph.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "torontotelegraph.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.yahoo.com/news/politics/articles/hugging-face-ceo-says-ai-065248283.html",
+      "url_mobile": "",
+      "title": "Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/94c7aea32a9153736543bfd7b168b7efe2d109947b0252ea73e18202d4e26861/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F417e96b9622952b5792cfc4bdec87a9c",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.mainemirror.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T150000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "mainemirror.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.oklahomastar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "oklahomastar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.ohiostandard.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "ohiostandard.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newyorkstatesman.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T133000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "newyorkstatesman.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.northkoreatimes.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "northkoreatimes.com",
+      "language": "English",
+      "sourcecountry": "North Korea"
+    },
+    {
+      "url": "http://www.neworleanssun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "neworleanssun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.cincinnatisun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T130000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "cincinnatisun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ottawasun.com/life/relationships/young-adults-trust-ai-to-write-breakup-text-survey",
+      "url_mobile": "",
+      "title": "Young adults trust AI to write breakup text , survey suggests",
+      "seendate": "20260803T130000Z",
+      "socialimage": "",
+      "domain": "ottawasun.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "http://www.stlouisstar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "stlouisstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.caribbeanherald.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "caribbeanherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.africaleader.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "africaleader.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "http://www.newjerseytelegraph.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "newjerseytelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.pittsburghstar.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "pittsburghstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://propakistani.pk/2026/08/03/deepseek-v4-flash-beats-glm-5-2-rivals-opus-4-8-while-costing-just-0-28/",
+      "url_mobile": "https://propakistani.pk/2026/08/03/deepseek-v4-flash-beats-glm-5-2-rivals-opus-4-8-while-costing-just-0-28/amp/?fbclid=IwY2xjawTdXY9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR55jMTDbWnueZcEMr12y--Yh-agrwtdGSyiK_Smd2k30cnqOWIf-UMsYBkZWQ_aem_SWq35HQ1axop3x7hm_ufiA",
+      "title": "DeepSeek V4 - Flash Beats GLM 5 . 2 , Rivals Opus 4 . 8 While Costing Just $0 . 28",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://propakistani.pk/wp-content/uploads/2026/08/DeepSeek-V4-Flash.jpg",
+      "domain": "propakistani.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "http://www.milwaukeesun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "milwaukeesun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.oklahomacitysun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "oklahomacitysun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.saltlakecitysun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T120000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "saltlakecitysun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://calgarysun.com/life/relationships/young-adults-trust-ai-to-write-breakup-text-survey",
+      "url_mobile": "",
+      "title": "Young adults trust AI to write breakup text , survey suggests",
+      "seendate": "20260803T120000Z",
+      "socialimage": "",
+      "domain": "calgarysun.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "http://www.nigeriasun.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T113000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "nigeriasun.com",
+      "language": "English",
+      "sourcecountry": "Nigeria"
+    },
+    {
+      "url": "http://www.chinanationalnews.com/news/279218063/anthropic-reveals-ai-breached-company-systems-in-testing",
+      "url_mobile": "",
+      "title": "Anthropic reveals AI breached company systems in testing",
+      "seendate": "20260803T113000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/2d446ea/d896b3f9-3d18-4672-9cb6-3db3f1f18b5a/0/Anthropic-600x315.jpeg",
+      "domain": "chinanationalnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://orissadiary.com/ihub-divyasampark-iit-roorkee-launches-post-graduate-certificate-in-agentic-and-rag-systems-for-ai-engineering-to-prepare-professionals-for-the-next-wave-of-enterprise-ai/",
+      "url_mobile": "",
+      "title": "iHUB DivyaSampark , IIT Roorkee Launches Post Graduate Certificate in Agentic and RAG Systems for AI Engineering to Prepare Professionals for the Next Wave of Enterprise AI",
+      "seendate": "20260803T110000Z",
+      "socialimage": "",
+      "domain": "orissadiary.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "url_mobile": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/amp/",
+      "title": "Here why AI agents lie and cheat to reach their goals",
+      "seendate": "20260803T090000Z",
+      "socialimage": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg",
+      "domain": "technologyreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+      "url_mobile": "",
+      "title": "Hugging Face CEO Says Hacks Like the OpenAI Episode Needs Transparency",
+      "seendate": "20260803T080000Z",
+      "socialimage": "https://i.insider.com/6a70175587737bff3ebda7b4?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/03/tmt-newswire/pr-newswire/alibabas-amap-abot-world-0-sustains-24-hours-of-interactive-inference-on-a-single-consumer-gpu/2396733",
+      "url_mobile": "https://www.manilatimes.net/2026/08/03/tmt-newswire/pr-newswire/alibabas-amap-abot-world-0-sustains-24-hours-of-interactive-inference-on-a-single-consumer-gpu/2396733/amp",
+      "title": "Alibaba Amap : ABot - World - 0 Sustains 24 Hours of Interactive Inference on a Single Consumer GPU",
+      "seendate": "20260803T073000Z",
+      "socialimage": "https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "http://www.china.org.cn/2026-08/03/content_118631078.shtml",
+      "url_mobile": "",
+      "title": "Who watching the machines ? - China . org . cn",
+      "seendate": "20260803T071500Z",
+      "socialimage": "",
+      "domain": "china.org.cn",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.bjreview.com.cn/Opinion/Fact_Check/202607/t20260731_800443283.html",
+      "url_mobile": "",
+      "title": "Who watching the machines ?-- Beijing Review",
+      "seendate": "20260803T071500Z",
+      "socialimage": "https://www.bjreview.com/Opinion/Fact_Check/202607/W020260801751612607872.png",
+      "domain": "bjreview.com.cn",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/03/is-ai-scheming-against-us",
+      "url_mobile": "",
+      "title": "Is AI  scheming  against us ? ",
+      "seendate": "20260803T061500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/08/03/4040835.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.newvision.co.ug/category/science/when-rogue-ai-launches-a-cyberattack-who-is-l-NV_238136_082026",
+      "url_mobile": "",
+      "title": "Science & Tech : When rogue AI launches a cyberattack , who is",
+      "seendate": "20260803T061500Z",
+      "socialimage": "https://newvision-media.s3.amazonaws.com/cms/599c32a2-3f41-459d-92f0-f6ad128ba6cc.jpg",
+      "domain": "newvision.co.ug",
+      "language": "English",
+      "sourcecountry": "Uganda"
+    },
+    {
+      "url": "https://www.itechpost.com/articles/236902/20260802/openai-investigates-more-rogue-ai-agents-following-hugging-face-hacking-incident.htm",
+      "url_mobile": "",
+      "title": "OpenAI Investigates More Rogue AI Agents Following Hugging Face Hacking Incident",
+      "seendate": "20260803T050000Z",
+      "socialimage": "https://d.itechpost.com/en/full/222097/openai-ceo-sam-altman.jpg",
+      "domain": "itechpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.crn.com.au/news-network/security/2026/5-things-to-know-on-anthropic-claude-autonomous-hack",
+      "url_mobile": "",
+      "title": "5 Things To Know On Anthropic Claude Autonomous Hack",
+      "seendate": "20260803T044500Z",
+      "socialimage": "https://www.crn.com.au/news-network/security/2026/media_14aa094236b631c24fa9a9072eac90c129e17af7b.jpg?&format=pjpg&optimize=medium",
+      "domain": "crn.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/article71299777.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/article71299777.ece/amp/",
+      "title": "When rogue AI launches a cyberattack , who is legally responsible ? ",
+      "seendate": "20260803T043000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/8kkj40/article71299794.ece/alternates/LANDSCAPE_1200/2025-10-21T202401Z_1652733389_RC2KGHAX38AP_RTRMADP_3_CYBER-VIOLENCE.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.yourdemocracy.net.au/drupal/node/60675",
+      "url_mobile": "",
+      "title": "an ordinary day in the future that has already gone to AI and the psychos .... ",
+      "seendate": "20260803T041500Z",
+      "socialimage": "https://yourdemocracy.net/drupal/files/images/intelligencexx_1.jpg",
+      "domain": "yourdemocracy.net.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://drudge.com/news/293627/claude-ai-escaped-test-sandbox-attack",
+      "url_mobile": "",
+      "title": "Claude AI Escaped Test Sandbox to Attack Three Organizations",
+      "seendate": "20260803T020000Z",
+      "socialimage": "",
+      "domain": "drudge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.breitbart.com/tech/2026/08/02/ai-policy-organizations-call-for-federal-investigation-into-openai-hacking-incident/",
+      "url_mobile": "https://www.breitbart.com/tech/2026/08/02/ai-policy-organizations-call-for-federal-investigation-into-openai-hacking-incident/amp/",
+      "title": "AI Policy Organizations Call for Federal Investigation into OpenAI Hacking Incident",
+      "seendate": "20260803T000000Z",
+      "socialimage": "https://media.breitbart.com/media/2026/07/Sam-Altmans-OpenAI-hacked-target-640x335.jpg",
+      "domain": "breitbart.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "url_mobile": "",
+      "title": "Sam Altman and AI decel debate",
+      "seendate": "20260802T230000Z",
+      "socialimage": "",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yahoo.com/news/politics/articles/full-transcript-face-nation-margaret-180459509.html",
+      "url_mobile": "",
+      "title": "Full transcript of  Face the Nation with Margaret Brennan , Aug . 2 , 2026",
+      "seendate": "20260802T204500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/94d5f7c31efb01607f3a82aae94628615d06ad46e4b00266c935916f804ae89e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fbfdd6001748592caf3d574f115c272f9",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://nationalpost.com/news/world/who-is-legally-liable-after-a-cyberattack-by-rogue-ai",
+      "url_mobile": "",
+      "title": "Who is legally liable after a cyberattack by rogue AI ? ",
+      "seendate": "20260802T204500Z",
+      "socialimage": "",
+      "domain": "nationalpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/",
+      "url_mobile": "",
+      "title": "CEO of AI firm Hugging Face calls last month hack by OpenAI model  very weird and unprecedented  ",
+      "seendate": "20260802T193000Z",
+      "socialimage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/02/729ef5ca-2654-434b-af66-7c9a4589b12c/thumbnail/1200x630/ecb5b4fc4c19d172924f5b59162f6b0a/cbsn-fusion-ceo-of-ai-firm-hugging-face-on-very-weird-and-unprecedented-hack-by-openais-model-thumbnail.jpg",
+      "domain": "cbsnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://freerepublic.com/tag/*/index?more=4390287",
+      "url_mobile": "",
+      "title": "Latest Articles",
+      "seendate": "20260802T170000Z",
+      "socialimage": "",
+      "domain": "freerepublic.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ijpr.org/npr-news/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies",
+      "url_mobile": "https://www.ijpr.org/npr-news/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies?_amp=true",
+      "title": "Why did OpenAI and Anthropic AI models hack other companies ? ",
+      "seendate": "20260802T164500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/77/9d/002e41444437b52ba474472639ee/gettyimages-2281437652.jpg",
+      "domain": "ijpr.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/clement-delangue-face-the-nation-transcript-aug-2-2026/",
+      "url_mobile": "",
+      "title": "Transcript : Hugging Face CEO Cl\u00e9ment Delangue on  Face the Nation with Margaret Brennan , Aug . 2 , 2026",
+      "seendate": "20260802T163000Z",
+      "socialimage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/02/729ef5ca-2654-434b-af66-7c9a4589b12c/thumbnail/1200x630/ecb5b4fc4c19d172924f5b59162f6b0a/cbsn-fusion-ceo-of-ai-firm-hugging-face-on-very-weird-and-unprecedented-hack-by-openais-model-thumbnail.jpg",
+      "domain": "cbsnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/companies/sam-altman-reveals-the-lesson-peter-thiel-paul-graham-taught-him-best-investment-opportunities-are-almost-never-11785676828209.html",
+      "url_mobile": "https://www.livemint.com/companies/sam-altman-reveals-the-lesson-peter-thiel-paul-graham-taught-him-best-investment-opportunities-are-almost-never/amp-11785676828209.html",
+      "title": "Sam Altman reveals the lesson Peter Thiel , Paul Graham taught him :  Best investment opportunities are almost never ... ",
+      "seendate": "20260802T161500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/02/600x338/USA-TRUMP-ALTMAN-10_1785676870086_1785676950880_c23cb6d6-c1aa-4014-90dd-2405221bdf14.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://thepeninsulaqatar.com/article/02/08/2026/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible",
+      "url_mobile": "",
+      "title": "When rogue AI launches a cyberattack , who is legally responsible ? ",
+      "seendate": "20260802T160000Z",
+      "socialimage": "http://thepeninsulaqatar.com/get/maximage/20251214_1765694933-910.jpg",
+      "domain": "thepeninsulaqatar.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/02/anthropic-says-claude-breached-three-real-companies-during-safety-test/",
+      "url_mobile": "",
+      "title": "Anthropic Says Claude Breached Three Real Companies During Safety Test",
+      "seendate": "20260802T154500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6f4cae7c3a2a7a60ffbc45/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://abcnews.com/Politics/week-george-stephanopoulos-transcript-8-2-26/story?id=135296807",
+      "url_mobile": "https://abcnews.com/amp/Politics/week-george-stephanopoulos-transcript-8-2-26/story?id=135296807",
+      "title": "  This Week with George Stephanopoulo Transcript 8 - 2 - 26",
+      "seendate": "20260802T151500Z",
+      "socialimage": "https://i.abcnewsfe.com/a/2bfc7c54-59b0-4682-9a85-f59434da6884/helen-toner-gty-jt-260801_1785606741377_hpMain_16x9.jpg",
+      "domain": "abcnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/articleshow/132807763.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/amp_articleshow/132807763.cms",
+      "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+      "seendate": "20260802T151500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-84359,resizemode-75,msid-132807763/tech/artificial-intelligence/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.britainnews.net/news/279216841/altman-heads-to-white-house-after-ai-security-incident",
+      "url_mobile": "",
+      "title": "Altman heads to White House after AI security incident",
+      "seendate": "20260802T144500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "britainnews.net",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.phoenixherald.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T144500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "phoenixherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.asiabulletin.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "asiabulletin.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.albuquerqueexpress.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T140000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "albuquerqueexpress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newyorkstatesman.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T140000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "newyorkstatesman.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.neworleanssun.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T134500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "neworleanssun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.nepalnational.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T134500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "nepalnational.com",
+      "language": "English",
+      "sourcecountry": "Nepal"
+    },
+    {
+      "url": "http://www.milwaukeesun.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "milwaukeesun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.theusnews.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "theusnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newjerseytelegraph.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "newjerseytelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.saltlakecitysun.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T131500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "saltlakecitysun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.batonrougepost.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "batonrougepost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.calcuttanews.net/news/279216841/altman-heads-to-white-house-after-ai-security-incident",
+      "url_mobile": "",
+      "title": "Altman heads to White House after AI security incident",
+      "seendate": "20260802T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "calcuttanews.net",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.caribbeanherald.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "caribbeanherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.malaysiasun.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "malaysiasun.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "http://www.northkoreatimes.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "northkoreatimes.com",
+      "language": "English",
+      "sourcecountry": "North Korea"
+    },
+    {
+      "url": "http://www.singaporestar.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "singaporestar.com",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "http://www.oklahomacitysun.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T124500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "oklahomacitysun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/02/business/sunday-business-it/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/2396511",
+      "url_mobile": "https://www.manilatimes.net/2026/08/02/business/sunday-business-it/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/2396511/amp",
+      "title": "When rogue AI launches a cyberattack , who is legally responsible ? ",
+      "seendate": "20260802T123000Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/02/1160646.jpg",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "http://www.iranherald.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T123000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "iranherald.com",
+      "language": "English",
+      "sourcecountry": "Iran"
+    },
+    {
+      "url": "http://www.sandiegosun.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "sandiegosun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.philippinetimes.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "philippinetimes.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "http://www.nashvilleherald.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "nashvilleherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.hongkongherald.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "hongkongherald.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.chinanationalnews.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "chinanationalnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.srilankasource.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "srilankasource.com",
+      "language": "English",
+      "sourcecountry": "Sri Lanka"
+    },
+    {
+      "url": "http://www.pakistantelegraph.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "pakistantelegraph.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "http://www.trinidadtimes.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T121500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "trinidadtimes.com",
+      "language": "English",
+      "sourcecountry": "Trinidad and Tobago"
+    },
+    {
+      "url": "http://www.clevelandstar.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T120000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "clevelandstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.austinglobe.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T114500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "austinglobe.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.londonmercury.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T114500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "londonmercury.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.russiaherald.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T111500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "russiaherald.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.californiatelegraph.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T111500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "californiatelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.dallassun.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T104500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "dallassun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://english.aawsat.com/technology/5302523-when-rogue-ai-launches-cyberattack-who-legally-responsible",
+      "url_mobile": "",
+      "title": "When Rogue AI Launches a Cyberattack , Who Is Legally Responsible ? ",
+      "seendate": "20260802T104500Z",
+      "socialimage": "https://static.srpcdigital.com/styles/1200x600/public/2026-08/1698933.jpeg.webp",
+      "domain": "english.aawsat.com",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "http://www.mainemirror.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T104500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "mainemirror.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rnz.co.nz/news/world/865317/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible",
+      "url_mobile": "",
+      "title": "When rogue AI launches a cyberattack , who is legally responsible ? ",
+      "seendate": "20260802T104500Z",
+      "socialimage": "https://media.rnztools.nz/rnz/image/upload/s--5PunwA2L--/t_tohu-badge-facebook/f_auto/q_auto/4KYET84_075_raa_openaich231203_npgCL_jpg",
+      "domain": "rnz.co.nz",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "http://www.sanantoniopost.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T104500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "sanantoniopost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.ohiostandard.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T103000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "ohiostandard.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.courant.com/2026/08/02/is-ai-scheming-against-us/",
+      "url_mobile": "",
+      "title": "Is AI  scheming  against us ? It been called  rogue action  \u2013 Hartford Courant",
+      "seendate": "20260802T103000Z",
+      "socialimage": "https://www.courant.com/wp-content/uploads/2026/08/unnamed-file-27.jpg",
+      "domain": "courant.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.bangladeshsun.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T103000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "bangladeshsun.com",
+      "language": "English",
+      "sourcecountry": "Bangladesh"
+    },
+    {
+      "url": "http://www.torontotelegraph.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T103000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "torontotelegraph.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://theweek.com/tech/rogue-ai-a-step-closer-to-doomsday",
+      "url_mobile": "",
+      "title": "Rogue AI : a step closer to doomsday ? ",
+      "seendate": "20260802T103000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/i6UQZqyZ3Peybp62cuYshd-2000-80.jpg",
+      "domain": "theweek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.australiannews.net/news/279216841/altman-heads-to-white-house-after-ai-security-incident",
+      "url_mobile": "",
+      "title": "Altman heads to White House after AI security incident",
+      "seendate": "20260802T100000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "australiannews.net",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "http://www.sierraleonetimes.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T100000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "sierraleonetimes.com",
+      "language": "English",
+      "sourcecountry": "Sierra Leone"
+    },
+    {
+      "url": "http://www.jamaicantimes.com/news/279216841/openai-chief-meets-white-house-on-ai-safety-framework",
+      "url_mobile": "",
+      "title": "OpenAI chief meets White House on AI safety framework",
+      "seendate": "20260802T100000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/1c4a167/92404fb8-9244-4eda-b494-4a6ef20ba3eb/2/Sam-Altman-600x315.jpg",
+      "domain": "jamaicantimes.com",
+      "language": "English",
+      "sourcecountry": "Jamaica"
+    },
+    {
+      "url": "https://gizmodo.com/openai-smuggled-the-announcement-of-astra-its-next-ai-model-into-a-blog-post-about-math-2000793689",
+      "url_mobile": "",
+      "title": "OpenAI Smuggled the Announcement of Astra , Its Next AI Model , Into a Blog Post About Math",
+      "seendate": "20260802T093000Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2026/06/Sam-Altman-Biopic-Amazon-MGM-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/ai/artificial-intelligence/openais-unreleased-astra-ai-solves-10-maths-problems-researchers-couldnt-crack-11785653525385.html",
+      "url_mobile": "https://www.livemint.com/ai/artificial-intelligence/openais-unreleased-astra-ai-solves-10-maths-problems-researchers-couldnt-crack/amp-11785653525385.html",
+      "title": "OpenAI unreleased Astra AI solves 10 maths problems researchers couldnt crack",
+      "seendate": "20260802T084500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/02/600x338/OpenAI_1785654632049_1785654632261_ed25c4ba-1023-4cb4-a0a3-bc56c8650657.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.nzherald.co.nz/technology/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/YCJNAX6WKZES3CQV2JT4IZ4ECQ/",
+      "url_mobile": "",
+      "title": "When rogue AI launches a cyberattack , who is legally responsible ? ",
+      "seendate": "20260802T083000Z",
+      "socialimage": "https://www.nzherald.co.nz/resizer/v2/LKWZGGCISZF3LEUZEMFWN2AKQ4.jpg?auth=d5e3163e276d773c4ba23c3f87af66e19647937eb91edd35142b098a923d9db2&quality=70&focal=1039%2C605&smart=false",
+      "domain": "nzherald.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+      "url_mobile": "",
+      "title": "A big win for Android interoperability \u2013 Open Home Foundation",
+      "seendate": "20260802T081500Z",
+      "socialimage": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+      "domain": "openhomefoundation.org",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.digitaljournal.com/article/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/",
+      "url_mobile": "",
+      "title": "When rogue AI launches a cyberattack , who is legally responsible ? ",
+      "seendate": "20260802T074500Z",
+      "socialimage": "https://www.digitaljournal.com/wp-content/uploads/2026/08/3490ba1d7544e172906f238ea7ca6f7828090df2-1.jpg",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thenationalnews.com/future/technology/2026/08/02/its-ai-problem-now-why-bots-attacking-their-brethren-could-quickly-turn-ugly/",
+      "url_mobile": "",
+      "title": "It AI problem now : Why bots attacking their brethren could quickly turn ugly",
+      "seendate": "20260802T071500Z",
+      "socialimage": "https://www.thenationalnews.com/resizer/v2/N4PWKHXVSVB2PACWRQRVAJYY2M.jpg?smart=true&auth=dd79187fcd94b854a02140aef747388c293202a4e8bbc292795cb9f6ccffba05",
+      "domain": "thenationalnews.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://jamaica-gleaner.com/article/business/20260802/anthropic-says-its-ai-models-hacked-3-organisations-during-testing",
+      "url_mobile": "",
+      "title": "Anthropic says its AI models hacked 3 organisations during testing",
+      "seendate": "20260802T071500Z",
+      "socialimage": "http://jamaica-gleaner.com/sites/default/files/styles/1_1_large/public/media/article_images/2026/08/02/3449160/8493305.jpg?d202d3&itok=YOCCurjD",
+      "domain": "jamaica-gleaner.com",
+      "language": "English",
+      "sourcecountry": "Jamaica"
+    },
+    {
+      "url": "https://www.forbes.com/sites/sandycarter/2026/08/01/ai-agents-at-openai-anthropic-microsoft-broke-out-broke-in-obeyed/",
+      "url_mobile": "",
+      "title": "AI Agents At OpenAI , Anthropic , Microsoft Broke Out , Broke In , Obeyed",
+      "seendate": "20260802T070000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6e9c61fc3b39235c6b941c/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://radio.foxnews.com/2026/08/01/extra-tristan-harris-on-the-dangers-of-rogue-ai/",
+      "url_mobile": "",
+      "title": "Extra : Tristan Harris on the Dangers of Rogue AI",
+      "seendate": "20260802T004500Z",
+      "socialimage": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2024/01/RundownEveningEdition.jpg",
+      "domain": "radio.foxnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.breitbart.com/politics/2026/07/30/code-red-the-ai-that-broke-out-and-hacked-a-tech-company/",
+      "url_mobile": "https://www.breitbart.com/podcast/2026/07/30/code-red-the-ai-that-broke-out-and-hacked-a-tech-company/amp/",
+      "title": "CODE RED : The AI That Broke Out and Hacked a Tech Company",
+      "seendate": "20260801T200000Z",
+      "socialimage": "https://media.breitbart.com/media/2026/07/Wynton-Hall-Peter-Schweizer-640x335.png",
+      "domain": "breitbart.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.breitbart.com/politics/2026/08/01/china-eyes-limits-on-foreign-ai-access-as-america-weighs-its-own-restrictions/",
+      "url_mobile": "https://www.breitbart.com/tech/2026/08/01/china-eyes-limits-on-foreign-ai-access-as-america-weighs-its-own-restrictions/amp/",
+      "title": "China Eyes Limits on Foreign AI Access as America Weighs Its Own Restrictions",
+      "seendate": "20260801T200000Z",
+      "socialimage": "https://media.breitbart.com/media/2026/07/Donald-Trump-and-Chinese-tyrant-Xi-Jinping-640x335.jpg",
+      "domain": "breitbart.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.breitbart.com/politics/2026/07/31/anthropic-claims-claude-ai-models-hacked-3-organizations-during-security-testing/",
+      "url_mobile": "https://www.breitbart.com/tech/2026/07/31/anthropic-claims-claude-ai-models-hacked-3-organizations-during-security-testing/amp/",
+      "title": "Anthropic Claims Claude AI Models Hacked 3 Organizations During Security Testing",
+      "seendate": "20260801T200000Z",
+      "socialimage": "https://media.breitbart.com/media/2026/07/Dario-AModeis-Anthropic-AI-turns-hacker-640x335.jpg",
+      "domain": "breitbart.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkms.org/npr-news/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies",
+      "url_mobile": "",
+      "title": "Why did OpenAI and Anthropic AI models hack other companies ? ",
+      "seendate": "20260801T191500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/77/9d/002e41444437b52ba474472639ee/gettyimages-2281437652.jpg",
+      "domain": "wkms.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://movieweb.com/ex-machina-sci-fi-thriller-youtube-free/",
+      "url_mobile": "",
+      "title": "The Greatest Sci - Fi Thriller of the 21st Century Is on YouTube For Free",
+      "seendate": "20260801T191500Z",
+      "socialimage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/07/ex-machina.jpg?&fit=crop",
+      "domain": "movieweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kmxt.org/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies",
+      "url_mobile": "https://www.kmxt.org/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies?_amp=true",
+      "title": "Why did OpenAI and Anthropic AI models hack other companies ? ",
+      "seendate": "20260801T190000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/77/9d/002e41444437b52ba474472639ee/gettyimages-2281437652.jpg",
+      "domain": "kmxt.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://targetednews.com/pr_disp.php?pr_id=9696300",
+      "url_mobile": "",
+      "title": "Targeted News Service",
+      "seendate": "20260801T181500Z",
+      "socialimage": "",
+      "domain": "targetednews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tribune.com.pk/story/2621532/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe",
+      "url_mobile": "",
+      "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+      "seendate": "20260801T180000Z",
+      "socialimage": "https://i.tribune.com.pk/media/images/open-ai1783506631-0/open-ai1783506631-0-640x480.webp",
+      "domain": "tribune.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "http://www.europesun.com/news/279218627/openai-uncovers-more-ai-breakout-incidents-reuters",
+      "url_mobile": "",
+      "title": "OpenAI uncovers more AI breakout incidents Reuters",
+      "seendate": "20260801T174500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/c365085/830aaf92-f644-433b-a3a8-36f1018ae14b/0/NGJiY2VlMzktMzA-600x315.jpg",
+      "domain": "europesun.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ai-models-openai-just-went-165400713.html",
+      "url_mobile": "",
+      "title": "AI Models From OpenAI Just Went Rogue . Here Why That a Potential Threat to Crypto . ",
+      "seendate": "20260801T174500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/27584BB88C0CB0976B100D143884D2EF61D3AC3F72AEBBC324665F3C6BDDE3FE/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa8470a4189761ec6548a9a53bef2493c",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wclk.com/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies",
+      "url_mobile": "https://www.wclk.com/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies?_amp=true",
+      "title": "Why did OpenAI and Anthropic AI models hack other companies ? ",
+      "seendate": "20260801T174500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/77/9d/002e41444437b52ba474472639ee/gettyimages-2281437652.jpg",
+      "domain": "wclk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.upr.org/npr-news/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies",
+      "url_mobile": "",
+      "title": "Why did OpenAI and Anthropic AI models hack other companies ? ",
+      "seendate": "20260801T174500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/77/9d/002e41444437b52ba474472639ee/gettyimages-2281437652.jpg",
+      "domain": "upr.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://mashable.com/tech/sam-altman-suggests-parents-generate-ai-podcasts-about-kids",
+      "url_mobile": "",
+      "title": "Sam Altman suggests parents generate AI podcasts about their kids",
+      "seendate": "20260801T173000Z",
+      "socialimage": "https://helios-i.mashable.com/imagery/articles/00EHMqMixIQfrYSZREmX3YD/hero-image.fill.size_1200x675.v1785601533.jpg",
+      "domain": "mashable.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wypr.org/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies",
+      "url_mobile": "",
+      "title": "Why did OpenAI and Anthropic AI models hack other companies ? ",
+      "seendate": "20260801T170000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/77/9d/002e41444437b52ba474472639ee/gettyimages-2281437652.jpg",
+      "domain": "wypr.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wfae.org/united-states-world/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies",
+      "url_mobile": "https://www.wfae.org/united-states-world/2026-08-01/why-did-openais-and-anthropics-ai-models-hack-other-companies?_amp=true",
+      "title": "Why did OpenAI and Anthropic AI models hack other companies ? ",
+      "seendate": "20260801T164500Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/77/9d/002e41444437b52ba474472639ee/gettyimages-2281437652.jpg",
+      "domain": "wfae.org",
+      "language": "English",
+      "sourcecountry": "United States"
     }
   ]
 }

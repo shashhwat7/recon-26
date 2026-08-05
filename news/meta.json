@@ -1,8 +1,8 @@
 {
   "company": "Meta",
-  "query": "\"Meta AI\" OR (\"Llama\" AND Meta)",
-  "start": "20250101000000",
-  "end": "20250930235959",
+  "query": "\"Meta AI\" OR (Llama Meta)",
+  "start": null,
+  "end": null,
   "count": 0,
   "articles": []
 }

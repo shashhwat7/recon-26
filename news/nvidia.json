@@ -1,8 +1,2549 @@
 {
   "company": "NVIDIA",
   "query": "\"Nvidia\"",
-  "start": "20250101000000",
-  "end": "20250930235959",
-  "count": 0,
-  "articles": []
+  "start": "20240101000000",
+  "end": null,
+  "count": 254,
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-arista-networks-stock-rallied-170028444.html",
+      "url_mobile": "",
+      "title": "Why Arista Networks Stock Rallied Today",
+      "seendate": "20260805T173000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/260F4DA384D6A455A3B500D7D14242825B4FFE3006FBA32F03796804184CE276/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fb72144cc882da8d96bd9e88e41701891",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-draftkings-dkng-q2-earnings-what-to-expect",
+      "url_mobile": "",
+      "title": "FinancialContent - DraftKings ( DKNG ) Q2 Earnings : What To Expect",
+      "seendate": "20260805T173000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/DKNG",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thereporteronline.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T173000Z",
+      "socialimage": "https://www.thereporteronline.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "thereporteronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/energy/articles/3-midstream-stocks-quietly-compounding-162500688.html",
+      "url_mobile": "",
+      "title": "3 Midstream Stocks Quietly Compounding Dividends Every Year",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/0228DE9A93EB34A7BD93F2DE921EBB118F171E53D3AD73954F8738C43B62056E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F9014e0717bb62b1613352a97774555ce",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-after-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html",
+      "url_mobile": "",
+      "title": "Nvidia stock rises after Musk says SpaceX will exclusively use company chips",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4260013280C1CA257E3C003EF508CB0AAFE1648249F86B67B7D24767D06F000B/subgraphmysterio/resizefill_w1200_h726;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Ffe2229ca-1f15-41ed-a72a-2b9fb5ec9d95",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-just-collected-579-163326607.html",
+      "url_mobile": "",
+      "title": "Larry Ellison Just Collected a $579 Million Dividend Check . Here What $100 , 000 of Oracle Stock Would Pay You . ",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4CBE960CCF023068E091B71396CC73701E3A9A4F364E92748691F13F59A39594/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F532e6216cf4dfd46308eb454be582c98",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fortmorgantimes.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://www.fortmorgantimes.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "fortmorgantimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-magnificent-industrial-stocks-down-163000603.html",
+      "url_mobile": "",
+      "title": "2 Magnificent Industrial Stocks Down 40 % to Buy and Hold Forever",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/61B4E8FD3A64EBED0D70E1EE95C3C91926F22F5E6A484743143E95941CFF23A7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F450ac5fbb757ab18647830dfda111c24",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.republicanherald.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T171500Z",
+      "socialimage": "https://www.republicanherald.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "republicanherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html",
+      "url_mobile": "",
+      "title": "SpaceX gives Nvidia a much - needed boost . Cramer  undervalued  stock",
+      "seendate": "20260805T170000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ktvh.com/news/national-politics/wall-street-rallies-to-records-pushing-s-p-500-up-1-8-as-profits-pile-up-and-oil-prices-ease",
+      "url_mobile": "",
+      "title": "Wall Street rallies to records as profits pile up and oil prices ease",
+      "seendate": "20260805T170000Z",
+      "socialimage": "https://ewscripps.brightspotcdn.com/e7/4a/929438884ab7b7bda0d0f243d211/ap25098636329682.jpg",
+      "domain": "ktvh.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sentinelandenterprise.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T170000Z",
+      "socialimage": "https://www.sentinelandenterprise.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "sentinelandenterprise.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://en.tempo.co/read/2116789/ai-ecosystems-circular-investment-risk-or-advantage",
+      "url_mobile": "//en.tempo.co/amp/2116789/ai-ecosystems-circular-investment-risk-or-advantage",
+      "title": "AI Ecosystem  Circular  Investment : Risk or Advantage ? ",
+      "seendate": "20260805T164500Z",
+      "socialimage": "https://statik.tempo.co/data/2026/06/13/id_1477586/1477586_720.jpg",
+      "domain": "en.tempo.co",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/this-is-nvidia-ceo-jensen-huangs-favorite-biotech/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "This Is Nvidia CEO Jensen Huang Favorite Biotech Stock -- and Youve Probably Never Heard of It",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881421/axesome.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
+      "url_mobile": "",
+      "title": "Why Agentic AI Is The Next Enterprise Operating Model",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a70ff15e48075eddd2c781c/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/26/08/60956830/amd-stock-musk-nvidia-bofa-ignore-noise-ai-helios",
+      "url_mobile": "",
+      "title": "AMD Falls As Musk Picks Nvidia : BofA Says Ignore The Noise - Advanced Micro Devices ( NASDAQ : AMD ), NVIDIA",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/05/The-AMD-Trade.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/articles/average-social-security-benefit-age-160500510.html",
+      "url_mobile": "",
+      "title": "This Is the Average Social Security Benefit at Age 62",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/2F0B17EACF0A1AC507044F60067ADAC999F74CD69D9BAAD0562BCEE4886AF23D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F90cc9349ea10399f706758f1d2f235cd",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://iafrica.com/south-africa-will-not-pick-a-side-between-us-and-chinese-ai-stacks-malatsi/",
+      "url_mobile": "",
+      "title": "South Africa Will Not Pick a Side Between US and Chinese AI Stacks - Malatsi",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://iafrica.com/wp-content/uploads/2026/02/ai-south-africa-dell-technologies-1500-800.jpg",
+      "domain": "iafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+      "url_mobile": "",
+      "title": "SpaceX spooks investors with debut earnings report",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-1024x648.jpg",
+      "domain": "arstechnica.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/if-a-bear-market-is-coming-2-stocks-you-dont-want/",
+      "url_mobile": "",
+      "title": "If a Bear Market Is Coming , 2 Stocks You Dont Want to Own -- and 1 You Do",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881909/bear-crash.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ktvq.com/news/political-news/wall-street-rallies-to-records-pushing-s-p-500-up-1-8-as-profits-pile-up-and-oil-prices-ease",
+      "url_mobile": "",
+      "title": "Wall Street rallies to records as profits pile up and oil prices ease",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://ewscripps.brightspotcdn.com/e7/4a/929438884ab7b7bda0d0f243d211/ap25098636329682.jpg",
+      "domain": "ktvq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/Opinion/26/08/60954256/crypto-exchanges-want-to-be-the-next-charles-schwab-wall-street-says-not-so-fast",
+      "url_mobile": "",
+      "title": "Crypto Exchanges Want To Be The Next Charles Schwab . Wall Street Says Not So Fast . - Apple ( NASDAQ : AAPL ) ",
+      "seendate": "20260805T163000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/05/alibabas-qwen38-max-prices-frontier-ai-at-2-per-million-tokens/",
+      "url_mobile": "",
+      "title": "Alibaba Qwen3 . 8 - Max Prices Frontier AI At $2 Per Million Tokens",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a733c7bf7c267e49ba9f280/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.advocate-news.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://www.advocate-news.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "advocate-news.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.blogspan.net/proxmox-arm64-release-nvidia-grace/",
+      "url_mobile": "",
+      "title": "Proxmox arm64 ist da : produktionsreif auf Nvidia - Servern",
+      "seendate": "20260805T163000Z",
+      "socialimage": "https://www.blogspan.net/wp-content/uploads/2026/08/proxmox-ve-9-2-datacenter-oberflaeche-1024x576.png",
+      "domain": "blogspan.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69226883-u-s-stocks-give-back-ground-after-early-move-to-the-upside-020.htm",
+      "url_mobile": "",
+      "title": "U . S . Stocks Give Back Ground After Early Move To The Upside",
+      "seendate": "20260805T161500Z",
+      "socialimage": "https://www.finanznachrichten.de/content/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/05/anthropic-to-build-in-house-chip-design-team-for-claude-hire-engineers",
+      "url_mobile": "",
+      "title": "Anthropic to build in - house chip design team for Claude , hire engineers",
+      "seendate": "20260805T161500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/08/05/4045537.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.delcotimes.com/2026/08/05/astronomers-notebook-vera-rubin-and-the-hunt-for-dark-matter/",
+      "url_mobile": "",
+      "title": "Dr . Harry Augensen Astronomer Notebook",
+      "seendate": "20260805T161500Z",
+      "socialimage": "https://www.delcotimes.com/wp-content/uploads/2026/08/GettyImages-1962420417.jpg",
+      "domain": "delcotimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-upstart-stock-climbing-today-152128452.html",
+      "url_mobile": "",
+      "title": "Why Upstart Stock Was Climbing Today",
+      "seendate": "20260805T160000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/B3F4A914EBA904BB093FEC0399282FFE1A9FB6CCC32FF3C11F9CB981585D01AB/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F477b33bcf29984fbdbc111a9dca40790",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.durangoherald.com/articles/associated-press/oil-prices-ease-and-asian-shares-gain-on-hopes-for-mideast-deal-as-companies-report-strong-profit/",
+      "url_mobile": "",
+      "title": "Stocks rise on Wall Street and add to their records as oil prices hold steady",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://www.durangoherald.com/wp-content/uploads/2026/08/e0432a67-7525-594e-b4b8-1b9e8d89096b.jpg",
+      "domain": "durangoherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.akronnewsreporter.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://www.akronnewsreporter.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "akronnewsreporter.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wccftech.com/asus-and-gigabyte-reportedly-raised-gpu-prices-by-around-20-in-china-with-up-to-666-for-flagship-models/",
+      "url_mobile": "https://wccftech.com/asus-and-gigabyte-reportedly-raised-gpu-prices-by-around-20-in-china-with-up-to-666-for-flagship-models/amp/",
+      "title": "ASUS And GIGABYTE Reportedly Raised GPU Prices By Around 20 % In China , With Up To $666 For Flagship Models",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2026/08/ASUS-and-GIGABYTE-GPUs.jpg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/commodities/articles/glencore-turns-middle-east-chaos-151523886.html",
+      "url_mobile": "",
+      "title": "Glencore Turns Middle East Chaos Into a Trading Jackpot",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4AF223758E2016364ED4E33E4273F179663E79FBE4A9AE2A9F836E8816EA4566/subgraphmysterio/resizefill_w1200_h1490;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F15e917daa7b46f801da0a2cbabf9281e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ksjbam.com/2026/08/05/stocks-rise-on-wall-street-and-add-to-their-records-as-oil-prices-hold-steady/",
+      "url_mobile": "",
+      "title": "Stocks rise on Wall Street and add to their records as oil prices hold steady",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2956/files/2026/06/358089982-1200x675.jpg",
+      "domain": "ksjbam.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wccftech.com/asus-asks-5090-for-rtx-5090-after-cancelling-users-order-who-already-paid-4607/",
+      "url_mobile": "https://wccftech.com/asus-asks-5090-for-rtx-5090-after-cancelling-users-order-who-already-paid-4607/amp/",
+      "title": "ASUS Asks $5090 For RTX 5090 After Cancelling User Order Who Already Paid $4607",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/ASUS-ROG-Astral-RTX-5090.jpg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.eptrail.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://www.eptrail.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "eptrail.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1096553/ftse-100-live-gold-miners-provide-boost-but-pru-and-hsbc-hit-by-china-tax-report-1096553.html",
+      "url_mobile": "",
+      "title": "FTSE 100 Live : Gold miners provide boost , but Pru and HSBC hit by China tax report",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC8yMDI2LTA4LTA1LTEzLTA3LTM0LTkzNWRjOGZlNmJmODM5MDg2ZDNjMzc3YWJhY2YyMTQwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-things-stock-market-crashes-150800870.html",
+      "url_mobile": "",
+      "title": "3 Things to Do if the Stock Market Crashes as Soon as You Retire",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/45937927ED7682333BCE57FDEABC12670E06CFAC9BCD99B071A3C7F1DDE53666/subgraphmysterio/resizefill_w1200_h744;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Feb2db12da48b8a381d4174c1cb1edcdd",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.twincities.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://www.twincities.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "twincities.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-vs-comcast-stock-better-150652494.html",
+      "url_mobile": "",
+      "title": "Airbnb vs . Comcast : Which Stock Is a Better Buy in 2026 ? ",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/6183257C6B8A24066ADEFF91289C56FB6626E2459FA9A0BD676694A86D8B85FE/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Feb5062f31a17e14da688248426d8149f",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/60955407/michael-burry-pegs-palantir-nvidia-as-future-ghost-towns",
+      "url_mobile": "",
+      "title": "Michael Burry Pegs Palantir , Nvidia as  Future Ghost Town - Palantir Technologies ( NASDAQ : PLTR ), NVIDIA",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/05/Benzinga-Quick-Spark.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/articles/poor-spending-less-mcdonald-152023975.html",
+      "url_mobile": "",
+      "title": "The Poor Are Spending Less At McDonald ",
+      "seendate": "20260805T154500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/709120E598D20E8CFD3241A043A6D92F6A50D37E093011B1B8FD3D633FDABF26/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F5a9c6d00df067eae5b6302d43e3e664b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ibcworldnews.com/2026/08/05/spacex-shares-slide-despite-ai-returns/",
+      "url_mobile": "https://ibcworldnews.com/2026/08/05/spacex-shares-slide-despite-ai-returns/?amp=1",
+      "title": "SpaceX Shares Slide despite AI returns",
+      "seendate": "20260805T153000Z",
+      "socialimage": "",
+      "domain": "ibcworldnews.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://hothardware.com/news/amd-revenue-record-high-2x-data-center-sales-surge",
+      "url_mobile": "",
+      "title": "AMD Revenue Hits Record High Amid 2X Data Center Sales Surge",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://hothardware.com/contentimages/NewsItem/71297/content/16x9_2133x1200_highres-amd-ceo-dr-lisa-su.jpg",
+      "domain": "hothardware.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-vs-byd-only-one-143054940.html",
+      "url_mobile": "",
+      "title": "Tesla vs BYD : Only One Leader in The EV Race",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/EE456FF25515B96F99312B24B7C73CC135A7FBD7E50CEADC8F700102424364E0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4dcf5c47c6e517b043698504054ec935",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bill-ackman-poured-2-143001922.html",
+      "url_mobile": "",
+      "title": "Why Bill Ackman Poured $2 Billion Into a Stock His Peers Were Fleeing",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/8828DE6152E461938C1F29F1D38FC24AA5B9ED40D64D2597B960373544DF2AA8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4fc283e0f60633ecb058372d03bbcf26",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-to-build-in-house-chip-design-team-for-claude-hire-engineers/articleshow/132936969.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/anthropic-to-build-in-house-chip-design-team-for-claude-hire-engineers/amp_articleshow/132936969.cms",
+      "title": "Anthropic to build in - house chip design team for Claude , hire engineers",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-91034,resizemode-75,msid-132936969/tech/artificial-intelligence/anthropic-to-build-in-house-chip-design-team-for-claude-hire-engineers.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.ibtimes.com.au/nvidia-spacex-ai-partnership-1873635",
+      "url_mobile": "",
+      "title": "Nvidia Shares Jump Nearly 4 % After SpaceX Names Chipmaker Its Exclusive AI Hardware Provider",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://d.ibtimes.com.au/en/full/1869150/nvidias-ceo-jensen-huang-founded-chip-giant-three-decades-ago.jpg",
+      "domain": "ibtimes.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.timesherald.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://www.timesherald.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "timesherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/market/stock-market-news/spacex-shares-plunge-13-as-ai-spending-overshadows-earnings-beat-down-over-50-from-post-listing-peak-11785931427001.html",
+      "url_mobile": "https://www.livemint.com/market/stock-market-news/spacex-shares-plunge-13-as-ai-spending-overshadows-earnings-beat-down-over-50-from-post-listing-peak/amp-11785931427001.html",
+      "title": "SpaceX shares plunge 13 % as AI spending overshadows earnings beat ; down over 50 % from post - listing peak",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/05/600x338/SPACEX-IPO-SOUTH-KOREA-MIRAE-0_1781611119633_17816_1785931421394_1785931421617_e8425f55-b63e-48a8-ac62-f9bfa217d03d.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-ready-pay-dividend-143239729.html",
+      "url_mobile": "",
+      "title": "5 Stocks Ready to Pay You a Dividend in August , but You Must Buy Them Today",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4A6E7EF2EC5B36658A9ACA1C38909F6CFE75229FF7C60B19641A7301E534F44F/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fd4118afa1510c8c4117bd29419c244e8",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://mymotherlode.com/news/national/11043640/oil-prices-and-world-shares-gain-after-wall-street-hits-fresh-records-on-strong-corporate-earnings.html",
+      "url_mobile": "https://mymotherlode.com/news/national/11043640/oil-prices-and-world-shares-gain-after-wall-street-hits-fresh-records-on-strong-corporate-earnings.html/amp",
+      "title": "Stocks rise on Wall Street and add to their records as oil prices hold steady",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://mymotherlode.com/wp-content/uploads/2026/08/AP_bd98aa9d86a14f3a817b7f7ad68cadd7_de9f7e3948.jpg",
+      "domain": "mymotherlode.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.broomfieldenterprise.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://www.broomfieldenterprise.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "broomfieldenterprise.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.eteknix.com/customers-4600-asus-rtx-5090-order-canceled-after-price-increase/",
+      "url_mobile": "",
+      "title": "Customer $4 , 600 ASUS RTX 5090 Order Canceled After Price Increase",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://cdn.eteknix.com/wp-content/uploads/2026/08/Customers-4600-ASUS-RTX-5090-Order-Canceled-After-Price-Increase-.png",
+      "domain": "eteknix.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-crushes-earnings-q2-stock-142453278.html",
+      "url_mobile": "",
+      "title": "Palantir Crushes Earnings in Q2 . Is the Stock Heading Back to $200 ? ",
+      "seendate": "20260805T150000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/8CEC9D114510CE33A54D71786B983AB5184BBF3B326A6D92B8DE5032E20323AA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd8a292c1a3518be15def1b907ac06df6",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tractor-supply-director-hawaux-buys-142001337.html",
+      "url_mobile": "",
+      "title": "Tractor Supply Director Hawaux Buys 3 , 150 Shares Amid 44 % Decline",
+      "seendate": "20260805T150000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/CF6275BB71371745FA61EC6B9AC2078E0D0A9D3549ED405A941DCF5EC74B51DC/subgraphmysterio/resizefill_w1200_h1071;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0b1c16594f294f2b49d3c011f91210d1",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/huge-usd750-saving-makes-this-gigabyte-oled-gaming-laptop-with-an-rtx-5070-ti-an-absolute-steal-right-now-just-usd1-999-for-1600p-rig-with-32gb-ddr5-1tb-ssd-and-a-24-core-intel-cpu",
+      "url_mobile": "",
+      "title": "Huge $750 saving makes this Gigabyte OLED gaming laptop with an RTX 5070 Ti an absolute steal right now just $1 , 999 for 1600p rig with 32GB DDR5 , 1TB SSD , and a 24 - core Intel CPU",
+      "seendate": "20260805T150000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/ySce3PaL5qrHxLfW9eJTYK-1920-80.png",
+      "domain": "tomshardware.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-05-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/132937405.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-05-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/amp_articleshow/132937405.cms",
+      "title": "US stock market today : Wall Street scales new record highs ; oil prices hold steady",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132937703,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.coloradohometownweekly.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://www.coloradohometownweekly.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "coloradohometownweekly.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://nypost.com/2026/08/05/business/spacex-shares-tank-10-as-jaw-dropping-ai-spending-jump-spooks-investors/",
+      "url_mobile": "",
+      "title": "SpaceX shares tank 10 % as jaw - dropping AI spending jump spooks investors",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136537921.jpg?quality=75&strip=all",
+      "domain": "nypost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1411339-anthropic-confirms-in-house-ai-chip-team-for-claude",
+      "url_mobile": "",
+      "title": "Anthropic confirms in - house AI chip team for Claude",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/2026-08-05/1411339_070647_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.kbzk.com/news/national-politics/wall-street-rallies-to-records-pushing-s-p-500-up-1-8-as-profits-pile-up-and-oil-prices-ease",
+      "url_mobile": "",
+      "title": "Wall Street rallies to records as profits pile up and oil prices ease",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://ewscripps.brightspotcdn.com/e7/4a/929438884ab7b7bda0d0f243d211/ap25098636329682.jpg",
+      "domain": "kbzk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://donanimgunlugu.com/asus-proart-geforce-rtx-5090-ekran-kartini-duyurdu-435569",
+      "url_mobile": "",
+      "title": "ASUS , ProArt GeForce RTX 5090 Ekran Kart\u0131n\u0131 Duyurdu",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://cdn.donanimgunlugu.com/uploads/2026/08/image008.png",
+      "domain": "donanimgunlugu.com",
+      "language": "Turkish",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-build-house-chip-design-141457659.html",
+      "url_mobile": "",
+      "title": "Anthropic to build in - house chip design team for Claude , hire engineers",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/D8F4BB1F2A6B9E34D58432C409EC300C39F065D61FBA00EE6044D5CEC1906B5A/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Faa56b86a819664661b84c338a4cece85",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nydailynews.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://www.nydailynews.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "nydailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techradar.com/computing/gpu/oh-great-gpu-prices-could-climb-again-heres-my-expert-advice-on-why-you-should-buy-now-and-which-graphics-card-to-get",
+      "url_mobile": "",
+      "title": "Oh , great , GPU prices could climb again here my expert advice on why you should buy now ( and which graphics card to get ) ",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/pJRF5WNKXTDwKGK8ztx7Hm-1067-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/article/spacex-stock-drops-as-ai-capex-jumps-in-q2-132323178.html",
+      "url_mobile": "",
+      "title": "SpaceX stock drops as AI capex jumps in Q2",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/EAB1FB227C92311BD75462A2DC42852310DE7F008E79CB13B1F5E1BAD79DB37F/subgraphmysterio/resizefill_w1200_h901;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fbabc2da0-8f79-4cd3-914f-bd2460413e99",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/crypto/articles/needham-lifts-bitdeer-target-22-142150852.html",
+      "url_mobile": "",
+      "title": "Needham lifts Bitdeer target to $22 after $4 . 7 billion Tydal lease",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/0169A140F5E60D2863631AE587C55845E8751B21D7FC1C046EF3F4CDCB403F02/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fblockspace_702%2F99a04603b1590fde6508d11bed54f1e4",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/nautilus-data-technologies-named-nvidia-ai-factory-infrastructure-partner-302843854.html",
+      "url_mobile": "",
+      "title": "Nautilus Data Technologies Named NVIDIA AI Factory Infrastructure Partner",
+      "seendate": "20260805T144500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailynews.com/2026/08/05/us-stocks-iran-war-oil/",
+      "url_mobile": "",
+      "title": "Stocks add to records on Wall Street and crude oil prices hold steady",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://www.dailynews.com/wp-content/uploads/2026/08/AP26211532472408.jpg",
+      "domain": "dailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-at-spacexs-first-earnings-call-says-data-centers-a-trivial-problem-compared-to-what-companys-rocket-engineers-work-on-every-day/articleshow/132934968.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-at-spacexs-first-earnings-call-says-data-centers-a-trivial-problem-compared-to-what-companys-rocket-engineers-work-on-every-day/amp_articleshow/132934968.cms",
+      "title": "Spacex : Elon Musk at SpaceX first earnings call says data centers a  trivial problem  compared to what company rocket engineers work on every day",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132935253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/spacex-just-guided-for-a-usd100b-run-rate-by-december-and-usd1-trillion-of-revenue-by-2030-here-s-why-the-stock-is-getting-crushed-anyway/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "SpaceX Just Guided for A $100 Billion Run Rate by December and $1 Trillion of Revenue by 2030 . Here Why the Stock Is Getting Crushed Anyway",
+      "seendate": "20260805T141500Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/5d25ae3ceb7a8df3e0b6d2b9551943871e9fe702-1806x1208.jpg?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://telecom.economictimes.indiatimes.com/news/devices/netlist-samsung-settle-patent-disputes-in-new-five-year-memory-deal/132924195",
+      "url_mobile": "https://telecom.economictimes.indiatimes.com/amp/news/devices/netlist-samsung-settle-patent-disputes-in-new-five-year-memory-deal/132924195",
+      "title": "Samsung Electronics : Netlist and Samsung Reach Landmark Agreement on Memory Chip Patents , ETTelecom",
+      "seendate": "20260805T140000Z",
+      "socialimage": "https://etimg.etb2bimg.com/thumb/msid-132924195,imgsize-270500,width-1200,height=627,overlay-ettelecom,resizemode-75/devices/netlist-samsung-settle-patent-disputes-in-new-five-year-memory-deal.jpg",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13530921/spacex-nasdaqspcx-receives-overweight-rating-from-cantor-fitzgerald.html",
+      "url_mobile": "",
+      "title": "SpaceX ( NASDAQ : SPCX ) Receives Overweight Rating from Cantor Fitzgerald",
+      "seendate": "20260805T140000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rivian-stock-fell-12-132000861.html",
+      "url_mobile": "",
+      "title": "Why Rivian Stock Fell 12 % Last Month",
+      "seendate": "20260805T134500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/6C1BE945B92589E728E0D4E4B58B9E074FF9D865B463B648FB0A0B6422108018/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ff88de513ebb2093382e20d27b3047bac",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/consumers-keep-hitting-buy-thc-130300409.html",
+      "url_mobile": "",
+      "title": "Consumers Keep Hitting Buy on THC Despite Federal Restrictions",
+      "seendate": "20260805T134500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/708BF10516CB2E1D5B24CF6CA8553279FFE19EA5A1BD722C2B41952F67D66F7B/subgraphmysterio/resizefill_w1200_h1490;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F76fa070b827cf528434311dc92060274",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.teknoblog.com/netflix-chrome-da-4k-destegini-acti/",
+      "url_mobile": "",
+      "title": "Netflix Chromeda 4K deste\u011fini a\u00e7t\u0131",
+      "seendate": "20260805T133000Z",
+      "socialimage": "",
+      "domain": "teknoblog.com",
+      "language": "Turkish",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-top-quarterly-results-but-fail-to-impress-wall-street-shares-sink-140419479.html",
+      "url_mobile": "",
+      "title": "Tech stocks today : SpaceX , AMD top quarterly results , but fail to impress Wall Street . Shares sink",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/6DE560E7C4F3D6C9B8B6745B11260C05341CBA5561225EE5BDFB8300C054378B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Ff4b2c441-82e0-485d-837b-f2a973cd3e44",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-guided-100-billion-123002184.html",
+      "url_mobile": "",
+      "title": "SpaceX Just Guided for A $100 Billion Run Rate by December and $1 Trillion of Revenue by 2030 . Here Why the Stock Is Getting Crushed Anyway",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/B74F0A30D461DE8B9B06CA4E8DEC34D4A689E055EA4BEA23E1F8B18D948705F0/subgraphmysterio/resizefill_w1200_h802;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F3cc3e51745cfba74eb5b19b5ab5d7746",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/peter-lynch-turned-fidelity-magellan-123500740.html",
+      "url_mobile": "",
+      "title": "Peter Lynch Turned Fidelity Magellan From $18 Million Into $14 Billion With a 29 % Annual Return . Here Whether His  Invest in What You Know  Strategy Still Works Today . ",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/59CE0A4CA2D8719EAA1F99461E4B84AD9B5DB47D06BD3B61E2A464895206F3A0/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F5d38c5c4432645481ec43bb041f79f1d",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-just-delivered-first-123453558.html",
+      "url_mobile": "",
+      "title": "Arista Networks Just Delivered Its First $3 Billion Quarter . Here What It Means for the AI Networking Trade . ",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/7E3F6213D059AC2168B8B2F813C89ED812743FE3838783382A41AB79DB4083E8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F8126f38f06f16de8884031883fbcb969",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/anthropic-in-house-silicon-chip-team-claude-2026-8",
+      "url_mobile": "",
+      "title": "Anthropic Confirms It Building an in - House Chip Team for Claude",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://i.insider.com/6a732d573f00ff875d13d40a?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-who-lives-by-the-phrase-30-days-from-going-out-of-business-says-he-is-jealous-of-the-young-founders/articleshow/132924624.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-who-lives-by-the-phrase-30-days-from-going-out-of-business-says-he-is-jealous-of-the-young-founders/amp_articleshow/132924624.cms",
+      "title": "Nvidia CEO Jensen Huang , who lives by the phrase  30 days from going out of business , says he is  jealou of the young founders",
+      "seendate": "20260805T131500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132924744,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.slobodna-bosna.ba/vijest/498664/dramatichno_upozorenje_poznatog_investitora_predvidio_je_krizu_2008_a_sad_kaze_da_je_moguc_krah_poput_onog_iz_1987.html",
+      "url_mobile": "",
+      "title": "DRAMATI\u010cNO UPOZORENJE POZNATOG INVESTITORA : Predvidio je krizu 2008 ., a sad ka\u017ee da je mogu\u0107 krah poput onog iz 1987 . ",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://www.slobodna-bosna.ba/img/vijesti/2026/08/burry-old-pic-e1669831918772.jpg",
+      "domain": "slobodna-bosna.ba",
+      "language": "Croatian",
+      "sourcecountry": "Bosnia-Herzegovina"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/spacex-just-guided-for-a-usd100b-run-rate-by-december-and-usd1-trillion-of-revenue-by-2030-here-s-why-the-stock-is-getting-crushed-anyway/",
+      "url_mobile": "",
+      "title": "SpaceX Just Guided for A $100 Billion Run Rate by December and $1 Trillion of Revenue by 2030 . Here Why the Stock Is Getting Crushed Anyway",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/5d25ae3ceb7a8df3e0b6d2b9551943871e9fe702-1806x1208.jpg?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.computerbase.de/news/apps/hwinfo-8-51-vram-temperaturen-pro-chip-fuer-geforce-und-radeon-auslesen.98719/",
+      "url_mobile": "",
+      "title": "HWiNFO 8 . 51 : VRAM - Temperaturen pro Chip f\u00fcr GeForce und Radeon auslesen",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://pics.computerbase.de/1/2/4/1/4/2-d46ee4787b202d6f/article-1280x720.d26027d0.jpg",
+      "domain": "computerbase.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/alphabet-stock-soar-target-ai-chip-market-nvidia/",
+      "url_mobile": "",
+      "title": "Alphabet Stock Could Soar as It Targets the $300 Billion AI Chip Market Dominated by Nvidia",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881944/googl-nvda.png",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://geographical.co.uk/news/chinas-ai-push-raises-the-stakes",
+      "url_mobile": "",
+      "title": "China AI push raises the stakes",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://geographical.co.uk/wp-content/uploads/ai-concept.jpg",
+      "domain": "geographical.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.cnbcafrica.com/2026/spacex-dives-10-after-ai-spending-surge-rattles-investors",
+      "url_mobile": "",
+      "title": "SpaceX dives 10 % after AI spending surge rattles investors",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://cdn.cnbc.africa/wp-content/uploads/2026/08/108321029-17812719352026-06-12t134403z_1228447360_rc2dslascqpj_rtrmadp_0_spacex-ipo.jpg",
+      "domain": "cnbcafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://english.hani.co.kr/arti/english_edition/e_business/1271541.html",
+      "url_mobile": "",
+      "title": "Samsung defends No . 1 spot in DRAM market as Micron narrows gap with SK Hynix",
+      "seendate": "20260805T130000Z",
+      "socialimage": "https://flexible.img.hani.co.kr/flexible/normal/650/366/imgdb/original/2026/0805/441785917786042.webp",
+      "domain": "english.hani.co.kr",
+      "language": "English",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-brinks-nysebco-reports-q2-cy2026-in-line-with-expectations",
+      "url_mobile": "",
+      "title": "FinancialContent - Brink ( NYSE : BCO ) Reports Q2 CY2026 In Line With Expectations",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/BCO",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://conservativehq.com/post/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda",
+      "url_mobile": "",
+      "title": "Manufacturing Jobs Flock to the U . S . Thanks to President Trump America First Economic Agenda",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://mr.cdn.ignitecdn.com/client_assets/conservativehq_com/media/picture/6a73/2167/a418/69d3/fe8f/c8a7/content_manufacturing_hits_new_high.jpg",
+      "domain": "conservativehq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-aws-ceo-just-sent-121118385.html",
+      "url_mobile": "",
+      "title": "Amazon AWS CEO Just Sent Shivers Down the Spines of AI Bears . Supply is Mostly  Spoken For  Through 2028 . ",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/252ECBC714DBB265CCBC48EC771A286E58332F545B6F935A130C240ED71FC6F2/subgraphmysterio/resizefill_w1200_h805;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fe061ddb31fa43662c3b350bcd85b809f",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/05/amd-to-rise-despite-post-earnings-slide-wall-street-analysts-say.html",
+      "url_mobile": "",
+      "title": "AMD to rise despite post - earnings slide , Wall Street analysts say",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108336929-1784339113574-Rockdale_Meta_3jpg.png?v=1784339259",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-griffons-nysegff-q2-cy2026-sales-top-estimates",
+      "url_mobile": "",
+      "title": "FinancialContent - Griffon ( NYSE : GFF ) Q2 CY2026 Sales Top Estimates",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/GFF",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-vishay-intertechnology-nysevsh-misses-q2-sales-targets",
+      "url_mobile": "",
+      "title": "FinancialContent - Vishay Intertechnology ( NYSE : VSH ) Misses Q2 Sales Targets",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/VSH",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-as-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html",
+      "url_mobile": "",
+      "title": "Nvidia stock rises , as Musk says SpaceX will exclusively use company chips",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4260013280C1CA257E3C003EF508CB0AAFE1648249F86B67B7D24767D06F000B/subgraphmysterio/resizefill_w1200_h726;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Ffe2229ca-1f15-41ed-a72a-2b9fb5ec9d95",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thenextweb.com/news/a-fed-official-is-asking-whether-ai-is-becoming-too-big-to-fail",
+      "url_mobile": "",
+      "title": "A Fed official is asking whether AI is becoming  too big to fail  ",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://media.thenextweb.com/2026/08/Kansas-City-Fed-president-Jeff-Schmid.jpg",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1096553/ftse-100-live-london-index-sinks-as-pru-hsbc-and-stan-chart-hit-by-china-tax-report-1096553.html",
+      "url_mobile": "",
+      "title": "FTSE 100 Live : London index sinks as Pru , HSBC and Stan Chart hit by China tax report",
+      "seendate": "20260805T124500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC8yMDI2LTA4LTA1LTEzLTA3LTM0LTkzNWRjOGZlNmJmODM5MDg2ZDNjMzc3YWJhY2YyMTQwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/volta-secures-10bn-ai-lab-120455829.html",
+      "url_mobile": "",
+      "title": "Volta secures $10bn AI lab partnership , $5bn infrastructure programme",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4E772F9BF1A233661EB898F40CC668AB8602BF53B61656FEEB301696BB5525BB/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fverdict_626%2F39d4a2140d108361deac5ba2dff94c06",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/disney-beats-parks-streaming-carry-115241575.html",
+      "url_mobile": "",
+      "title": "Disney Beats as Parks and Streaming Carry the Quarter",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/401AFC3FE5D8F0EE467DB87D968999CB2769964951047ECBBACE99CE2873091E/subgraphmysterio/resizefill_w1200_h1490;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2F90085632b8517d2633a5c198dbc85b28",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/this-feels-like-a-spider-man-meme-rtx-5090-buyer-beats-asus-price-hike-via-nvidias-website-but-no-one-wants-to-honor-the-order/",
+      "url_mobile": "",
+      "title": "  This feels like a Spider - Man meme  - RTX 5090 buyer beats Asu price hike via Nvidia website , but no one wants to honor the order",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/SEYZnjTgvYoc9Xz3fryWpG-1920-80.jpg",
+      "domain": "gamesradar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-choice-hotels-nysechh-beats-q2-cy2026-sales-expectations",
+      "url_mobile": "",
+      "title": "FinancialContent - Choice Hotels ( NYSE : CHH ) Beats Q2 CY2026 Sales Expectations",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/CHH",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/rtx-gpu-arm-laptop/",
+      "url_mobile": "",
+      "title": "How to Connect an RTX GPU to an ARM Windows Laptop",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/rtx-egpu-arm-laptop.jpg",
+      "domain": "geeky-gadgets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://wgospodarce.pl/analizy/157566-o-wlos-od-4000-pkt",
+      "url_mobile": "",
+      "title": "O w\u0142os od 4000 pkt",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://media.wplm.pl/thumbs/c9c/MTIwMHg2MzAvY19jL3VfMS9xXzkwL2Rfd2cvY2NfNTU0NzAvcC8yMDI2LzA4LzA1LzE2MDAvMTA2Ny80YTk5Yjg5ZWNhNDU0M2Q2ODk4OGQwNmViNGI4MjJiMS5qcGVn.jpeg",
+      "domain": "wgospodarce.pl",
+      "language": "Polish",
+      "sourcecountry": "Poland"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/08/05/onsemi-nasdaqon-issues-q3-2026-earnings-guidance.html",
+      "url_mobile": "",
+      "title": "onsemi ( NASDAQ : ON ) Issues Q3 2026 Earnings Guidance",
+      "seendate": "20260805T123000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.parkiet.com/gielda/art44943921-nowe-rekordy-na-wall-street",
+      "url_mobile": "",
+      "title": "Nowe rekordy na Wall Street",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://i.gremicdn.pl/image/free/66884cb985b987dcd1b1672e79936984/?t=crop:1742:1080:nowe:89:0,resize:fill:2000:1250&ctx=preview",
+      "domain": "parkiet.com",
+      "language": "Polish",
+      "sourcecountry": "Poland"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-clear-secure-nyseyou-reports-strong-q2-cy2026-stock-soars",
+      "url_mobile": "",
+      "title": "FinancialContent - CLEAR Secure ( NYSE : YOU ) Reports Strong Q2 CY2026 , Stock Soars",
+      "seendate": "20260805T123000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/YOU",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-stocks-get-ai-boost-investors-on-tenterhooks-over-mideast/",
+      "url_mobile": "",
+      "title": "Premarket : S & P 500 , Dow futures inch up as Mideast hopes offset SpaceX , AMD drag",
+      "seendate": "20260805T121500Z",
+      "socialimage": "https://www.theglobeandmail.com/resizer/v2/QFJVTUCOQNF6PGKWBFPXN4LKOQ.jpg?auth=f5e8bb5b213f8befdf5eefb96f34f3d001be38e6b2fbda2f1729d86a05f3b6bc&quality=80&smart=true",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.ibtimes.co.uk/amd-stock-dips-despite-strong-q2-earnings-1812557",
+      "url_mobile": "",
+      "title": "AMD Shares Crash Despite Q2 Beat as AI Spending Soars and Gaming Revenue Slumps",
+      "seendate": "20260805T121500Z",
+      "socialimage": "https://d.ibtimes.co.uk/en/full/1758434/amd.jpg",
+      "domain": "ibtimes.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-evgos-nasdaqevgo-q2-cy2026-sales-beat-estimates-but-stock-drops-127",
+      "url_mobile": "",
+      "title": "FinancialContent - EVgo ( NASDAQ : EVGO ) Q2 CY2026 Sales Beat Estimates But Stock Drops 12 . 7 % ",
+      "seendate": "20260805T121500Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/EVGO",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/323104/20260805/fcc-transceiver-ban-would-cut-60-ai-data-center-supply-western-replacements-need-chinese-indium.htm",
+      "url_mobile": "",
+      "title": "FCC Transceiver Ban Would Cut 60 % of AI Data Center Supply ; Western Replacements Need Chinese Indium",
+      "seendate": "20260805T121500Z",
+      "socialimage": "https://d.techtimes.com/en/full/471415/photograph-taken-january-24-2025-shows-fiber-optic.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://digitalproduction.com/2026/08/05/maverick-render-2026-1-adds-cutaways/",
+      "url_mobile": "",
+      "title": "Maverick Render 2026 . 1 Adds Cutaways | DIGITAL PRODUCTION",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://digitalproduction.com/wp-content/uploads/2026/08/maverick-render-2020-05-07-uvmaps-blog-hero.webp",
+      "domain": "digitalproduction.com",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-subdued-gold-climbs-us-stocks-eyed-after-record-breaking-day/",
+      "url_mobile": "",
+      "title": "investingLive European markets wrap : Dollar subdued , gold climbs ; US stocks eyed after record - breaking day",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://investinglive.com/cms/media/images/8-5-2026-7-36-40-pm.jpg",
+      "domain": "investinglive.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-meta-just-suffered-112000185.html",
+      "url_mobile": "",
+      "title": "Mark Zuckerberg Meta Just Suffered an 11 - Day Losing Streak That Erased $17 . 8 Billion From His Net Worth . Is the AI Bet Still Worth It ? ",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/602FBE27258022BEE9CE3F4A0FE7B5DC4A2E649A1812579DC22243D6045B7808/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F3bf97263c72a7d10661c5a09c0682edd",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/coverage/etfs/2026/08/05/vong-vs-mgk-is-broad-growth-diversification-or-mega-cap-concentration-the-better-buy-for-investors/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "VONG vs . MGK : Is Broad Growth Diversification or Mega - Cap Concentration the Better Buy for Investors ? ",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-taboola-nasdaqtbla-misses-q2-cy2026-revenue-estimates-stock-drops",
+      "url_mobile": "",
+      "title": "FinancialContent - Taboola ( NASDAQ : TBLA ) Misses Q2 CY2026 Revenue Estimates , Stock Drops",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/TBLA",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://en.antaranews.com/news/425663/kioxia-showcases-flash-storage-innovations-for-the-ai-era-at-fms-2026",
+      "url_mobile": "",
+      "title": "Kioxia Showcases Flash Storage Innovations for the AI Era at FMS 2026",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://img.antaranews.com/cache/1200x800/no-image.jpg",
+      "domain": "en.antaranews.com",
+      "language": "English",
+      "sourcecountry": "Indonesia"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1411313-musk-confirms-spacex-nvidia-alliance-to-build-ai-data-centers-in-space",
+      "url_mobile": "",
+      "title": "Musk confirms SpaceX - Nvidia alliance to build AI data centers in space",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/2026-08-05/1411313_042734_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.almontasaf.net/news146318.html",
+      "url_mobile": "",
+      "title": "\u0641\u0648\u0643\u0633\u0643\u0648\u0646 \u062a\u0633\u062c\u0644 \u0623\u0639\u0644\u0649 \u0625\u064a\u0631\u0627\u062f\u0627\u062a \u0634\u0647\u0631\u064a\u0629 \u062a\u0627\u0631\u064a\u062e\u064a\u0629 \u0645\u062f\u0641\u0648\u0639\u0629 \u0628\u0627\u0644\u0637\u0644\u0628 \u0639\u0644\u0649 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://www.almontasaf.net/uploads/news/6a730ff6af331.webp",
+      "domain": "almontasaf.net",
+      "language": "Arabic",
+      "sourcecountry": "Yemen"
+    },
+    {
+      "url": "https://www.hindustantimes.com/business/wall-street-mixed-as-spacex-amd-fall-while-dow-and-s-p-500-rise-on-peace-hopes-and-fed-rate-bets-101785928105374.html",
+      "url_mobile": "https://www.hindustantimes.com/business/wall-street-mixed-as-spacex-amd-fall-while-dow-and-s-p-500-rise-on-peace-hopes-and-fed-rate-bets-101785928105374-amp.html",
+      "title": "Wall Street mixed as SpaceX , AMD fall while Dow and S & P 500 rise on peace hopes and Fed rate bets",
+      "seendate": "20260805T120000Z",
+      "socialimage": "",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/now-time-investors-pull-money-112000331.html",
+      "url_mobile": "",
+      "title": "Is Now the Time for Investors to Pull Money Out of S & P 500 Index Funds ? ",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/B63B5B39A85CAD25E834724B2AD2C303A713888BEEF82EC256D4AE363F087600/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fdd08a382bec22fcd776bbb9abaf9b08e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/where-to-invest-now-stock-market-sectors-slowing-economy-proshares-2026-8",
+      "url_mobile": "",
+      "title": "A CIO Share His Preferred Stock Portfolio As He Eyes a Slowing Economy",
+      "seendate": "20260805T114500Z",
+      "socialimage": "https://i.insider.com/6a7214a097a2276a3423d251?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailysabah.com/business/tech/spacex-posts-revenue-surge-in-1st-quarterly-report-as-public-firm",
+      "url_mobile": "https://www.dailysabah.com/business/tech/spacex-posts-revenue-surge-in-1st-quarterly-report-as-public-firm/amp",
+      "title": "SpaceX posts revenue surge in 1st quarterly report as public firm",
+      "seendate": "20260805T114500Z",
+      "socialimage": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/05/thumbs/1200x675/454228.jpg",
+      "domain": "dailysabah.com",
+      "language": "English",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://www.eteknix.com/gigabyte-increases-the-price-of-its-graphics-cards-in-japan-by-up-to-40-and-warns-of-possible-cancellations/",
+      "url_mobile": "",
+      "title": "Gigabyte Increases the Price of Its Graphics Cards in Japan by Up to 40 % and Warns of Possible Cancellations",
+      "seendate": "20260805T114500Z",
+      "socialimage": "https://cdn.eteknix.com/wp-content/uploads/2025/05/GeForce-RTX%E2%84%A2-5060-OC-Low-Profile-8G-02.jpg",
+      "domain": "eteknix.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vong-vs-mgk-broad-growth-111805987.html",
+      "url_mobile": "",
+      "title": "VONG vs . MGK : Is Broad Growth Diversification or Mega - Cap Concentration the Better Buy for Investors ? ",
+      "seendate": "20260805T114500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/379D54A93E4516060DE0595E9B5CB43CBAED0A86D3C4F113C0D662BA9B56E0FC/subgraphmysterio/resizefill_w1200_h1071;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F309531f2ea02e2a3f1aabd9839eaa666",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/got-500-2-magnificent-ai-111100300.html",
+      "url_mobile": "",
+      "title": "Got $500 ? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO",
+      "seendate": "20260805T114500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/737F9D0D2CB330ED758077123F2EEF9E8CD7FEB0520254021F615EF5F9EF59C2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0b3be2e9b821e7e24031534ce2133695",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/60939039/the-big-short-investor-michael-burry-holds-his-ground-on-nvidia-tesla-and-other-shorts-warns-of-1987-style-crash-it-is-possible-we-are-near",
+      "url_mobile": "",
+      "title": "  The Big Short  Investor Michael Burry Holds His Ground on Nvidia , Tesla and Other Shorts Warns Of 1987 - ",
+      "seendate": "20260805T114500Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/05/In-The-Background-A-Stock-Market-Graphic.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/wall-street-3-ai-futures-same-winners-morgan-stanley-2026-8",
+      "url_mobile": "",
+      "title": "Wall Street Sees 3 AI Futures . the Same Winners Keep Showing up . ",
+      "seendate": "20260805T114500Z",
+      "socialimage": "https://i.insider.com/6a726d69f9ea6266446ee623?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ddaily.co.kr:443/page/view/2026080518194252705",
+      "url_mobile": "http://m.ddaily.co.kr",
+      "title": "\uc564\ud2b8\ub85c\ud53d , \ubcfc\ud0c0\uc640 100\uc5b5\ub2ec\ub7ec \ucef4\ud4e8\ud305 \uacc4\uc57d",
+      "seendate": "20260805T111500Z",
+      "socialimage": "https://www.ddaily.co.kr:443/photos/2026/04/16/2026041609353467141_l.jpg",
+      "domain": "ddaily.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1096553/ftse-100-live-next-and-glencore-provide-results-boost-spacex-tumbles-1096553.html",
+      "url_mobile": "",
+      "title": "FTSE 100 Live : Next and Glencore provide results boost , SpaceX tumbles",
+      "seendate": "20260805T111500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC8yMDI2LTA4LTA1LTA4LTM0LTE5LWZlYjQyOTVlMjBiZGQwNGY1MDViOWQ3ZjJlOWU2ZDgyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://evertiq.com/news/2026-08-05-ai-server-shipments-forecast-raised-to-31-yoy-in-2026",
+      "url_mobile": "",
+      "title": "AI server shipments forecast raised to 31 % YoY in 2026",
+      "seendate": "20260805T111500Z",
+      "socialimage": "https://evertiq.com/nimg/Pixabay-Images/Pixabay_geralt_AI.jpg",
+      "domain": "evertiq.com",
+      "language": "English",
+      "sourcecountry": "Sweden"
+    },
+    {
+      "url": "https://www.ddaily.co.kr:443/page/view/2026080518261030777",
+      "url_mobile": "http://m.ddaily.co.kr",
+      "title": "\u7f8e \uc815\ubd80\uc640 \uac08\ub4f1 \uc564\ud2b8\ub85c\ud53d , \uccab \uae00\ub85c\ubc8c \ub300\uad00 \uc218\uc7a5\uc5d0 \uc804\uc9c1 \ub300\ubc95\uad00",
+      "seendate": "20260805T111500Z",
+      "socialimage": "https://www.ddaily.co.kr:443/photos/2026/04/25/2026042504403740096_l.jpg",
+      "domain": "ddaily.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.siliconrepublic.com/start-ups/ai-cloud-start-up-volta-valued-at-2-4bn-inks-10bn-anthropic-deal",
+      "url_mobile": "",
+      "title": "AI cloud start - up Volta valued at $2 . 4bn , inks $10bn Anthropic deal",
+      "seendate": "20260805T111500Z",
+      "socialimage": "",
+      "domain": "siliconrepublic.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1096559/amd-s-problem-is-not-demand-it-is-where-the-demand-comes-from-1096559.html",
+      "url_mobile": "",
+      "title": "AMD problem is not demand . It is where the demand comes from",
+      "seendate": "20260805T111500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC9zaHV0dGVyc3RvY2stMTU2NTU5Mjk0OV82YTcyZGI2ZDRmMDc0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pv-tech.org/industry-updates/jinkosolar-unveils-sunny-365-smart-solar-storage-system/",
+      "url_mobile": "",
+      "title": "JinkoSolar unveils  Sunny 365  smart solar - storage system",
+      "seendate": "20260805T111500Z",
+      "socialimage": "https://www.pv-tech.org/wp-content/uploads/2026/08/jinkosolar.jpg",
+      "domain": "pv-tech.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/crypto/articles/better-buy-ishares-bitcoin-etf-105000800.html",
+      "url_mobile": "",
+      "title": "Better Buy : iShares Bitcoin ETF vs . Morgan Stanley Bitcoin ETF",
+      "seendate": "20260805T111500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/66CE48A58CE6A5B1AFE8FA70227D0E009C897F0A8D2D9041DE74C56283A67FDE/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F5e33a8117e4f88cd7117096ae323a665",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-sources-say/article71308030.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-sources-say/article71308030.ece/amp/",
+      "title": "Trump advisers tell AI firms they will not safety - test open - weight models , sources say",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/emcjqj/article71308033.ece/alternates/LANDSCAPE_1200/2026-07-29T111210Z_1987324491_RC21P1A7WP57_RTRMADP_3_MARVELL-TECH-INDIA-INVESTMENT.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://wccftech.com/monster-hunter-wilds-squeezes-1440p-docked-40-fps-nintendo-switch-2-capcom-hardware-ceiling/",
+      "url_mobile": "https://wccftech.com/monster-hunter-wilds-squeezes-1440p-docked-40-fps-nintendo-switch-2-capcom-hardware-ceiling/amp/",
+      "title": "Monster Hunter Wilds Squeezes 1440p Docked and 40 FPS from Nintendo Switch 2 , as CAPCOM Tests The Hardware True Ceiling",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Monster-Hunter-Wilds-Switch-2-Specs-1920x1080.jpg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/market/stock-market-news/michael-burry-warns-of-1987-style-crash-as-ai-rally-powers-wall-street-investor-shorts-nvidia-tesla-palantir-11785922333250.html",
+      "url_mobile": "https://www.livemint.com/market/stock-market-news/michael-burry-warns-of-1987-style-crash-as-ai-rally-powers-wall-street-investor-shorts-nvidia-tesla-palantir/amp-11785922333250.html",
+      "title": "Michael Burry warns of 1987 - style crash as AI rally powers Wall Street ; investor shorts Nvidia , Tesla , Palantir",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/08/05/600x338/im-45316320_1766887945461_1785925079856_2ba614ee-d9a4-4296-ac5c-86e1177ab065.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-102000602.html",
+      "url_mobile": "",
+      "title": "If a Stock Market Crash Is Coming , History Says the Smartest Investors Are Already Making This 1 Move",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4B84A789BCEC1F9899E40617E786D8E0702B611FADE03239BD0A7D9751113212/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F393d66af0ba5b0bb47c172f096ee803f",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/amazon-spent-220b-on-ai-and-soared-why-did-apple-crash-9/",
+      "url_mobile": "",
+      "title": "Amazon Spent $220B on AI and Soared . Why Did Apple Crash 9 %? ",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/08/Amazon-Spent-220B-on-AI-and-Soared.-Why-Did-Apple-Crash-9.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apples-quarterly-iphone-sales-were-101500717.html",
+      "url_mobile": "",
+      "title": "Apple Quarterly iPhone Sales Were Even Better Than They Seem",
+      "seendate": "20260805T104500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/FB8E18ADBEA090F13C1984487830AA0AAC61487E90F20CF42A37521FBE673D47/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F26606bec26a463bd5bced1bf01501594",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://shiftdelete.net/intelden-tsmcye-rakip-teknoloji-2027de-geliyor",
+      "url_mobile": "https://shiftdelete.net/intelden-tsmcye-rakip-teknoloji-2027de-geliyor?amp=1",
+      "title": "Intelden TSMCye Rakip Teknoloji : 2027  de Geliyor",
+      "seendate": "20260805T101500Z",
+      "socialimage": "https://ares.shiftdelete.net/2026/08/intelden-tsmcye-rakip-teknoloji-2027de-geliyor.webp",
+      "domain": "shiftdelete.net",
+      "language": "Turkish",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://www.fnnews.com/news/202608051557281792",
+      "url_mobile": "",
+      "title": "\uc0bc\uc804 2 . 5 %, \ud558\uc774\ub2c9\uc2a4 5 . 7 % \uc0c1\uc2b9 \u2026 \uc678\uc778\uc740 \uc0ac\uace0 , \uae30\uad00 \ud314\uc558\ub2e4 ( \uc885\ud569 ) ",
+      "seendate": "20260805T100000Z",
+      "socialimage": "https://image.fnnews.com/resource/media/image/2026/08/05/202608051600544846_l.jpg",
+      "domain": "fnnews.com",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/ai-infrastructure-backlog-how-dell-hpe-smci-and-ge-vernova-are-positioned-1805466/",
+      "url_mobile": "https://www.insidermonkey.com/blog/ai-infrastructure-backlog-how-dell-hpe-smci-and-ge-vernova-are-positioned-1805466/?amp=1",
+      "title": "AI Infrastructure Backlog : How Dell , HPE , SMCI , and GE Vernova Are Positioned",
+      "seendate": "20260805T100000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investinglive.com/stocks/what-a-difference-a-week-makes-in-wall-street/",
+      "url_mobile": "",
+      "title": "What a difference a week makes in Wall Street",
+      "seendate": "20260805T094500Z",
+      "socialimage": "https://investinglive.com/cms/media/images/Wall%20Street%20US%20stocks_id_a8a8b26a-d7bb-45e6-b2df-1d506f63052c_size975.jpg",
+      "domain": "investinglive.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.ddaily.co.kr:443/page/view/2026080514595688107",
+      "url_mobile": "http://m.ddaily.co.kr",
+      "title": " [ DD\ud1f4\uadfc\uae38 ] \uc800\uac00 \uc6b0\ud68c\ub85c\uac00 \uc0ac\ub77c\uc84c\ub2e4 \u2026 D\ub7a8 \ud611\uc0c1 \ud310\ub3c4 , \ud55c\uad6d\uc73c\ub85c \uae30\uc6b4\ub2e4",
+      "seendate": "20260805T093000Z",
+      "socialimage": "https://www.ddaily.co.kr:443/photos/2026/08/05/2026080514501408321_l.jpg",
+      "domain": "ddaily.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.cnbcafrica.com/2026/spacexs-ai-spending-unnerves-wall-street-despite-promises-of-quick-payoff",
+      "url_mobile": "",
+      "title": "SpaceX AI spending unnerves Wall Street despite promises of quick payoff",
+      "seendate": "20260805T093000Z",
+      "socialimage": "https://cdn.cnbc.africa/wp-content/uploads/2026/08/108344426-1785845179477-gettyimages-2288184147-1565323-fi-space-x-earnings-after-ipo-eat-0005.jpg",
+      "domain": "cnbcafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.timesfreepress.com/news/2026/aug/04/us-stocks-hit-records-as-profits-keep-piling-up/",
+      "url_mobile": "",
+      "title": "US stocks hit records as profits keep piling up for Palantir and others , while oil prices ease",
+      "seendate": "20260805T093000Z",
+      "socialimage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/08/06/104106383_104106383-331f23aecb8d4e859e8fe2489837821b_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "domain": "timesfreepress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2611463",
+      "url_mobile": "https://m.etoday.co.kr/news/view/2611463",
+      "title": "\ub808\ubc84\ub9ac\uc9c0 \ubb38\ud131 \ub192\uc544\uc9c0\uc790 \u2026 \uc11c\ud559\uac1c\ubbf8 , \ub808\ubc84\ub9ac\uc9c0 \uc904\uc774\uace0 \ubcf8\uc8fc \ub2f4\uc558\ub2e4",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://img.etoday.co.kr/pto_db/2026/05/20260512165510_2332603_1200_800.jpg",
+      "domain": "etoday.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.donanimhaber.com/spacex-ve-nvidia-uzayda-yapay-zeka-veri-merkezi-kuruyor--208917",
+      "url_mobile": "https://www.donanimhaber.com/amp/spacex-ve-nvidia-uzayda-yapay-zeka-veri-merkezi-kuruyor--208917",
+      "title": "SpaceX ve Nvidia uzayda yapay zeka veri merkezi kuruyor ! ",
+      "seendate": "20260805T091500Z",
+      "socialimage": "",
+      "domain": "donanimhaber.com",
+      "language": "Turkish",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://zdnet.co.kr/view/?no=20260805162103",
+      "url_mobile": "",
+      "title": "\uc0bc\uc131 \ud30c\uc6b4\ub4dc\ub9ac , 4\ub098\ub178 \ud480\uce90\ud30c\uc5d0 5\ub098\ub178 \uc8fc\ubb38 \ub298\uc5b4 \u2026 AI \u00b7 \uc11c\ubc84\ub85c \uc601\uc5ed \ud655\ub300",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://image.zdnet.co.kr/2021/06/03/4c84914926f56cdf6b15283e3c507b65.jpg",
+      "domain": "zdnet.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://zdnet.co.kr/view/?no=20260805161132",
+      "url_mobile": "",
+      "title": " [ \ucd5c\ud64d\uc11d \uce7c\ub7fc ] 6G\ub294 \uae30\uc220\uc774 \uc544\ub2c8\ub77c \uc124\uacc4 \ucca0\ud559\uc774\ub2e4",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://image.zdnet.co.kr/2026/05/12/1b8e373624f464ba9307fc8eca91fec0.jpg",
+      "domain": "zdnet.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://zdnet.co.kr/view/?no=20260805165343",
+      "url_mobile": "",
+      "title": "\uc528\uc774\ub7a9 , AI \ub370\uc774\ud130\uc13c\ud130 \ub0c9\uac01 \uc778\ud504\ub77c \uc5ed\ub7c9 \uac15\ud654 \u2026 \uae00\ub85c\ubc8c \uc720\uccb4\uae30\uc5c5\uacfc \ud611\ub825 \ub17c\uc758",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://image.zdnet.co.kr/2026/08/05/1db356b7fbc3367b1c9b893f44acb6fc.jpg",
+      "domain": "zdnet.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://telecom.economictimes.indiatimes.com/news/devices/taiwan-probes-17-china-funded-firms-over-high-tech-talent-poaching/132901643",
+      "url_mobile": "https://telecom.economictimes.indiatimes.com/amp/news/devices/taiwan-probes-17-china-funded-firms-over-high-tech-talent-poaching/132901643",
+      "title": "Taiwan Semiconductor Industry : Taiwan Investigates Chinese Firms for Poaching High - Tech Talent Amid AI Rivalry , ETTelecom",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://etimg.etb2bimg.com/thumb/msid-132901643,imgsize-53872,width-1200,height=627,overlay-ettelecom,resizemode-75/devices/taiwan-probes-17-china-funded-firms-over-high-tech-talent-poaching.jpg",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://blog.udn.com:443/b5d78074/191888471",
+      "url_mobile": "",
+      "title": "Searching for Bitget Ondo Tokenized Stocks Dividends Explained _ Here Is the Fast Route to Compare Platforms - \u94fe\u601d\u8def",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://g.udn.com.tw/community/img/common_all/blog_ogimg.jpg",
+      "domain": "blog.udn.com",
+      "language": "English",
+      "sourcecountry": "Taiwan"
+    },
+    {
+      "url": "https://zdnet.co.kr/view/?no=20260805163918",
+      "url_mobile": "",
+      "title": "  AI \uc815\ucc45 - \uc6b4\uc601 \uac04\uadf9 \uc904\uc778\ub2e4 \u2026 \ub808\ub4dc\ud587 , \uc624\ud508\uc18c\uc2a4 \ud504\ub85c\uc81d\ud2b8  \uc544\uc0ac\uace0  \ucd9c\ubc94",
+      "seendate": "20260805T091500Z",
+      "socialimage": "https://image.zdnet.co.kr/2026/08/05/f9c66b7b46486ec72966d902d2378d9b.jpg",
+      "domain": "zdnet.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.teknoblog.com/anthropic-volta-10-milyar-dolar-bulut-altyapisi-anlasmasi/",
+      "url_mobile": "",
+      "title": "Anthropic Volta ile 10 milyar dolarl\u0131k anla\u015fma yapt\u0131",
+      "seendate": "20260805T090000Z",
+      "socialimage": "",
+      "domain": "teknoblog.com",
+      "language": "Turkish",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-considering-082600216.html",
+      "url_mobile": "",
+      "title": "Fed Chair Kevin Warsh Is Considering Fewer Annual FOMC Meetings , Which Would Be Disastrous for Wall Street",
+      "seendate": "20260805T090000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/C51F4EC84D194F6A199EC01F9B874E00398F3A98C72CFBB86E3E688FDAE5C1DF/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F64a7849cf3aae045ed83597c626e7a6e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-wall-street-veteran-stock-205203887.html",
+      "url_mobile": "",
+      "title": "Top Wall Street Veteran : The Stock Market Is  Shrugging Off  Every Major Headwind . Here Why",
+      "seendate": "20260805T090000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/5C70D9F938144F23147A418D8EF34241A5B1C35B98E15CABC8F6F81859DA1809/subgraphmysterio/resizefill_w1200_h670;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff5e706507c1dd2823bbdd7244f7a5151",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.reflector.com/news/national/oil-prices-ease-and-asian-shares-gain-on-hopes-for-mideast-deal-as-companies-report/article_c9da7392-2ada-5634-8dc0-0c1969522264.html",
+      "url_mobile": "",
+      "title": "Oil prices ease and Asian shares gain on hopes for Mideast deal , as companies report strong profits",
+      "seendate": "20260805T090000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/7/70/7709a81b-05b7-52b2-99d2-7675904b6cfa/6a72c44eb06da.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "reflector.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dw.com/en/ai-ecosystems-circular-investment-risk-or-advantage/a-78186917",
+      "url_mobile": "https://amp.dw.com/en/ai-ecosystems-circular-investment-risk-or-advantage/a-78186917",
+      "title": "AI ecosystem  circular  investment : risk or advantage ? ",
+      "seendate": "20260805T090000Z",
+      "socialimage": "https://static.dw.com/image/73107636_6.jpg",
+      "domain": "dw.com",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69221117-uber-technologies-inc-wayve-and-uber-move-a-step-closer-to-autonomous-rides-in-london-004.htm",
+      "url_mobile": "",
+      "title": "Uber Technologies , Inc .: Wayve and Uber Move a Step Closer to Autonomous Rides in London",
+      "seendate": "20260805T090000Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-uber-technologies-inc-aktie-intraday-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.dailyadvance.com/news/world/oil-prices-ease-and-asian-shares-gain-on-hopes-for-mideast-deal-as-companies-report/article_00e34e56-4a50-5205-8538-2f021a05bce9.html",
+      "url_mobile": "",
+      "title": "Oil prices ease and Asian shares gain on hopes for Mideast deal , as companies report strong profits",
+      "seendate": "20260805T090000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/dailyadvance.com/content/tncms/assets/v3/editorial/2/0f/20f390d4-a23d-5046-a724-8da90b629869/6a72c75fa16f8.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "dailyadvance.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hani.co.kr/arti/english_edition/e_business/1271541.html",
+      "url_mobile": "",
+      "title": "Samsung defends No . 1 spot in DRAM market as Micron narrows gap with SK Hynix",
+      "seendate": "20260805T084500Z",
+      "socialimage": "https://flexible.img.hani.co.kr/flexible/normal/650/366/imgdb/original/2026/0805/441785917786042.webp",
+      "domain": "hani.co.kr",
+      "language": "English",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
+      "url_mobile": "",
+      "title": "Bitcoin is 49 % below its record while the S & P 500 hits all - time highs",
+      "seendate": "20260805T084500Z",
+      "socialimage": "https://cdn.sanity.io/images/s3y3vcno/production/5dff6ed058589d3d749c6423fadd99ca9476909d-5083x3388.jpg?auto=format&fit=crop&crop=focalpoint&q=75",
+      "domain": "coindesk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand/articleshow/132904566.cms",
+      "url_mobile": "https://m.economictimes.com/tech/technology/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand/amp_articleshow/132904566.cms",
+      "title": "Foxconn monthly revenue hits record in July on AI demand",
+      "seendate": "20260805T084500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-108318,resizemode-75,msid-132904566/tech/technology/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://technode.com/2026/08/05/tsmcs-2nm-monthly-capacity-to-reach-100000-wafers/",
+      "url_mobile": "",
+      "title": "TSMC 2nm monthly capacity to reach 100 , 000 wafers \u00b7 TechNode",
+      "seendate": "20260805T084500Z",
+      "socialimage": "https://i0.wp.com/technode.com/wp-content/uploads/2025/01/tsmc.jpg?fit=1280%2C684&ssl=1",
+      "domain": "technode.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.edaily.co.kr/News/Read?newsId=05690806645544368&mediaCodeNo=257",
+      "url_mobile": "https://m.edaily.co.kr/News/Read?newsId=05690806645544368 eNo=257",
+      "title": "AMD \ud638\uc2e4\uc801\uc5d0 \uc6c3\ub294 K\uba54\ubaa8\ub9ac \u2026 \uc0bc\uc131 \u00b7 SK  AI \ud6c8\ud48d  \ud0c4\ub2e4",
+      "seendate": "20260805T084500Z",
+      "socialimage": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26080501490.jpg",
+      "domain": "edaily.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-buy-revenue-surges-93-081500040.html",
+      "url_mobile": "",
+      "title": "Is Palantir a Buy as Its Revenue Surges 93 % and Continues to Accelerate ? ",
+      "seendate": "20260805T084500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/E727DC18F8E8F2D0BAAC0845E4F42C97456C0EA9C240030BB8FB8F8CCB8F0CC0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F9839d257ceab762b0ae44ac1e2882c41",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.busan.com/view/busan/view.php?code=2026080516160778830",
+      "url_mobile": "",
+      "title": "\ucf54\uc2a4\ud53c , \ubc18\ub3c4\uccb4 \ud6c8\ud48d\uc5d0 \ud798\uc785\uc5b4 4 % \uac00\uae4c\uc774 \uc0c1\uc2b9",
+      "seendate": "20260805T083000Z",
+      "socialimage": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/05/2026080516160273436_l.jpg",
+      "domain": "busan.com",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/new-updates/hiroshima-day-2026-poster-speech-ideas-best-messages-quotes-and-themes-for-august-6/articleshow/132901071.cms",
+      "url_mobile": "https://m.economictimes.com/news/new-updates/hiroshima-day-2026-poster-speech-ideas-best-messages-quotes-and-themes-for-august-6/amp_articleshow/132901071.cms",
+      "title": "Hiroshima Day 2026 poster , speech ideas : Best messages , quotes and themes for August 6",
+      "seendate": "20260805T083000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132902104,width-1200,height-630,imgsize-122557,overlay-economictimes/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-just-raised-dividend-072500398.html",
+      "url_mobile": "",
+      "title": "Enterprise Products Just Raised Its Dividend . Here What the New Yield Looks Like . ",
+      "seendate": "20260805T081500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/FA4A4C52B601711052A4AA57C982F49960D3B6BDFA135DA7F863CD135A6366E1/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F9121234caf8f36b6673bd7dae5f4926b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-etfs-hold-most-magnificent-205857959.html",
+      "url_mobile": "",
+      "title": "The 3 ETFs That Hold the Most Magnificent 7 and How Theyre Performing in a Tougher 2026",
+      "seendate": "20260805T080000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/E6E9A60917CF8A7D00A0F31FF2F095ABA1551D29C90E6FB2B50384C9AE4465B3/subgraphmysterio/resizefill_w1200_h667;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Findexuniverse.com%2F1c096f8fb3c532ecdb75e715d3e72b40",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hankookilbo.com/news/article/A2026080512080004974",
+      "url_mobile": "https://www.hankookilbo.com/news/article/amp/A2026080512080004974",
+      "title": "  SSD \ud558\ub098\uac00 \uc138\ub2e8 \ud55c \ub300 \uac12 \u2026 \uc138\uacc4 \ucd5c\ub300 \uba54\ubaa8\ub9ac\uc1fc \uc8fc\uc778\uacf5\uc740 \uc0bc\uc131 \u00b7 SK - \uacbd\uc81c\u3163\ud55c\uad6d\uc77c\ubcf4",
+      "seendate": "20260805T080000Z",
+      "socialimage": "https://newsimg.hankookilbo.com/2026/08/05/932d8a75-0c52-46ed-bd60-795e4d4a7358.jpg",
+      "domain": "hankookilbo.com",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "http://www.stardem.com/ap/world/oil-prices-ease-and-asian-shares-gain-on-hopes-for-mideast-deal-as-companies-report/article_7e0591db-25de-5c74-a4bb-9613c2d030e5.html",
+      "url_mobile": "",
+      "title": "Oil prices ease and Asian shares gain on hopes for Mideast deal , as companies report strong profits",
+      "seendate": "20260805T080000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/assets/v3/editorial/6/c0/6c0bd9f0-12bc-5784-ab05-ffebccf634f7/6a72c5ce86744.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "stardem.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.naturalnews.com/2026-08-04-hugging-face-ceo-china-leads-ai-race.html",
+      "url_mobile": "",
+      "title": "Hugging Face CEO Says China Leads AI Race With Open - Weight Models \u2013 NaturalNews . com",
+      "seendate": "20260805T080000Z",
+      "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/hugging-face-clment-delangue-china-ai-race-3158-original.jpg",
+      "domain": "naturalnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-carrier-global-carr-buy-sell-or-hold-post-q2-earnings",
+      "url_mobile": "",
+      "title": "FinancialContent - Carrier Global ( CARR ): Buy , Sell , or Hold Post Q2 Earnings ? ",
+      "seendate": "20260805T074500Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/CARR",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-the-top-5-analyst-questions-from-patterson-utis-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - The Top 5 Analyst Questions From Patterson - UTI Q2 Earnings Call",
+      "seendate": "20260805T074500Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/PTEN",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-onemains-q2-earnings-call-our-top-5-analyst-questions",
+      "url_mobile": "",
+      "title": "FinancialContent - OneMain Q2 Earnings Call : Our Top 5 Analyst Questions",
+      "seendate": "20260805T074500Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/OMF",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-bank-of-hawaii-boh-buy-sell-or-hold-post-q2-earnings",
+      "url_mobile": "",
+      "title": "FinancialContent - Bank of Hawaii ( BOH ): Buy , Sell , or Hold Post Q2 Earnings ? ",
+      "seendate": "20260805T074500Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/BOH",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-arcbests-q2-earnings-call-our-top-5-analyst-questions",
+      "url_mobile": "",
+      "title": "FinancialContent - ArcBest Q2 Earnings Call : Our Top 5 Analyst Questions",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/ARCB",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/options/articles/hibl-3x-etf-lets-bet-195746658.html",
+      "url_mobile": "",
+      "title": "HIBL : This 3X ETF Lets You Bet on America Fastest - Growing Companies",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/FC3032131FA86954D0A46D3F21CDEE12D42440BB4678AD34A864060AC4EE1A24/subgraphmysterio/resizefill_w1200_h746;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F61d766ae2930fdb5b81207bfc96291a9",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-the-5-most-interesting-analyst-questions-from-meritage-homess-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - The 5 Most Interesting Analyst Questions From Meritage Homes Q2 Earnings Call",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/MTH",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-5-insightful-analyst-questions-from-avantors-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - 5 Insightful Analyst Questions From Avantor Q2 Earnings Call",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/AVTR",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-kirbys-q2-earnings-call-our-top-5-analyst-questions",
+      "url_mobile": "",
+      "title": "FinancialContent - Kirby Q2 Earnings Call : Our Top 5 Analyst Questions",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/KEX",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-the-5-most-interesting-analyst-questions-from-old-dominion-freight-lines-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - The 5 Most Interesting Analyst Questions From Old Dominion Freight Line Q2 Earnings Call",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/ODFL",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-the-top-5-analyst-questions-from-qualcomms-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - The Top 5 Analyst Questions From Qualcomm Q2 Earnings Call",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/QCOM",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-5-revealing-analyst-questions-from-q2-holdingss-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - 5 Revealing Analyst Questions From Q2 Holdings Q2 Earnings Call",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/QTWO",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-5-must-read-analyst-questions-from-littelfuses-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - 5 Must - Read Analyst Questions From Littelfuse Q2 Earnings Call",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/LFUS",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-5-insightful-analyst-questions-from-myr-groups-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - 5 Insightful Analyst Questions From MYR Group Q2 Earnings Call",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/MYRG",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-5-revealing-analyst-questions-from-parsonss-q2-earnings-call",
+      "url_mobile": "",
+      "title": "FinancialContent - 5 Revealing Analyst Questions From Parsons Q2 Earnings Call",
+      "seendate": "20260805T073000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/PSN",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.haberturk.com/ozel-icerikler/abdurrahman-yildirim-1018/3903449-bitcoin-dururken-niye-borsa-cildirdi",
+      "url_mobile": "",
+      "title": "Bitcoin dururken niye borsa \u00e7\u0131ld\u0131rd\u0131 ? ",
+      "seendate": "20260805T073000Z",
+      "socialimage": "",
+      "domain": "haberturk.com",
+      "language": "Turkish",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://www.ddaily.co.kr:443/page/view/2026080512050782426",
+      "url_mobile": "http://m.ddaily.co.kr",
+      "title": "\uce90\ub098\ub2e4 AI \uc720\ub2c8\ucf58 \ucf54\ud788\uc5b4 , 3\uac1c\uc6d4 \ub0b4 \u97d3 \u00b7 \u65e5\ubc95\uc778 \uc124\ub9bd \u2026 \uc544\ud0dc \uacf5\ub7b5 \ubcf8\uaca9\ud654",
+      "seendate": "20260805T071500Z",
+      "socialimage": "https://www.ddaily.co.kr:443/photos/2026/08/05/2026080512015199922_l.jpg",
+      "domain": "ddaily.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-lcid-q2-deep-dive-new-ceo-resets-strategy-with-cost-cuts-and-operational-changes",
+      "url_mobile": "",
+      "title": "FinancialContent - LCID Q2 Deep Dive : New CEO Resets Strategy with Cost Cuts and Operational Changes",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/LCID",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-built-062500647.html",
+      "url_mobile": "",
+      "title": "Cathie Wood Ark Invest Has Built an $870 Million Tesla Position . Here the Thesis Keeping Her In . ",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/1EE64F02E3D197CA2623FA3467FF4DC7FC98F5FA1AF5211FD6941D01BEE4E7F8/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F2e17966768d5b3077a8512657685d53e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-cpng-q2-deep-dive-margin-pressures-persist-amid-customer-recovery-and-taiwan-expansion",
+      "url_mobile": "",
+      "title": "FinancialContent - CPNG Q2 Deep Dive : Margin Pressures Persist Amid Customer Recovery and Taiwan Expansion",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/CPNG",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-hlne-q2-deep-dive-evergreen-momentum-strategic-partnerships-and-technology-initiatives-shape-growth",
+      "url_mobile": "",
+      "title": "FinancialContent - HLNE Q2 Deep Dive : Evergreen Momentum , Strategic Partnerships , and Technology Initiatives Shape Growth",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/HLNE",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-gpk-q2-deep-dive-pricing-actions-and-operational-adjustments-offset-inflation-pressures",
+      "url_mobile": "",
+      "title": "FinancialContent - GPK Q2 Deep Dive : Pricing Actions and Operational Adjustments Offset Inflation Pressures",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/GPK",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-ame-q2-deep-dive-multi-segment-demand-and-strategic-acquisitions-propel-growth",
+      "url_mobile": "",
+      "title": "FinancialContent - AME Q2 Deep Dive : Multi - Segment Demand and Strategic Acquisitions Propel Growth",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/AME",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-shls-q2-deep-dive-strong-solar-demand-and-backlog-growth-offset-margin-compression",
+      "url_mobile": "",
+      "title": "FinancialContent - SHLS Q2 Deep Dive : Strong Solar Demand and Backlog Growth Offset Margin Compression",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/SHLS",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-ingr-q2-deep-dive-texture-and-healthful-solutions-growth-and-margin-pressures-shape-outlook",
+      "url_mobile": "",
+      "title": "FinancialContent - INGR Q2 Deep Dive : Texture & Healthful Solutions Growth and Margin Pressures Shape Outlook",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/INGR",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-ball-q2-deep-dive-volume-growth-offsets-margin-pressure-amid-capacity-constraints",
+      "url_mobile": "",
+      "title": "FinancialContent - BALL Q2 Deep Dive : Volume Growth Offsets Margin Pressure Amid Capacity Constraints",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/BALL",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-ain-q2-deep-dive-engineered-composites-momentum-and-machine-clothing-transition",
+      "url_mobile": "",
+      "title": "FinancialContent - AIN Q2 Deep Dive : Engineered Composites Momentum and Machine Clothing Transition",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/AIN",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-lgih-q2-deep-dive-community-expansion-and-margin-execution-amid-affordability-challenges",
+      "url_mobile": "",
+      "title": "FinancialContent - LGIH Q2 Deep Dive : Community Expansion and Margin Execution Amid Affordability Challenges",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/LGIH",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-npo-q2-deep-dive-semiconductor-demand-and-acquisitions-drive-upbeat-outlook",
+      "url_mobile": "",
+      "title": "FinancialContent - NPO Q2 Deep Dive : Semiconductor Demand and Acquisitions Drive Upbeat Outlook",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/NPO",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-scansource-scsc-buy-sell-or-hold-post-q1-earnings",
+      "url_mobile": "",
+      "title": "FinancialContent - ScanSource ( SCSC ): Buy , Sell , or Hold Post Q1 Earnings ? ",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/SCSC",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-gww-q2-deep-dive-project-volume-tariffs-and-leadership-transition-shape-outlook",
+      "url_mobile": "",
+      "title": "FinancialContent - GWW Q2 Deep Dive : Project Volume , Tariffs , and Leadership Transition Shape Outlook",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/GWW",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-tdc-q2-deep-dive-product-launches-and-revenue-timing-shape-outlook",
+      "url_mobile": "",
+      "title": "FinancialContent - TDC Q2 Deep Dive : Product Launches and Revenue Timing Shape Outlook",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/TDC",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-thing-every-micron-stock-190500732.html",
+      "url_mobile": "",
+      "title": "1 Thing Every Micron Stock Investor Needs To Understand Right Now",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/A1598948E790BB5E7E1BCBEA476B241831FF9348D055427064B213E8A44E809D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ffdb195c8de2d2af4cebd9129a139c386",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-tkr-q2-deep-dive-margin-pressures-and-portfolio-shifts-dominate-despite-top-line-growth",
+      "url_mobile": "",
+      "title": "FinancialContent - TKR Q2 Deep Dive : Margin Pressures and Portfolio Shifts Dominate Despite Top - Line Growth",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/TKR",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-cmi-q2-deep-dive-data-center-demand-regulatory-clarity-and-shifting-engine-transition",
+      "url_mobile": "",
+      "title": "FinancialContent - CMI Q2 Deep Dive : Data Center Demand , Regulatory Clarity , and Shifting Engine Transition",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/CMI",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.the-messenger.com/news/world/article_6b9956ab-8a91-5a9f-9232-8b9da5b0fe1c.html",
+      "url_mobile": "",
+      "title": "Oil prices ease and Asian shares gain on hopes for Mideast deal , as companies report strong profits",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/the-messenger.com/content/tncms/assets/v3/editorial/1/d2/1d2ca7db-8d65-54c9-86c6-2c4005569de5/6a72c5389a999.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "the-messenger.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-3-reasons-to-sell-rsi-and-1-stock-to-buy-instead",
+      "url_mobile": "",
+      "title": "FinancialContent - 3 Reasons to Sell RSI and 1 Stock to Buy Instead",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/RSI",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.stcatharinesstandard.ca/business/oil-prices-ease-and-asian-shares-gain-on-hopes-for-mideast-deal-as-companies-report-strong-profits/article_4b580128-5121-5cc7-989a-daf43dee0da8.html",
+      "url_mobile": "",
+      "title": "Oil prices ease and Asian shares gain on hopes for Mideast deal , as companies report strong profits",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/d/79/d79a1ce5-ece0-5b46-88ca-4e0dbe26eb75/6a72c5b410ce6.image.jpg?crop=1620%2C851%2C0%2C114",
+      "domain": "stcatharinesstandard.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/schd-vs-vym-vs-dgro-191148532.html",
+      "url_mobile": "",
+      "title": "SCHD vs VYM vs DGRO : The Math on Which Dividend Giant Makes You Richer by Retirement",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/26704EC34A2DC4E57A14AB74FE5E07880B416065A56B374F46B2803A597290A4/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F5675d93d5665df35cd7bbc73e52f44ee",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-fwrg-q2-deep-dive-menu-innovation-and-marketing-drive-traffic-margin-pressures-persist",
+      "url_mobile": "",
+      "title": "FinancialContent - FWRG Q2 Deep Dive : Menu Innovation and Marketing Drive Traffic , Margin Pressures Persist",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/FWRG",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2611316",
+      "url_mobile": "https://m.etoday.co.kr/news/view/2611316",
+      "title": "\u7f8e  AI \uaddc\uc81c  \uc724\uacfd\u22ef\ubbf8\uad6d\uc0b0 \uc624\ud508 \uc6e8\uc774\ud2b8 \ubaa8\ub378\uc740 \uc815\ubd80 \uc2ec\uc0ac \uc81c\uc678",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://img.etoday.co.kr/pto_db/2026/08/20260804102037_2368377_1200_800.jpg",
+      "domain": "etoday.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-trex-q2-deep-dive-demand-acceleration-and-wood-conversion-strategy-shape-guidance",
+      "url_mobile": "",
+      "title": "FinancialContent - TREX Q2 Deep Dive : Demand Acceleration and Wood Conversion Strategy Shape Guidance",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/TREX",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-enr-q2-deep-dive-organic-growth-amid-category-slowdown-and-margin-compression",
+      "url_mobile": "",
+      "title": "FinancialContent - ENR Q2 Deep Dive : Organic Growth Amid Category Slowdown and Margin Compression",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/ENR",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-entg-q2-deep-dive-ai-driven-demand-boosts-growth-and-margins-portfolio-refocus-underway",
+      "url_mobile": "",
+      "title": "FinancialContent - ENTG Q2 Deep Dive : AI - Driven Demand Boosts Growth and Margins , Portfolio Refocus Underway",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/ENTG",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-still-down-28-orcl-191222251.html",
+      "url_mobile": "",
+      "title": "Oracle Is Still Down 28 % This Year . What Will It Take to Get ORCL Stock Back to $200 ? ",
+      "seendate": "20260805T070000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/AD58D2E18855DDDB7510435558D7E465C9AED233BCC7879A8674F75381D2B448/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F5397989edf030e983f8e7a08edb57a41",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bloomberght.com/kuresel-piyasalarda-anlasma-beklentileri-3784740",
+      "url_mobile": "",
+      "title": "K\u00fcresel piyasalarda anla\u015fma beklentileri",
+      "seendate": "20260805T061500Z",
+      "socialimage": "",
+      "domain": "bloomberght.com",
+      "language": "Turkish",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://www.digitaljournal.com/article/trump-admin-to-review-closed-ai-models-before-release-reports/",
+      "url_mobile": "",
+      "title": "Trump admin to review  closed  AI models before release : reports",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://www.digitaljournal.com/wp-content/uploads/2026/06/45a70c6f4a179fb086f67009959dcc3cd5408535.jpg",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://global.chinadaily.com.cn/a/202608/05/WS6a7299a2a310986e2b4690d8.html",
+      "url_mobile": "",
+      "title": "Western chip giants could hit their limits : Huawei scientist",
+      "seendate": "20260805T061500Z",
+      "socialimage": "http://img2.chinadaily.com.cn/images/202608/05/6a7299a2a310986e101ae7df.jpeg",
+      "domain": "global.chinadaily.com.cn",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.wsls.com/business/2026/08/05/oil-prices-ease-and-asian-shares-gain-on-hopes-for-mideast-deal-as-companies-report-strong-profits/",
+      "url_mobile": "",
+      "title": "Oil prices ease and Asian shares gain on hopes for Mideast deal , as companies report strong profits",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LBK6PKE24JFQ7KM45U7AI4STIA.jpg?_a=DATAg1kSZAA0",
+      "domain": "wsls.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hani.co.kr/arti/economy/it/1271489.html",
+      "url_mobile": "",
+      "title": "\ubbf8 ,  AI \uc0ac\uc774\ubc84 \uc704\ud5d8  \ucd9c\uc2dc \uc804 \ud3c9\uac00\ud55c\ub2e4 \u2026 \uba54\ud0c0 \u00b7 \uc5d4\ube44\ub514\uc544 \ub4f1 \uc624\ud508\uc6e8\uc774\ud2b8\ub294 \uc81c\uc678",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0805/20260805501699.webp",
+      "domain": "hani.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://aa.com.tr/en/economy/amd-shares-fall-7-as-sales-outlook-fails-to-meet-ai-expectations/4018574",
+      "url_mobile": "",
+      "title": "AMD shares fall 7 % as sales outlook fails to meet AI expectations",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/05/thumbs_b_c_74d9c19756a8d4942ac6669400067530.jpg",
+      "domain": "aa.com.tr",
+      "language": "English",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2611318",
+      "url_mobile": "https://m.etoday.co.kr/news/view/2611318",
+      "title": "D\ub7a8 \u00b7 \ub0b8\ub4dc \ubaa8\ub450 \uc138\uacc4 1\uc704 \u2026 \uc0bc\uc131 , AI \uba54\ubaa8\ub9ac  \ud480\ub77c\uc778\uc5c5  \uc73c\ub85c \uc2b9\ubd80",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://img.etoday.co.kr/pto_db/2026/07/20260701145139_2353602_655_381.jpg",
+      "domain": "etoday.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/05/reports-trump-admin-to-review-039closed039-ai-models-before-release",
+      "url_mobile": "",
+      "title": "Reports : Trump admin to review  closed  AI models before release",
+      "seendate": "20260805T054500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/08/05/4044182.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-raises-amazon-targets-173023964.html",
+      "url_mobile": "",
+      "title": "Wall Street Raises Amazon Targets After Its AWS Surge . Here The Number . ",
+      "seendate": "20260805T053000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/59328C10A5BD7FFDA56861D540C4C1C14D3B4521F530ADF3F2699E8C8206F428/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9d66356cb1d0794bb1e9c841c5003986",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theyeshivaworld.com/news/general/2582452/us-stocks-leap-toward-a-record-as-profits-keep-piling-up-and-oil-prices-ease.html",
+      "url_mobile": "",
+      "title": "US Stocks Leap Toward A Record As Profits Keep Piling Up And Oil Prices Ease",
+      "seendate": "20260805T051500Z",
+      "socialimage": "https://www.theyeshivaworld.com/wp-content/uploads/2026/08/AP26211533469795.jpg",
+      "domain": "theyeshivaworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freepressjournal.in/tech/sarvam-ai-onboards-nvidia-as-strategic-investor-in-75-million-series-b-extension-first-indian-firm-to-do-so",
+      "url_mobile": "https://www.freepressjournal.in/amp/tech/sarvam-ai-onboards-nvidia-as-strategic-investor-in-75-million-series-b-extension-first-indian-firm-to-do-so",
+      "title": "Sarvam AI Onboards Nvidia As Strategic Investor In $75 Million Series B Extension , First Indian Firm To Do So",
+      "seendate": "20260805T051500Z",
+      "socialimage": "https://media.assettype.com/freepressjournal/2026-08-05/cwcxij1x/sarvamnvidia.png",
+      "domain": "freepressjournal.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.sankei.com/article/20260805-QZOSV7X4ZZIEDP7RP4I2WSPJN4/",
+      "url_mobile": "",
+      "title": "\u7c73 \u3001 AI\u5be9\u67fb\u5bfe\u8c61\u3092\u7dda\u5f15\u304d \u300c \u30aa\u30fc\u30d7\u30f3\u578b \u300d \u9664\u5916\u304b \u6280\u8853\u9769\u65b0\u3068\u5b89\u5168\u7ba1\u7406\u306e\u30d0\u30e9\u30f3\u30b9\u56f3\u308b\u72d9\u3044",
+      "seendate": "20260805T051500Z",
+      "socialimage": "https://www.sankei.com/resizer/v2/HUALYVPLQVKOXJ52WNMSN35CAE.jpg?auth=27c52439d135f6fe591a34ec1ac305aee0997f453406f82e832bb50c18c6149f&quality=50&smart=true",
+      "domain": "sankei.com",
+      "language": "Japanese",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hit-micron-bear-thesis-every-183039369.html",
+      "url_mobile": "",
+      "title": "You Hit Micron Bear Thesis Every Time ChatGPT Says  Start a New Chat . Burry MU Short Might Be Onto the Same Thing . ",
+      "seendate": "20260805T051500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/CE3EF5A086434053C2CF85F0304149255CC1D57B4182FD22EF42260923161634/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb3f702a9023bce76e94a3d700612e681",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-growth-stock-40-2026-172000572.html",
+      "url_mobile": "",
+      "title": "This Cybersecurity Growth Stock Is Up 40 % in 2026 , But It Still a Bargain Compared to CrowdStrike and Palo Alto Networks",
+      "seendate": "20260805T051500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/018E64B4076F11E026D12F73B1A5CC45856D2B3B66D99A05A4BDD7053117A940/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4538129e189184de9b94f8edbab2ead2",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thefrontierpost.com/trump-admin-to-review-closed-ai-models-before-release-reports/",
+      "url_mobile": "https://thefrontierpost.com/trump-admin-to-review-closed-ai-models-before-release-reports/amp/",
+      "title": "Trump admin to review  closed  AI models before release : reports \u2013 The Frontier Post",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvdGhlZnJvbnRpZXJwb3N0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNlwvMDhcL2ltYWdlcy01LTEuanBnIiwidHh0IjoiVHJ1bXAgYWRtaW4gdG8gcmV2aWV3ICYjODIxNjtjbG9zZWQmIzgyMTc7IEFJIG1vZGVscyBiZWZvcmUgcmVsZWFzZTogcmVwb3J0cyIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMzc1ODIzNDN9.DzQ4g4HzaTxiPD9VuOU8h9bKgCpf0_JGrX4SS8yT0eoMQ",
+      "domain": "thefrontierpost.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asian-stocks-snap-two-day-fall-sk-hynix-samsung-rise-over-2",
+      "url_mobile": "",
+      "title": "SK Hynix , Samsung rise over 2 % as Asian stocks snap two - day fall",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/adbc78d3e52f3fa7087479a154a16c347b491df1f61bceda1642368ce34fac9b?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-insiders-buying-pullback-signal-164000230.html",
+      "url_mobile": "",
+      "title": "TSMC Insiders Are Buying the Pullback But Is the Signal as Bullish as It Looks ? ",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/375CAC7363D6C9100B31865014876730891B3A41AA24F968F2F197C8A7DAC0B3/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F51edd635f326d922f406b787a9b527a0",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/options/articles/irs-now-lets-60-olds-040504326.html",
+      "url_mobile": "",
+      "title": "The IRS Now Lets 60 - Year - Olds Stash $35 , 750 in a 401 ( k ) a Year . These 3 ETFs Make Maxing It Worth It",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/FEB22F34C08BFBF4D40D35DAAF20E199677AD25F6DA3BC916CAF42E0D1502EA2/subgraphmysterio/resizefill_w1200_h561;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F34c90a33bcd0d1a1ac0fabc88878d94e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/is-micron-stock-going-higher-you-need-to-hear-what/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Is Micron Stock Going Higher ? You Need To Hear What Elon Musk Just Said",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/882139/ai-lightbulb.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/is-sk-hynix-quietly-winning-the-ai-memory-supercyc/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Is SK Hynix Quietly Winning the AI Memory Supercycle Against Micron and Sandisk ? ",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/880935/gettyimages-2188818713.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://bmmagazine.co.uk/ai/amazon-tops-3-trillion-aws-growth/",
+      "url_mobile": "",
+      "title": "Amazon tops $3 trillion market value as AWS grows 36 . 7 % ",
+      "seendate": "20260805T044500Z",
+      "socialimage": "https://bmmagazine.co.uk/wp-content/uploads/2026/06/Jeff_Bezos.jpg",
+      "domain": "bmmagazine.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "http://www.koreatimes.com/article/20260804/1624311",
+      "url_mobile": "",
+      "title": "\uc2a4\ud398\uc774\uc2a4X , AI \uc790\ubcf8\uc9c0\ucd9c \uae09\uc99d \u2026 \uc789\uc5ec\ud604\uae08\ud750\ub984 \ub9c8\uc774\ub108\uc2a4",
+      "seendate": "20260805T044500Z",
+      "socialimage": "http://mimg.koreatimes.com/286/172/article/2026/08/04/202608041948586a5.jpg",
+      "domain": "koreatimes.com",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-what-to-expect-from-quest-resources-qrhc-q2-earnings",
+      "url_mobile": "",
+      "title": "FinancialContent - What To Expect From Quest Resource ( QRHC ) Q2 Earnings",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/QRHC",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-makemytrip-stock-skyrocketing-today-162224454.html",
+      "url_mobile": "",
+      "title": "Why MakeMyTrip Stock Is Skyrocketing Today",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/21132CC7FB24229554CDF49455DC057E8D325EE11A8455445C3ECBCBD9594AF2/subgraphmysterio/resizefill_w1200_h686;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd957323e34d9557524c677175017d0d3",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-what-to-expect-from-parker-hannifins-ph-q2-earnings",
+      "url_mobile": "",
+      "title": "FinancialContent - What To Expect From Parker - Hannifin ( PH ) Q2 Earnings",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://stockstory.org/stockstory/company-image/PH",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wikitree.co.kr/articles/1150526",
+      "url_mobile": "https://m.wikitree.co.kr/articles/1150526",
+      "title": "SK\ud558\uc774\ub2c9\uc2a4 \u00b7 \uc0cc\ub514\uc2a4\ud06c HBF \ud45c\uc900 \uacf5\uac1c \u2026 \uc0bc\uc131 \u00b7 \ub9c8\uc774\ud06c\ub860 \uad00\ub9dd",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://cdnweb01.wikitree.co.kr/webdata/editor/202608/05/202608051119187529_ai.jpeg",
+      "domain": "wikitree.co.kr",
+      "language": "Korean",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://www.ibtimes.co.uk/us-stock-market-record-highs-ai-stocks-1812466",
+      "url_mobile": "",
+      "title": "Dow Jones Tops 54 , 000 and Nasdaq Surges but Your 401 ( K ) Rally Now Leans on a Handful of AI Stocks",
+      "seendate": "20260805T043000Z",
+      "socialimage": "https://d.ibtimes.co.uk/en/full/1815990/retirement-old-couple.png",
+      "domain": "ibtimes.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.investorideas.com/news/2026/technology/08052-ai-infrastructure-chip-supply-chain-globaldata.asp",
+      "url_mobile": "",
+      "title": "AI Infrastructure Boom Shifts From Chip Race to Supply - Chain Race",
+      "seendate": "20260805T174500Z",
+      "socialimage": "https://www.investorideas.com/images/investorideas-socialmedia.jpg",
+      "domain": "investorideas.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ktbb.com/post/?p=1530862",
+      "url_mobile": "",
+      "title": "Stocks waver on Wall Street and hover around records as oil prices hold steady \u2013 KTBB News , Weather , Talk",
+      "seendate": "20260805T174500Z",
+      "socialimage": "https://ktbb.com/post/wp-content/media/2022/12/facebook-og-1200630.png",
+      "domain": "ktbb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kxlh.com/news/politics/wall-street-rallies-to-records-pushing-s-p-500-up-1-8-as-profits-pile-up-and-oil-prices-ease",
+      "url_mobile": "",
+      "title": "Wall Street rallies to records as profits pile up and oil prices ease",
+      "seendate": "20260805T174500Z",
+      "socialimage": "https://ewscripps.brightspotcdn.com/e7/4a/929438884ab7b7bda0d0f243d211/ap25098636329682.jpg",
+      "domain": "kxlh.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://americanbazaaronline.com/2026/08/05/spacex-shares-fall-as-heavy-capital-spending-weighs-on-investors-485810/",
+      "url_mobile": "",
+      "title": "SpaceX shares fall as heavy capital spending weighs on investors",
+      "seendate": "20260805T174500Z",
+      "socialimage": "https://americanbazaaronline.com/wp-content/uploads/2025/07/Spacex.png",
+      "domain": "americanbazaaronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "company": "Microsoft",
   "query": "\"Microsoft\" (AI OR Copilot)",
-  "start": "20250101000000",
-  "end": "20250930235959",
-  "count": 250,
+  "start": "20240101000000",
+  "end": null,
+  "count": 500,
   "articles": [
     {
       "url": "https://kevinmd.com/2025/10/why-imposter-syndrome-is-a-systemic-issue-not-a-personal-flaw-podcast.html",
@@ -2504,6 +2504,2506 @@
       "domain": "businesstimes.com.sg",
       "language": "English",
       "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.pr-inside.com/levi-korsinsky-urges-microsoft-corporation-msft-shareholders-to-r5208777.htm",
+      "url_mobile": "",
+      "title": "Levi & Korsinsky Urges Microsoft Corporation ( MSFT ) Shareholders to ... ",
+      "seendate": "20260805T171500Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/microsoft-corporation-msft-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302843336.html",
+      "url_mobile": "",
+      "title": "Microsoft Corporation ( MSFT ) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+      "seendate": "20260805T161500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bill-ackman-poured-2-143001922.html",
+      "url_mobile": "",
+      "title": "Why Bill Ackman Poured $2 Billion Into a Stock His Peers Were Fleeing",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/8828DE6152E461938C1F29F1D38FC24AA5B9ED40D64D2597B960373544DF2AA8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4fc283e0f60633ecb058372d03bbcf26",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.windowscentral.com/microsoft/windows-11/i-tested-5-major-changes-and-improvements-coming-to-windows-11-this-year-microsoft-is-clearly-serious-about-fixing-windows-and-its-doing-things-right-this-time",
+      "url_mobile": "",
+      "title": "I tested 5 major changes and improvements coming to Windows 11 this year : Microsoft is clearly serious about fixing Windows , and it doing things right this time",
+      "seendate": "20260805T151500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/fKbbqRFQ4BnYrkUMYE2u8c-2560-80.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mactech.com/2026/08/05/heres-how-much-personal-data-your-favorite-apps-are-collecting-about-you/",
+      "url_mobile": "https://www.mactech.com/2026/08/05/heres-how-much-personal-data-your-favorite-apps-are-collecting-about-you/amp/",
+      "title": "Here how much personal data your favorite apps are collecting about you",
+      "seendate": "20260805T144500Z",
+      "socialimage": "https://www.mactech.com/wp-content/uploads/2026/08/Apps-Collecting-the-Most-Data.jpg",
+      "domain": "mactech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/05/history-says-software-as-a-service-saas-stocks-wil/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "History Says Software - as - a - Service ( SaaS ) Stocks Will Be the Ultimate AI Winners . 3 SaaS Stocks to Buy Now . ",
+      "seendate": "20260805T120000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881915/gettyimages-1489971344.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pr-inside.com/join-class-action-to-recover-losses-from-microsoft-corporation-msft-r5208579.htm",
+      "url_mobile": "",
+      "title": "Join Class Action to Recover Losses from Microsoft Corporation ( MSFT ) ... ",
+      "seendate": "20260805T093000Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/04/audiocodes-audc-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "AudioCodes ( AUDC ) Q2 2026 Earnings Call Transcript",
+      "seendate": "20260805T061500Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.arnnet.com.au/article/4205426/avanade-expands-a-nz-workforce-to-capture-growing-ai-demand.html",
+      "url_mobile": "",
+      "title": "Avanade expands A / NZ workforce to capture growing AI demand",
+      "seendate": "20260805T054500Z",
+      "socialimage": "https://www.arnnet.com.au/wp-content/uploads/2026/08/4205426-0-83458600-1785906322-Bhavya-Kapoor-President-Avanade-APAC-1.jpg?quality=50&strip=all",
+      "domain": "arnnet.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.theautochannel.com/news/2026/08/04/1699902-auto-channel-automotive-visibility-program-trade.html",
+      "url_mobile": "",
+      "title": "The Auto Channel Automotive Visibility Program",
+      "seendate": "20260805T053000Z",
+      "socialimage": "",
+      "domain": "theautochannel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/securonix-expands-siem-with-sentinel-ai-risk-tools",
+      "url_mobile": "",
+      "title": "Securonix expands SIEM with Sentinel & AI risk tools",
+      "seendate": "20260805T041500Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/08/05/compatible_Simon_Hunt-story-312923.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://channellife.com.au/story/ingram-micro-launches-great-migration-for-ai-ready-pcs",
+      "url_mobile": "",
+      "title": "Ingram Micro launches Great Migration for AI - ready PCs",
+      "seendate": "20260805T040000Z",
+      "socialimage": "https://channellife.com.au/uploads/story/2026/08/05/compatible_andy-malakooti-story-312946.jpg",
+      "domain": "channellife.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://itwire.com/business-it-news/data/ingram-micro-helps-australian-partners-lead-the-ai-workplace-transition-with-the-great-migration",
+      "url_mobile": "",
+      "title": "Ingram Micro Helps Australian Partners Lead the AI Workplace Transition with  The Great Migration  ",
+      "seendate": "20260805T034500Z",
+      "socialimage": "https://media.itwire.com/2026/08/05/ingram-micro-helps-australian-partners-lead-the-ai-workplace-transition-with-the-great-migration-5bb0c717061a.webp",
+      "domain": "itwire.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://itwire.com/guest-articles/company-news/ingram-micro-helps-australian-partners-lead-the-ai-workplace-transition-with-the-great-migration",
+      "url_mobile": "",
+      "title": "Ingram Micro Helps Australian Partners Lead the AI Workplace Transition with  The Great Migration  ",
+      "seendate": "20260805T034500Z",
+      "socialimage": "https://media.itwire.com/2026/08/05/ingram-micro-helps-australian-partners-lead-the-ai-workplace-transition-with-the-great-migration-5bb0c717061a.webp",
+      "domain": "itwire.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.pr-inside.com/join-class-action-to-recover-losses-from-microsoft-corporation-msft-r5208521.htm",
+      "url_mobile": "",
+      "title": "Join Class Action to Recover Losses From Microsoft Corporation ( MSFT ) ... ",
+      "seendate": "20260805T024500Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/msft-stock-up-july-earnings-ai-cloud/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Why Microsoft Stock Surged 24 . 6 % in July While the Market Was Flat",
+      "seendate": "20260805T024500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/882137/msft-microsoft-stock-best-ai-stocks-why-msft-stock-up-gain.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbusinessnet.com/2026/08/tenable-advances-exposure-management-with-coverage-across-every-major-ai-platform-and-developer-tool/",
+      "url_mobile": "https://itbusinessnet.com/2026/08/tenable-advances-exposure-management-with-coverage-across-every-major-ai-platform-and-developer-tool/amp/",
+      "title": "Tenable Advances Exposure Management with Coverage Across Every Major AI Platform and Developer Tool \u2013 IT Business Net",
+      "seendate": "20260805T023000Z",
+      "socialimage": "",
+      "domain": "itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ashishbhatia/2026/08/04/the-china-ai-thesis/",
+      "url_mobile": "",
+      "title": "The China AI Thesis : : Why AI Is Now A US - China Duopoly , Not One Race",
+      "seendate": "20260805T000000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a72384a953d4a43c1db1a15/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/tenable-expands-ai-security-coverage-to-google-gemini",
+      "url_mobile": "",
+      "title": "Tenable expands AI security coverage to Google Gemini",
+      "seendate": "20260805T000000Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/08/05/compatible_eric-doerr-story-312935.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://americanbazaaronline.com/2026/08/04/openai-faces-backlash-after-hosting-influencers-at-luxury-summer-club-retreat-485767/",
+      "url_mobile": "",
+      "title": "OpenAI faces backlash after hosting influencers at luxury  Summer Club  retreat",
+      "seendate": "20260804T231500Z",
+      "socialimage": "https://americanbazaaronline.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-6.42.18%E2%80%AFPM.png",
+      "domain": "americanbazaaronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pcmag.com/news/microsoft-to-engineers-dont-go-crazy-with-the-ai-use-its-not-cheap",
+      "url_mobile": "",
+      "title": "Microsoft to Engineers : Dont Go Crazy With the AI Use . It Not Cheap",
+      "seendate": "20260804T214500Z",
+      "socialimage": "https://i.pcmag.com/imagery/articles/02lE966ekKiqYj3Oe7cinER-1.fit_lim.size_1200x630.v1785873406.jpg",
+      "domain": "pcmag.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://blog.hubspot.com/marketing/hubspot-vs-peec-ai",
+      "url_mobile": "",
+      "title": "HubSpot AEO Grader vs . Peec AI : Features , pricing , and use cases",
+      "seendate": "20260804T201500Z",
+      "socialimage": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/hubspot-aeo-vs-peec-ai-1-20260803-5026950.webp",
+      "domain": "blog.hubspot.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fonearena.com/blog/485955/snapdragon-x-laptops-killed-the-last-excuse-to-buy-an-intel-pc-app-compatibility.html",
+      "url_mobile": "https://www.fonearena.com/blog/485955/snapdragon-x-laptops-killed-the-last-excuse-to-buy-an-intel-pc-app-compatibility.html/amp",
+      "title": "Snapdragon X laptops killed the last excuse to buy an Intel PC : App compatibility",
+      "seendate": "20260804T191500Z",
+      "socialimage": "",
+      "domain": "fonearena.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://natlawreview.com/article/can-government-contractors-use-ai-legal-guide-ai-compliance-and-disclosure",
+      "url_mobile": "https://natlawreview.com/article/can-government-contractors-use-ai-legal-guide-ai-compliance-and-disclosure?amp",
+      "title": "A Legal Guide to AI Compliance and Disclosure Requirements",
+      "seendate": "20260804T184500Z",
+      "socialimage": "https://natlawreview.com/sites/default/files/styles/article_image/public/2026-08/government%20contract%20%281%29_0.jpg.webp?itok=gbVPWnzO",
+      "domain": "natlawreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/tidal-cyber-brings-threat-led-defense-to-the-ai-tools-your-teams-already-use-302842835.html",
+      "url_mobile": "",
+      "title": "Tidal Cyber Brings Threat - Led Defense to the AI Tools Your Teams Already Use",
+      "seendate": "20260804T183000Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/meta-has-the-proof-and-oracle-has-the-backlog/",
+      "url_mobile": "",
+      "title": "Meta Has the Proof and Oracle Has the Backlog . Neither Has Both . ",
+      "seendate": "20260804T183000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881795/question-mark-standing-over-a-financial-graph-1344293307.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.csoonline.com/article/4204925/critical-azure-cosmos-db-flaw-threatened-cross-tenant-database-takeover.html",
+      "url_mobile": "",
+      "title": "Critical Azure Cosmos DB flaw threatened cross - tenant database takeover",
+      "seendate": "20260804T170000Z",
+      "socialimage": "https://www.csoonline.com/wp-content/uploads/2026/08/4204925-0-10157900-1785845685-shutterstock_1590824884.jpg?quality=50&strip=all",
+      "domain": "csoonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techcentral.ie/microsoft-to-launch-new-super-app-for-copilot/",
+      "url_mobile": "",
+      "title": "Microsoft to launch new  super app  for Copilot",
+      "seendate": "20260804T163000Z",
+      "socialimage": "https://www.techcentral.ie/wp-content/uploads/2025/05/Copilot_25.jpg",
+      "domain": "techcentral.ie",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://www.digit.in/news/tvs/lg-launches-2026-ai-tv-lineup-in-india-with-115-inch-qned-mini-led-new-oled-evo-and-micro-rgb-models.html",
+      "url_mobile": "https://www.digit.in/news/tvs/lg-launches-2026-ai-tv-lineup-in-india-with-115-inch-qned-mini-led-new-oled-evo-and-micro-rgb-models.html/amp/",
+      "title": "LG launches 2026 AI TV lineup in India with 115 - inch QNED Mini LED , new OLED evo and Micro RGB models",
+      "seendate": "20260804T150000Z",
+      "socialimage": "https://static.digit.in/LG-3.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/meta-has-the-proof-and-oracle-has-the-backlog/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Meta Has the Proof and Oracle Has the Backlog . Neither Has Both . ",
+      "seendate": "20260804T133000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881795/question-mark-standing-over-a-financial-graph-1344293307.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69212205-rfa-unveils-its-next-chapter-the-first-ai-native-msp-redefining-it-services-for-financial-institutions-008.htm",
+      "url_mobile": "",
+      "title": "RFA Unveils its Next Chapter : the First AI - Native MSP , Redefining IT Services for Financial Institutions",
+      "seendate": "20260804T133000Z",
+      "socialimage": "",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/news/2026-08-03/look-mag-7-earnings",
+      "url_mobile": "",
+      "title": "A Look At Mag 7 Earnings",
+      "seendate": "20260804T130000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/contributor-teasers/2026/08/thumbnail.png?itok=eU06Ulx1",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thestarphoenix.com/press-releases/business-wire/obsidian-raises-85-million-series-d-to-scale-ai-agent-security-growth/",
+      "url_mobile": "",
+      "title": "Obsidian Raises $85 Million Series D to Scale AI Agent Security Growth",
+      "seendate": "20260804T124500Z",
+      "socialimage": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260804617491r1&sid=cnpm5&distro=ftp",
+      "domain": "thestarphoenix.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.forbes.com/sites/bryanrobinson/2026/08/04/8-employee-perks-that-matter-in-2026-free-pizza-isnt-one-of-them/",
+      "url_mobile": "",
+      "title": "8 Employee Perks That Matter In 2026 ( Free Pizza Isnt One Of Them ) ",
+      "seendate": "20260804T124500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/67142f6d1b4a36aa74243859/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/04/microsofts-in-house-ai-beats-frontier-models-at-half-the-cost/",
+      "url_mobile": "",
+      "title": "Microsoft In - House AI Beats Frontier Models At Half The Cost",
+      "seendate": "20260804T124500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a71cb906c118ba110c387ec/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/04/microsoft-vs-amazon-which-stock-does-wall-street-t/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Microsoft vs . Amazon : Which Stock Does Wall Street Think Is the Better Buy ? ",
+      "seendate": "20260804T114500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881646/person-concerned-5.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investingdaily.com/145793/the-ai-boom-is-entering-its-show-me-phase/",
+      "url_mobile": "",
+      "title": "The AI Boom Is Entering Its  Show Me  Phase",
+      "seendate": "20260804T104500Z",
+      "socialimage": "",
+      "domain": "investingdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://healthcare-digital.com/news/9-in-10-nhs-staff-use-ai-amid-rising-admin-burden-survey",
+      "url_mobile": "",
+      "title": "Survey : 9 in 10 NHS Staff Use AI Amid Rising Admin Burden",
+      "seendate": "20260804T103000Z",
+      "socialimage": "https://assets.bizclikmedia.net/1200/9eddaecad62132e8d6eac8887bb4c52f:56ab7d4bb1b9779835cd4b1307d5c3ca/nhseng-bri-1may18-0019-1.JPG.jpg",
+      "domain": "healthcare-digital.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/26/08/60896536/jim-cramer-says-andy-jassy-changed-wall-street-view-on-big-tech-ai-spending",
+      "url_mobile": "",
+      "title": "Amazon CEO Andy Jassy AI Spending Pitch Won Wall Street Over , Jim Cramer Says While Meta and Alphabet",
+      "seendate": "20260804T090000Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/04/New-York-City---October-5-2017-The-Brook.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itechpost.com/articles/236925/20260804/best-ai-tools-that-can-replace-excel-tasks-top-spreadsheet-tools-ai-automation.htm",
+      "url_mobile": "",
+      "title": "Best AI Tools That Can Replace Excel Tasks : Top Spreadsheet Tools for AI Automation",
+      "seendate": "20260804T084500Z",
+      "socialimage": "https://d.itechpost.com/en/full/222606/excel.jpg",
+      "domain": "itechpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://dynamicbusiness.com/featured/tech-tuesday/tech-tuesday-meetings-customer-service-tools.html",
+      "url_mobile": "",
+      "title": "Tech Tuesday : Meetings & customer service tools",
+      "seendate": "20260804T081500Z",
+      "socialimage": "https://backend.dynamicbusiness.com/wp-content/uploads/2026/08/Meetings-Customer-Service-tools.jpg",
+      "domain": "dynamicbusiness.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://siliconangle.com/2026/08/03/israeli-startup-zenity-bags-125m-funding-build-security-layer-ai-agents/",
+      "url_mobile": "",
+      "title": "Israeli startup Zenity bags $125M in funding to build the security layer for AI agents",
+      "seendate": "20260804T064500Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-04-08-19-36.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.lawfuel.com/safeguarding-legal-data-in-the-age-of-ai-key-tips-for-law-firms/",
+      "url_mobile": "",
+      "title": "Safeguarding Legal Data in the Age of AI \u2013 Key Tips For Law Firms",
+      "seendate": "20260804T053000Z",
+      "socialimage": "https://www.lawfuel.com/wp-content/uploads/2026/01/lawyers-learning-AI.jpg",
+      "domain": "lawfuel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.hawaiitelegraph.com/news/279221510/real-it-solutions-launches-ai-advisory-practice-to-help-west-michigan-businesses-adopt-artificial-intelligence",
+      "url_mobile": "",
+      "title": "Real IT Solutions Launches AI Advisory Practice to Help West Michigan Businesses Adopt Artificial Intelligence",
+      "seendate": "20260804T050000Z",
+      "socialimage": "",
+      "domain": "hawaiitelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69205082-real-it-solutions-launches-ai-advisory-practice-to-help-west-michigan-businesses-adopt-artificial-intelligence-200.htm",
+      "url_mobile": "",
+      "title": "Real IT Solutions Launches AI Advisory Practice to Help West Michigan Businesses Adopt Artificial Intelligence",
+      "seendate": "20260804T041500Z",
+      "socialimage": "https://app.accessnewswire.com/imagelibrary/77cb104f-d8b4-4415-b151-bc651b98bd6b/1201087/17857657266a709f5e5bfc717857657266a709f5e5bfcb.jpg",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://itwire.com/business-it-news/security/knowbe4-extends-agent-security-to-anthropics-claude-with-agent-risk-manager",
+      "url_mobile": "",
+      "title": "KnowBe4 Extends Agent Security to Anthropic Claude With Agent Risk Manager",
+      "seendate": "20260804T034500Z",
+      "socialimage": "https://media.itwire.com/2026/08/04/knowbe4-extends-agent-security-to-anthropics-claude-with-agent-risk-manager-cdf6ba3fb5c6.jpg",
+      "domain": "itwire.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.pr-inside.com/real-it-solutions-launches-ai-advisory-practice-to-help-west-michigan-r5208071.htm",
+      "url_mobile": "",
+      "title": "Real IT Solutions Launches AI Advisory Practice to Help West Michigan ... ",
+      "seendate": "20260804T034500Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.tennesseedaily.com/news/279221510/real-it-solutions-launches-ai-advisory-practice-to-help-west-michigan-businesses-adopt-artificial-intelligence",
+      "url_mobile": "",
+      "title": "Real IT Solutions Launches AI Advisory Practice to Help West Michigan Businesses Adopt Artificial Intelligence",
+      "seendate": "20260804T033000Z",
+      "socialimage": "",
+      "domain": "tennesseedaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forrester-forr-q2-2026-earnings-001542482.html",
+      "url_mobile": "",
+      "title": "Forrester ( FORR ) Q2 2026 Earnings Call Transcript",
+      "seendate": "20260804T004500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/3BB96DA74D204C984F0689758E01DDE23E0679D7E6C3830A1FB0C22849ED7A71/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/knowbe4-adds-claude-oversight-to-agent-risk-manager",
+      "url_mobile": "",
+      "title": "KnowBe4 adds Claude oversight to Agent Risk Manager",
+      "seendate": "20260804T003000Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2026/08/04/compatible_calm-security-analyst-corporate-data-protection-ai-orb-digital-illustration-story-312824.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.techradar.com/computing/laptops/after-months-of-silence-the-first-googlebook-has-been-spotted-and-it-looks-nifty-but-will-anyone-really-care",
+      "url_mobile": "",
+      "title": "After months of silence , the first Googlebook has been spotted and it looks nifty , but will anyone really care ? ",
+      "seendate": "20260804T001500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/WddqeKW5uBnoMoifeCns6b-2560-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/03/bill-ackmans-pershing-square-owns-amazon-microsoft/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Bill Ackman Pershing Square Owns Amazon , Microsoft , and Meta Platforms . Here the Best Buy of the Bunch in August . ",
+      "seendate": "20260803T230000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881015/bill-ackman_pershing-square-capital-management_ceo_imagesource_getty-images.jpeg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/03/prediction-within-18-months-microsoft-will-be-more/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Prediction : Within 18 Months , Microsoft Will Be More Valuable Than Apple",
+      "seendate": "20260803T230000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881702/a-couple-of-people-looking-at-charts.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+      "url_mobile": "https://www.cnbc.com/amp/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+      "title": "Jim Cramer says the market has warmed up to Big Tech AI spending . Here what flipped the switch",
+      "seendate": "20260803T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107113453-NUP_198430_00764r.jpg?v=1693609111",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/08/03/microsoft-nasdaqmsft-shares-up-4-9-heres-why.html",
+      "url_mobile": "",
+      "title": "Microsoft ( NASDAQ : MSFT ) Shares Up 4 . 9 % \u2013 Here Why",
+      "seendate": "20260803T220000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tech.co/news/best-free-ai-courses-august-2026",
+      "url_mobile": "",
+      "title": "Best Free AI Courses in August 2026 Training Modules Explained",
+      "seendate": "20260803T190000Z",
+      "socialimage": "https://images.tech.co/wp-content/uploads/2026/08/AI-Courses-August-2026.jpg",
+      "domain": "tech.co",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/03/678-billion-reasons-to-invest-in-microsoft-stock/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "678 Billion Reasons to Invest in Microsoft Stock",
+      "seendate": "20260803T181500Z",
+      "socialimage": "",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-proved-ai-spending-173500840.html",
+      "url_mobile": "",
+      "title": "Microsoft Just Proved that AI Spending Can Pay Off . Here How the Company Separates Itself From Other AI Stocks . ",
+      "seendate": "20260803T181500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/0E7A7EEBBBEE2D2CF026900781B88C8F4146204ADE0CD03D2687D9480C0C3A67/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F059f464edd7de13d61145c510e0ca97f",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://truthout.org/articles/the-labor-movement-is-divided-over-how-to-deal-with-ai/",
+      "url_mobile": "",
+      "title": "The Labor Movement Is Divided Over How to Deal With AI",
+      "seendate": "20260803T181500Z",
+      "socialimage": "https://truthout.org/app/uploads/2026/08/GettyImages-1769367985.jpg",
+      "domain": "truthout.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/03/microsoft-just-proved-that-ai-spending-can-pay-off/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Microsoft Just Proved that AI Spending Can Pay Off . Here How the Company Separates Itself From Other AI Stocks . ",
+      "seendate": "20260803T181500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881392/msft.png",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-says-where-microsoft-171529155.html",
+      "url_mobile": "",
+      "title": "Goldman Sachs Says This Is Where Microsoft AI Investments Begin to Pay Off Big Time",
+      "seendate": "20260803T174500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/DB7DA27BF1498B8F0D9D32F4E3178B92FE0E4143EAACDBF01AA2DD3D6D49DAFF/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F249e5786154ef2539072f483a4858f39",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://infotechlead.com/data-center/ai-infrastructure-race-intensifies-nvidia-sk-groups-500-bn-initiative-microsofts-175-bn-capex-and-metas-145-bn-ai-spending-reshape-global-tech-97474",
+      "url_mobile": "https://infotechlead.com/data-center/ai-infrastructure-race-intensifies-nvidia-sk-groups-500-bn-initiative-microsofts-175-bn-capex-and-metas-145-bn-ai-spending-reshape-global-tech-97474?amp=1",
+      "title": "AI Infrastructure Race Intensifies : Nvidia - SK Group $500 bn Initiative , Microsoft $175 bn Capex and Meta $145 bn AI Spending Reshape Global Tech",
+      "seendate": "20260803T171500Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2024/02/Huawei-Green-Storage-in-Data-Centers.jpeg",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://gizmodo.com/can-microsoft-really-make-windows-11-suck-less-on-weak-pcs-2000793959",
+      "url_mobile": "",
+      "title": "Can Microsoft Really Make Windows 11 Suck Less on Weak PCs ? ",
+      "seendate": "20260803T161500Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2026/06/Dell-XPS-13-Hands-On-7-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pushsquare.com/news/2026/08/these-new-xbox-prices-are-truly-terrifying-for-ps6",
+      "url_mobile": "",
+      "title": "These New Xbox Prices Are Truly Terrifying for PS6",
+      "seendate": "20260803T160000Z",
+      "socialimage": "https://images.pushsquare.com/34d062253b064/large.jpg",
+      "domain": "pushsquare.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/paychex-expands-wise-to-deliver-workforce-intelligence-across-business-tools/2397179",
+      "url_mobile": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/paychex-expands-wise-to-deliver-workforce-intelligence-across-business-tools/2397179/amp",
+      "title": "Paychex Expands WISE to Deliver Workforce Intelligence Across Business Tools",
+      "seendate": "20260803T141500Z",
+      "socialimage": "https://manilatimes.net/manilatimes/uploads/images/2026/08/03/1161858.png",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.pcmag.com/news/openai-codex-micro-keyboard-hands-on-review",
+      "url_mobile": "",
+      "title": "I Snagged OpenAI Sold - Out Vibe - Coding Gadget : Here What the Codex Micro Can Do",
+      "seendate": "20260803T120000Z",
+      "socialimage": "https://i.pcmag.com/imagery/articles/042f7tv8G1RNvvw1BSRdH7g-1.fit_lim.size_1200x630.v1785198438.jpg",
+      "domain": "pcmag.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/03/if-1000-invest-trillion-dollar-stock-buy-spacex/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "If I Had $1 , 000 to Invest Today , Here the Trillion - Dollar Stock Id Buy Instead of SpaceX",
+      "seendate": "20260803T104500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881386/people-viewing-a-mobile-device-in-front-of-stacks-of-supercomputers.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thenextweb.com/news/arcelormittal-microsoft-azure-primary-cloud-ai",
+      "url_mobile": "",
+      "title": "ArcelorMittal makes Azure its primary cloud as it rebuilds around AI",
+      "seendate": "20260803T103000Z",
+      "socialimage": "https://media.thenextweb.com/2024/12/microsoft-cloud-uk-fine.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13527907/microsoft-corporation-msft-shares-bought-by-peakshares-llc.html",
+      "url_mobile": "",
+      "title": "Microsoft Corporation $MSFT Shares Bought by PeakShares LLC",
+      "seendate": "20260803T103000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/08/03/chinese-ai-firm-siphoned-american-ai-knowledge-from-claude-by-using-millions-of-prompts-and-trained-on-the-responses/",
+      "url_mobile": "",
+      "title": "Chinese AI Firm Siphoned American AI Knowledge From Anthropic Claude By Using Millions Of Prompts",
+      "seendate": "20260803T100000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/69d1d2c40f37329e295eed01/0x0.jpg?format=jpg&crop=2965,2224,x82,y0,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theregister.com/os-platforms/2026/08/03/microsoft-says-8-gb-of-ram-should-be-enough-for-anyone-running-windows-11/5282153",
+      "url_mobile": "",
+      "title": "Microsoft says 8 GB of RAM should be enough for anyone running Windows 11",
+      "seendate": "20260803T090000Z",
+      "socialimage": "https://image.theregister.com/257334.jpg?imageId=257334&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.morningstar.com/markets/markets-brief-why-bonds-did-twist-mag-7-did-split",
+      "url_mobile": "",
+      "title": "Markets Brief : Why Bonds Did the Twist and the Mag 7 Did a Split",
+      "seendate": "20260803T090000Z",
+      "socialimage": "https://media.morningstar.com/resizer/v2/UK3CU5QX7REBFKHDVYC74QRXDA.jpg?auth=1bf616322aa61083ef472a469385df9cc1c8442d3b02a26b5894f73cd37b1a68&quality=80&focal=1275,889",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.claimsjournal.com/news/national/2026/08/03/339226.htm",
+      "url_mobile": "https://amp.claimsjournal.com/news/national/2026/08/03/339226.htm",
+      "title": "Cyber Firm Wiz Says Flaw Could Have Led to Mass Exposure of Microsoft Cloud Customers",
+      "seendate": "20260803T081500Z",
+      "socialimage": "https://www.claimsjournal.com/img/social/cj-social-post-1104x736.png",
+      "domain": "claimsjournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theregister.com/os-platforms/2026/08/03/microsoft-says-8gb-of-ram-should-be-enough-for-anyone-running-windows-11/5282153",
+      "url_mobile": "",
+      "title": "Microsoft says 8GB of RAM should be enough for anyone running Windows 11",
+      "seendate": "20260803T081500Z",
+      "socialimage": "https://image.theregister.com/257334.jpg?imageId=257334&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://memeburn.com/gamma-ai-review/",
+      "url_mobile": "",
+      "title": "Gamma AI Review 2026 : Features , Pricing & Honest Verdict",
+      "seendate": "20260803T064500Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/08/Gamma-AI-Review-scaled.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/down-48-oracle-stock-buy-042000763.html",
+      "url_mobile": "",
+      "title": "Down 48 %, Is Oracle Stock a Buy Right Now ? ",
+      "seendate": "20260803T050000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/35719FC0CF1879884826C8772A3A67411349CE76CD60CD41ADD3D6823E4CE4D1/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fced07567971a958c593534a01e6e6a40",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yourdemocracy.net.au/drupal/node/60675",
+      "url_mobile": "",
+      "title": "an ordinary day in the future that has already gone to AI and the psychos .... ",
+      "seendate": "20260803T041500Z",
+      "socialimage": "https://yourdemocracy.net/drupal/files/images/intelligencexx_1.jpg",
+      "domain": "yourdemocracy.net.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/02/why-microsoft-stock-is-surging/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Why Microsoft Stock Is Surging | The Motley Fool",
+      "seendate": "20260803T031500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881772/msft-stock-getty-images.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-stock-surging-023519521.html",
+      "url_mobile": "",
+      "title": "Why Microsoft Stock Is Surging",
+      "seendate": "20260803T031500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/A2E1BA48DF5CFD5BD868BCCF325B3823ABDC44005A669CFF0B1278F586147C29/subgraphmysterio/resizefill_w1200_h766;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F24668a83fd776c610b73658bfceaef58",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.arnnet.com.au/article/4204181/pax8-nick-heddys-view-on-ai-for-smbs.html",
+      "url_mobile": "",
+      "title": "Pax8 Nick Heddy view on AI for SMBs \u2013 ARN",
+      "seendate": "20260803T013000Z",
+      "socialimage": "https://www.arnnet.com.au/wp-content/uploads/2026/08/4204181-0-77660700-1785719333-NickHeddy.jpg?quality=50&strip=all",
+      "domain": "arnnet.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.pocket-lint.com/intel-arc-g3-extreme-msi-claw-8-ex-ai-plus-review/",
+      "url_mobile": "",
+      "title": "This funky $1800 handheld is insanely powerful",
+      "seendate": "20260802T233000Z",
+      "socialimage": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/07/msi-claw-8-ex-ai-beauty-1.jpg?&fit=crop",
+      "domain": "pocket-lint.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
+      "url_mobile": "",
+      "title": "Here my power rankings for the big 4 hyperscalers after this earnings season",
+      "seendate": "20260802T210000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108107825-17405902912025-02-26t171428z_315459334_rc2f2daohftm_rtrmadp_0_amazon-com-alexa.jpeg?v=1740590368",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/lu-announces-ai-training-programme-for-teachers/articleshow/132813639.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/city/lucknow/lu-announces-ai-training-programme-for-teachers/amp_articleshow/132813639.cms",
+      "title": "LU announces AI training programme for teachers | Lucknow News",
+      "seendate": "20260802T204500Z",
+      "socialimage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13527395/forrester-research-q2-earnings-call-highlights.html",
+      "url_mobile": "",
+      "title": "Forrester Research Q2 Earnings Call Highlights",
+      "seendate": "20260802T173000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gcn.com/fireworks-ai-series-d-billion-valuation/20350/",
+      "url_mobile": "",
+      "title": "Fireworks AI raises $1 . 505 billion Series D at a $17 . 5 billion valuation as enterprise AI inference demand surges",
+      "seendate": "20260802T160000Z",
+      "socialimage": "https://gcn.com/wp-content/uploads/2026/08/fireworks-ai-series-d-billion-valuation-photo-scaled.png",
+      "domain": "gcn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/why-is-microsoft-stock-up-15-today-after-earnings/",
+      "url_mobile": "",
+      "title": "Why Is Microsoft Stock Up 15 % Today After Earnings ? ",
+      "seendate": "20260802T120000Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/07/Why-Is-Microsoft-Stock-Up-15.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.pr-inside.com/class-action-lawsuit-filed-against-microsoft-corporation-msft-recover-r5207285.htm",
+      "url_mobile": "",
+      "title": "Class Action Lawsuit Filed Against Microsoft Corporation ( MSFT ) \u2013 Recover ... ",
+      "seendate": "20260802T114500Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-companies-battle-rising-ai-costs-ey-says-its-invisible-router-reduced-token-use-by-60/articleshow/132805204.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/as-companies-battle-rising-ai-costs-ey-says-its-invisible-router-reduced-token-use-by-60/amp_articleshow/132805204.cms",
+      "title": "As companies battle rising AI costs , EY says its invisible router reduced token use by 60 % ",
+      "seendate": "20260802T114500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132805204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13526607/microsoft-nasdaqmsft-price-target-raised-to-450-00.html",
+      "url_mobile": "",
+      "title": "Microsoft ( NASDAQ : MSFT ) Price Target Raised to $450 . 00",
+      "seendate": "20260802T071500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thenationalnews.com/future/technology/2026/08/02/its-ai-problem-now-why-bots-attacking-their-brethren-could-quickly-turn-ugly/",
+      "url_mobile": "",
+      "title": "It AI problem now : Why bots attacking their brethren could quickly turn ugly",
+      "seendate": "20260802T071500Z",
+      "socialimage": "https://www.thenationalnews.com/resizer/v2/N4PWKHXVSVB2PACWRQRVAJYY2M.jpg?smart=true&auth=dd79187fcd94b854a02140aef747388c293202a4e8bbc292795cb9f6ccffba05",
+      "domain": "thenationalnews.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13526540/large-cap-stocks-worth-watching-july-31st.html",
+      "url_mobile": "",
+      "title": "Large Cap Stocks Worth Watching \u2013 July 31st",
+      "seendate": "20260802T000000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://memeburn.com/best-ai-voice-assistant/",
+      "url_mobile": "",
+      "title": "10 Best AI Voice Assistants in 2026 : Tested & Compared",
+      "seendate": "20260801T220000Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/08/best-ai-voice-assistant.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/expert-warns-this-dangerous-microsoft-word-worm-can-burrow-into-copilot-and-cause-havoc-heres-what-we-know",
+      "url_mobile": "",
+      "title": "Expert warns this dangerous Microsoft Word worm can burrow into Copilot and cause havoc here what we know",
+      "seendate": "20260801T203000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/GxSNrV6MwnmZHmLEQHF58B-1600-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-hello-vs-enhanced-sign-in-security-which-one-should-you-use-on-windows-11",
+      "url_mobile": "",
+      "title": "Windows Hello vs . Enhanced Sign \u2011 in Security : Which sign \u2011 in method actually keeps your Windows 11 PC safer , and what the difference ? ",
+      "seendate": "20260801T180000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/boRLifFuAn7XjNKbSbEBaV-2560-80.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ign.com/articles/ai-is-making-games-worse-and-for-what",
+      "url_mobile": "",
+      "title": "AI Keeps Making Games Worse and More Expensive",
+      "seendate": "20260801T173000Z",
+      "socialimage": "https://assets-prd.ignimgs.com/2026/03/17/dlss-blog-1773754574231.jpg?&format=jpg&auto=webp&quality=80",
+      "domain": "ign.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/real-ai-cost-defines-next-135120692.html",
+      "url_mobile": "",
+      "title": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs . Microsoft",
+      "seendate": "20260801T143000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/F9DE201FC87DB4148D5E5E1F934ACDD5EB345D71DE5C5D8835A8966E65325A25/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fdc26b17f5ae28f59e83209cbe0f6e669",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.howtogeek.com/microsoft-excel-ditched-copilot-18-months-ago-coming-back-proved-me-wrong/",
+      "url_mobile": "",
+      "title": "I hated Copilot in Excel , but these 3 tests made me change my mind",
+      "seendate": "20260801T141500Z",
+      "socialimage": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/laptop-screen-showing-a-performance-report-in-excel-generated-by-copilot.jpg?&fit=crop",
+      "domain": "howtogeek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/numbers-matter-microsoft-q2-earnings-113002268.html",
+      "url_mobile": "",
+      "title": "Here Are the Numbers That Matter in Microsoft Q2 Earnings and How to Play MSFT Stock Now",
+      "seendate": "20260801T130000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/4F63759E891D64386DAF045CFBD7A65A99A82D15993207FF15468CBFEE59A2A3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fbc247c7d783ef717bd9c3975fcb4842e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pr-inside.com/msft-stock-loss-microsoft-may-have-misrepresented-its-copilot-functionality-r5207075.htm",
+      "url_mobile": "",
+      "title": "$MSFT Stock Loss : Microsoft May Have Misrepresented its Copilot Functionality ... ",
+      "seendate": "20260801T114500Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.abajournal.com/news/article/defense-attorneys-should-cautiously-adopt-ai-new-study-says",
+      "url_mobile": "",
+      "title": "Defense attorneys should cautiously adopt AI , new study says",
+      "seendate": "20260801T113000Z",
+      "socialimage": "https://www.abajournal.com/images/main_images/GettyImages-mazelike_AI_scales_of_justice.jpg",
+      "domain": "abajournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://propakistani.pk/2026/08/01/microsofts-copilot-is-becoming-an-ai-super-app/",
+      "url_mobile": "https://propakistani.pk/2026/08/01/microsofts-copilot-is-becoming-an-ai-super-app/amp/?fbclid=IwY2xjawTamQhwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMXhRdUpPdXgyZENKS0xEOU1zcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeYeRgwRilmY_rAmBBk0SP1vP8HfcJpmWZV1W6a7Qc17SPA0r25unnkr4AWaA_aem_ZOhbtHhTCh6jMhyZMzZb4g",
+      "title": "Microsoft Copilot is Becoming an AI Super App",
+      "seendate": "20260801T103000Z",
+      "socialimage": "https://propakistani.pk/wp-content/uploads/2026/08/Microsoft-Copilot.jpg",
+      "domain": "propakistani.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/microsoft-will-make-windows-work-well-with-just-8gb-ram-we-desperately-need-it/",
+      "url_mobile": "",
+      "title": "Microsoft will make Windows work well with just 8GB RAM . We desperately need it",
+      "seendate": "20260801T101500Z",
+      "socialimage": "https://www.digitaltrends.com/tachyon/2026/05/Suface-laptop-on-wooden-table.jpg",
+      "domain": "digitaltrends.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rappler.com/technology/features/meta-earnings-q2-2026-ai-compute-splurge-analysis/",
+      "url_mobile": "",
+      "title": "Meta AI splurge lays bare its compute conundrum",
+      "seendate": "20260801T101500Z",
+      "socialimage": "https://www.rappler.com/tachyon/2026/08/meta-zuckerberg-aireuters-scaled.jpg",
+      "domain": "rappler.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forrester-forr-q2-2026-earnings-034711077.html",
+      "url_mobile": "",
+      "title": "Forrester ( FORR ) Q2 2026 Earnings Call Transcript",
+      "seendate": "20260801T083000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/3BB96DA74D204C984F0689758E01DDE23E0679D7E6C3830A1FB0C22849ED7A71/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dxc-dxc-q1-2027-earnings-030023372.html",
+      "url_mobile": "",
+      "title": "DXC ( DXC ) Q1 2027 Earnings Call Transcript",
+      "seendate": "20260801T080000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/3BB96DA74D204C984F0689758E01DDE23E0679D7E6C3830A1FB0C22849ED7A71/subgraphmysterio/resizefill_w1200_h1281;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forrester-research-inc-q2-2026-014035186.html",
+      "url_mobile": "",
+      "title": "Forrester Research , Inc . Q2 2026 Earnings Call Summary",
+      "seendate": "20260801T074500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/CCE14E7A40B96CE59DDF6331B1AC2DC6042B998228DF10242B394D28461EF7DA/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fe0189ec59b89c909f5a198b92b8c1c58",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/01/if-youd-invested-10000-in-microsoft-the-day-satya/",
+      "url_mobile": "",
+      "title": "If Youd Invested $10 , 000 in Microsoft the Day Satya Nadella Became CEO , Here What Youd Have Now . ",
+      "seendate": "20260801T073000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881372/satya-nadella_microsoft_msft_ceo_imagesource_microsoft-corporation.jpeg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/08/01/if-youd-invested-10000-in-microsoft-the-day-satya/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "If Youd Invested $10 , 000 in Microsoft the Day Satya Nadella Became CEO , Here What Youd Have Now . ",
+      "seendate": "20260801T054500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881372/satya-nadella_microsoft_msft_ceo_imagesource_microsoft-corporation.jpeg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dubaicityguide.com/site/features/13401/how-backlinks-influence-visibility-in-ai-generated-search-results",
+      "url_mobile": "",
+      "title": "How Backlinks Influence Visibility In AI - Generated Search Results # Dubai",
+      "seendate": "20260801T044500Z",
+      "socialimage": "",
+      "domain": "dubaicityguide.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/01/are-aitranslators-ready-to-replace-humans-not-nearly-study-shows",
+      "url_mobile": "",
+      "title": "Are AI\u00a0translators ready to replace humans ? Not nearly , study shows",
+      "seendate": "20260801T044500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2026/07/31/4029989.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992",
+      "url_mobile": "",
+      "title": "AI Dominates The Microsoft Conversation , But Not The Company Business",
+      "seendate": "20260731T224500Z",
+      "socialimage": "https://image.nextplatform.com/4092396.jpg?imageId=4092396&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "domain": "nextplatform.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.crn.com/news/channel-news/2026/dxc-s-ai-reset-ceo-fernandez-says-proof-speed-new-leadership-to-fuel-comeback",
+      "url_mobile": "",
+      "title": "DXC AI Reset : CEO Fernandez Says Speed , New Leadership To Fuel Comeback",
+      "seendate": "20260731T224500Z",
+      "socialimage": "https://www.crn.com/news/channel-news/2026/media_1e51955a1470aa9512d079b0147799ccf650fd1c9.png?&format=pjpg&optimize=medium",
+      "domain": "crn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://nypost.com/2026/07/31/shopping/were-not-paying-199-for-windows-when-its-11-23-through-8-9/",
+      "url_mobile": "",
+      "title": "Were not paying $199 for Windows when it $11 . 23 through 8 / 9",
+      "seendate": "20260731T214500Z",
+      "socialimage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/single-products-3-copy.jpg?quality=75&strip=all",
+      "domain": "nypost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://abcnews.com/Business/microsoft-stock-soaring/story?id=135256220",
+      "url_mobile": "https://abcnews.com/amp/Business/microsoft-stock-soaring/story?id=135256220",
+      "title": "Why is Microsoft stock soaring ? ",
+      "seendate": "20260731T214500Z",
+      "socialimage": "https://i.abcnewsfe.com/a/332f3253-b4cf-402c-a8a0-378b90c1d59e/microsoft-office-rt-jt-260731_1785518254798_hpMain_16x9.jpg",
+      "domain": "abcnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-indexes-rebound-110712956.html",
+      "url_mobile": "",
+      "title": "Markets News , July 30 , 2026 : Indexes End Sharply Higher , Tech Shares Soar ; Apple , Amazon Report",
+      "seendate": "20260731T211500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/F0B715424E600FD5B629BF8C1FDFF3B566E36ECF783B8E1C611AF47E41C38C53/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finvestopedia_245%2Fb15c63a6f0b612aa7db06fc688bfb643",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/322428/20260731/linkedin-pulls-its-own-ai-writing-feature-crowdsources-slop-detection.htm",
+      "url_mobile": "",
+      "title": "LinkedIn Pulls Its Own AI Writing Feature and Crowdsources Slop Detection",
+      "seendate": "20260731T201500Z",
+      "socialimage": "https://d.techtimes.com/en/full/470749/linkedin.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60849508/microsoft-stock-surge-analyst-highlights-expanding-cloud-footprint-and-openai-momentum",
+      "url_mobile": "",
+      "title": "Microsoft Stock Surge : Analyst Highlights Expanding Cloud Footprint and OpenAI Momentum - Microsoft ( NASD",
+      "seendate": "20260731T190000Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/31/Kharkov--Ukraine---January-19--2021-Micr.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://windsorstar.com:443/fp-finance/banking/cibc-weighs-costs-employees-test-ai-tool",
+      "url_mobile": "",
+      "title": "CIBC weighs costs as select employees test powerful AI tool",
+      "seendate": "20260731T184500Z",
+      "socialimage": "",
+      "domain": "windsorstar.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.blocksandfiles.com/security/2026/07/31/storage-news-ticker-31-july/5281885",
+      "url_mobile": "",
+      "title": "Storage News Ticker - 31 July",
+      "seendate": "20260731T183000Z",
+      "socialimage": "https://image.blocksandfiles.com/5265977.jpg?imageId=5265977&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "domain": "blocksandfiles.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "http://www.neworleanssun.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T183000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "neworleanssun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.coloradostar.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "coloradostar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.batonrougepost.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "batonrougepost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tomsguide.com/computing/laptops/the-hp-omnibook-x-flip-is-a-2-in-1-thats-all-work-and-all-play",
+      "url_mobile": "",
+      "title": "The HP OmniBook X Flip is a 2 - in - 1 that all work and all play",
+      "seendate": "20260731T181500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/6ZHXqQtuVpR5uqsKCbXEgE-2560-80.jpg",
+      "domain": "tomsguide.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.cincinnatisun.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "cincinnatisun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.africaleader.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "africaleader.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "http://www.bruneinews.net/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T181500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "bruneinews.net",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "http://www.chinanationalnews.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T180000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "chinanationalnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://memeburn.com/microsoft-q4-earnings-ai-bet-paying-off/",
+      "url_mobile": "",
+      "title": "Microsoft Surged 8 % To Prove $116 Billion AI Deal Isnt A Gamble",
+      "seendate": "20260731T180000Z",
+      "socialimage": "https://memeburn.com/wp-content/uploads/2026/07/Microsoft-Surged-7-To-Prove-Its-116-Billion-AI-Deal-Isnt-A-Gamble-Anymore.jpg",
+      "domain": "memeburn.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "http://www.srilankasource.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T174500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "srilankasource.com",
+      "language": "English",
+      "sourcecountry": "Sri Lanka"
+    },
+    {
+      "url": "http://www.austinglobe.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T174500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "austinglobe.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.heraldglobe.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T170000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "heraldglobe.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.shanghainews.net/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T170000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "shanghainews.net",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://thenextweb.com/news/similarweb-2026-generative-ai-landscape-ai-search-fragmentation",
+      "url_mobile": "",
+      "title": "AI search is fragmenting , ageing and filling with ads",
+      "seendate": "20260731T170000Z",
+      "socialimage": "https://media.thenextweb.com/2026/07/Similarweb-2026-generative-ai-landscape.avif",
+      "domain": "thenextweb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.iranherald.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T170000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "iranherald.com",
+      "language": "English",
+      "sourcecountry": "Iran"
+    },
+    {
+      "url": "http://www.irishsun.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T170000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "irishsun.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "http://www.texasguardian.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "texasguardian.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.arabherald.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "arabherald.com",
+      "language": "English",
+      "sourcecountry": "Syria"
+    },
+    {
+      "url": "http://www.afghanistansun.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T161500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "afghanistansun.com",
+      "language": "English",
+      "sourcecountry": "Afghanistan"
+    },
+    {
+      "url": "https://sdtimes.com/ai/why-your-codebase-is-forcing-your-ai-to-underperform/",
+      "url_mobile": "",
+      "title": "Why Your Codebase Is Forcing Your AI to Underperform",
+      "seendate": "20260731T160000Z",
+      "socialimage": "https://sdtimes.com/wp-content/uploads/2026/07/iStock-2166361664.jpg",
+      "domain": "sdtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newyorktelegraph.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "newyorktelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.bangladeshsun.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T160000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "bangladeshsun.com",
+      "language": "English",
+      "sourcecountry": "Bangladesh"
+    },
+    {
+      "url": "http://www.indiagazette.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "indiagazette.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.mainemirror.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T154500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "mainemirror.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://imemc.org/article/israel-expands-propaganda-into-ai-programming/",
+      "url_mobile": "",
+      "title": "Israel Expands Propaganda into AI Programming",
+      "seendate": "20260731T151500Z",
+      "socialimage": "https://imemc.org/wp-content/uploads/2026/07/photo_2026-07-30_07-01-44.jpg",
+      "domain": "imemc.org",
+      "language": "English",
+      "sourcecountry": "Israel"
+    },
+    {
+      "url": "http://www.thailandnews.net/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "thailandnews.net",
+      "language": "English",
+      "sourcecountry": "Thailand"
+    },
+    {
+      "url": "http://www.jamaicantimes.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "jamaicantimes.com",
+      "language": "English",
+      "sourcecountry": "Jamaica"
+    },
+    {
+      "url": "http://www.sierraleonetimes.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T151500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "sierraleonetimes.com",
+      "language": "English",
+      "sourcecountry": "Sierra Leone"
+    },
+    {
+      "url": "https://it-online.co.za/2026/07/31/cybersecurity-engineer-specialist-12-month-contract-3-month-probation-gauteng-pretoria/",
+      "url_mobile": "",
+      "title": "Cybersecurity Engineer / Specialist - 12 - Month Contract ( 3 Month Probation ) - Gauteng Pretoria",
+      "seendate": "20260731T150000Z",
+      "socialimage": "",
+      "domain": "it-online.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2026/07/31/meta-platforms-inc-meta-stake-boosted-by-western-wealth-management-llc.html",
+      "url_mobile": "",
+      "title": "Meta Platforms , Inc . $META Stake Boosted by Western Wealth Management LLC",
+      "seendate": "20260731T141500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newyorkstatesman.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "newyorkstatesman.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.floridastatesman.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "floridastatesman.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.cambodiantimes.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T141500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "cambodiantimes.com",
+      "language": "English",
+      "sourcecountry": "Cambodia"
+    },
+    {
+      "url": "http://www.bignewsnetwork.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T140000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "bignewsnetwork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-posts-record-revenue-cloud-133033412.html",
+      "url_mobile": "",
+      "title": "Microsoft Posts Record Revenue as Cloud Services Cross $100 Billion . Here Our New Price Target",
+      "seendate": "20260731T140000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/C936583DCB3E448E4E8C7C652AA6E2C2ADBE4368AAEE19B58D314E24AD8FA5F7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fd1715da5f795272432068ed0c23e4417",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.myanmarnews.net/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T140000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "myanmarnews.net",
+      "language": "English",
+      "sourcecountry": "Myanmar"
+    },
+    {
+      "url": "http://www.parisguardian.com/news/279217721/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success",
+      "url_mobile": "",
+      "title": "Digital Academy 360 Sets a New Benchmark in Digital Marketing Education with AI - Powered Learning and Global Career Success",
+      "seendate": "20260731T140000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/4aca616/087d7231-e009-46ce-a88b-39945bc473ce/0/ANI-20260731090758-600x315.jpg",
+      "domain": "parisguardian.com",
+      "language": "English",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/why-shadow-ai-has-already-outpaced-your-security-stack/",
+      "url_mobile": "",
+      "title": "Why Shadow AI Has Already Outpaced Your Security Stack",
+      "seendate": "20260731T134500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a6a0f7aa7c4b3d2b5100ea6/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.computerweekly.com/news/366646659/Microsoft-earnings-reflect-efficiency-gains-from-faster-GPU-deployment",
+      "url_mobile": "",
+      "title": "Microsoft earnings reflect efficiency gains from faster GPU deployment",
+      "seendate": "20260731T124500Z",
+      "socialimage": "https://www.computerweekly.com/visuals/German/article/GPU-datacentre-2-adobe.jpg",
+      "domain": "computerweekly.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2026/07/31/jat-capital-mgmt-lp-invests-12-65-million-in-meta-platforms-inc-meta.html",
+      "url_mobile": "",
+      "title": "JAT Capital Mgmt LP Invests $12 . 65 Million in Meta Platforms , Inc . $META",
+      "seendate": "20260731T123000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnewsonline.com/news/BCN-Achieves-Microsoft-Managing-Partner-Status/38066",
+      "url_mobile": "",
+      "title": "IT News Online - BCN Achieves Microsoft Managing Partner Status",
+      "seendate": "20260731T123000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsghana.com.gh/microsoft-shares-jump-14-on-strong-earnings/",
+      "url_mobile": "",
+      "title": "Microsoft Shares Jump 14 % On Strong Earnings",
+      "seendate": "20260731T123000Z",
+      "socialimage": "",
+      "domain": "newsghana.com.gh",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2026/07/31/2019-gp-l-l-c-gv-sells-196931-shares-of-alphabet-nasdaqgoog-stock.html",
+      "url_mobile": "",
+      "title": "2019 Gp L . L . C . Gv Sells 196 , 931 Shares of Alphabet ( NASDAQ : GOOG ) Stock",
+      "seendate": "20260731T123000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/07/31/vienna-powszechne-towarzystwo-emerytalne-s-a-vienna-insurance-group-invests-28-32-million-in-microsoft-corporation-msft.html",
+      "url_mobile": "",
+      "title": "Vienna Powszechne Towarzystwo Emerytalne S . A . Vienna Insurance Group Invests $28 . 32 Million in Microsoft Corporation $MSFT",
+      "seendate": "20260731T114500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13523704/swiss-national-bank-buys-4725800-shares-of-nvidia-corporation-nvda.html",
+      "url_mobile": "",
+      "title": "Swiss National Bank Buys 4 , 725 , 800 Shares of NVIDIA Corporation $NVDA",
+      "seendate": "20260731T090000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/07/31/nelson-capital-management-llc-has-284-33-million-stock-holdings-in-nvidia-corporation-nvda.html",
+      "url_mobile": "",
+      "title": "Nelson Capital Management LLC Has $284 . 33 Million Stock Holdings in NVIDIA Corporation $NVDA",
+      "seendate": "20260731T090000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13523713/financial-avengers-inc-sells-7083-shares-of-alphabet-inc-goog.html",
+      "url_mobile": "",
+      "title": "Financial Avengers Inc . Sells 7 , 083 Shares of Alphabet Inc . $GOOG",
+      "seendate": "20260731T090000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2026/07/31/estuary-capital-management-lp-invests-20-23-million-in-meta-platforms-inc-meta.html",
+      "url_mobile": "",
+      "title": "Estuary Capital Management LP Invests $20 . 23 Million in Meta Platforms , Inc . $META",
+      "seendate": "20260731T084500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/07/31/greenwood-gearhart-llc-acquires-14760-shares-of-nvidia-corporation-nvda.html",
+      "url_mobile": "",
+      "title": "Greenwood Gearhart LLC Acquires 14 , 760 Shares of NVIDIA Corporation $NVDA",
+      "seendate": "20260731T080000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/07/30/everyone-wants-to-build-the-best-ai-model-amazon-w/",
+      "url_mobile": "",
+      "title": "Everyone Wants to Build the Best AI Model . Amazon Wants Something More Valuable . ",
+      "seendate": "20260731T071500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/881092/ai-2.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-tops-quarterly-cloud-growth-200428732.html",
+      "url_mobile": "",
+      "title": "Microsoft says cash will keep flowing from AI , shares rise",
+      "seendate": "20260731T071500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/8A62AD692480A28D96433972A6B586989815EAD94ACF7C89D459FACB88873914/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Ff754674373cecde63456e234276a6599",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://telecom.economictimes.indiatimes.com/news/internet/wiz-discovers-major-security-flaw-in-microsoft-azure-cosmosdb-potential-risk-to-thousands-of-customers/132753388",
+      "url_mobile": "https://telecom.economictimes.indiatimes.com/amp/news/internet/wiz-discovers-major-security-flaw-in-microsoft-azure-cosmosdb-potential-risk-to-thousands-of-customers/132753388",
+      "title": "Wiz Discovers Major Security Flaw in Microsoft Azure CosmosDB , Potential Risk to Thousands of Customers , ETTelecom",
+      "seendate": "20260731T061500Z",
+      "socialimage": "https://etimg.etb2bimg.com/thumb/msid-132753388,imgsize-25032,width-1200,height=627,overlay-ettelecom,resizemode-75/internet/wiz-discovers-major-security-flaw-in-microsoft-azure-cosmosdb-potential-risk-to-thousands-of-customers.jpg",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://colombogazette.com/2026/07/31/asus-launches-ai-powered-flagship-expertbook-ultra-in-sri-lanka-also-expands-the-built-for-worry-free-business-expertbook-b-and-p-series",
+      "url_mobile": "",
+      "title": "ASUS Launches AI - powered Flagship ExpertBook Ultra in Sri Lanka , Also Expands the Built for Worry Free Business ExpertBook B and P Series",
+      "seendate": "20260731T060000Z",
+      "socialimage": "https://storage.ghost.io/c/aa/12/aa12aff5-1107-4b56-84af-21cee1731220/content/images/2026/07/Web-ASUS-Launches-AI-powered-Flagship-ExpertBook-Ultra-in-Sri-Lanka--Also-Expands-the-Built-for-Worry-Free-Business-ExpertBook-B-and-P-Series.webp",
+      "domain": "colombogazette.com",
+      "language": "English",
+      "sourcecountry": "Sri Lanka"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/amazon-beats-expectations-with-cloud-and-ai-growth/article71288901.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/amazon-beats-expectations-with-cloud-and-ai-growth/article71288901.ece/amp/",
+      "title": "Amazon beats expectations with cloud and AI growth",
+      "seendate": "20260731T053000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/g7joog/article71288905.ece/alternates/LANDSCAPE_1200/2026-07-30T201226Z_350469682_RC2YKHA52AA3_RTRMADP_3_AMAZON-COM-RESULTS.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.newkerala.com/news/a/us-senator-warns-against-chinese-ai-models-813.htm",
+      "url_mobile": "",
+      "title": "Senator Cotton Urges US Action on Chinese AI Risks",
+      "seendate": "20260731T050000Z",
+      "socialimage": "https://one.newkerala.com/images/t/newkerala-com-news250.webp",
+      "domain": "newkerala.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.prokerala.com/news/articles/a1794611.html",
+      "url_mobile": "https://www.prokerala.com/news/articles/a1794611.html?amp=1",
+      "title": "US senator warns against Chinese AI models",
+      "seendate": "20260731T050000Z",
+      "socialimage": "https://www.prokerala.com/news/photos/imgs/1200/china-flag-1124929.jpg",
+      "domain": "prokerala.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-microsoft-worth-2030-163043930.html",
+      "url_mobile": "",
+      "title": "Prediction : Microsoft Will Be Worth This In 2030",
+      "seendate": "20260731T044500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/DB7DA27BF1498B8F0D9D32F4E3178B92FE0E4143EAACDBF01AA2DD3D6D49DAFF/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F249e5786154ef2539072f483a4858f39",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techspot.com/news/113305-iphone-mac-sales-surge-push-apple-quarterly-revenue.html",
+      "url_mobile": "",
+      "title": "iPhone and Mac sales surge push Apple quarterly revenue to $109 billion",
+      "seendate": "20260731T043000Z",
+      "socialimage": "https://www.techspot.com/images2/news/ts3_thumbs/2026/07/2026-07-30-ts3_thumbs-f84.jpg",
+      "domain": "techspot.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/30/forrester-forr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Forrester ( FORR ) Q2 2026 Earnings Call Transcript",
+      "seendate": "20260731T041500Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/msft-deadline-msft-investors-have-opportunity-to-lead-microsoft-corporation-securities-fraud-lawsuit-302839569.html",
+      "url_mobile": "",
+      "title": "MSFT Deadline : MSFT Investors Have Opportunity to Lead Microsoft Corporation Securities Fraud Lawsuit",
+      "seendate": "20260731T041500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tvtechnology.com/events/finalists-announced-for-ibc2026-innovation-awards",
+      "url_mobile": "",
+      "title": "Finalists Announced for IBC2026 Innovation Awards",
+      "seendate": "20260731T040000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/7j3Yfp4XSztSjRRzEtafAJ-1024-75.jpg",
+      "domain": "tvtechnology.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/30/dxc-dxc-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "DXC ( DXC ) Q1 2027 Earnings Call Transcript",
+      "seendate": "20260731T040000Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pr-inside.com/shareholders-of-microsoft-corporation-msft-protect-your-rights-before-r5206612.htm",
+      "url_mobile": "",
+      "title": "Shareholders of Microsoft Corporation ( MSFT ): Protect Your Rights Before ... ",
+      "seendate": "20260731T034500Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/goldman-sachs-is-very-impressed-with-microsoft-and-forecasts-behind-the-scenes-/articleshow/132753523.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/goldman-sachs-is-very-impressed-with-microsoft-and-forecasts-behind-the-scenes-/amp_articleshow/132753523.cms",
+      "title": "Goldman Sachs is  very impressed  with Microsoft , and forecasts  behind the scenes ... ",
+      "seendate": "20260731T030000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-132753517,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.pr-inside.com/securities-lawsuit-alert-microsoft-corporation-msft-contact-levi-r5206597.htm",
+      "url_mobile": "",
+      "title": "Securities Lawsuit Alert : Microsoft Corporation ( MSFT ) \u2013 Contact Levi ... ",
+      "seendate": "20260731T024500Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.networkworld.com/article/4203699/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-2.html",
+      "url_mobile": "",
+      "title": "Microsoft doubles down on multi - model AI as it builds a Copilot super app",
+      "seendate": "20260731T023000Z",
+      "socialimage": "https://www.networkworld.com/wp-content/uploads/2026/07/4203699-0-48126900-1785463840-copilot-pc-cw-shutterstock_2423375781.jpg?quality=50&strip=all",
+      "domain": "networkworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://aldergrovestar.com/2026/07/30/township-creates-policy-for-using-ai-tools/",
+      "url_mobile": "",
+      "title": "Township creates policy for using AI tools",
+      "seendate": "20260731T023000Z",
+      "socialimage": "https://aldergrovestar.com/wp-content/uploads/sites/22/2026/07/260714-LAT-TownshipCivicFacility.jpg",
+      "domain": "aldergrovestar.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/msft-deadline-msft-investors-have-opportunity-to-lead-microsoft-corporation-securities-fraud-lawsuit-302839569.html",
+      "url_mobile": "",
+      "title": "MSFT Deadline : MSFT Investors Have Opportunity to Lead Microsoft Corporation Securities Fraud Lawsuit",
+      "seendate": "20260731T021500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techrepublic.com/article/news-windows-11-kb5101684-preview-update/",
+      "url_mobile": "",
+      "title": "Windows 11 KB5101684 Preview Update Delivers 42 Fixes for Intune , SMB , and File Explorer",
+      "seendate": "20260731T011500Z",
+      "socialimage": "https://assets.techrepublic.com/uploads/2026/07/clint-patterson-jCY4oEMA3o-unsplash-1.jpg?f=jpeg",
+      "domain": "techrepublic.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-rebounded-strong-microsoft-earnings-while-jpy-surged-intervention-newsquawk-daily",
+      "url_mobile": "",
+      "title": "US stocks rebounded on strong Microsoft earnings , while JPY surged on intervention - Newsquawk Daily Asia - Pac Market Open",
+      "seendate": "20260731T011500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-07/Asia-Pac-Opening-News_20.png?itok=bzk7W6aY",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2026/07/30/microsoft-stock-biggest-one-day-gain-since-2008-480-billion-market-value-cloud-growth/",
+      "url_mobile": "",
+      "title": "Microsoft stock has biggest one - day gain since 2008 , adding $480 billion in market value",
+      "seendate": "20260731T000000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2262967364-e1785438481733.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.crn.com.au/news-network/ai/2026/microsoft-ceo-nadella-touts-ai-model-choice",
+      "url_mobile": "",
+      "title": "Microsoft CEO Nadella Touts AI Model Choice , Resilience",
+      "seendate": "20260731T000000Z",
+      "socialimage": "https://www.crn.com.au/news-network/ai/2026/media_1261b58dccf5667ffe186294126859a85fb2f5697.jpg?&format=pjpg&optimize=medium",
+      "domain": "crn.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://fortune.com/2026/07/30/why-did-microsoft-stock-increase-500-billion-market-cap/",
+      "url_mobile": "",
+      "title": "Microsoft $480 billion rally fuels a debate : financial nihilism or the true AI moat , finally coming into view ? ",
+      "seendate": "20260731T000000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2288300956-e1785443438932.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.windowscentral.com/microsoft/microsoft-stock-price-rips-on-earnings-jumping-a-record-breaking-18-percent-in-a-week-wall-street-really-liked-microsofts-earnings",
+      "url_mobile": "",
+      "title": "Microsoft stock price rips on earnings , jumping a  record breaking  18 % in a week Wall Street * really * liked Microsoft earnings",
+      "seendate": "20260731T000000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/cNGZ9TrYj92Pqzwr3mjDqJ-2560-80.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.chinatechnews.com/2026/07/31/126458-us-stocks-rebounded-on-strong-microsoft-earnings-while-jpy-surged-on-intervention-newsquawk-daily-asia-pac-market-open",
+      "url_mobile": "",
+      "title": "US stocks rebounded on strong Microsoft earnings , while JPY surged on intervention - Newsquawk Daily Asia - Pac Market Open",
+      "seendate": "20260730T233000Z",
+      "socialimage": "",
+      "domain": "chinatechnews.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.business2community.com/business-news/microsoft-365-cma-investigation-copilot-disclosure/",
+      "url_mobile": "",
+      "title": "CMA Investigates Microsoft 365 Copilot Pricing Disclosure",
+      "seendate": "20260730T233000Z",
+      "socialimage": "https://www.business2community.com/wp-content/uploads/2026/07/cma-microsoft-365-copilot-disclosure-investigation.webp",
+      "domain": "business2community.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1096286/nasdaq-posts-best-day-in-weeks-as-microsoft-leads-tech-charge-with-apple-due-1096286.html",
+      "url_mobile": "",
+      "title": "Nasdaq posts best day in weeks as Microsoft leads tech charge with Apple due",
+      "seendate": "20260730T231500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA3XC9zaHV0dGVyc3RvY2stMTM1NzQ5NjkwOV82YTZiM2QxMzlhNjk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/equity-etf-content-hub/microsofts-earnings-beat-ripple-effect-across-etf-landscape/",
+      "url_mobile": "https://www.etftrends.com/equity-etf-content-hub/microsofts-earnings-beat-ripple-effect-across-etf-landscape/amp/",
+      "title": "Microsoft Earnings Beat : A Ripple Effect Across ETF Landscape",
+      "seendate": "20260730T231500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2026/07/Microsofts-Earnings-Beat-A-Ripple-Effect-Across-ETF-Landscape-e1785444591445.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-beats-expectations-cloud-ai-223959271.html",
+      "url_mobile": "",
+      "title": "Amazon beats expectations with cloud and AI growth",
+      "seendate": "20260730T231500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/E8360CC868C0E547CD2381D4E01AFE604EB6F80A66861793F106ACF570013DAA/subgraphmysterio/resizefill_w1200_h830;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0acb55cae659d59d55e6eed06902ca1d",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/07/31/amazon-beats-expectations-with-cloud-and-ai-growth",
+      "url_mobile": "",
+      "title": "Amazon beats expectations with cloud and AI growth",
+      "seendate": "20260730T230000Z",
+      "socialimage": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/12/abae6ab7-amazon.jpg",
+      "domain": "freemalaysiatoday.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://finance.yahoo.com/healthcare/articles/fortrea-q2-earnings-call-highlights-150454455.html",
+      "url_mobile": "",
+      "title": "Fortrea Q2 Earnings Call Highlights",
+      "seendate": "20260730T230000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/CDA2D9A378FC70C4D4F102B6F2706FED0FCB378358A32238A7E72A6FC26B964E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F826e922c534ed755f7ff4f83cadb9875",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://familytreemagazine.com/strategies/genealogy-brick-walls/",
+      "url_mobile": "",
+      "title": "6 Steps for Breaking Down Genealogy Brick Walls - Family Tree Magazine",
+      "seendate": "20260730T224500Z",
+      "socialimage": "https://familytreemagazine.com/wp-content/uploads/2026/07/Brick-walls-advice-2026-feature.png",
+      "domain": "familytreemagazine.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-6-04-p-m-edt/article_17c4fbcc-45fa-55cc-a3f9-97664721f752.html",
+      "url_mobile": "",
+      "title": "AP Business SummaryBrief at 6 : 04 p . m . EDT",
+      "seendate": "20260730T224500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg",
+      "domain": "mankatofreepress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.daily-tribune.com/online_features/press_releases/beyond-artificial-intelligence-dr-terrance-j-bell-and-brightminds-technologies-created-the-missing-1-trillion/article_3a0a46ea-3436-5a59-91d0-fa339dee7781.html",
+      "url_mobile": "",
+      "title": "Beyond Artificial Intelligence : Dr . Terrance J . Bell and Brightminds Technologies Created the Missing $1 Trillion Architectural Layer for Tech Giants",
+      "seendate": "20260730T223000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/daily-tribune.com/content/tncms/assets/v3/editorial/d/37/d374a2aa-8dcb-5375-b453-1d46fdc3d851/6a6bcb83f08ef.image.jpg?crop=690%2C362%2C195%2C0",
+      "domain": "daily-tribune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://massachusettsnewswire.com/to-address-the-agentic-ai-production-gap-geekyants-announces-thegeekconf-mini-2026-74062/",
+      "url_mobile": "",
+      "title": "To Address the Agentic AI Production Gap , GeekyAnts announces thegeekconf Mini 2026",
+      "seendate": "20260730T221500Z",
+      "socialimage": "https://massachusettsnewswire.com/META/16-0730-s2p-geekyants-800x600.jpg",
+      "domain": "massachusettsnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/07/30/microsoft-nasdaqmsft-shares-up-15-5-after-earnings-beat.html",
+      "url_mobile": "",
+      "title": "Microsoft ( NASDAQ : MSFT ) Shares Up 15 . 5 % After Earnings Beat",
+      "seendate": "20260730T220000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hngn.com/articles/272462/20260730/microsoft-reports-strong-fourth-quarter-revenue-azure-tops-100-billion-annually.htm",
+      "url_mobile": "",
+      "title": "Microsoft Reports Strong Fourth - Quarter Revenue As Azure Tops $100 Billion Annually",
+      "seendate": "20260730T220000Z",
+      "socialimage": "https://d.hngn.com/en/full/304211/file-satya-nadella-speaks-davos-forum.jpg",
+      "domain": "hngn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/strong-microsoft-earnings-allow-tech-rebound-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Strong Microsoft earnings allow Tech to rebound - Newsquawk US Market Wrap",
+      "seendate": "20260730T214500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-07/US-Market-Map_19.png?itok=MWZvy8No",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.co.uk/microsoft-stock-surges-41-billion-ai-bet-eases-wall-streets-biggest-fear-1811633",
+      "url_mobile": "",
+      "title": "Microsoft Stock Surges as $41 Billion AI Bet Eases Wall Street Biggest Fear",
+      "seendate": "20260730T214500Z",
+      "socialimage": "https://d.ibtimes.co.uk/en/full/1823012/microsofts-ai-infrastructure-gamble.png",
+      "domain": "ibtimes.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.itnewsonline.com/news/thegeekconf-Mini-2026-Powered-by-GeekyAnts-Set-to-Address-the-Agentic-AI-Production-Gap/38060",
+      "url_mobile": "",
+      "title": "IT News Online - thegeekconf Mini 2026 , Powered by GeekyAnts , Set to Address the Agentic AI Production Gap",
+      "seendate": "20260730T210000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsofts-azure-momentum-changing-debate-202922294.html",
+      "url_mobile": "",
+      "title": "Microsoft Azure Momentum Is Changing the Debate",
+      "seendate": "20260730T210000Z",
+      "socialimage": "",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13523104/microsoft-q4-earnings-call-highlights.html",
+      "url_mobile": "",
+      "title": "Microsoft Q4 Earnings Call Highlights",
+      "seendate": "20260730T210000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60818129/intel-stock-soars-as-microsofts-cloud-fuels-ai-hardware-market",
+      "url_mobile": "",
+      "title": "Intel Stock Soars as Microsoft Cloud Fuels AI Hardware Market - Intel ( NASDAQ : INTC ) ",
+      "seendate": "20260730T210000Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/30/Haifa--Israel---November-1--2022-Intel-R.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-nasdaq-stock-set-another-121300809.html",
+      "url_mobile": "",
+      "title": "Dow plunges over 1 , 100 points as Fed hawkish hold sends yields higher",
+      "seendate": "20260730T204500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/32E647FF8CB57D66B7DC0DB66DAB306F7B5709AAE44D92491019B40AA6B2B25A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fproactive_us_504%2Fcae0591aaff76c1890e3c3148370e69e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techspot.com/downloads/7821-pdfgear.html",
+      "url_mobile": "",
+      "title": "PDFgear Download | TechSpot",
+      "seendate": "20260730T204500Z",
+      "socialimage": "",
+      "domain": "techspot.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/article/microsoft-and-meta-results-send-stocks-in-opposite-directions-180006443.html",
+      "url_mobile": "",
+      "title": "Microsoft and Meta results send stocks in opposite directions",
+      "seendate": "20260730T203000Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/74340A807F054CA209AB8DA46697AAAA42898FFD753A38FE4F994BD8EE2BA6F0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fb8d0dc42-ebe0-4bb5-8450-dfb1d9360e67_d5271e8908588e5697cde01380efba2bfb40079756a44e9a806fed5e20c4f8fc.jpg",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/07/29/why-llms-struggle-with-spreadsheets-tabular-foundation-models/",
+      "url_mobile": "",
+      "title": "Why ChatGPT Struggles With Spreadsheets And The AI Built To Fix It",
+      "seendate": "20260730T203000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/6a66ed579065588e6fd97620/0x0.jpg?format=jpg&crop=2001,1333,x505,y0,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.stardem.com/ap/nation/thegeekconf-mini-2026-powered-by-geekyants-set-to-address-the-agentic-ai-production-gap/article_adbb944e-20ba-5b18-b3fe-aa61b6f07e63.html",
+      "url_mobile": "",
+      "title": "thegeekconf Mini 2026 , Powered by GeekyAnts , Set to Address the Agentic AI Production Gap",
+      "seendate": "20260730T200000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/assets/v3/editorial/f/79/f79ac689-62cd-5563-bc87-991bb7536894/6a6b8fc13d9d1.image.jpg?crop=800%2C420%2C0%2C90",
+      "domain": "stardem.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://enewschannels.com/news-geekyants-announces-thegeekconf-mini-2026-set-to-address-the-agentic-ai-production-gap/",
+      "url_mobile": "",
+      "title": "News : GeekyAnts announces thegeekconf Mini 2026 , Set to Address the Agentic AI Production Gap",
+      "seendate": "20260730T200000Z",
+      "socialimage": "https://enewschannels.com/META/enewschannels-com-news-12.jpg",
+      "domain": "enewschannels.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60816060/amd-stock-jumps-as-microsoft-samsung-earnings-reignite-ai-chip-trade",
+      "url_mobile": "",
+      "title": "AMD Stock Jumps as Microsoft , Samsung Earnings Reignite AI Chip Trade - Advanced Micro Devices ( NASDAQ : AM",
+      "seendate": "20260730T193000Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/30/AMD.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ktbb.com/post/?p=1529711",
+      "url_mobile": "",
+      "title": "Microsoft beats Wall Street expectations with $90B in revenue \u2013 KTBB News , Weather , Talk",
+      "seendate": "20260730T191500Z",
+      "socialimage": "https://ktbb.com/post/wp-content/media/2022/12/facebook-og-1200630.png",
+      "domain": "ktbb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://nypost.com/2026/07/30/business/metas-record-losing-streak-continues-while-microsoft-chip-stocks-jump-on-ai-earnings/",
+      "url_mobile": "",
+      "title": "Meta record losing streak continues while Microsoft , chip stocks jump on AI earnings",
+      "seendate": "20260730T190000Z",
+      "socialimage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135995397.jpg?quality=75&strip=all",
+      "domain": "nypost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1096309/microsoft-shares-set-for-best-day-in-nearly-18-years-as-azure-surge-validates-ai-bet-1096309.html",
+      "url_mobile": "",
+      "title": "Microsoft shares set for best day in nearly 18 years as Azure surge validates AI bet",
+      "seendate": "20260730T190000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA3XC8yMDIyLTEyLTEzLTA5LTE4LTA0LTlkOTFiY2EzNWU0NWZhYjBiMzI2ODA2NzNjN2U5ZWFkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1096286/nasdaq-rebounds-hard-as-microsoft-apple-and-chipmakers-rally-1096286.html",
+      "url_mobile": "",
+      "title": "Nasdaq rebounds hard as Microsoft , Apple and chipmakers rally",
+      "seendate": "20260730T190000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA3XC9zaHV0dGVyc3RvY2stMTM1NzQ5NjkwOV82YTZiM2QxMzlhNjk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thewalrus.ca/reimagining-banking-with-human-centred-ai/",
+      "url_mobile": "",
+      "title": "Reimagining Banking with Human - Centred AI",
+      "seendate": "20260730T190000Z",
+      "socialimage": "https://walrus-assets.s3.amazonaws.com/img/TD_Illustration_01-1.png",
+      "domain": "thewalrus.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/07/30/196-billion-the-microsoft-earnings-number-that-matters-most/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "$19 . 6 Billion : The Microsoft Earnings Number That Matters Most",
+      "seendate": "20260730T181500Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/6e1c43dcb0f0675f280aa215c671e2f260657758-1200x800.png?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/07/30/196-billion-the-microsoft-earnings-number-that-matters-most/",
+      "url_mobile": "",
+      "title": "$19 . 6 Billion : The Microsoft Earnings Number That Matters Most",
+      "seendate": "20260730T174500Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/6e1c43dcb0f0675f280aa215c671e2f260657758-1200x800.png?&q=75&fit=max&auto=format",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/global/these-companies-are-cooking-with-gas-11785412374171.html",
+      "url_mobile": "https://www.livemint.com/global/these-companies-are-cooking-with-gas/amp-11785412374171.html",
+      "title": "These companies are cooking with gas",
+      "seendate": "20260730T173000Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2026/07/30/600x338/TOPSHOT-EGYPT-IRAN-US-ISRAEL-WAR-OIL-1_1785430244299_1785430270247_fcdcf607-17ce-4e66-97a5-e379d89f2328.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tylerroush/2026/07/30/zuckerbergs-fortune-drops-18-billion-as-wall-street-sours-on-metas-ai-spending/",
+      "url_mobile": "",
+      "title": "Zuckerberg Net Worth Falls $18 Billion Amid Meta Stock Plunge Wall Street Sours On AI Spending",
+      "seendate": "20260730T173000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/688baea27bd8d1750602bfc9/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/07/31/2003861670",
+      "url_mobile": "",
+      "title": "Microsoft cloud accelerates to fastest growth since 2022",
+      "seendate": "20260730T173000Z",
+      "socialimage": "https://img.taipeitimes.com/images/2026/07/31/P09-260731-334.jpg",
+      "domain": "taipeitimes.com",
+      "language": "English",
+      "sourcecountry": "Taiwan"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/19-6-billion-microsoft-earnings-160042153.html",
+      "url_mobile": "",
+      "title": "$19 . 6 Billion : The Microsoft Earnings Number That Matters Most",
+      "seendate": "20260730T164500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/58F2B36A97E117F00EABB316296D2FB41723E56FD5846C73C722230B60849339/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe1b34aeb5f4f2f8641a5e518b761f6c0",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tribune.com.pk/story/2621141/metas-ai-spending-spree-lays-bare-its-compute-dilemma",
+      "url_mobile": "",
+      "title": "Meta AI spending spree lays bare its compute dilemma",
+      "seendate": "20260730T154500Z",
+      "socialimage": "https://i.tribune.com.pk/media/images/meta-r1785420871-0/meta-r1785420871-0-640x480.webp",
+      "domain": "tribune.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-soars-meta-meta-145236893.html",
+      "url_mobile": "",
+      "title": "Microsoft ( MSFT ) Soars , Meta ( META ) Sinks After Earnings Here Why",
+      "seendate": "20260730T154500Z",
+      "socialimage": "https://s.yimg.com/lo/mysterio/api/453BABD7B4F0CCBA675303A4E7FAAEDEC27B7BACF8F14547E0059F15BFED27D6/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4f4fac98ac40b01f99d4540739f7a157",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gizmodo.com/this-touchscreen-hp-laptop-16-8gb-ram-256gb-ssd-14-hr-battery-is-now-priced-like-a-refurb-2000792703",
+      "url_mobile": "",
+      "title": "This Touchscreen HP Laptop ( 16 , 8GB RAM , 256GB SSD , 14+ Hr Battery ) Is Now Priced Like a Refurb",
+      "seendate": "20260730T153000Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2026/07/HPOmniBook3-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://nineoclock.ro/koreas-paradox-chip-demand-soars-stocks-plunge-as-investors-question-the-ai-investment-cycle-by-bogdan-maioreanu/",
+      "url_mobile": "",
+      "title": "Korea Paradox : Chip Demand Soars , Stocks Plunge as Investors Question the AI Investment Cycle , by Bogdan Maioreanu \u2013 Nine O  Clock \u2013 first exclusively daily publication to appear in English language in Romania",
+      "seendate": "20260730T153000Z",
+      "socialimage": "https://nineoclock.ro/wp-content/uploads/2026/05/Bogdan-Maioreanu-2.jpg",
+      "domain": "nineoclock.ro",
+      "language": "English",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/swiggy-trims-losses-its-comeback-rally/articleshow/132741330.cms",
+      "url_mobile": "https://m.economictimes.com/tech/newsletters/tech-top-5/swiggy-trims-losses-its-comeback-rally/amp_articleshow/132741330.cms",
+      "title": "Swiggy trims losses in Q1 ; IT comeback rally",
+      "seendate": "20260730T150000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-132741330,width-1070,height-580,imgsize-1307944,overlay-ettech/editionshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
+      "url_mobile": "",
+      "title": "CosmosEscape : Taking Over Every Azure Cosmos DB",
+      "seendate": "20260730T150000Z",
+      "socialimage": "https://www.datocms-assets.com/75231/1785342613-cosmos-2x-1.png?fm=webp",
+      "domain": "wiz.io",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.dailysabah.com/business/tech/microsoft-tops-earnings-estimates-as-azure-ai-drive-growth",
+      "url_mobile": "https://www.dailysabah.com/business/tech/microsoft-tops-earnings-estimates-as-azure-ai-drive-growth/amp",
+      "title": "Microsoft tops earnings estimates as Azure , AI drive growth",
+      "seendate": "20260730T150000Z",
+      "socialimage": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/07/30/thumbs/1200x675/453484.jpg",
+      "domain": "dailysabah.com",
+      "language": "English",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60797877/microsoft-stock-surges-nearly-10-in-thursday-premarket-as-dan-ives-hails-azure-growth-the-best-barometer-for-enterprise-ai-after-q4-earnings",
+      "url_mobile": "",
+      "title": "Microsoft Stock Surges Nearly 10 % in Thursday Premarket as Dan Ives Hails Azure Growth the  Best Baromete",
+      "seendate": "20260730T141500Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/30/New-York--Usa---July-17--2025-Microsoft-.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60798154/azure-ignites-microsoft-stock-ai-fueled-earnings-beat-sparks-9-rally",
+      "url_mobile": "",
+      "title": "Why Is Microsoft Stock Soaring Thursday ? - Microsoft ( NASDAQ : MSFT ) ",
+      "seendate": "20260730T141500Z",
+      "socialimage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/30/Kharkov--Ukraine---January-19--2021-Micr.jpg",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-equity-futures-firm-after-mixed-meta-and-msft-reports-gbp-looks-boe-jpy-boosted-us",
+      "url_mobile": "",
+      "title": "US equity futures firm after mixed META and MSFT reports , GBP looks to BoE , JPY boosted - US Market Open",
+      "seendate": "20260730T134500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-07/US-Opening-News_19.png?itok=086fBJfO",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zdnet.com/article/bleachbit-free-windows-utility-free-up-disk-space/",
+      "url_mobile": "",
+      "title": "How I free up Windows disk space and shred sensitive data for free with open - source BleachBit",
+      "seendate": "20260730T134500Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/515b4023ffabda1773ba29633960973c3c3f03dc/2026/07/30/b484a970-7a54-4079-ba59-1a403d1b21ea/figure-top-this-free-windows-utility-helps-me-easily-free-up-disk-space-on-my-pc-heres-how.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "url_mobile": "",
+      "title": "Jim Cramer top 10 things to watch in the stock market Thursday",
+      "seendate": "20260730T134500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108259045-17697076772026-01-29t172604z_10150558_rc20bja2ybrx_rtrmadp_0_starbucks-investor-day.jpeg?v=1769707764",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2026/07/30/kentucky-retirement-systems-acquires-21227-shares-of-the-walt-disney-company-dis.html",
+      "url_mobile": "",
+      "title": "Kentucky Retirement Systems Acquires 21 , 227 Shares of The Walt Disney Company $DIS",
+      "seendate": "20260730T131500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/meta-microsoft-ai-spending-tale-of-two-earnings-reports-2026-7",
+      "url_mobile": "",
+      "title": "Meta and Microsoft AI Spending : a Tale of Two Earnings Reports",
+      "seendate": "20260730T131500Z",
+      "socialimage": "https://i.insider.com/6a6a7938ce52cb26b83959ed?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbcafrica.com/2026/meta-tanks-nearly-9-microsoft-jumps-9-as-the-ai-trade-splits-big-tech",
+      "url_mobile": "",
+      "title": "Meta tanks nearly 9 %, Microsoft jumps 9 % as the AI trade splits Big Tech",
+      "seendate": "20260730T124500Z",
+      "socialimage": "https://cdn.cnbc.africa/wp-content/uploads/2026/07/108258968-1769702404587-Untitled-2.jpg",
+      "domain": "cnbcafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/30/analysts-react-to-microsofts-earnings-results-.html",
+      "url_mobile": "",
+      "title": "Analysts react to Microsoft earnings results",
+      "seendate": "20260730T123000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108298551-1777400890013-gettyimages-2272950563-MICROSOFT_EARNS.jpeg?v=1777400928",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pr-inside.com/levi-korsinsky-urges-microsoft-corporation-msft-shareholders-to-r5206307.htm",
+      "url_mobile": "",
+      "title": "Levi & Korsinsky Urges Microsoft Corporation ( MSFT ) Shareholders to ... ",
+      "seendate": "20260730T120000Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30th-july-2026/article71281731.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30th-july-2026/article71281731.ece/amp/",
+      "title": "Stock Market Today July 30 : Sensex , Nifty close in the green ; auto stocks drive markets higher",
+      "seendate": "20260730T113000Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/67wkhf/article71036024.ece/alternates/LANDSCAPE_1200/IMG_PO16_Candle_2_2_1_GTE482N4.jpg",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wral.com/consumer/5onyourside/consumer-reports-ai-chatbots-health-questions-july-2026/",
+      "url_mobile": "",
+      "title": "Consumer Reports : Should you trust AI chatbots with your health questions ? ",
+      "seendate": "20260730T111500Z",
+      "socialimage": "https://images.wral.com/f8a47460-12ef-4223-bd81-f35cc7078d75",
+      "domain": "wral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnn.com/2026/07/30/health/medical-data-records-ai-wellness",
+      "url_mobile": "",
+      "title": "Here what to know before you upload your medical data to an AI program",
+      "seendate": "20260730T111500Z",
+      "socialimage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1422478091.jpg?c=16x9&q=w_800,c_fill",
+      "domain": "cnn.com",
+      "language": "English",
+      "sourcecountry": "United States"
     }
   ]
 }
