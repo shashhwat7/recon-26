@@ -1,0 +1,2509 @@
+{
+  "company": "Microsoft",
+  "query": "\"Microsoft\" (AI OR Copilot)",
+  "start": "20250101000000",
+  "end": "20250930235959",
+  "count": 250,
+  "articles": [
+    {
+      "url": "https://kevinmd.com/2025/10/why-imposter-syndrome-is-a-systemic-issue-not-a-personal-flaw-podcast.html",
+      "url_mobile": "",
+      "title": "Why imposter syndrome is a systemic issue , not a personal flaw [ PODCAST ] ",
+      "seendate": "20251001T234500Z",
+      "socialimage": "https://kevinmd.com/wp-content/uploads/Design-3-scaled.jpg",
+      "domain": "kevinmd.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.datacenterknowledge.com/cybersecurity/how-ai-revolutionizes-and-threatens-data-center-cybersecurity",
+      "url_mobile": "",
+      "title": "AI Enhances \u2013 And Erodes \u2013 Data Center Cybersecurity",
+      "seendate": "20251001T233000Z",
+      "socialimage": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt9ca81c44770b1f35/68dd886bbe21d36db4ad2a5a/Cyberspace_funnels_with_security_shield_behind_data_security_encryption_cyber_security_concept.jpg?disable=upscale&fit=crop",
+      "domain": "datacenterknowledge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.entrepreneur.com/business-news/linkedin-ceo-uses-ai-to-write-his-most-high-stakes-emails/497828",
+      "url_mobile": "",
+      "title": "LinkedIn CEO Uses AI to Write Emails to His Boss , Microsoft CEO Satya Nadella",
+      "seendate": "20251001T231500Z",
+      "socialimage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/10/1759339927-Ryan-Roslansky-GettyImages-2179776912.jpg",
+      "domain": "entrepreneur.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/1c0f2dc93848c631",
+      "url_mobile": "",
+      "title": "Microsoft Adds Subscription Tier That Combines AI and Productivity Tools",
+      "seendate": "20251001T224500Z",
+      "socialimage": "https://biztoc.com/cdn/950/og.png",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/",
+      "url_mobile": "",
+      "title": "Microsoft to allow consumer Copilot in corporate environs",
+      "seendate": "20251001T223000Z",
+      "socialimage": "https://regmedia.co.uk/2025/10/01/shutterstockmicrosoftcopilot.jpg",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.investmentexecutive.com/newspaper_/brokerage-report-card/finding-shortcuts-without-cutting-client-service/",
+      "url_mobile": "",
+      "title": "Finding shortcuts without cutting client service | Investment Executive",
+      "seendate": "20251001T223000Z",
+      "socialimage": "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2024/09/AI-advice-Autthapol-Champathong.jpg",
+      "domain": "investmentexecutive.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.howtogeek.com/microsoft-365-now-has-more-features-and-a-premium-subscription/",
+      "url_mobile": "",
+      "title": "Microsoft 365 Now Has More Features and a  Premium  Subscription",
+      "seendate": "20251001T223000Z",
+      "socialimage": "",
+      "domain": "howtogeek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/e74af9cf330bed1b",
+      "url_mobile": "",
+      "title": "Microsoft declares bring your Copilot to work day , usurping IT authority",
+      "seendate": "20251001T220000Z",
+      "socialimage": "https://biztoc.com/cdn/e74af9cf330bed1b_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://biztoc.com/x/fa7fd01dbf5089b2",
+      "url_mobile": "",
+      "title": "Too many Copilots in the cockpit : Internal Microsoft audio shows it trying to address confusion about its AI apps",
+      "seendate": "20251001T220000Z",
+      "socialimage": "https://biztoc.com/cdn/fa7fd01dbf5089b2_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.itnewsonline.com/news/Valimail-Is-a-Proud-Participant-in-the-Microsoft-Security-Store-Partner-Ecosystem/32120",
+      "url_mobile": "",
+      "title": "IT News Online - Valimail Is a Proud Participant in the Microsoft Security Store Partner Ecosystem",
+      "seendate": "20251001T180000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/microsoft-replaces-copilot-pro-with-premium-subscription-ce7d5bd9de8ef326",
+      "url_mobile": "",
+      "title": "Microsoft Replaces Copilot Pro with Premium Subscription",
+      "seendate": "20251001T174500Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.businessinsider.com/internal-audio-microsoft-copilot-confusion-2025-9",
+      "url_mobile": "",
+      "title": "Microsoft Is Trying to Address Copilot Confusion , Audio Shows",
+      "seendate": "20251001T173000Z",
+      "socialimage": "https://i.insider.com/68dc3ab55dbc4fd10da9e484?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/0d4fdc2a361cc4b8",
+      "url_mobile": "",
+      "title": "Too many Copilots in the cockpit : Internal Microsoft audio shows it trying to address confusion about its AI apps",
+      "seendate": "20251001T171500Z",
+      "socialimage": "https://biztoc.com/cdn/0d4fdc2a361cc4b8_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.cnet.com/tech/services-and-software/want-more-ai-with-your-microsoft-office-its-arriving-in-a-365-premium-version/",
+      "url_mobile": "",
+      "title": "Want More AI With Your Microsoft Office ? It Arriving in a 365 Premium Version",
+      "seendate": "20251001T170000Z",
+      "socialimage": "https://www.cnet.com/a/img/resize/1287f94177ca60235bee91330ce62c36179c5f26/hub/2025/10/01/355eebb1-711c-4b54-8811-dfe3cadf59b1/microsoft365.jpg?auto=webp&fit=crop",
+      "domain": "cnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "http://www.tennesseedaily.com/news/278611832/valimail-is-a-proud-participant-in-the-microsoft-security-store-partner-ecosystem",
+      "url_mobile": "",
+      "title": "Valimail Is a Proud Participant in the Microsoft Security Store Partner Ecosystem",
+      "seendate": "20251001T150000Z",
+      "socialimage": "",
+      "domain": "tennesseedaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geneamusings.com/2025/10/frank-walton-seaver-in-1906-not-so.html",
+      "url_mobile": "",
+      "title": "Genea - Musings : Frank Walton Seaver in 1906 -- ( Not So ) Wordless Wednesday # 888",
+      "seendate": "20251001T144500Z",
+      "socialimage": "",
+      "domain": "geneamusings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/infra-market-takes-ipo-route-rbi-guv-on-free-upi/articleshow/124260291.cms",
+      "url_mobile": "https://m.economictimes.com/tech/newsletters/tech-top-5/infra-market-ipo-rbi-guv-on-upi-charges/amp_articleshow/124260291.cms",
+      "title": "Infra . Market IPO ; RBI Guv on UPI charges",
+      "seendate": "20251001T143000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-124260291,width-1070,height-580,imgsize-20222,overlay-ettech/editionshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2025-10/66590377-valimail-is-a-proud-participant-in-the-microsoft-security-store-partner-ecosystem-200.htm",
+      "url_mobile": "",
+      "title": "Valimail Is a Proud Participant in the Microsoft Security Store Partner Ecosystem",
+      "seendate": "20251001T140000Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-microsoft-corporation-aktie-intraklein-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/amazon-s-aws-strikes-ai-cloud-partnership-with-nba-ce7d5bd9da80f227",
+      "url_mobile": "",
+      "title": "Amazon AWS strikes AI cloud partnership with NBA",
+      "seendate": "20251001T120000Z",
+      "socialimage": "https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-10/2025-10-01T113305Z_1_LYNXNPEL901P8_RTROPTP_4_AMAZON-COM-AWS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://itbusinessnet.com/2025/10/eshare-joins-the-microsoft-security-store-partner-ecosystem/",
+      "url_mobile": "https://itbusinessnet.com/2025/10/eshare-joins-the-microsoft-security-store-partner-ecosystem/amp/",
+      "title": "eSHARE Joins the Microsoft Security Store Partner Ecosystem \u2013 IT Business Net",
+      "seendate": "20251001T114500Z",
+      "socialimage": "",
+      "domain": "itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digit.in/features/general/vibe-working-explained-microsofts-ai-agent-for-excel-word-and-powerpoint.html",
+      "url_mobile": "https://www.digit.in/features/general/vibe-working-explained-microsofts-ai-agent-for-excel-word-and-powerpoint.html/amp/",
+      "title": "Vibe working explained : Microsoft AI agent for Excel , Word , and PowerPoint",
+      "seendate": "20251001T114500Z",
+      "socialimage": "https://static.digit.in/Vibe-Working.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.techradar.com/pro/cisco-goes-all-in-on-agents-and-it-could-mean-big-changes-in-your-workplace",
+      "url_mobile": "",
+      "title": "Cisco goes all - in on agents - and it could mean big changes in your workplace",
+      "seendate": "20251001T113000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/LFeMP4c3gqqPtnknLKhsLY-1280-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/25/10/47962282/linkedin-ceo-ryan-roslansky-reveals-how-microsofts-copilot-now-shapes-every-high-stakes-email-to-ceo",
+      "url_mobile": "",
+      "title": "LinkedIn CEO Ryan Roslansky Reveals How Microsoft Copilot Now Shapes Every High - Stakes Email To CEOs , World Leaders - Microsoft ( NASDAQ : MSFT ) ",
+      "seendate": "20251001T101500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/10/01/Microsoft-Copilot-Artificial-Intelligenc.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.defenseworld.net/2025/10/01/westfuller-advisors-llc-raises-stake-in-microsoft-corporation-msft.html",
+      "url_mobile": "",
+      "title": "Westfuller Advisors LLC Raises Stake in Microsoft Corporation $MSFT",
+      "seendate": "20251001T093000Z",
+      "socialimage": "",
+      "domain": "defenseworld.net",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.financialexpress.com/life/technology-my-mom-wanted-me-at-google-says-perplexity-ceo-aravind-srinivas-calls-indians-better-founders-3995345/",
+      "url_mobile": "https://www.financialexpress.com/life/technology-my-mom-wanted-me-at-google-says-perplexity-ceo-aravind-srinivas-calls-indians-better-founders-3995345/lite/",
+      "title": "  My mom wanted me at Google , says Perplexity CEO Aravind Srinivas , calls  Indians better founder - Technology News",
+      "seendate": "20251001T081500Z",
+      "socialimage": "https://images.financialexpressdigital.com/2025/07/Untitled-design-2025-07-29T104214.645.jpg",
+      "domain": "financialexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.digit.in/news/general/microsoft-adds-animated-human-avatars-to-copilot-for-more-natural-conversations.html",
+      "url_mobile": "https://www.digit.in/news/general/microsoft-adds-animated-human-avatars-to-copilot-for-more-natural-conversations.html/amp/",
+      "title": "Microsoft adds animated human avatars to Copilot for more natural conversations",
+      "seendate": "20251001T071500Z",
+      "socialimage": "https://static.digit.in/Microsoft-Copilot-Portraits-feature.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thefastmode.com/technology-solutions/44972-connected-intelligence-cisco-launches-next-gen-ai-agents-and-roomos-26",
+      "url_mobile": "",
+      "title": "Connected Intelligence : Cisco Launches Next - Gen AI Agents and RoomOS 26",
+      "seendate": "20251001T064500Z",
+      "socialimage": "https://www.thefastmode.com/media/k2/items/src/6d983c3fa6bcae2d521dcc1e6e51494d.jpg?t=20251001_024121",
+      "domain": "thefastmode.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.financialexpress.com/life/technology-qualcomm-snapdragon-8-elite-gen-5-x2-elite-extreme-chipsets-are-focused-on-enhancing-overall-user-experience-top-executive-3995151/",
+      "url_mobile": "https://www.financialexpress.com/life/technology-qualcomm-snapdragon-8-elite-gen-5-x2-elite-extreme-chipsets-are-focused-on-enhancing-overall-user-experience-top-executive-3995151/lite/",
+      "title": "Qualcomm Snapdragon 8 Elite Gen 5 , X2 Elite Extreme chipsets are focused on enhancing overall user experience : Top executive",
+      "seendate": "20251001T063000Z",
+      "socialimage": "https://images.financialexpressdigital.com/2025/10/Untitled-design-2025-10-01T092801.999.jpg",
+      "domain": "financialexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/indians-can-build-global-companies-not-just-manage-them-perplexity-ceo-aravind-srinivas/articleshow/124247896.cms",
+      "url_mobile": "https://m.economictimes.com/tech/technology/indians-can-build-global-companies-not-just-manage-them-perplexity-ceo-aravind-srinivas/amp_articleshow/124247896.cms",
+      "title": "Perplexity CEO Aravind Srinivas : Indians can build global companies , not just manage them",
+      "seendate": "20251001T054500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-833281,resizemode-75,msid-124247896/tech/technology/indians-can-build-global-companies-not-just-manage-them-perplexity-ceo-aravind-srinivas.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://kevinmd.com/2025/09/a-psychiatrist-reflects-on-two-decades-of-treating-depression-with-ketamine-podcast.html",
+      "url_mobile": "",
+      "title": "A psychiatrist reflects on two decades of treating depression with ketamine [ PODCAST ] ",
+      "seendate": "20251001T041500Z",
+      "socialimage": "https://kevinmd.com/wp-content/uploads/Design-4-scaled.jpg",
+      "domain": "kevinmd.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.windowscentral.com/microsoft/windows-11/is-your-pc-getting-the-windows-11-2025-update-on-october-x-2025",
+      "url_mobile": "",
+      "title": "Windows 11 version 25H2 is out , but when will you get it ? ",
+      "seendate": "20251001T023000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/LKGs7ESi5KZehuBw64smWi-1680-80.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.crn.com.au/news-network/security/2025/5-big-new-microsoft-updates-for-sentinel",
+      "url_mobile": "",
+      "title": "5 Big New Microsoft Updates For Sentinel , Agentic Security",
+      "seendate": "20251001T021500Z",
+      "socialimage": "https://www.crn.com.au/news-network/security/2025/media_14fb02b4a10de12b7bfba7c8e6c2c7539b668ad87.jpg?&format=pjpg&optimize=medium",
+      "domain": "crn.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/microsoft-unveils-unified-ai-security-platform-to-counter-threats",
+      "url_mobile": "",
+      "title": "Microsoft unveils unified AI security platform to counter threats",
+      "seendate": "20251001T014500Z",
+      "socialimage": "https://itbrief.co.nz/uploads/story/2025/10/01/compatible_realistic-illustration-computer-workstation-glowing-digital-shield-ai-cybersecurity-defense.jpg",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/india-biggest-user-base-perplexity-plans-local-fund-ceo-aravind-srinivas/articleshow/124242795.cms",
+      "url_mobile": "https://m.economictimes.com/tech/technology/india-biggest-user-base-perplexity-plans-local-fund-ceo-aravind-srinivas/amp_articleshow/124242795.cms",
+      "title": "ETtech Interview : India biggest user base ; Perplexity plans local fund : CEO Aravind Srinivas",
+      "seendate": "20251001T010000Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-63758,resizemode-75,msid-124242795/tech/technology/india-biggest-user-base-perplexity-plans-local-fund-ceo-aravind-srinivas.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2025/oct/01/front-page/india-biggest-user-base-perplexity-plans-local-fund/articleshow/124245234.cms",
+      "url_mobile": "",
+      "title": "  India Biggest User Base ; Perplexity Plans Local Fund  ",
+      "seendate": "20251001T010000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-124245238,width-1200,height-630,imgsize-63758,overlay-economictimes/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/navatar-funds-growth-with-support-of-decathlon-capital-partners-302571434.html",
+      "url_mobile": "",
+      "title": "Navatar Funds Growth With Support Of Decathlon Capital Partners",
+      "seendate": "20251001T001500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/",
+      "url_mobile": "",
+      "title": "With new agent mode for Excel and Word , Microsoft touts  vibe working  ",
+      "seendate": "20250930T210000Z",
+      "socialimage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/M365-Blog_09292025_agentMode_Hero_v1-809x455-1.webp",
+      "domain": "arstechnica.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.howtogeek.com/visual-studio-september-update-has-arrived/",
+      "url_mobile": "",
+      "title": "Visual Studio September Update Has Arrived : Here What New",
+      "seendate": "20250930T210000Z",
+      "socialimage": "",
+      "domain": "howtogeek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-30-google-gemini-ai-unleashes-instant-summarization-reshaping-productivity-and-googles-ai-ambitions",
+      "url_mobile": "",
+      "title": "Google Gemini AI Unleashes Instant Summarization , Reshaping Productivity and Google AI Ambitions",
+      "seendate": "20250930T203000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rcrwireless.com/20250930/analyst-angle/when-ai-reads-your-work",
+      "url_mobile": "",
+      "title": "When AI reads your work , who should benefit ? ( Analyst Angle ) ",
+      "seendate": "20250930T203000Z",
+      "socialimage": "https://www.rcrwireless.com/wp-content/uploads/2025/09/244312473_m1.png",
+      "domain": "rcrwireless.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-30-ai-achieves-expert-level-performance-in-half-of-professional-tasks-redefining-future-of-work",
+      "url_mobile": "",
+      "title": "AI Achieves Expert - Level Performance in Half of Professional Tasks , Redefining Future of Work",
+      "seendate": "20250930T203000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/microsoft-msft-announces-it-will-integrate-ai-models-from-anthropic-into-its-copilot-assistant-1618781/",
+      "url_mobile": "https://www.insidermonkey.com/blog/microsoft-msft-announces-it-will-integrate-ai-models-from-anthropic-into-its-copilot-assistant-1618781/?amp=1",
+      "title": "Microsoft ( MSFT ) Announces it Will Integrate AI Models from Anthropic Into its Copilot Assistant",
+      "seendate": "20250930T201500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19152304/MSFT-insidermonkey-1695151382226.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/cyberark-is-a-proud-participant-in-the-microsoft-security-store-partner-ecosystem-ce7d5bd8df81f62c",
+      "url_mobile": "",
+      "title": "CyberArk Is a Proud Participant in the Microsoft Security Store Partner Ecosystem",
+      "seendate": "20250930T200000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
+      "url_mobile": "",
+      "title": "Microsoft is giving Copilot AI faces you can chat with",
+      "seendate": "20250930T194500Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Microsoft-Copilot-Portraits-experiment.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-30-qualcomms-snapdragon-x-chips-ignite-windows-pc-market-reshaping-ai-computing-landscape",
+      "url_mobile": "",
+      "title": "Qualcomm Snapdragon X Chips Ignite Windows PC Market , Reshaping AI Computing Landscape",
+      "seendate": "20250930T194500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/09/30/3159009/0/en/Aviatrix-is-a-Proud-Participant-in-the-Microsoft-Security-Store-Partner-Ecosystem.html",
+      "url_mobile": "",
+      "title": "Aviatrix\u00ae is a Proud Participant in the Microsoft Security",
+      "seendate": "20250930T193000Z",
+      "socialimage": "https://ml.globenewswire.com/Resource/Download/48647f00-2383-4c06-98df-a4990a64e4fc",
+      "domain": "globenewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2025-09/66581456-cyera-is-a-proud-participant-in-the-microsoft-sentinel-partner-ecosystem-004.htm",
+      "url_mobile": "",
+      "title": "Cyera Is a Proud Participant in the Microsoft Sentinel Partner Ecosystem",
+      "seendate": "20250930T193000Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-microsoft-corporation-aktie-intraklein-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.itnewsonline.com/PRNewswire/XTEL-Acquires-Perfect-Category/1084235",
+      "url_mobile": "",
+      "title": "XTEL Acquires Perfect Category",
+      "seendate": "20250930T184500Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/microsoft-excel-marks-40-years-evolution-from-spreadsheets-to-ai-tools/",
+      "url_mobile": "",
+      "title": "Microsoft Excel Marks 40 Years : Evolution from Spreadsheets to AI Tools",
+      "seendate": "20250930T180000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-2455fb40-f790-43e7-b3de-ef57163448c9.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/09/30/3158966/0/en/Illumio-is-a-Proud-Participant-in-the-Microsoft-Sentinel-Partner-Ecosystem.html",
+      "url_mobile": "",
+      "title": "Illumio is a Proud Participant in the Microsoft Sentinel",
+      "seendate": "20250930T173000Z",
+      "socialimage": "https://ml.globenewswire.com/Resource/Download/8b1715f4-23f7-40c1-b61b-7ff865a3a676",
+      "domain": "globenewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zdnet.com/article/microsofts-lets-you-pick-a-character-for-your-ai-with-its-new-copilot-portraits-feature/",
+      "url_mobile": "",
+      "title": "Microsoft lets you pick a character for your AI - with its new Copilot Portraits feature",
+      "seendate": "20250930T170000Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/e8fa8207e3c11958c60c5a74171f0846779cc905/2025/09/30/f1badef7-31ac-4cdb-a46d-00ab265c297b/microsoft-copilot-portraits.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.computerworld.com/article/4065664/cisco-unveils-ai-agents-for-webex-meetings.html",
+      "url_mobile": "",
+      "title": "Cisco unveils AI agents for Webex meetings",
+      "seendate": "20250930T164500Z",
+      "socialimage": "https://www.computerworld.com/wp-content/uploads/2025/09/4065664-0-88036200-1759248914-webex-ai-polls-in-meetings.jpg?quality=50&strip=all",
+      "domain": "computerworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pcworld.com/article/2925325/copilots-new-agent-mode-is-your-personal-ai-wizard-for-office.html",
+      "url_mobile": "",
+      "title": "Copilot new  Agent Mode  is your personal AI wizard for Office",
+      "seendate": "20250930T154500Z",
+      "socialimage": "https://www.pcworld.com/wp-content/uploads/2025/09/microsoft-365-copilot-agent-mode.jpg?quality=50&strip=all",
+      "domain": "pcworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.workerscompensation.com/daily-headlines/science-lab-custom-gpts-for-workers-comp-programs/",
+      "url_mobile": "",
+      "title": "Science Lab : Custom GPTs for Worker Comp Programs - WorkersCompensation . com",
+      "seendate": "20250930T153000Z",
+      "socialimage": "",
+      "domain": "workerscompensation.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/lenovo-yoga-7-2-in-1-laptop-deal-best-buy-september-2025/",
+      "url_mobile": "",
+      "title": "This Lenovo 2 - in - 1 laptop is a Copilot+ PC with an OLED screen -- $450 off ! ",
+      "seendate": "20250930T143000Z",
+      "socialimage": "https://www.digitaltrends.com/wp-content/uploads/2025/09/Lenovo-Yoga-7-14-2-in-1-laptop.jpg",
+      "domain": "digitaltrends.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themobileindian.com/news/microsoft-debuts-vibe-working-with-agent-mode-and-office-agent-in-365-copilot",
+      "url_mobile": "",
+      "title": "Microsoft Debuts Vibe Working With Agent Mode and Office Agent in 365 Copilot",
+      "seendate": "20250930T140000Z",
+      "socialimage": "https://www.themobileindian.com/wp-content/uploads/2025/09/Vibe-Working-with-Agent-Mode.jpg",
+      "domain": "themobileindian.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.theverge.com/news/788195/microsoft-security-store-launch-copilot-ai-agents",
+      "url_mobile": "",
+      "title": "Microsoft new Security Store is like an app store for cybersecurity",
+      "seendate": "20250930T134500Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2025-09/66577986-autorek-achieves-microsoft-solutions-partner-certified-software-designation-for-financial-services-ai-004.htm",
+      "url_mobile": "",
+      "title": "AutoRek Achieves Microsoft Solutions Partner Certified Software Designation for Financial Services AI",
+      "seendate": "20250930T133000Z",
+      "socialimage": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20250930563892r1&sid=gefi2&distro=ftp",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.forbes.com/sites/victordey/2025/09/30/servicenow-says-ai-first-interfaces-will-define-the-future-of-enterprise-ai/",
+      "url_mobile": "",
+      "title": "ServiceNow Says AI - First Interfaces Will Define The Future Of Enterprise AI",
+      "seendate": "20250930T133000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68dbd33a8e1c02389d0eed39/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pcmag.com/news/best-early-laptop-deals-amazon-prime-day-oct-2025",
+      "url_mobile": "",
+      "title": "Ive Already Found the Best Early Prime Big Deal Days Sales on Laptops",
+      "seendate": "20250930T123000Z",
+      "socialimage": "https://i.pcmag.com/imagery/articles/07sweWtyp9YLj97tQeHZCcM-5.fit_lim.size_1200x630.v1759155793.png",
+      "domain": "pcmag.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.windowscentral.com/software-apps/opera-is-next-in-line-to-release-an-ai-powered-web-browser-that-costs-money-to-use",
+      "url_mobile": "",
+      "title": "Opera launches $20 a month AI - powered web browser dubbed Neon",
+      "seendate": "20250930T121500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/RWG9RVzEtMc6rwpqvjhX4c-2560-80.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.philippinetimes.com/news/278609179/itap-2025-set-to-catalyse-growth-with-ai-powered-solutions-global-partnerships-and-startup-innovations",
+      "url_mobile": "",
+      "title": "ITAP 2025 Set to Catalyse Growth with AI - Powered Solutions , Global Partnerships and Startup Innovations",
+      "seendate": "20250930T114500Z",
+      "socialimage": "",
+      "domain": "philippinetimes.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "http://www.vietnamtribune.com/news/278609179/itap-2025-set-to-catalyse-growth-with-ai-powered-solutions-global-partnerships-and-startup-innovations",
+      "url_mobile": "",
+      "title": "ITAP 2025 Set to Catalyse Growth with AI - Powered Solutions , Global Partnerships and Startup Innovations",
+      "seendate": "20250930T113000Z",
+      "socialimage": "",
+      "domain": "vietnamtribune.com",
+      "language": "English",
+      "sourcecountry": "Vietnam"
+    },
+    {
+      "url": "https://www.moneycontrol.com/technology/windows-10-support-ends-in-october-14-2025-here-s-what-microsoft-wants-millions-of-pc-users-to-know-article-13590486.html",
+      "url_mobile": "https://www.moneycontrol.com/technology/windows-10-support-ends-in-october-14-2025-here-s-what-microsoft-wants-millions-of-pc-users-to-know-article-13590486.html/amp",
+      "title": "Windows 10 support ends in October 14 , 2025 : Here what Microsoft wants millions of PC users to know",
+      "seendate": "20250930T110000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2025/06/20250625095248_Windows-10.jpeg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/chatgpt-unveils-instant-checkout-feature-simplifying-purchases-within-chats-10280211/",
+      "url_mobile": "https://indianexpress.com/article/technology/tech-news-technology/chatgpt-unveils-instant-checkout-feature-simplifying-purchases-within-chats-10280211/lite/",
+      "title": "ChatGPT unveils  Instant Checkout  feature , simplifying purchases within chats | Technology News",
+      "seendate": "20250930T104500Z",
+      "socialimage": "https://images.indianexpress.com/2025/08/ChatGPT-Express-Photo-2.jpg",
+      "domain": "indianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.sydneysun.com/news/278609179/itap-2025-set-to-catalyse-growth-with-ai-powered-solutions-global-partnerships-and-startup-innovations",
+      "url_mobile": "",
+      "title": "ITAP 2025 Set to Catalyse Growth with AI - Powered Solutions , Global Partnerships and Startup Innovations",
+      "seendate": "20250930T101500Z",
+      "socialimage": "",
+      "domain": "sydneysun.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.mondaq.com:443/unitedstates/new-technology/1684396/ai-adoption-in-law-meeting-client-demands-responsibly",
+      "url_mobile": "",
+      "title": "AI Adoption In Law : Meeting Client Demands Responsibly",
+      "seendate": "20250930T084500Z",
+      "socialimage": "http://www.mondaq.com/images/MondaqThumb.png",
+      "domain": "mondaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.webindia123.com/news/Articles/Business/20250930/4367211.html",
+      "url_mobile": "",
+      "title": "ITAP 2025 Set to Catalyse Growth with AI - Powered Solutions , Global Partnerships and Startup Innovations",
+      "seendate": "20250930T081500Z",
+      "socialimage": "",
+      "domain": "news.webindia123.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.zdnet.com/article/cant-upgrade-your-windows-10-pc-you-have-2-weeks-to-act-and-5-options/",
+      "url_mobile": "",
+      "title": "Cant upgrade your Windows 10 PC ? You have 2 weeks to act - and 5 options",
+      "seendate": "20250930T074500Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/fd75f18c3db7be084d0903c24c6ba5d7a7ecda15/2025/09/24/0308e30e-dc73-49c5-9bca-f5ea8fa4b8e2/gettyimages-1135544602.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.zdnet.com/article/microsoft-has-lost-its-way/",
+      "url_mobile": "",
+      "title": "Microsoft has lost its way",
+      "seendate": "20250930T074500Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/56f18d80c3d7c84e03b2a0d417066f7a8be6a481/2025/09/29/59877ce6-8848-4f29-a67d-667433c7d1c4/gettyimages-2215448403.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "http://www.heraldglobe.com/news/278609150/itap-2025-set-to-catalyse-growth-with-ai-powered-solutions-global-partnerships-and-startup-innovations",
+      "url_mobile": "",
+      "title": "ITAP 2025 Set to Catalyse Growth with AI - Powered Solutions , Global Partnerships and Startup Innovations",
+      "seendate": "20250930T073000Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/76d3bf0/0b65b84c-189d-4506-b638-94de54257668/0/YWYxZjc0MWQtZGJ-600x315.jpg",
+      "domain": "heraldglobe.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/anthropic-launches-claude-4-5-and-targets-professional-uses-of-ai-ce7d5bdbd08cf126",
+      "url_mobile": "",
+      "title": "Anthropic launches Claude 4 . 5 and targets professional uses of AI",
+      "seendate": "20250930T073000Z",
+      "socialimage": "https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-claude-45-touts-better-abilities-targets-business-customers/article70111589.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-claude-45-touts-better-abilities-targets-business-customers/article70111589.ece/amp/",
+      "title": "Anthropic launches Claude 4 . 5 , touts better abilities , targets business customers",
+      "seendate": "20250930T044500Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/h2m8xo/article70111597.ece/alternates/LANDSCAPE_1200/2025-09-25T223814Z_474966659_RC29ZGADRRK3_RTRMADP_3_ANTHROPIC-AI-COPYRIGHT-SETTLEMENT.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.bgr.com/1982309/microsoft-365-copilot-vibe-working-agent-mode-office/",
+      "url_mobile": "",
+      "title": "Microsoft 365 Apps Introduce  Vibe Working  To Make AI Agents Do Your Work For You",
+      "seendate": "20250930T044500Z",
+      "socialimage": "https://www.bgr.com/img/gallery/microsoft-365-apps-introduce-vibe-working-to-make-ai-agents-do-your-work-for-you/l-intro-1759189011.jpg",
+      "domain": "bgr.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.applevalleynewsnow.com/news/wsu-tri-cities-brings-back-popular-ai-workshop-for-second-session/article_2756ce7b-2ae4-4b02-ad95-74bd3c99fd52.html",
+      "url_mobile": "",
+      "title": "WSU Tri - Cities brings back popular AI workshop for second session",
+      "seendate": "20250930T033000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/applevalleynewsnow.com/content/tncms/assets/v3/editorial/3/70/370be22f-8fb1-4ca3-b3c8-76dccca49606/68db237fc54d9.image.jpg?crop=1280%2C672%2C0%2C23",
+      "domain": "applevalleynewsnow.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://siliconangle.com/2025/09/29/microsoft-wants-everyone-start-vibe-working-ai-agents-excel-word/",
+      "url_mobile": "",
+      "title": "Microsoft wants everyone to start  vibe working  with AI agents in Excel and Word",
+      "seendate": "20250930T030000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Screenshot-from-2025-09-30-06-34-07.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
+      "url_mobile": "",
+      "title": "Microsoft is bringing its Windows engineering teams back together again",
+      "seendate": "20250930T014500Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.makeuseof.com/forget-vibe-coding-microsoft-wants-vibe-working/",
+      "url_mobile": "",
+      "title": "Forget vibe coding ;  vibe working  is Microsoft next big plan",
+      "seendate": "20250930T011500Z",
+      "socialimage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/09/microsoft-vibe-coding-home-page.jpg?&fit=crop",
+      "domain": "makeuseof.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.govtech.com/workforce/denver-cio-adds-artificial-intelligence-to-title",
+      "url_mobile": "",
+      "title": "Denver CIO Adds  Artificial Intelligence  to Title",
+      "seendate": "20250930T003000Z",
+      "socialimage": "http://erepublic-brightspot.s3.us-west-2.amazonaws.com/4a/9a/eab3354313e56eae28e88e13cedd/suma-nallapati-dish-network.JPG",
+      "domain": "govtech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gadget.co.za/aceraiclassrooms36t/",
+      "url_mobile": "https://gadget.co.za/aceraiclassrooms36t?amp=1",
+      "title": "Acer , Intel , build AI classrooms \u2013 Gadget",
+      "seendate": "20250930T001500Z",
+      "socialimage": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2025/09/acer-for-education-ai-classroom-khanmigo-for-teachers.png?fit=720%2C400&ssl=1",
+      "domain": "gadget.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.webpronews.com/qualcomm-snapdragon-x2-elite-extreme-5ghz-arm-chip-tops-intel-amd-apple-benchmarks/",
+      "url_mobile": "",
+      "title": "Qualcomm Snapdragon X2 Elite Extreme : 5GHz Arm Chip Tops Intel , AMD , Apple Benchmarks",
+      "seendate": "20250929T213000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-6799003d-4c76-42f0-9a8b-f93a7c9670d6.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.windowscentral.com/hardware/lenovo/lenovo-laptop-deals-windows-10-eol",
+      "url_mobile": "",
+      "title": "Lenovo has knocked up to $700 off Windows 11 laptops",
+      "seendate": "20250929T213000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/ngBzZETSgoW2Sw4KkzynY5-1600-80.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsofts-latest-ai-experiment-wants-you-to-talk-with-digital-portraits-via-copilot",
+      "url_mobile": "",
+      "title": "Microsoft latest AI experiment turns portraits into talking heads",
+      "seendate": "20250929T213000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/M5YpQbAz56NiiPgttttFfm-2560-80.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/microsofts-vibe-working-ai-revolutionizes-office-productivity-in-365/",
+      "url_mobile": "",
+      "title": "Microsoft Vibe Working : AI Revolutionizes Office Productivity in 365",
+      "seendate": "20250929T213000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-3780ace8-f32d-4c44-9c1d-6066c81744be.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.slashgear.com/1979066/reasons-why-should-use-linux-instead-of-windows/",
+      "url_mobile": "",
+      "title": "5 Reasons You Should Move To Linux Instead Of Windows 11",
+      "seendate": "20250929T194500Z",
+      "socialimage": "https://www.slashgear.com/img/gallery/5-reasons-you-should-move-to-linux-instead-of-windows-11/l-intro-1758880187.jpg",
+      "domain": "slashgear.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mdjonline.com/news/lifestyle/how-artificial-intelligence-is-helping-doctors-focus-more-on-you/article_f116fe44-2c2c-4e7b-976c-6ecd8762beec.html",
+      "url_mobile": "https://www.mdjonline.com/news/lifestyle/how-artificial-intelligence-is-helping-doctors-focus-more-on-you/article_f116fe44-2c2c-4e7b-976c-6ecd8762beec.amp.html",
+      "title": "How artificial intelligence is helping doctors focus more on you",
+      "seendate": "20250929T193000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/0/29/02901fe1-863a-43fa-8c75-5d0ae7806433/68dab3b9c16ab.image.png?crop=1107%2C581%2C0%2C0",
+      "domain": "mdjonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zdnet.com/article/this-new-windows-11-trick-uses-ai-to-tame-your-chaotic-photo-library-how-to-try-it-now/",
+      "url_mobile": "",
+      "title": "This new Windows 11 trick uses AI to tame your chaotic photo library - how to try it now",
+      "seendate": "20250929T181500Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/5562def1a3b893796d87c793868bede135a987da/2025/09/29/77a354d0-3b6c-4c75-9ed0-0f1422a7df85/microsoft-photos-can-categorize-your-images-via-ai-heres-what-youll-need.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.moneycontrol.com/technology/microsoft-ceo-satya-nadella-shows-how-copilot-can-make-you-better-at-word-excel-and-more-using-vibe-working-article-13589049.html",
+      "url_mobile": "https://www.moneycontrol.com/technology/microsoft-ceo-satya-nadella-shows-how-copilot-can-make-you-better-at-word-excel-and-more-using-vibe-working-article-13589049.html/amp",
+      "title": "Microsoft brings  vibe working  to 365 Copilot with Agent Mode for Word , Excel , and PowerPoint ; CEO Satya Nadella shows how it works",
+      "seendate": "20250929T180000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2025/09/20250929170659_Vibe.png",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-29-anthropics-claude-sonnet-45-unleashes-a-new-era-of-ai-powered-enterprise-software-development",
+      "url_mobile": "",
+      "title": "Anthropic Claude Sonnet 4 . 5 Unleashes a New Era of AI - Powered Enterprise Software Development",
+      "seendate": "20250929T180000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-29-the-ai-arms-race-how-intelligent-systems-are-redefining-cybersecurity-with-crowdstrike-leading-the-charge",
+      "url_mobile": "",
+      "title": "The AI Arms Race : How Intelligent Systems Are Redefining Cybersecurity , With CrowdStrike Leading the Charge",
+      "seendate": "20250929T180000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://channelbuzz.ca/2025/09/pure-storage-adds-new-ai-and-cloud-innovations-to-platform-44754/",
+      "url_mobile": "",
+      "title": "Pure Storage adds new AI and cloud innovations to platform",
+      "seendate": "20250929T174500Z",
+      "socialimage": "https://i0.wp.com/channelbuzz.ca/wp-content/uploads/2025/09/pure-storage.png.imgo_.png?fit=870%2C334&ssl=1",
+      "domain": "channelbuzz.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://gamerant.com/new-xbox-console-update-september-2025-offer-wallet/",
+      "url_mobile": "",
+      "title": "New Xbox Console Update Detailed",
+      "seendate": "20250929T174500Z",
+      "socialimage": "",
+      "domain": "gamerant.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techradar.com/pro/microsoft-edge-gets-a-major-security-upgrade-which-should-ease-concerns-for-many-users",
+      "url_mobile": "",
+      "title": "Microsoft Edge gets a major security upgrade which should ease concerns for many users",
+      "seendate": "20250929T163000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/MDH8LFSCsjrC7irUN3rK7-970-80.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+      "url_mobile": "",
+      "title": "Microsoft launches  vibe working  in Excel and Word",
+      "seendate": "20250929T163000Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/excelagentmode.jpg?quality=90&strip=all&crop=0%2C3.477724691513%2C100%2C93.044550616974",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.makeuseof.com/cons-of-using-local-account-windows/",
+      "url_mobile": "",
+      "title": "I tried using my Windows PC with a local account but it didnt last very long",
+      "seendate": "20250929T160000Z",
+      "socialimage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-laptop-showing-local-account.JPG?&fit=crop",
+      "domain": "makeuseof.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://htxt.co.za/2025/09/unsure-about-windows-11-compatibility-double-check-in-seconds/",
+      "url_mobile": "",
+      "title": "Unsure about Windows 11 compatibility ? Double check in seconds",
+      "seendate": "20250929T154500Z",
+      "socialimage": "https://htxt.co.za/wp-content/uploads/2025/09/b78c4750-7d8c-462e-81bd-3d9d8b557651.png",
+      "domain": "htxt.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://htxt.co.za/2025/09/the-business-benefits-of-windows-11/",
+      "url_mobile": "",
+      "title": "The business benefits of Windows 11",
+      "seendate": "20250929T154500Z",
+      "socialimage": "https://htxt.co.za/wp-content/uploads/2025/09/Windows-11-Hero-Image.jpg",
+      "domain": "htxt.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.webpronews.com/apple-advances-ai-with-siri-chatbot-accelerates-m5-macbooks-and-monitors/",
+      "url_mobile": "",
+      "title": "Apple Advances AI with Siri Chatbot , Accelerates M5 MacBooks and Monitors",
+      "seendate": "20250929T150000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-6d8d7429-438b-41cd-82a1-fd7abac95cee.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://pcr-online.biz/2025/09/29/ai-classroom-pilot-launches-in-50-schools/",
+      "url_mobile": "",
+      "title": "AI classroom pilot launches in 50 European schools",
+      "seendate": "20250929T140000Z",
+      "socialimage": "https://pcr-online.biz/wp-content/uploads/acer-1-1024x723.jpg",
+      "domain": "pcr-online.biz",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.computerworld.com/article/4061628/why-chatgpt-beats-copilot.html",
+      "url_mobile": "",
+      "title": "Why ChatGPT beats Copilot",
+      "seendate": "20250929T121500Z",
+      "socialimage": "https://www.computerworld.com/wp-content/uploads/2025/09/4061628-0-89270100-1759131824-Bildschirmfoto-2025-08-13-um-16.09.38.png",
+      "domain": "computerworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://htxt.co.za/2025/09/your-business-and-windows-11-what-you-need-to-know/",
+      "url_mobile": "",
+      "title": "Your business and Windows 11 : What you need to know",
+      "seendate": "20250929T104500Z",
+      "socialimage": "https://htxt.co.za/wp-content/uploads/2025/09/Windows-11-Desktop.jpg",
+      "domain": "htxt.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.thedailystar.net/tech-startup/news/anthropic-triple-global-workforce-amid-overseas-growth-3997411",
+      "url_mobile": "",
+      "title": "Anthropic to triple global workforce amid overseas growth",
+      "seendate": "20250929T104500Z",
+      "socialimage": "",
+      "domain": "thedailystar.net",
+      "language": "English",
+      "sourcecountry": "Bangladesh"
+    },
+    {
+      "url": "https://www.tomsguide.com/computing/windows-operating-systems/5-things-i-wish-i-knew-about-windows-11-when-i-upgraded-from-windows-10",
+      "url_mobile": "",
+      "title": "5 things I wish I knew about Windows 11 when I upgraded from Windows 10",
+      "seendate": "20250929T094500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/sN6famZzB72kSNZMLrvXs3.jpg",
+      "domain": "tomsguide.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.macworld.com/article/2920342/windows-11-pro-dropped-to-just-10-save-189-while-you-can.html",
+      "url_mobile": "",
+      "title": "Windows 11 Pro dropped to just $10 save $189 while you can",
+      "seendate": "20250929T093000Z",
+      "socialimage": "https://www.macworld.com/wp-content/uploads/2025/09/Windows-11-Pro-4.jpg?quality=50&strip=all",
+      "domain": "macworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sci-tech-today.com/stats/app-revenue-statistics/",
+      "url_mobile": "",
+      "title": "App Revenue Statistics By Platform , Market And Facts ( 2025 ) ",
+      "seendate": "20250929T091500Z",
+      "socialimage": "https://www.sci-tech-today.com/wp-content/uploads/2025/09/App-Revenue-Statistics.jpg",
+      "domain": "sci-tech-today.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pcworld.com/article/2921667/smooth-smarter-and-more-secure-windows-11-pro-is-now-9-97.html",
+      "url_mobile": "",
+      "title": "Smooth , smarter , and more secure Windows 11 Pro is now $9 . 97",
+      "seendate": "20250929T083000Z",
+      "socialimage": "https://www.pcworld.com/wp-content/uploads/2025/09/Windows-11-Pro-5.jpg?quality=50&strip=all",
+      "domain": "pcworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/09/28/microsoft-nasdaqmsft-price-target-raised-to-625-00.html",
+      "url_mobile": "",
+      "title": "Microsoft ( NASDAQ : MSFT ) Price Target Raised to $625 . 00",
+      "seendate": "20250929T061500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13171943/microsoft-nasdaqmsft-price-target-raised-to-625-00-at-morgan-stanley.html",
+      "url_mobile": "",
+      "title": "Microsoft ( NASDAQ : MSFT ) Price Target Raised to $625 . 00 at Morgan Stanley",
+      "seendate": "20250929T060000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://itwire.com/it-people-news/people-moves/pax8-appoints-kathryn-almendarez-marsman-as-senior-vice-president-of-global-vendor-alliances.html",
+      "url_mobile": "",
+      "title": "iTWire - Pax8 Appoints Kathryn Almendarez Marsman as Senior Vice President of Global Vendor Alliances",
+      "seendate": "20250929T004500Z",
+      "socialimage": "https://itwire.com/media/k2/items/cache/0f0e55222fe1c65744d64a0be80ad9df_XS.jpg",
+      "domain": "itwire.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://kevinmd.com/2025/09/when-a-pediatrician-becomes-the-parent-navigating-childhood-obesity-podcast.html",
+      "url_mobile": "",
+      "title": "When a pediatrician becomes the parent navigating childhood obesity [ PODCAST ] ",
+      "seendate": "20250929T001500Z",
+      "socialimage": "https://kevinmd.com/wp-content/uploads/Design-2-scaled.jpg",
+      "domain": "kevinmd.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnews.com.au/news/anthropic-to-triple-global-workforce-amid-rising-overseas-demand-620629",
+      "url_mobile": "",
+      "title": "Anthropic to triple global workforce amid rising overseas demand",
+      "seendate": "20250928T230000Z",
+      "socialimage": "https://i.nextmedia.com.au/News/iStock-2203181438.jpg",
+      "domain": "itnews.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.windowscentral.com/hardware/lenovo/lenovo-yoga-pro-9i-16-gen-10-aura-edition-review",
+      "url_mobile": "",
+      "title": "Lenovo Yoga Pro 9i 16 ( Gen 10 ) Aura Edition review",
+      "seendate": "20250928T223000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/w35fobDj5fVeSLWEcRNSG3.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/28/cramer-why-the-crazy-spending-of-this-ai-boom-isnt-like-the-dot-com-bubble.html",
+      "url_mobile": "",
+      "title": "Cramer : Why the crazy spending of this AI boom isnt like the dot - com bubble",
+      "seendate": "20250928T220000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108203076-1758900160412-108203076-1758667426528-gettyimages-2236544326-STARGATE_DATA_CENTER.jpg?v=1758900303",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2025/09/28/over-the-last-decade-weve-invested-in-over-20-unicorns-the-machines-will-take-millions-of-jobs-but-theyll-never-lead-like-a-human-can/",
+      "url_mobile": "",
+      "title": "Over the last decade , weve invested in over 20 unicorns . The machines will take millions of jobs but theyll never lead like a human can",
+      "seendate": "20250928T150000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/combined_unaltered.jpeg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/28/microsoft-stock-keeps-beating-stock-market-buy/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Microsoft Stock Keeps Beating the Stock Market . Time to Buy ? ",
+      "seendate": "20250928T141500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/834772/investors-checking-a-chart.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freepressjournal.in/education/ai-adoption-grows-in-indian-b-schools-but-only-7-per-cent-of-faculty-are-expert-users-survey",
+      "url_mobile": "https://www.freepressjournal.in/amp/education/ai-adoption-grows-in-indian-b-schools-but-only-7-per-cent-of-faculty-are-expert-users-survey",
+      "title": "AI Adoption Grows In Indian B - Schools , But Only 7 Per Cent Of Faculty Are Expert Users : Survey",
+      "seendate": "20250928T124500Z",
+      "socialimage": "https://media.assettype.com/freepressjournal/2025-06-12/98hvv1xr/AI-AI-AI-AI.jpg",
+      "domain": "freepressjournal.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/news/education/ai-adoption-rising-in-indian-b-schools-but-only-7-faculty-are-expert-users-survey/article70104801.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/news/education/ai-adoption-rising-in-indian-b-schools-but-only-7-faculty-are-expert-users-survey/article70104801.ece/amp/",
+      "title": "AI adoption rising in Indian B - Schools , but only 7 % faculty are expert users : Survey",
+      "seendate": "20250928T091500Z",
+      "socialimage": "https://bl-i.thgim.com/public/incoming/ialnhz/article70104806.ece/alternates/LANDSCAPE_1200/IMG_iStock-937061160_2_1_FHEBS1V9.jpg",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/95-companies-have-seen-zero-return-on-their-ai-investments-and-the-reason-is-says-study/articleshow/124191508.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/95-companies-have-seen-zero-return-on-their-ai-investments-and-the-reason-is-says-study/amp_articleshow/124191508.cms",
+      "title": "95 % companies have seen zero return on their AI investments and the reason is ..., says study",
+      "seendate": "20250928T070000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-124191501,width-1070,height-580,imgsize-15844,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://newsblaze.com/business/events/index25-brings-geo-into-focus-for-global-marketing-leaders_208655/",
+      "url_mobile": "",
+      "title": "Index  25 Brings GEO Into Focus for Global Marketing Leaders",
+      "seendate": "20250928T040000Z",
+      "socialimage": "https://newsblaze.com/wp-content/uploads/2025/09/index-25-conference-nb.jpg",
+      "domain": "newsblaze.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/microsoft-releases-windows-ml-simplifying-ai-integration-for-apps/",
+      "url_mobile": "",
+      "title": "Microsoft Releases Windows ML : Simplifying AI Integration for Apps",
+      "seendate": "20250928T003000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7e8887a2-fa14-4455-821f-f0cd3be64acf.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/mozilla-integrates-google-lens-for-visual-search-in-firefox-desktop/",
+      "url_mobile": "",
+      "title": "Mozilla Integrates Google Lens for Visual Search in Firefox Desktop",
+      "seendate": "20250928T003000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-0c3888e1-3a50-4f0b-9f55-58ae5001578e.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kevinmd.com/2025/09/how-humor-helps-build-trust-and-connection-in-pediatric-oncology-podcast.html",
+      "url_mobile": "",
+      "title": "How humor helps build trust and connection in pediatric oncology [ PODCAST ] ",
+      "seendate": "20250928T000000Z",
+      "socialimage": "https://kevinmd.com/wp-content/uploads/Design-4-scaled.jpg",
+      "domain": "kevinmd.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://blogs.windows.com/windowsdeveloper/2025/09/23/windows-ml-is-generally-available-empowering-developers-to-scale-local-ai-across-windows-devices/",
+      "url_mobile": "",
+      "title": "Windows ML is generally available : Empowering developers to scale local AI across Windows devices",
+      "seendate": "20250927T223000Z",
+      "socialimage": "https://blogs.windows.com/wp-content/uploads/sites/3/2025/09/WinML_Banner_Image.jpg",
+      "domain": "blogs.windows.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/27/2-brilliant-growth-stocks-to-buy-now-and-hold-for/",
+      "url_mobile": "",
+      "title": "2 Brilliant Growth Stocks to Buy Now and Hold for the Long Term",
+      "seendate": "20250927T221500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/834775/gettyimages-1480633240.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://naija247news.com/ai-browsers-are-here-but-so-are-smarter-scams/",
+      "url_mobile": "",
+      "title": "AI Browsers Are Here , But So Are Smarter Scams",
+      "seendate": "20250927T180000Z",
+      "socialimage": "https://naija247news.com/wp-content/uploads/2025/09/Ai-browsers.png",
+      "domain": "naija247news.com",
+      "language": "English",
+      "sourcecountry": "Nigeria"
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/i-used-copilot-in-outlook-to-clear-my-inbox-every-morning-for-a-week-and-here-are-my-top-tips/",
+      "url_mobile": "",
+      "title": "I used Copilot in Outlook to clear my inbox every morning for a week and here are my top tips",
+      "seendate": "20250927T163000Z",
+      "socialimage": "https://www.digitaltrends.com/wp-content/uploads/2024/07/outlook-copilot-pro.jpg",
+      "domain": "digitaltrends.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-27-uipath-navigates-market-headwinds-as-stock-dips-amidst-broader-tech-sector-caution",
+      "url_mobile": "",
+      "title": "UiPath Navigates Market Headwinds as Stock Dips Amidst Broader Tech Sector Caution",
+      "seendate": "20250927T163000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ktar.com/data-doctors/what-is-copilot-should-you-get/5754983/",
+      "url_mobile": "",
+      "title": "What is Microsoft Copilot and is it right for you ? ",
+      "seendate": "20250927T134500Z",
+      "socialimage": "https://ktar.com/wp-content/uploads/2025/09/pexels-altabena-10142683-1-e1758929815114.jpg",
+      "domain": "ktar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techradar.com/pro/microsoft-copilot-has-access-to-three-million-sensitive-data-records-per-organization-wide-ranging-ai-survey-finds-heres-why-it-matters",
+      "url_mobile": "",
+      "title": "Report finds Copilot accesses millions of records per company , raising data protection concerns",
+      "seendate": "20250927T123000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/vNF3PCeLyq6jUHz9QwjdVN.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.webpronews.com/microsofts-ai-enhances-windows-11-photos-app-with-on-device-image-categorization/",
+      "url_mobile": "",
+      "title": "Microsoft AI Enhances Windows 11 Photos App with On - Device Image Categorization",
+      "seendate": "20250927T123000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-0637b7df-b0d4-4887-891d-8cb71924af45.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/whats-colleges-ai-policy-192149617.html",
+      "url_mobile": "",
+      "title": "What your college AI policy ? Find out here . ",
+      "seendate": "20250927T104500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/nSPePQVZdwskCZ0AUDRLUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/mashable_articles_863/2df8d05b11e4b754fb58f9134d126d20",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-to-triple-international-workforce-as-ai-models-drive-growth-outside-us/article70100896.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/anthropic-to-triple-international-workforce-as-ai-models-drive-growth-outside-us/article70100896.ece/amp/",
+      "title": "Anthropic to triple international workforce as AI models drive growth outside U . S . ",
+      "seendate": "20250927T064500Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/i4bd06/article70100962.ece/alternates/LANDSCAPE_1200/2025-01-22T060238Z_1853239093_RC2LU7AJ0JWD_RTRMADP_3_GOOGLE-INVESTMENT-ANTHROPIC.jpg",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.slashgear.com/1979748/microsoft-adds-anthropic-ai-to-copilot/",
+      "url_mobile": "",
+      "title": "Microsoft Has Added Anthropic AI To This Popular Copilot Assistant",
+      "seendate": "20250927T023000Z",
+      "socialimage": "https://www.slashgear.com/img/gallery/microsoft-has-added-anthropics-ai-to-this-popular-copilot-assistant/l-intro-1758921419.jpg",
+      "domain": "slashgear.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pymnts.com/apple/2025/apple-trails-rivals-with-chatgpt-like-siri-app-still-in-testing/",
+      "url_mobile": "",
+      "title": "Apple Trails Rivals with ChatGPT - Like Siri App Still in Testing",
+      "seendate": "20250927T023000Z",
+      "socialimage": "https://www.pymnts.com/wp-content/uploads/2025/09/apple-siri-ai-chatgpt.jpg",
+      "domain": "pymnts.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theregister.com/2025/09/26/ai_workslop_productivity/",
+      "url_mobile": "",
+      "title": "Many employees are using AI to create  workslop  ",
+      "seendate": "20250927T003000Z",
+      "socialimage": "https://regmedia.co.uk/2025/09/26/slop_tank.jpg",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1079294/anthropic-boosts-global-hiring-as-claude-ai-demand-surges-1079294.html",
+      "url_mobile": "",
+      "title": "Anthropic boosts global hiring as Claude AI demand surges",
+      "seendate": "20250927T000000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA5XC8yMDI0LTA1LTAxLTE2LTA1LTUyLTA0NjZjNzQzOTA2YWNkMjcyMmRiMGRkMzljMzI4YjEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/cyberbit-buys-rangeforce-to-bolster-ai-driven-cyber-training-a-29576",
+      "url_mobile": "",
+      "title": "Cyberbit Buys RangeForce to Bolster AI - Driven Cyber Training",
+      "seendate": "20250926T230000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/cyberbit-buys-rangeforce-to-bolster-ai-driven-cyber-training-image_large-8-a-29576.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
+      "url_mobile": "",
+      "title": "Microsoft Photos will soon auto - categorize your pictures",
+      "seendate": "20250926T230000Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.esecurityplanet.com/news/news-proofpoint-agentic-ai-cybersecurity-solution/",
+      "url_mobile": "",
+      "title": "Proofpoint New Agentic AI Security Solutions Address Key Challenges",
+      "seendate": "20250926T223000Z",
+      "socialimage": "https://assets.esecurityplanet.com/uploads/2025/09/proofpoint-ceo-sumit-dhawan-sept2025.jpeg",
+      "domain": "esecurityplanet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.techradar.com/computing/windows/grumpy-about-windows-10-support-ending-try-this-microsoft-centered-crossword-to-soothe-and-distract-you",
+      "url_mobile": "",
+      "title": "Grumpy about Windows 10 support ending ? Try this Microsoft - centered crossword to soothe and distract you",
+      "seendate": "20250926T221500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/f5rHgMjfhkWWcCmCmjKyUj.jpg",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-enterprises-saas-artificial-intelligence/",
+      "url_mobile": "",
+      "title": "Agentic AI at the Inflection Point : Opportunity and Governance",
+      "seendate": "20250926T213000Z",
+      "socialimage": "https://www.pymnts.com/wp-content/uploads/2025/09/agentic-AI.jpg",
+      "domain": "pymnts.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
+      "url_mobile": "",
+      "title": "From Prompt To Partner : Designing Your Custom AI Assistant Smashing Magazine",
+      "seendate": "20250926T210000Z",
+      "socialimage": "https://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg",
+      "domain": "smashingmagazine.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://betakit.com/quiz-meta-h1b-mda-space/",
+      "url_mobile": "",
+      "title": "Meta super PAC , Trump talent tariff , MDA Space goes rinkside",
+      "seendate": "20250926T203000Z",
+      "socialimage": "https://cdn.betakit.com/wp-content/uploads/2024/09/BetaKit-Quiz.png",
+      "domain": "betakit.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.mondaq.com:443/unitedstates/advertising-marketing-branding/1683684/inside-nad-2025-trends-takeaways-and-whats-next",
+      "url_mobile": "",
+      "title": "Inside NAD 2025 : Trends , Takeaways And What Next",
+      "seendate": "20250926T194500Z",
+      "socialimage": "http://www.mondaq.com/images/profile/companythumb/25092.webp?v=20241101122104",
+      "domain": "mondaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/cyberbit-buys-rangeforce-to-bolster-ai-driven-cyber-training-a-29576",
+      "url_mobile": "",
+      "title": "Cyberbit Buys RangeForce to Bolster AI - Driven Cyber Training",
+      "seendate": "20250926T190000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/cyberbit-buys-rangeforce-to-bolster-ai-driven-cyber-training-image_large-8-a-29576.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zdnet.com/article/microsoft-will-compete-with-aws-to-offer-a-marketplace-of-ai-apps-and-agents/",
+      "url_mobile": "",
+      "title": "Microsoft will compete with AWS to offer a marketplace of AI apps and agents",
+      "seendate": "20250926T174500Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/24ddf92aaa8b0dcbf4ef7cfc4e9b0caacf6fba16/2025/09/26/27127e36-3dab-4f84-8fd6-f60b4db13712/gettyimages-1299256142.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/anthropic-triple-international-workforce-ai-170224590.html",
+      "url_mobile": "",
+      "title": "Anthropic to triple international workforce as AI models drive growth outside US",
+      "seendate": "20250926T173000Z",
+      "socialimage": "https://media.zenfs.com/en/reuters-finance.com/109e9258c59e9b34c46458ede8ed052b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4499541-perplexity-unleashes-search-api-to-challenge-google",
+      "url_mobile": "",
+      "title": "Perplexity unleashes Search API to challenge Google ( GOOG : NASDAQ ) ",
+      "seendate": "20250926T164500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2069510474/image_2069510474.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pcworld.com/article/2922314/windows-11s-photos-app-tests-auto-categorization-of-images-using-ai.html",
+      "url_mobile": "",
+      "title": "Windows 11 Photos app tests  auto - categorization  of images using AI",
+      "seendate": "20250926T163000Z",
+      "socialimage": "https://www.pcworld.com/wp-content/uploads/2025/09/welva.jpg?quality=50&strip=all",
+      "domain": "pcworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://iafrica.com/acer-intel-pilot-ai-classroom-in-europe-with-eye-on-global-expansion/",
+      "url_mobile": "",
+      "title": "Acer , Intel Pilot AI Classroom in Europe with Eye on Global Expansion",
+      "seendate": "20250926T160000Z",
+      "socialimage": "https://iafrica.com/wp-content/uploads/2025/09/acer.webp",
+      "domain": "iafrica.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.computerweekly.com/opinion/What-UK-CIOs-get-wrong-about-AI-and-cloud-and-how-to-fix-it",
+      "url_mobile": "",
+      "title": "What united kingdom CIOs get wrong about AI and cloud \u2026 and how to fix it",
+      "seendate": "20250926T134500Z",
+      "socialimage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero%20Images/technology-digital-ai-robot-adobe.jpeg",
+      "domain": "computerweekly.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-photos-app-is-gaining-an-ai-powered-categorization-feature-that-can-identify-and-group-different-kinds-of-photos-for-you",
+      "url_mobile": "",
+      "title": "Windows 11 Photos app gains AI - powered categorization feature",
+      "seendate": "20250926T131500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/viNrGcKoNLk8sWtdNN9zVn.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/melissawheeler/2025/09/26/ai-self-discovery-finding-yourself-in-the-questions-you-ask/",
+      "url_mobile": "",
+      "title": "AI Self - Discovery : Finding Yourself In The Questions You Ask",
+      "seendate": "20250926T123000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68d5f9054ddb31f1a9d91060/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bizcommunity.com/article/navigating-the-ai-paradox-benefits-and-risks-in-modern-life-954044a",
+      "url_mobile": "",
+      "title": "Navigating the AI Paradox : Benefits and risks in modern life",
+      "seendate": "20250926T121500Z",
+      "socialimage": "https://biz-file.com/c/2509/789098-1200x624.jpg?5",
+      "domain": "bizcommunity.com",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.techradar.com/ai-platforms-assistants/gemini/gemini-in-google-sheets-can-now-explain-and-fix-broken-formulas",
+      "url_mobile": "",
+      "title": "Gemini in Google Sheets can now explain and fix broken formulas",
+      "seendate": "20250926T121500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/ui2k8BVz5Hw8tHHhSge2Z.png",
+      "domain": "techradar.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.express.co.uk/life-style/science-technology/2113186/windows-10-risks-will-increase-microsoft-dell",
+      "url_mobile": "https://www.express.co.uk/life-style/science-technology/2113186/windows-10-risks-will-increase-microsoft-dell/amp",
+      "title": "Windows 10 risks will  increase over time  if you dont upgrade",
+      "seendate": "20250926T083000Z",
+      "socialimage": "https://cdn.images.express.co.uk/img/dynamic/59/1200x630/6448878.jpg",
+      "domain": "express.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://futurefive.co.nz/story/hands-on-review-corsair-vanguard-pro-96-gaming-keyboard",
+      "url_mobile": "",
+      "title": "Hands - on review : Corsair Vanguard Pro 96 gaming keyboard",
+      "seendate": "20250926T063000Z",
+      "socialimage": "https://futurefive.co.nz/uploads/story/2025/09/26/compatible_Corsair_Vanguard_Pro_96_20.jpg",
+      "domain": "futurefive.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.rediff.com/news/interview/its-becoming-very-difficult-to-deal-with-america/20250926.htm",
+      "url_mobile": "https://m.rediff.com/amp/news/interview/its-becoming-very-difficult-to-deal-with-america/20250926.htm",
+      "title": "  It Becoming Very Difficult To Deal With America  ",
+      "seendate": "20250926T063000Z",
+      "socialimage": "https://im.rediff.com/300-300/news/2025/sep/24donald-trump-1.jpg",
+      "domain": "rediff.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://channellife.com.au/story/pure-storage-unveils-unified-platform-to-supercharge-ai-data",
+      "url_mobile": "",
+      "title": "Pure Storage unveils unified platform to supercharge AI data",
+      "seendate": "20250926T021500Z",
+      "socialimage": "https://channellife.com.au/uploads/story/2025/09/26/compatible_modern-data-center-servers-glowing-fibers-floating-clouds-ai-hybrid-cloud.jpg",
+      "domain": "channellife.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://channellife.com.au/story/hcltech-joins-microsoft-ai-inner-circle-cementing-top-partner-status",
+      "url_mobile": "",
+      "title": "HCLTech joins Microsoft AI Inner Circle , cementing top partner status",
+      "seendate": "20250926T021500Z",
+      "socialimage": "",
+      "domain": "channellife.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.infoworld.com/article/4063548/microsoft-marketplace-opens-for-ai-apps-agents.html",
+      "url_mobile": "",
+      "title": "Microsoft Marketplace opens for AI apps , agents",
+      "seendate": "20250926T014500Z",
+      "socialimage": "https://www.infoworld.com/wp-content/uploads/2025/09/4063548-0-53234600-1758836968-opensignbusiness.jpg?quality=50&strip=all",
+      "domain": "infoworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/global/spending-on-ai-is-at-epic-levels-will-it-ever-pay-off-11758849474789.html",
+      "url_mobile": "https://www.livemint.com/global/spending-on-ai-is-at-epic-levels-will-it-ever-pay-off/amp-11758849474789.html",
+      "title": "Spending on AI is at epic levels . Will it ever pay off ? ",
+      "seendate": "20250926T014500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2025/09/26/600x338/g6543d190a0c8f2e01d47ceba9fc050eaae79775c1354f95ea_1758849642030_1758849642247.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.ign.com/articles/asus-rog-xbox-ally-x-the-final-preview",
+      "url_mobile": "",
+      "title": "Asus ROG Xbox Ally X \u2013 The Final Preview",
+      "seendate": "20250926T003000Z",
+      "socialimage": "https://assets-prd.ignimgs.com/2025/09/25/asus-rog-xbox-ally-blogroll-1758826333428.jpg?&format=jpg&auto=webp&quality=80",
+      "domain": "ign.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kevinmd.com/2025/09/why-nurse-initiated-sepsis-protocols-are-transforming-patient-care-and-hospital-efficiency-podcast.html",
+      "url_mobile": "",
+      "title": "Why nurse - initiated sepsis protocols are transforming patient care and hospital efficiency [ PODCAST ] ",
+      "seendate": "20250926T001500Z",
+      "socialimage": "https://kevinmd.com/wp-content/uploads/The-Podcast-by-KevinMD-WideScreen-3000-px-4-scaled.jpg",
+      "domain": "kevinmd.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnewsonline.com/PRNewswire/TTEC-Digital-achieves-2025-2026-Microsoft-AI-Business-Solutions-Inner-Circle-award/1083446",
+      "url_mobile": "",
+      "title": "TTEC Digital achieves 2025 - 2026 Microsoft AI Business Solutions Inner Circle award",
+      "seendate": "20250925T233000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.beckershospitalreview.com/hit-speaker-series-q-a/best-use-of-emerging-tech-in-health-systems-from-50-leaders/",
+      "url_mobile": "",
+      "title": "Best use of emerging tech in health systems from 50 leaders - Becker Hospital Review",
+      "seendate": "20250925T231500Z",
+      "socialimage": "https://www.beckershospitalreview.com/wp-content/uploads/sites/9/2025/03/BeckersHospitalReview.jpg",
+      "domain": "beckershospitalreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theregister.com/2025/09/25/qualcomm_details_x2_elite/",
+      "url_mobile": "",
+      "title": "Qualcomm details X2 Elite Extreme , its most potent SoC yet",
+      "seendate": "20250925T224500Z",
+      "socialimage": "https://regmedia.co.uk/2025/09/25/x_elite_cover.jpg",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.kuaf.com/show/ozarks-at-large/2025-09-25/security-engineer-warns-small-businesses-against-rushing-into-ai-adoption",
+      "url_mobile": "https://www.kuaf.com/show/ozarks-at-large/2025-09-25/security-engineer-warns-small-businesses-against-rushing-into-ai-adoption?_amp=true",
+      "title": "Security engineer warns small businesses against rushing into AI adoption",
+      "seendate": "20250925T223000Z",
+      "socialimage": "http://npr-brightspot.s3.amazonaws.com/e3/93/96e11998467d90bb391eb498a40d/new-grove-2025-09-25t162517-312.png",
+      "domain": "kuaf.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/ttec-digital-achieves-2025-2026-microsoft-ai-business-solutions-inner-circle-award-302567683.html",
+      "url_mobile": "",
+      "title": "TTEC Digital achieves 2025 - 2026 Microsoft AI Business Solutions Inner Circle award",
+      "seendate": "20250925T220000Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/ttec-digital-achieves-2025-2026-microsoft-ai-business-solutions-inner-circle-award-ce7d58d3dd89f621",
+      "url_mobile": "",
+      "title": "TTEC Digital achieves 2025 - 2026 Microsoft AI Business Solutions Inner Circle award",
+      "seendate": "20250925T220000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.makeuseof.com/this-windows-friendly-distro-isnt-what-you-think/",
+      "url_mobile": "",
+      "title": "This  Windows - friendly  distro isnt what you think , and you should avoid it",
+      "seendate": "20250925T213000Z",
+      "socialimage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/winux-running-on-a-computer-with-a-keyboard-and-mouse-on-the-table-3.jpg?&fit=crop",
+      "domain": "makeuseof.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnewsonline.com/GlobeNewswire/BotCity-Secures-USD12-Million-Series-A-Funding-to-Address-Growing-Risks-in-Shadow-Automation/107128",
+      "url_mobile": "",
+      "title": "BotCity Secures $12 Million Series A Funding to Address Growing Risks in  Shadow Automation  ",
+      "seendate": "20250925T211500Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.healthcareitnews.com/news/optums-use-ambient-scribe-saves-time-improves-patient-satisfaction",
+      "url_mobile": "",
+      "title": "Optum use of ambient scribe saves time , improves patient satisfaction",
+      "seendate": "20250925T204500Z",
+      "socialimage": "http://www.healthcareitnews.com/sites/hitn/files/2025-09/092525%20Optum%20Health%20AI%20VBC%201200.jpeg",
+      "domain": "healthcareitnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnet.com/tech/services-and-software/microsoft-365-copilot-adds-two-anthropic-ai-models-giving-users-a-choice/",
+      "url_mobile": "",
+      "title": "Microsoft 365 Copilot Adds Two Anthropic AI Models , Giving Users a Choice",
+      "seendate": "20250925T204500Z",
+      "socialimage": "https://www.cnet.com/a/img/resize/f6ac0cb9161a261bab14092cc54862e822790e6a/hub/2025/06/03/fbc815a7-8cc6-404c-848d-1f97bfadb9cf/copilot.jpg?auto=webp&fit=crop",
+      "domain": "cnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.howtogeek.com/dont-like-ai-in-windows-try-this-free-tool-to-install-windows-11-without-any-ai-features/",
+      "url_mobile": "",
+      "title": "This Open - Source Tool Let Me Install Windows 11 Without AI Features",
+      "seendate": "20250925T201500Z",
+      "socialimage": "",
+      "domain": "howtogeek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/09/25/3156649/0/en/BotCity-Secures-12-Million-Series-A-Funding-to-Address-Growing-Risks-in-Shadow-Automation.html",
+      "url_mobile": "",
+      "title": "BotCity Secures $12 Million Series A Funding to Address",
+      "seendate": "20250925T193000Z",
+      "socialimage": "",
+      "domain": "globenewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mondaq.com:443/unitedstates/advertising-marketing-branding/1682702/inside-nad-2025-trends-takeaways-and-whats-next",
+      "url_mobile": "",
+      "title": "Inside NAD 2025 : Trends , Takeaways And What Next",
+      "seendate": "20250925T184500Z",
+      "socialimage": "http://www.mondaq.com/images/MondaqThumb.png",
+      "domain": "mondaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-25-snowflake-leads-charge-to-end-ai-data-access-wars-with-open-standards-and-integrated-ai",
+      "url_mobile": "",
+      "title": "Snowflake Leads Charge to End AI Data - Access Wars with Open Standards and Integrated AI",
+      "seendate": "20250925T184500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://circleid.com/posts/openai-and-partners-unveil-massive-ai-infrastructure-push-across-the-us",
+      "url_mobile": "",
+      "title": "Stargate Expands : OpenAI and Partners Unveil Massive AI Infrastructure Push Across the U . S . ",
+      "seendate": "20250925T183000Z",
+      "socialimage": "https://circleid.com/images/member_photos/",
+      "domain": "circleid.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/25/docusign-bull-vs-bear/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "DocuSign : Bull vs . Bear | The Motley Fool",
+      "seendate": "20250925T174500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/834146/fools-duel-over-docusign-is-it-still-a-breaker.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kevinmd.com/2025/09/how-collective-action-is-shaping-physician-empowerment-and-patient-care-podcast.html",
+      "url_mobile": "",
+      "title": "How collective action is shaping physician empowerment and patient care [ PODCAST ] ",
+      "seendate": "20250925T153000Z",
+      "socialimage": "https://kevinmd.com/wp-content/uploads/Design-2-scaled.jpg",
+      "domain": "kevinmd.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fonearena.com/blog/465376/microsoft-surface-pro-12-inch-price-india-features.html",
+      "url_mobile": "https://www.fonearena.com/blog/465376/microsoft-surface-pro-12-inch-price-india-features.html/amp",
+      "title": "Microsoft Surface Pro 12 - inch Copilot+ PC with Snapdragon X Plus processor launched in India",
+      "seendate": "20250925T153000Z",
+      "socialimage": "",
+      "domain": "fonearena.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://siliconangle.com/2025/09/25/pure-storage-launches-cyber-resilience-efficiency-hybrid-cloud-capabilities/",
+      "url_mobile": "",
+      "title": "Pure Storage launches cyber resilience , IT efficiency and hybrid cloud capabilities",
+      "seendate": "20250925T150000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/04/14184363_1443765015637024_7982363373833705110_n.jpg",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://htxt.co.za/2025/09/acer-pilots-ai-classroom-in-europe-with-hopes-to-expand-to-south-africa/",
+      "url_mobile": "",
+      "title": "Acer pilots AI Classroom in Europe with hopes to expand to South Africa",
+      "seendate": "20250925T110000Z",
+      "socialimage": "https://htxt.co.za/wp-content/uploads/2025/04/acer-e241y-review-6.jpg",
+      "domain": "htxt.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai-10270330/",
+      "url_mobile": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai-10270330/lite/",
+      "title": "Microsoft brings Anthropic AI models to 365 Copilot , diversifies beyond OpenAI",
+      "seendate": "20250925T104500Z",
+      "socialimage": "https://images.indianexpress.com/2025/09/Microsoftg-Reuters.jpg",
+      "domain": "indianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.itweb.co.za/article/discover-how-ai-can-break-business-boundaries-with-4sight-automated-intelligence/VgZeyqJlxOD7djX9",
+      "url_mobile": "",
+      "title": "Discover how AI can break business boundaries with 4Sight Automated Intelligence",
+      "seendate": "20250925T104500Z",
+      "socialimage": "https://www.itweb.co.za/static/pictures/2025/09/4Sight-Tertiusimage.jpg",
+      "domain": "itweb.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.itweb.co.za/article/creating-a-content-management-strategy-for-the-ai-driven-workplace/O2rQGMAElxlMd1ea",
+      "url_mobile": "",
+      "title": "Creating a content management strategy for the AI - driven workplace",
+      "seendate": "20250925T104500Z",
+      "socialimage": "https://www.itweb.co.za/static/pictures/2025/09/Set-Microsoft-365-Copilot.jpg",
+      "domain": "itweb.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://fortune.com/2025/09/25/intel-wants-apple-cash/",
+      "url_mobile": "",
+      "title": "Fortune Tech : Intel wants Apple cash , Microsoft taps Anthropic , OpenAI energy",
+      "seendate": "20250925T103000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-171797034-e1758771276114.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.defenseworld.net/2025/09/25/microsoft-corporation-msft-is-pines-wealth-management-llcs-2nd-largest-position.html",
+      "url_mobile": "",
+      "title": "Microsoft Corporation $MSFT is Pines Wealth Management LLC 2nd Largest Position",
+      "seendate": "20250925T101500Z",
+      "socialimage": "",
+      "domain": "defenseworld.net",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.defenseworld.net/2025/09/25/o-brien-wealth-partners-llc-has-930000-stake-in-microsoft-corporation-msft.html",
+      "url_mobile": "",
+      "title": "O Brien Wealth Partners LLC Has $930 , 000 Stake in Microsoft Corporation $MSFT",
+      "seendate": "20250925T101500Z",
+      "socialimage": "",
+      "domain": "defenseworld.net",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://it-online.co.za/2025/09/25/softwareone-earns-new-microsoft-copilot-specialisation/",
+      "url_mobile": "",
+      "title": "SoftwareOne earns new Microsoft Copilot Specialisation",
+      "seendate": "20250925T093000Z",
+      "socialimage": "",
+      "domain": "it-online.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://itbrief.co.nz/story/obsidian-unveils-real-time-ai-agent-security-for-saas-threats",
+      "url_mobile": "",
+      "title": "Obsidian unveils real - time AI agent security for SaaS threats",
+      "seendate": "20250925T090000Z",
+      "socialimage": "",
+      "domain": "itbrief.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.ndsmcobserver.com/article/2025/09/your-favorite-bots-fall-flat-they-won-t-replace-us",
+      "url_mobile": "",
+      "title": "Your favorite bots fall flat . They wont replace us . ",
+      "seendate": "20250925T074500Z",
+      "socialimage": "https://snworksceo.imgix.net/obs/918d1542-a324-4d49-960a-7c6e04cb4fac.sized-1000x1000.jpg",
+      "domain": "ndsmcobserver.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pandct.com/news/abb-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms",
+      "url_mobile": "",
+      "title": "Process and Control Today | ABB named a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Global Industrial IoT Platforms",
+      "seendate": "20250925T071500Z",
+      "socialimage": "http://www.pandct.com/uploads/news_images/ABB%2025925.jpg",
+      "domain": "pandct.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai/124103091",
+      "url_mobile": "https://telecom.economictimes.indiatimes.com/amp/news/internet/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai/124103091",
+      "title": "Microsoft brings Anthropic AI models to 365 Copilot , diversifies beyond OpenAI",
+      "seendate": "20250925T063000Z",
+      "socialimage": "https://etimg.etb2bimg.com/thumb/msid-124103091,imgsize-13050,width-1200,height=627,overlay-ettelecom,resizemode-75/internet/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai.jpg",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.fonearena.com/blog/465278/qualcomm-snapdragon-x2-elite-extreme-x2-elite-features.html",
+      "url_mobile": "https://www.fonearena.com/blog/465278/qualcomm-snapdragon-x2-elite-extreme-x2-elite-features.html/amp",
+      "title": "Qualcomm Snapdragon X2 Elite Extreme and X2 Elite with up to 5 . 0 GHz CPU and 80 TOPS AI announced",
+      "seendate": "20250925T054500Z",
+      "socialimage": "",
+      "domain": "fonearena.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20250925VL201/microsoft-openai-copilot-anthropic-opus.html",
+      "url_mobile": "",
+      "title": "Microsoft courts Anthropic for Copilot as OpenAI alliance turns less exclusive",
+      "seendate": "20250925T050000Z",
+      "socialimage": "https://img.digitimes.com/newsshow/20250925vl201_files/1_b.jpg",
+      "domain": "digitimes.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.theregister.com/2025/09/25/microsoft_claude_copilot/",
+      "url_mobile": "",
+      "title": "Microsoft puts Claude on the M365 menu",
+      "seendate": "20250925T041500Z",
+      "socialimage": "https://regmedia.co.uk/2024/03/04/claude_shutterstock.jpg",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://channellife.co.nz/story/proofpoint-launches-new-defences-as-ai-email-attacks-surge",
+      "url_mobile": "",
+      "title": "Proofpoint launches new defences as AI email attacks surge",
+      "seendate": "20250925T023000Z",
+      "socialimage": "https://channellife.co.nz/uploads/story/2025/09/24/compatible_shield-protecting-email-envelope-from-digital-threats-with-ai-abstract-shapes.jpg",
+      "domain": "channellife.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://biztoc.com/x/3d71df0a56d0f51f",
+      "url_mobile": "",
+      "title": "Microsoft puts Claude on the M365 menu",
+      "seendate": "20250925T020000Z",
+      "socialimage": "https://biztoc.com/cdn/3d71df0a56d0f51f_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.cnet.com/tech/computing/5-features-coming-to-your-new-laptop-in-2026-thanks-to-snapdragon-x2-elite/",
+      "url_mobile": "",
+      "title": "5 Features Coming to Your New Laptop in 2026 Thanks to Snapdragon X2 Elite",
+      "seendate": "20250925T011500Z",
+      "socialimage": "https://www.cnet.com/a/img/resize/7579bc004bfaae9074d8b7c4ea01693b12e3e676/hub/2025/09/24/981435d6-34e9-4323-b8f5-e72e525a3ca4/img-0078.jpg?auto=webp&fit=crop",
+      "domain": "cnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.itnews.com.au/news/home-affairs-taps-ex-microsoft-exec-to-lead-ai-development-620495",
+      "url_mobile": "",
+      "title": "Home Affairs taps ex - Microsoft exec to lead AI development",
+      "seendate": "20250925T004500Z",
+      "socialimage": "https://i.nextmedia.com.au/News/iStock-1382137448.jpg",
+      "domain": "itnews.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://gizmodo.com/android-needs-to-remember-its-roots-before-it-can-become-a-pc-2000663369",
+      "url_mobile": "",
+      "title": "Android Needs to Remember Its Roots Before It Can Become a PC",
+      "seendate": "20250925T003000Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2025/07/lenovo-chromebook-plus-14-2025-review-08-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20250924PD200/copilot-microsoft-taiwan-adoption-development.html",
+      "url_mobile": "",
+      "title": "GitHub Copilot surpasses 20 million users globally with strong adoption in Taiwan",
+      "seendate": "20250925T003000Z",
+      "socialimage": "https://img.digitimes.com/newsshow/20250924pd200_files/1_b.jpg",
+      "domain": "digitimes.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.pcmag.com/reviews/hp-elitebook-x-g1i",
+      "url_mobile": "",
+      "title": "HP EliteBook X G1i Review : This Work Laptop Runs for Days",
+      "seendate": "20250924T231500Z",
+      "socialimage": "https://i.pcmag.com/imagery/reviews/06jS9CiZUClsSoeMfmSKJx4-8-hero-image-gallery.fit_lim.size_1200x630.v1758205889.jpg",
+      "domain": "pcmag.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dn.pt/viver/google-leva-jogos-do-android-para-o-pc-com-nova-tecnologia-h%C3%ADbrida",
+      "url_mobile": "",
+      "title": "Google Inova : Jogos Android no PC com Tecnologia H\u00edbrida",
+      "seendate": "20250924T230000Z",
+      "socialimage": "https://media.assettype.com/dn%2F2025-09-24%2F3y9tud8x%2FHero-Image.jpg?&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "domain": "dn.pt",
+      "language": "Portuguese",
+      "sourcecountry": "Portugal"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/hackers-obfuscated-malware-verbose-ai-code-a-29541",
+      "url_mobile": "",
+      "title": "Hackers Obfuscated Malware With Verbose AI Code",
+      "seendate": "20250924T223000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/hackers-obfuscated-malware-verbose-ai-code-image_large-3-a-29541.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/as-qualcomm-unveils-new-ai-chips-for-smartphones-and-laptops-ceo-cristiano-amon-sets-course-to-make-company-an-ecosystem-player-10269689/",
+      "url_mobile": "https://indianexpress.com/article/technology/tech-news-technology/as-qualcomm-unveils-new-ai-chips-for-smartphones-and-laptops-ceo-cristiano-amon-sets-course-to-make-company-an-ecosystem-player-10269689/lite/",
+      "title": "As Qualcomm unveils new AI Chips for smartphones and laptops , CEO Cristiano Amon sets course to make company an ecosystem player",
+      "seendate": "20250924T220000Z",
+      "socialimage": "https://images.indianexpress.com/2025/09/qualcom.jpg",
+      "domain": "indianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2025/microsoft-turns-to-anthropic-in-shift-from-openai-relationship/",
+      "url_mobile": "",
+      "title": "Microsoft Turns to Anthropic in Shift From OpenAI Relationship",
+      "seendate": "20250924T214500Z",
+      "socialimage": "https://www.pymnts.com/wp-content/uploads/2025/09/Microsoft-Anthropic.jpg",
+      "domain": "pymnts.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/ai-drives-arizona-s-first-in-nation-2334492/",
+      "url_mobile": "",
+      "title": "AI Drives Arizona First - in - Nation Judicial Tech Competence Rule | Esquire Deposition Solutions , LLC",
+      "seendate": "20250924T213000Z",
+      "socialimage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15921_1518.jpg",
+      "domain": "jdsupra.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.howtogeek.com/the-snapdragon-x2-elite-gives-intel-amd-adn-apple-more-competition/",
+      "url_mobile": "",
+      "title": "The Snapdragon X2 Elite Gives Intel , AMD , and Apple More Competition",
+      "seendate": "20250924T213000Z",
+      "socialimage": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/09/snapdragon-x2-elite-extreme.png?&fit=crop",
+      "domain": "howtogeek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gizmodo.com/qualcomm-snapdragon-x2-elite-cpu-bury-intel-attempt-2000662956",
+      "url_mobile": "",
+      "title": "Qualcomm Snapdragon X2 Elite CPU Is Another Stab at Burying Intel",
+      "seendate": "20250924T210000Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2025/09/Qualcomm-Snapdragon-x2-Elite-1-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pcworld.com/article/2917016/next-gen-snapdragon-x2-elite-brings-more-cores-and-juggernaut-ai-to-pcs.html",
+      "url_mobile": "",
+      "title": "Next - gen Snapdragon X2 Elite brings more cores and juggernaut AI to PCs",
+      "seendate": "20250924T210000Z",
+      "socialimage": "",
+      "domain": "pcworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://dailytimes.com.pk/1373625/systems-limited-achieves-microsoft-ai-business-solutions-award/",
+      "url_mobile": "https://dailytimes.com.pk/1373625/systems-limited-achieves-microsoft-ai-business-solutions-award/amp/",
+      "title": "Systems Limited achieves Microsoft AI Business Solutions award",
+      "seendate": "20250924T210000Z",
+      "socialimage": "",
+      "domain": "dailytimes.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "http://www.scsu.edu/news/2025_microsoft_atlanta_09_24_25.php",
+      "url_mobile": "",
+      "title": "SC State University students gain industry insights during Microsoft visit",
+      "seendate": "20250924T210000Z",
+      "socialimage": "",
+      "domain": "scsu.edu",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-24-googles-dual-offensive-affordable-ai-goes-global-android-eyes-the-desktop",
+      "url_mobile": "",
+      "title": "Google Dual Offensive : Affordable AI Goes Global , Android Eyes the Desktop",
+      "seendate": "20250924T210000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-24-logitech-unveils-solar-powered-k980-keyboard-lighting-up-the-future-of-peripherals",
+      "url_mobile": "",
+      "title": "Logitech Unveils Solar - Powered K980 Keyboard , Lighting Up the Future of Peripherals",
+      "seendate": "20250924T201500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1079096/microsoft-gives-its-co-pilot-a-second-brain-in-jolt-to-openai-1079096.html",
+      "url_mobile": "",
+      "title": "Microsoft gives its Co - Pilot a second brain in jolt to OpenAI",
+      "seendate": "20250924T200000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA5XC8yMDI1LTAxLTA4LTA4LTU5LTU5LTIxZDZkY2MxOWQxOTg0NGY5MWZmZmE5ZGQ3OTllNTAyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/catapult-launches-slingshot-for-finance-to-speed-erp-adoption-in-midsized-businesses/",
+      "url_mobile": "",
+      "title": "Catapult Launches Slingshot for Finance to Speed ERP Adoption in Midsized Businesses",
+      "seendate": "20250924T200000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-1f6a674b-4e37-4400-8d30-fd6f446293b9.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/microsoft-edge-copilot-update-autonomous-ai-for-browsing-and-tasks-by-2025/",
+      "url_mobile": "",
+      "title": "Microsoft Edge Copilot Update : Autonomous AI for Browsing and Tasks by 2025",
+      "seendate": "20250924T200000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-1495cefd-5447-4bf9-91ae-70185e2ef78a.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/microsoft-integrates-anthropics-claude-ai-into-365-copilot-for-productivity-boost/",
+      "url_mobile": "",
+      "title": "Microsoft Integrates Anthropic Claude AI into 365 Copilot for Productivity Boost",
+      "seendate": "20250924T200000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-6a1fa952-9623-4f4a-b2be-f85464db5516.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/hackers-obfuscated-malware-verbose-ai-code-a-29541",
+      "url_mobile": "",
+      "title": "Hackers Obfuscated Malware With Verbose AI Code",
+      "seendate": "20250924T193000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/hackers-obfuscated-malware-verbose-ai-code-image_large-3-a-29541.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-09-24/microsoft-partners-with-openai-rival-anthropic-on-ai-copilot",
+      "url_mobile": "",
+      "title": "Microsoft Partners With OpenAI Rival Anthropic on AI Copilot",
+      "seendate": "20250924T193000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4N2fgy2qk3s/v1/1200x799.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pcmag.com/reviews/logitech-signature-slim-solar-plus-k980-keyboard",
+      "url_mobile": "",
+      "title": "Logitech Signature Slim Solar+ K980 Keyboard Review : Im Typin  on Sunshine",
+      "seendate": "20250924T184500Z",
+      "socialimage": "https://i.pcmag.com/imagery/reviews/02oofvYelRZNUMqxEkxzZ7Q-6-hero-image-gallery.fit_lim.size_1200x630.v1757623273.jpg",
+      "domain": "pcmag.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.howtogeek.com/windows-11s-new-paint-annoying-taskbar-changes-and-more-windows-wednesday/",
+      "url_mobile": "",
+      "title": "Windows 11 New Paint , Annoying Taskbar Changes , and More : Windows Wednesday",
+      "seendate": "20250924T184500Z",
+      "socialimage": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/windows-11-9.jpg?&fit=crop",
+      "domain": "howtogeek.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
+      "url_mobile": "",
+      "title": "Microsoft adds Anthropic AI to Copilot",
+      "seendate": "20250924T183000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/technology/tech-news/microsoft-looks-beyond-openai-adds-support-for-anthropics-ai-models-in-microsoft-365-copilot-11758734028113.html",
+      "url_mobile": "https://www.livemint.com/technology/tech-news/microsoft-looks-beyond-openai-adds-support-for-anthropics-ai-models-in-microsoft-365-copilot/amp-11758734028113.html",
+      "title": "Microsoft looks beyond OpenAI , adds support for Anthropic AI models in Microsoft 365 Copilot",
+      "seendate": "20250924T181500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2025/09/24/600x338/Microsoft_Claude_1758735902045_1758735902613.webp",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.investegate.co.uk/announcement/prn/manchester-london-investment-trust--mnl/annual-financial-report-and-notice-of-agm/9129754",
+      "url_mobile": "",
+      "title": "Annual Financial Report and Notice of AGM | Company Announcement",
+      "seendate": "20250924T174500Z",
+      "socialimage": "",
+      "domain": "investegate.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2025-09/66525651-manchester-london-investment-trust-plc-annual-financial-report-and-notice-of-agm-008.htm",
+      "url_mobile": "",
+      "title": "Manchester & London Investment Trust Plc - Annual Financial Report and Notice of AGM",
+      "seendate": "20250924T174500Z",
+      "socialimage": "",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.editorandpublisher.com/stories/microsoft-looks-to-build-ai-marketplace-for-publishers,257913",
+      "url_mobile": "",
+      "title": "Microsoft looks to build AI marketplace for publishers",
+      "seendate": "20250924T170000Z",
+      "socialimage": "https://alpha.creativecirclecdn.com/editorandpublisher/original/20230125-151443-Microsoft%20-%20cropped.png.jpg",
+      "domain": "editorandpublisher.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.infosecurity-magazine.com/webinars/how-midmarket-can-leverage/",
+      "url_mobile": "",
+      "title": "How Mid - Market Businesses Can Leverage Microsoft Security for Proactiv",
+      "seendate": "20250924T170000Z",
+      "socialimage": "https://assets.infosecurity-magazine.com/webpage/og/bb911937-42ae-4d16-a6d5-4a388d3235a0.png",
+      "domain": "infosecurity-magazine.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.zdnet.com/article/got-ai-fomo-3-bold-but-realistic-bets-your-business-can-try-today/",
+      "url_mobile": "",
+      "title": "Got AI FOMO ? 3 bold but realistic bets your business can try today",
+      "seendate": "20250924T151500Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/60794cdcc06a05f4d719b0b0bcabc0c5c6f4b074/2025/09/24/4ab4a4a1-76f2-4670-84cf-ae8ed025aed1/gettyimages-2217652660.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.healthleadersmedia.com/cfo/5-cfo-takeaways-leading-through-disruption-and-opportunity",
+      "url_mobile": "",
+      "title": "5 CFO Takeaways on Leading Through Disruption and Opportunity",
+      "seendate": "20250924T143000Z",
+      "socialimage": "https://www.healthleadersmedia.com/sites/hlmp/files/files/CFo%20image%20%281%29.jpg",
+      "domain": "healthleadersmedia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsx.com/tech-and-auto/heres-how-google-gemini-ai-can-help-with-playing-games-on-your-phone-79584/",
+      "url_mobile": "https://www.newsx.com/tech-and-auto/heres-how-google-gemini-ai-can-help-with-playing-games-on-your-phone-79584/amp/",
+      "title": "Here How Google Gemini AI Can Help With Playing Games On Your Phone ! ",
+      "seendate": "20250924T140000Z",
+      "socialimage": "https://www.newsx.com/wp-content/uploads/2025/09/copy-of-untitled-1200-x-900-px-2025-09-24t190753521.jpg",
+      "domain": "newsx.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.futuretravelexperience.com/2025/09/singapore-airlines-airasia-indigo-ana-cathay-korean-air-more-among-fte-airline-digital-transformation-power-list-asia-pacific-2025/",
+      "url_mobile": "",
+      "title": "FTE Airline Digital Transformation Power List Asia - Pacific 2025",
+      "seendate": "20250924T140000Z",
+      "socialimage": "https://www.futuretravelexperience.com/wp-content/uploads/2025/09/FTE-Airline-Digital-Transformation-Power-List-Asia-Pacific.jpg",
+      "domain": "futuretravelexperience.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/larryenglish/2025/09/24/getting-started-with-microsoft-copilot-a-guide-to-driving-roi/",
+      "url_mobile": "",
+      "title": "Getting Started With Microsoft Copilot : A Guide To Driving ROI",
+      "seendate": "20250924T133000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68d3449f75f137e853cbb57a/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.globalgovernmentforum.com/digital-first-government-building-the-next-frontier/",
+      "url_mobile": "",
+      "title": "Digital - first government : Building the next frontier - Global Government Forum",
+      "seendate": "20250924T103000Z",
+      "socialimage": "https://www.globalgovernmentforum.com/wp-content/uploads/Digital-First-Government-Article-scaled-1-620x414.jpg",
+      "domain": "globalgovernmentforum.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.itnewsonline.com/BusinessWire/Obsidian-Security-Unveils-AI-Agent-Defense-to-Secure-SaaS-Data-Access/36087",
+      "url_mobile": "",
+      "title": "Obsidian Security Unveils AI Agent Defense to Secure SaaS Data Access",
+      "seendate": "20250924T100000Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.stuff.tv/hot-stuff/im-never-plugging-my-keyboard-in-again-with-logitechs-smart-new-solar-powered-board-on-my-desk/",
+      "url_mobile": "",
+      "title": "Im never plugging my keyboard in again with Logitech smart new solar - powered  board on my desk",
+      "seendate": "20250924T081500Z",
+      "socialimage": "https://www.stuff.tv/wp-content/uploads/sites/2/2025/09/Logitech-Signature-Solar-Slim-keyboard-hot-stuff-lead.jpg?quality=70",
+      "domain": "stuff.tv",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://channellife.co.nz/story/kathryn-almendarez-marsman-named-senior-vice-president-at-pax8",
+      "url_mobile": "",
+      "title": "Kathryn Almendarez Marsman named Senior Vice President at Pax8",
+      "seendate": "20250924T080000Z",
+      "socialimage": "https://channellife.co.nz/uploads/story/2025/09/24/compatible_Kathryn_Marsman_pax8.jpg",
+      "domain": "channellife.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://channellife.com.au/story/kathryn-almendarez-marsman-named-senior-vice-president-at-pax8",
+      "url_mobile": "",
+      "title": "Kathryn Almendarez Marsman named Senior Vice President at Pax8",
+      "seendate": "20250924T073000Z",
+      "socialimage": "https://channellife.com.au/uploads/story/2025/09/24/compatible_Kathryn_Marsman_pax8.jpg",
+      "domain": "channellife.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://whatech.com/og/markets-research/it/989673-unlocking-the-future-2025-cloud-dictation-solution-market-trends-and-forecast-trajectory-to-2034.html",
+      "url_mobile": "https://whatech.com/og/markets-research/it/989673-unlocking-the-future-2025-cloud-dictation-solution-market-trends-and-forecast-trajectory-to-2034.amp.html",
+      "title": "Unlocking the Future : 2025 Cloud Dictation Solution Market Trends and Forecast Trajectory to 2034",
+      "seendate": "20250924T064500Z",
+      "socialimage": "",
+      "domain": "whatech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://aninews.in/news/business/sonata-software-achieves-the-2025-2026-microsoft-ai-business-solutions-inner-circle-award20250924102315/",
+      "url_mobile": "/news/business/sonata-software-achieves-the-2025-2026-microsoft-ai-business-solutions-inner-circle-award20250924102315?amp=1",
+      "title": "Sonata Software Achieves The 2025 - 2026 Microsoft AI Business Solutions Inner Circle Award",
+      "seendate": "20250924T060000Z",
+      "socialimage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20250924045254.jpg",
+      "domain": "aninews.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://news.webindia123.com/news/Articles/Business/20250924/4364899.html",
+      "url_mobile": "",
+      "title": "Sonata Software Achieves The 2025 - 2026 Microsoft AI Business Solutions Inner Circle Award",
+      "seendate": "20250924T060000Z",
+      "socialimage": "",
+      "domain": "news.webindia123.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.srilankasource.com/news/278596924/sonata-software-achieves-the-2025-2026-microsoft-ai-business-solutions-inner-circle-award",
+      "url_mobile": "",
+      "title": "Sonata Software Achieves The 2025 - 2026 Microsoft AI Business Solutions Inner Circle Award",
+      "seendate": "20250924T054500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/8499ad6/8ad21a22-3e5d-4e63-aa84-a6f1233a89e5/0/OWRiNWM2MmUtNDI-600x315.jpg",
+      "domain": "srilankasource.com",
+      "language": "English",
+      "sourcecountry": "Sri Lanka"
+    },
+    {
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-oracle-softbank-plan-five-new-ai-data-centers-for-500-billion-stargate-project-10267948/",
+      "url_mobile": "https://indianexpress.com/article/technology/tech-news-technology/openai-oracle-softbank-plan-five-new-ai-data-centers-for-500-billion-stargate-project-10267948/lite/",
+      "title": "OpenAI , Oracle , SoftBank plan five new AI data centers for $500 billion Stargate project",
+      "seendate": "20250924T053000Z",
+      "socialimage": "https://images.indianexpress.com/2025/09/OpenAI.jpg",
+      "domain": "indianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://business.scoop.co.nz/2025/09/24/pax8-appoints-kathryn-almendarez-marsman-as-senior-vice-president-of-global-vendor-alliances/",
+      "url_mobile": "",
+      "title": "Business . Scoop \u00bb Pax8 Appoints Kathryn Almendarez Marsman As Senior Vice President Of Global Vendor Alliances",
+      "seendate": "20250924T043000Z",
+      "socialimage": "",
+      "domain": "business.scoop.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://www.scoop.co.nz/stories/BU2509/S00432/pax8-appoints-kathryn-almendarez-marsman-as-senior-vice-president-of-global-vendor-alliances.htm",
+      "url_mobile": "https://m.scoop.co.nz/stories/BU2509/S00432/pax8-appoints-kathryn-almendarez-marsman-as-senior-vice-president-of-global-vendor-alliances.htm",
+      "title": "Pax8 Appoints Kathryn Almendarez Marsman As Senior Vice President Of Global Vendor Alliances",
+      "seendate": "20250924T041500Z",
+      "socialimage": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+      "domain": "scoop.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://channellife.com.au/story/proofpoint-unveils-ai-security-tools-to-protect-agentic-workspaces",
+      "url_mobile": "",
+      "title": "Proofpoint unveils AI security tools to protect agentic workspaces",
+      "seendate": "20250924T024500Z",
+      "socialimage": "https://channellife.com.au/uploads/story/2025/09/24/compatible_secure-digital-workspace-abstract-human-figures-computers-shields-padlocks.jpg",
+      "domain": "channellife.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/international/global/openai-oracle-softbank-plan-five-new-ai-data-centres-us500-billion-stargate-project",
+      "url_mobile": "",
+      "title": "OpenAI , Oracle , SoftBank plan five new AI data centres for US$500 billion Stargate project",
+      "seendate": "20250924T014500Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/3abf0492e488ab6e91518e85b5c95bdedd75b01fd1776c81b2d0d652b80d7cd7?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    }
+  ]
+}

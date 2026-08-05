@@ -1,0 +1,2509 @@
+{
+  "company": "Google DeepMind",
+  "query": "\"DeepMind\"",
+  "start": "20250101000000",
+  "end": "20250930235959",
+  "count": 250,
+  "articles": [
+    {
+      "url": "https://observer.com/2025/10/periodic-labs-launches-300m-real-science-ai/",
+      "url_mobile": "",
+      "title": "Bezos - Backed Startup Receives $300M Seed Round to Build A . I . Scientist",
+      "seendate": "20251001T224500Z",
+      "socialimage": "https://observer.com/wp-content/uploads/sites/2/2025/10/grigorii-shcheglov-shg9LvNOMJk-unsplash.jpg?quality=80",
+      "domain": "observer.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gulte.com/trends/374609/meet-the-youngest-billionaire-of-india",
+      "url_mobile": "https://www.gulte.com/trends/374609/meet-the-youngest-billionaire-of-india/amp",
+      "title": "Meet The Youngest Billionaire of India",
+      "seendate": "20251001T180000Z",
+      "socialimage": "https://cdn.gulte.com/wp-content/uploads/2025/10/aravind_srinivas_1739162654659_1739162655055.webp",
+      "domain": "gulte.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://ritholtz.com/2025/10/10-thursday-am-reads-469/",
+      "url_mobile": "",
+      "title": "10 Thursday AM Reads - The Big Picture",
+      "seendate": "20251001T123000Z",
+      "socialimage": "",
+      "domain": "ritholtz.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/nvidia-updates-robotics-platform-with-open-source-newton-physics-engine-new-ai-models-1620362/",
+      "url_mobile": "https://www.insidermonkey.com/blog/nvidia-updates-robotics-platform-with-open-source-newton-physics-engine-new-ai-models-1620362/?amp=1",
+      "title": "NVIDIA Updates Robotics Platform with Open - Source Newton Physics Engine , New AI Models",
+      "seendate": "20251001T064500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153615/NVDA-insidermonkey-1695152172066.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://github.com/AlmondGod/tinyworlds",
+      "url_mobile": "",
+      "title": "GitHub - AlmondGod / tinyworlds : A minimal implementation of DeepMind Genie world model",
+      "seendate": "20251001T040000Z",
+      "socialimage": "https://opengraph.githubassets.com/6aad556d3c5871fc9ef2b7a12fe382d588cf717fa6d2f176d061e0e5f4d42c73/AlmondGod/tinyworlds",
+      "domain": "github.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://natlawreview.com/article/landmark-patent-appeal-decision-strengthens-protection-ai-and-machine-learning",
+      "url_mobile": "https://natlawreview.com/article/landmark-patent-appeal-decision-strengthens-protection-ai-and-machine-learning?amp",
+      "title": "USPTO ARP Affirms Patent Eligibility for DeepMind AI Training Met",
+      "seendate": "20250930T221500Z",
+      "socialimage": "https://natlawreview.com/sites/default/files/styles/article_image/public/2025-09/Designed%20by%20AI%20Artificial%20Intelligence%20IP%20Intellectual%20Property%20Patents-329885419.jpg.webp?itok=ZjDOkVNl",
+      "domain": "natlawreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2025/09/30/ai-models-are-already-as-good-as-experts-at-half-of-tasks-a-new-openai-benchmark-gdpval-suggests/",
+      "url_mobile": "",
+      "title": "Top AI models are getting really good at completing professional tasks , new OpenAI GDPval benchmark shows",
+      "seendate": "20250930T203000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2185274880-e1759253408822.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-30-ai-achieves-expert-level-performance-in-half-of-professional-tasks-redefining-future-of-work",
+      "url_mobile": "",
+      "title": "AI Achieves Expert - Level Performance in Half of Professional Tasks , Redefining Future of Work",
+      "seendate": "20250930T203000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/25/09/47950517/nvidia-smashes-52-week-high-as-robots-and-ai-take-off",
+      "url_mobile": "",
+      "title": "Nvidia Smashes 52 - Week High As Robots And AI Take Off - NVIDIA ( NASDAQ : NVDA ) ",
+      "seendate": "20250930T180000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/09/30/Nvidia-stock-rising.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.local10.com/weather/hurricane/2025/09/30/hurricanes-imelda-and-humberto-lock-arms-and-swing-away-from-the-us/",
+      "url_mobile": "",
+      "title": "Hurricanes Imelda and Humberto lock arms and swing away from the US",
+      "seendate": "20250930T154500Z",
+      "socialimage": "https://www.local10.com/resizer/v2/WR4BFUX7V5DZHEBP3ZCYWWUQO4.png?auth=394ff69cda72ea5e76105da5725289e3a444475ebf72733dc97a1c43d1ec51e6",
+      "domain": "local10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://firstthings.com/the-cambrian-implosion/",
+      "url_mobile": "",
+      "title": "The Cambrian Implosion - First Things",
+      "seendate": "20250930T143000Z",
+      "socialimage": "https://firstthings.com/wp-content/uploads/2025/09/25171295724_353c0c41a7_o.jpg",
+      "domain": "firstthings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.medianama.com/2025/09/223-californias-frontier-ai-law-big-tech-companies/",
+      "url_mobile": "",
+      "title": "What Does California New AI Law Require From Big Tech Outfits ? ",
+      "seendate": "20250930T131500Z",
+      "socialimage": "https://www.medianama.com/wp-content/uploads/2019/06/american-flag-1869767_640.jpg.jpg",
+      "domain": "medianama.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/2025093030/sudden-acceleration-not-a-bubble-is-the-ai-story-that-investors-are-missing-says-this-top-researcher",
+      "url_mobile": "",
+      "title": "Sudden acceleration , not a bubble , is the AI story that investors are missing , says this top researcher",
+      "seendate": "20250930T121500Z",
+      "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/education/news/google-deepmind-ceo-demis-hassabis-reveals-4-ways-graduates-can-unlock-an-edge-in-the-age-of-ai/articleshow/124217778.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/education/news/google-deepmind-ceo-demis-hassabis-reveals-4-ways-graduates-can-unlock-an-edge-in-the-age-of-ai/amp_articleshow/124217778.cms",
+      "title": "Google DeepMind CEO Demis Hassabis reveals 4 ways graduates can unlock an edge in the age of AI",
+      "seendate": "20250930T094500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-124217788,width-1070,height-580,imgsize-90990,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.mysuncoast.com/2025/09/30/imelda-stronger-humberto-showing-way/",
+      "url_mobile": "https://www.mysuncoast.com/2025/09/30/imelda-stronger-humberto-showing-way/?outputType=amp",
+      "title": "Imelda stronger and Humberto showing the way",
+      "seendate": "20250930T031500Z",
+      "socialimage": "https://gray-wwsb-prod.gtv-cdn.com/resizer/v2/TUKIDXV6LRCT3OA3PJUTMZ42SE.png?auth=31cca2db0aa7898a4245bb420d4301ffc5f07b0fab898b330c438ceeb16a6ccb&smart=true",
+      "domain": "mysuncoast.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.prnewswire.com/news-releases/linux-foundation-announces-contribution-of-newton-by-disney-research-google-deepmind-and-nvidia-to-accelerate-open-robot-learning-302569147.html",
+      "url_mobile": "",
+      "title": "Linux Foundation Announces Contribution of Newton by Disney Research , Google DeepMind and NVIDIA to Accelerate Open Robot Learning",
+      "seendate": "20250929T154500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://article.wn.com/view/2025/09/29/Big_AI_firms_pump_money_into_world_models_as_LLM_advances_sl/",
+      "url_mobile": "",
+      "title": "Big AI firms pump money into world models as LLM advances slow",
+      "seendate": "20250929T154500Z",
+      "socialimage": "",
+      "domain": "article.wn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/09/29/3157918/0/en/NVIDIA-Accelerates-Robotics-Research-and-Development-With-New-Open-Models-and-Simulation-Libraries.html",
+      "url_mobile": "",
+      "title": "NVIDIA Accelerates Robotics Research and Development With",
+      "seendate": "20250929T153000Z",
+      "socialimage": "https://ml.globenewswire.com/Resource/Download/87ee19eb-0691-419d-aeae-a3fc89436c6d",
+      "domain": "globenewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-september-29-2025",
+      "url_mobile": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-september-29-2025.amp",
+      "title": "Bryan Norcross : Florida , Southeast only feel edge effects from Imelda",
+      "seendate": "20250929T150000Z",
+      "socialimage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2025/08/1024/512/hhq_end_frame.png?ve=1&tl=1",
+      "domain": "foxweather.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.actionnewsjax.com/weather/talking-tropics-wmike-imelda-near-northern-bahamas-powerful-humberto-east/SXRGZGVSGBDK5HXMYVUAKKODCY/",
+      "url_mobile": "https://www.actionnewsjax.com/weather/talking-tropics-wmike-imelda-near-northern-bahamas-powerful-humberto-east/SXRGZGVSGBDK5HXMYVUAKKODCY/?outputType=amp",
+      "title": "Talking the Tropics With Mike : Last day of the Atlantic hurricane season ! ",
+      "seendate": "20250929T140000Z",
+      "socialimage": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJIFG55NSN5HKZK6LKEZ4C7UU5I.jpg?auth=cc2a02c99e732e6497eead4b5d7e142e6bcad0e6af0ad815eaa67a9f863e956a&smart=true",
+      "domain": "actionnewsjax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/28/what-is-1-of-the-best-artificial-intelligence-ai-b/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "What Is 1 of the Best Artificial Intelligence ( AI ) Bargains on the Market Today ? ",
+      "seendate": "20250929T030000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/834852/gettyimages-1450922167.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wokv.com/weather/talking-tropics-wmike-td-9-forms-imalda-over-bahamas/7O4U7X5GAFDQ3G3WVRUILJTP54/",
+      "url_mobile": "https://www.wokv.com/weather/talking-tropics-wmike-td-9-forms-imalda-over-bahamas/7O4U7X5GAFDQ3G3WVRUILJTP54/?outputType=amp",
+      "title": "Talking the Tropics With Mike : Last day of the Atlantic hurricane season ! ",
+      "seendate": "20250928T220000Z",
+      "socialimage": "https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJIFG55NSN5HKZK6LKEZ4C7UU5I.jpg?auth=cc2a02c99e732e6497eead4b5d7e142e6bcad0e6af0ad815eaa67a9f863e956a&smart=true",
+      "domain": "wokv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.aol.com/articles/bryan-norcross-imelda-landfall-unlikely-162421497.html",
+      "url_mobile": "",
+      "title": "Bryan Norcross : Imelda landfall unlikely in Southeast but rainfall impacts expected",
+      "seendate": "20250928T201500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/WPT80_eVcaUbm6egdXrHdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_weather_976/37bcd9bb6178ad94e89e305a7eb67b8d",
+      "domain": "aol.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/world/uk/donald-trumps-windsor-castle-stay-reportedly-left-royal-staff-disgusted/articleshow/124196465.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/world/uk/donald-trumps-windsor-castle-stay-reportedly-left-royal-staff-disgusted/amp_articleshow/124196465.cms",
+      "title": "Donald Trump Windsor Castle stay reportedly left royal staff  disgusted  ",
+      "seendate": "20250928T160000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-124164027,width-1070,height-580,imgsize-1039105,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/sciencetech/article-15126183/rapture-Apocalypse-really-look-like-expert.html",
+      "url_mobile": "https://www.dailymail.co.uk/sciencetech/article-15126183/amp/rapture-Apocalypse-really-look-like-expert.html",
+      "title": "What the end of the world will REALLY look like : As the Rapture fails to come to fruition , expert reveals the bleak reality of the apocalypse",
+      "seendate": "20250928T134500Z",
+      "socialimage": "https://i.dailymail.co.uk/1s/2025/09/26/15/102478385-0-image-m-18_1758897036304.jpg",
+      "domain": "dailymail.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.webpronews.com/google-expands-ai-influence-in-higher-ed-with-1b-investment-and-faculty-hires/",
+      "url_mobile": "",
+      "title": "Google Expands AI Influence in Higher Ed with $1B Investment and Faculty Hires",
+      "seendate": "20250928T123000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-7ad634fe-de2c-47fa-af69-1fc1bc92d9c0.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/calumchace/2025/09/28/the-economic-singularity-and-the-five-as/",
+      "url_mobile": "",
+      "title": "The Economic Singularity And The Five As",
+      "seendate": "20250928T104500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68d902a83c4883da46c1e932/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsx.com/tech-and-auto/google-deepmind-showcases-gemini-robotics-15-watch-robots-learn-plan-and-perform-seamlessly-82950/",
+      "url_mobile": "https://www.newsx.com/tech-and-auto/google-deepmind-showcases-gemini-robotics-15-watch-robots-learn-plan-and-perform-seamlessly-82950/amp/",
+      "title": "Google DeepMind Showcases Gemini Robotics 1 . 5 , Watch Robots Learn , Plan , And Perform Seamlessly",
+      "seendate": "20250928T000000Z",
+      "socialimage": "https://www.newsx.com/wp-content/uploads/2025/09/image-2025-09-28t031207793.jpg",
+      "domain": "newsx.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.local10.com/weather/hurricane/2025/09/27/tropical-depression-forms-could-become-imelda-storm-watches-issued-for-east-central-florida/",
+      "url_mobile": "",
+      "title": "Tropical depression forms , could become Imelda ; storm watches issued for east - central Florida",
+      "seendate": "20250927T233000Z",
+      "socialimage": "https://www.local10.com/resizer/v2/FORADFJCUBCIHAVLSLB55LTI74.jpg?auth=39c6d1c413a618177bf06411471e9b0cf1490668e4bb9bb82988f233308c9da9",
+      "domain": "local10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://bocanewsnow.com/2025/09/27/tropical-storm-watch-hurricane-center-issues-watch-for-part-of-south-florida/",
+      "url_mobile": "",
+      "title": "TROPICAL STORM WATCH : Hurricane Center Issues Watch For Part Of South Florida",
+      "seendate": "20250927T211500Z",
+      "socialimage": "https://i0.wp.com/bocanewsnow.com/wp-content/uploads/2025/09/930-620-BLUE-35-7-2.jpeg",
+      "domain": "bocanewsnow.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digit.in/features/general/how-ai-enhances-smart-home-tech-in-5-cool-ways.html",
+      "url_mobile": "https://www.digit.in/features/general/how-ai-enhances-smart-home-tech-in-5-cool-ways.html/amp/",
+      "title": "How AI Enhances Smart Home Tech in 5 Cool Ways",
+      "seendate": "20250927T180000Z",
+      "socialimage": "https://static.digit.in/AI-Smart-Home.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wokv.com/weather/talking-tropics-wmike-tropical-storm-watch-parts-fl-east-coast-depression-9-forms/KKZGO2QG7FB33HOKXFW5SSUOQQ/",
+      "url_mobile": "https://www.wokv.com/weather/talking-tropics-wmike-tropical-storm-watch-parts-fl-east-coast-depression-9-forms/KKZGO2QG7FB33HOKXFW5SSUOQQ/?outputType=amp",
+      "title": "Talking the Tropics With Mike : Last day of the Atlantic hurricane season ! ",
+      "seendate": "20250927T174500Z",
+      "socialimage": "https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJIFG55NSN5HKZK6LKEZ4C7UU5I.jpg?auth=cc2a02c99e732e6497eead4b5d7e142e6bcad0e6af0ad815eaa67a9f863e956a&smart=true",
+      "domain": "wokv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.actionnewsjax.com/weather/talking-tropics-wmike-slowly-organizing-system-near-bahamaswarnings-effect/EENM3W4XHJEJJNTATQTDEQYCAU/",
+      "url_mobile": "https://www.actionnewsjax.com/weather/talking-tropics-wmike-slowly-organizing-system-near-bahamaswarnings-effect/EENM3W4XHJEJJNTATQTDEQYCAU/?outputType=amp",
+      "title": "Talking the Tropics With Mike : Last day of the Atlantic hurricane season ! ",
+      "seendate": "20250927T133000Z",
+      "socialimage": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJIFG55NSN5HKZK6LKEZ4C7UU5I.jpg?auth=cc2a02c99e732e6497eead4b5d7e142e6bcad0e6af0ad815eaa67a9f863e956a&smart=true",
+      "domain": "actionnewsjax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wokv.com/weather/talking-tropics-wmike-slowly-organizing-system-near-bahamaswarnings-effect/EENM3W4XHJEJJNTATQTDEQYCAU/",
+      "url_mobile": "https://www.wokv.com/weather/talking-tropics-wmike-slowly-organizing-system-near-bahamaswarnings-effect/EENM3W4XHJEJJNTATQTDEQYCAU/?outputType=amp",
+      "title": "Talking the Tropics With Mike : Last day of the Atlantic hurricane season ! ",
+      "seendate": "20250927T124500Z",
+      "socialimage": "https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJIFG55NSN5HKZK6LKEZ4C7UU5I.jpg?auth=cc2a02c99e732e6497eead4b5d7e142e6bcad0e6af0ad815eaa67a9f863e956a&smart=true",
+      "domain": "wokv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/global/the-virtual-worlds-where-ai-is-making-its-next-big-leap-11758963943438.html",
+      "url_mobile": "https://www.livemint.com/global/the-virtual-worlds-where-ai-is-making-its-next-big-leap/amp-11758963943438.html",
+      "title": "The virtual worlds where AI is making its next big leap",
+      "seendate": "20250927T114500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2025/09/27/600x338/pexels-photo-6153354_1758969918624_1758969924338.jpeg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.livemint.com/technology/tech-news/google-deepmind-introduces-gemini-robotics-1-5-watch-robots-plan-analyse-and-act-11758964754961.html",
+      "url_mobile": "https://www.livemint.com/technology/tech-news/google-deepmind-introduces-gemini-robotics-1-5-watch-robots-plan-analyse-and-act/amp-11758964754961.html",
+      "title": "Google DeepMind introduces Gemini Robotics 1 . 5 \u2013 WATCH robots plan , analyse , and act",
+      "seendate": "20250927T114500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2025/09/27/600x338/hkjbjvjhvvjhvjv_1758965364964_1758965371037.webp",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.newsx.com/tech-and-auto/google-turns-27-a-journey-from-simple-search-to-tech-powerhouse-82349/",
+      "url_mobile": "https://www.newsx.com/tech-and-auto/google-turns-27-a-journey-from-simple-search-to-tech-powerhouse-82349/amp/",
+      "title": "Google Turns 27 : A Journey from Simple Search to Tech Powerhouse",
+      "seendate": "20250927T113000Z",
+      "socialimage": "https://www.newsx.com/wp-content/uploads/2025/09/live-2025-09-27t132138015.jpg",
+      "domain": "newsx.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wokv.com/weather/talking-tropics-wmike-tropical-storm-watcheswarnings-parts-bahamasmajor-humberto/VGNU72QQ4BA3VLSA5VVZVLENVM/",
+      "url_mobile": "https://www.wokv.com/weather/talking-tropics-wmike-tropical-storm-watcheswarnings-parts-bahamasmajor-humberto/VGNU72QQ4BA3VLSA5VVZVLENVM/?outputType=amp",
+      "title": "Talking the Tropics With Mike : Last day of the Atlantic hurricane season ! ",
+      "seendate": "20250926T231500Z",
+      "socialimage": "https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJIFG55NSN5HKZK6LKEZ4C7UU5I.jpg?auth=cc2a02c99e732e6497eead4b5d7e142e6bcad0e6af0ad815eaa67a9f863e956a&smart=true",
+      "domain": "wokv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.windowscentral.com/artificial-intelligence/sam-altman-says-gpt-8-could-achieve-true-agi-if-it-solves-quantum-gravity",
+      "url_mobile": "",
+      "title": "OpenAI ultimate AGI test solving quantum gravity",
+      "seendate": "20250926T230000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/cCG63u7HeoqnuMCKdA5v7M.jpg",
+      "domain": "windowscentral.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.actionnewsjax.com/weather/talking-tropics-wmike-tropical-storm-watcheswarnings-parts-bahamasmajor-humberto/VGNU72QQ4BA3VLSA5VVZVLENVM/",
+      "url_mobile": "https://www.actionnewsjax.com/weather/talking-tropics-wmike-tropical-storm-watcheswarnings-parts-bahamasmajor-humberto/VGNU72QQ4BA3VLSA5VVZVLENVM/?outputType=amp",
+      "title": "Talking the Tropics With Mike : Last day of the Atlantic hurricane season ! ",
+      "seendate": "20250926T230000Z",
+      "socialimage": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJIFG55NSN5HKZK6LKEZ4C7UU5I.jpg?auth=cc2a02c99e732e6497eead4b5d7e142e6bcad0e6af0ad815eaa67a9f863e956a&smart=true",
+      "domain": "actionnewsjax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theverge.com/column/786759/humanoid-robots-meta",
+      "url_mobile": "",
+      "title": "Humanoid robots are Meta next  AR - size bet  ",
+      "seendate": "20250926T210000Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22870625/slack_imgs.jpg?quality=90&strip=all&crop=2,15.477930685054,98,68.487965103751",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://betakit.com/minister-evan-solomon-reveals-canadas-ai-task-force/",
+      "url_mobile": "",
+      "title": "Minister Evan Solomon reveals Canada AI Task Force",
+      "seendate": "20250926T203000Z",
+      "socialimage": "https://cdn.betakit.com/wp-content/uploads/2025/09/Solomon-AI-ALL-IN.jpg",
+      "domain": "betakit.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/26/quantum-ai-could-be-the-next-10-trillion-industry/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Quantum Artificial Intelligence ( AI ) Could Be the Next $10 Trillion Industry -- 2 Stocks to Own Now",
+      "seendate": "20250926T181500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/834073/gettyimages-2156615862-11.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-26-google-backed-apptronik-intensifies-humanoid-robotics-race-challenging-teslas-optimus",
+      "url_mobile": "",
+      "title": "Google - Backed Apptronik Intensifies Humanoid Robotics Race , Challenging Tesla Optimus",
+      "seendate": "20250926T181500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/26/quantum-ai-could-be-the-next-10-trillion-industry/",
+      "url_mobile": "",
+      "title": "Quantum Artificial Intelligence ( AI ) Could Be the Next $10 Trillion Industry -- 2 Stocks to Own Now",
+      "seendate": "20250926T180000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/834073/gettyimages-2156615862-11.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/80967872a9f6c65b",
+      "url_mobile": "",
+      "title": "Google DeepMind adds agentic AI models to robots",
+      "seendate": "20250926T163000Z",
+      "socialimage": "https://biztoc.com/cdn/80967872a9f6c65b_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.digit.in/features/general/radiologists-vs-ai-why-medical-imaging-tools-still-rely-on-human-expertise.html",
+      "url_mobile": "https://www.digit.in/features/general/radiologists-vs-ai-why-medical-imaging-tools-still-rely-on-human-expertise.html/amp/",
+      "title": "Radiologists vs AI : Why medical imaging tools still rely on human expertise",
+      "seendate": "20250926T144500Z",
+      "socialimage": "https://static.digit.in/Radiology.png",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.stiripesurse.ro/eu-bets-on-drones-and-ai-to-secure-next-generation-defence-edge-enr_3815094",
+      "url_mobile": "",
+      "title": "EU bets on drones and AI to secure next - generation defence edge ( enr ) ",
+      "seendate": "20250926T090000Z",
+      "socialimage": "https://www.stiripesurse.ro/media/images/202503/media-174209945680649600.webp",
+      "domain": "stiripesurse.ro",
+      "language": "English",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://biztoc.com/x/c925d1ddb87b7f46",
+      "url_mobile": "",
+      "title": "Google DeepMind Adds Agentic Capabilities to AI Models for Robots",
+      "seendate": "20250926T001500Z",
+      "socialimage": "https://biztoc.com/cdn/950/og.png",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.sureklihaber.com/a16z-generative-ai/",
+      "url_mobile": "https://www.sureklihaber.com/a16z-generative-ai/amp/",
+      "title": "a16z generative ai",
+      "seendate": "20250926T000000Z",
+      "socialimage": "",
+      "domain": "sureklihaber.com",
+      "language": "English",
+      "sourcecountry": "Turkey"
+    },
+    {
+      "url": "https://wccftech.com/google-deepmind-unveils-gemini-robotics-1-5-and-er-1-5-to-help-robots-reason-plan-and-learn-across-different-tasks/",
+      "url_mobile": "https://wccftech.com/google-deepmind-unveils-gemini-robotics-1-5-and-er-1-5-to-help-robots-reason-plan-and-learn-across-different-tasks/amp/",
+      "title": "Google DeepMind Unveils Gemini Robotics 1 . 5 And ER 1 . 5 To Help Robots Reason , Plan , And Learn Across Different Tasks",
+      "seendate": "20250925T213000Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2025/09/Gemini-Robotics-e1758820583530.jpg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://koreabizwire.com/peak-xv-announces-surge-11/333769",
+      "url_mobile": "",
+      "title": "Peak XV announces Surge 11",
+      "seendate": "20250925T211500Z",
+      "socialimage": "http://koreabizwire.com/wp/wp-content/uploads/2025/09/surge-11-founders.jpg",
+      "domain": "koreabizwire.com",
+      "language": "English",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-25-ai-takes-center-stage-in-biodefense-darpas-nodes-program-promises-to-revolutionize-pandemic-and-biowarfare-protection",
+      "url_mobile": "",
+      "title": "AI Takes Center Stage in Biodefense : DARPA NODES Program Promises to Revolutionize Pandemic and Biowarfare Protection",
+      "seendate": "20250925T184500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ecoticias.com/en/over-2-million-discovered-on-us-soil/20828/",
+      "url_mobile": "",
+      "title": "Not of this world Over 2 million are discovered on U . S . soil and counting",
+      "seendate": "20250925T174500Z",
+      "socialimage": "https://www.ecoticias.com/en/wp-content/uploads/2025/09/over-2-million-discovered-on-us-soil-1.jpg",
+      "domain": "ecoticias.com",
+      "language": "English",
+      "sourcecountry": "Spain"
+    },
+    {
+      "url": "https://arstechnica.com/google/2025/09/google-deepmind-unveils-its-first-thinking-robotics-ai/",
+      "url_mobile": "",
+      "title": "Google DeepMind unveils its first  thinking  robotics AI",
+      "seendate": "20250925T173000Z",
+      "socialimage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gemini-Robotics-1.5_Agentic-Capabilitiies-1152x648.jpg",
+      "domain": "arstechnica.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.packworld.com/trends/digital-transformation/article/22950683/humanoid-robots-in-packaging-part-2-cautious-curiosity-among-cpgs",
+      "url_mobile": "",
+      "title": "Humanoid Robots in Packaging Part 2 : Cautious Curiosity Among CPGs",
+      "seendate": "20250925T173000Z",
+      "socialimage": "https://img.packworld.com/mindful/pmmi/workspaces/default/uploads/2025/09/apptronik-case-carrying-2.0le7WgL34M.png?auto=format%2Ccompress&fit=max&q=70",
+      "domain": "packworld.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.local10.com/weather/hurricane/2025/09/25/humberto-forms-threat-to-the-southeast-us-grows-from-possible-imelda/",
+      "url_mobile": "",
+      "title": "Humberto forms , threat to the southeast US grows from possible Imelda",
+      "seendate": "20250925T173000Z",
+      "socialimage": "https://www.local10.com/resizer/v2/ZNZLPPDZWBCIRPW3IKAKXUUJCU.png?auth=6aae26d9e1b95dd36ec9065b6d649cc811d2a1972d1739181222339db6810c91",
+      "domain": "local10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search",
+      "url_mobile": "",
+      "title": "Google DeepMind new AI models can search the web to help robots complete tasks",
+      "seendate": "20250925T173000Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/apollo-robot-search.png?quality=90&strip=all&crop=0%2C12.761397385261%2C100%2C74.477205229479",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://telecom.economictimes.indiatimes.com/news/internet/ais-double-edged-sword-un-leaders-evaluate-promise-and-peril/124103105",
+      "url_mobile": "https://telecom.economictimes.indiatimes.com/amp/news/internet/ais-double-edged-sword-un-leaders-evaluate-promise-and-peril/124103105",
+      "title": "AI Double - Edged Sword : UN Leaders Evaluate Promise and Peril , ETTelecom",
+      "seendate": "20250925T063000Z",
+      "socialimage": "https://etimg.etb2bimg.com/thumb/msid-124103105,imgsize-72616,width-1200,height=627,overlay-ettelecom,resizemode-75/internet/ais-double-edged-sword-un-leaders-evaluate-promise-and-peril.jpg",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.livemint.com/mint-lounge/business-of-life/ai-tracker-facebook-dating-assistant-ai-slop-un-11758772937963.html",
+      "url_mobile": "https://www.livemint.com/mint-lounge/business-of-life/ai-tracker-facebook-dating-assistant-ai-slop-un/amp-11758772937963.html",
+      "title": "AI tracker : Do you need dating help from AI ? ",
+      "seendate": "20250925T054500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2025/09/25/600x338/facebook_AI_dating_1758773133435_1758773137775.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/09/25/ai039s-double-edged-sword-un-leaders-weigh-its-promise-and-peril",
+      "url_mobile": "",
+      "title": "AI double - edged sword : UN leaders weigh its promise and peril",
+      "seendate": "20250925T043000Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2025/09/25/3538590.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.theregister.com/2025/09/25/microsoft_claude_copilot/",
+      "url_mobile": "",
+      "title": "Microsoft puts Claude on the M365 menu",
+      "seendate": "20250925T041500Z",
+      "socialimage": "https://regmedia.co.uk/2024/03/04/claude_shutterstock.jpg",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-instamarts-inventory-pivot-smaller-upi-firms-gain-share/articleshow/124102564.cms",
+      "url_mobile": "https://m.economictimes.com/tech/newsletters/morning-dispatch/swiggy-instamarts-inventory-pivot-smaller-upi-firms-gain-share/amp_articleshow/124102564.cms",
+      "title": "Swiggy Instamart rejig ; Smaller UPI firms gain",
+      "seendate": "20250925T023000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-124102564,width-1070,height-580,imgsize-2529791,overlay-ettech/editionshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.terradaily.com/reports/Scientists_urge_global_AI_red_lines_as_leaders_gather_at_UN_999.html",
+      "url_mobile": "",
+      "title": "Scientists urge global AI  red line as leaders gather at UN",
+      "seendate": "20250925T021500Z",
+      "socialimage": "https://www.spxdaily.com/images-hg/robot-president-mao-posters-hg.jpg",
+      "domain": "terradaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nvdaily.com/associated_press_national/ais-double-edged-sword-un-leaders-weigh-its-promise-and-peril/article_eba9c69d-813e-52dc-9612-2a6cdb7c92b2.html",
+      "url_mobile": "",
+      "title": "AI double - edged sword : UN leaders weigh its promise and peril",
+      "seendate": "20250925T021500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/8/84/8848f9a8-d383-55a3-b80e-7c3b3a6e6fca/68cc46d48b553.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "nvdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://japantoday.com/category/tech/in-just-one-year-google-turns-ai-setbacks-into-dominance",
+      "url_mobile": "",
+      "title": "In just one year , Google turns AI setbacks into dominance",
+      "seendate": "20250925T020000Z",
+      "socialimage": "",
+      "domain": "japantoday.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://listenupyall.com/2025/09/24/ais-double-edged-sword-un-leaders-weigh-its-promise-and-peril/",
+      "url_mobile": "",
+      "title": "AI double - edged sword : UN leaders weigh its promise and peril",
+      "seendate": "20250925T013000Z",
+      "socialimage": "https://aprss.listenupyall.com/rss_feeds/images/57ed70f406c64a70be883d80fd12a40e.jpg",
+      "domain": "listenupyall.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.local10.com/weather/hurricane/2025/09/24/double-trouble-dueling-disturbances-head-west-for-the-weekend/",
+      "url_mobile": "",
+      "title": "Double Trouble : Dueling disturbances head west for the weekend",
+      "seendate": "20250924T223000Z",
+      "socialimage": "https://www.local10.com/resizer/v2/NC5TW7TDRFDKZDJWNGKLSLGWJM.png?auth=6b14fae6fa1ff45e092fb68f1d795cc2f51e57f15ae1cc76f8ab32618f0080ec",
+      "domain": "local10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://9to5mac.com/2025/09/24/apple-simplefold-protein-folding-prediction-ai/",
+      "url_mobile": "",
+      "title": "Apple develops a lightweight AI for protein folding prediction",
+      "seendate": "20250924T220000Z",
+      "socialimage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-simplefold-fi.jpg",
+      "domain": "9to5mac.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-24-mits-scigen-a-new-era-dawns-for-materials-discovery-with-ai",
+      "url_mobile": "",
+      "title": "MIT SCIGEN : A New Era Dawns for Materials Discovery with AI",
+      "seendate": "20250924T210000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kevinmd.com/2025/09/the-parallel-evolution-of-computer-chess-and-ai-in-health-care-the-inevitable-journey-to-embracing-cognitive-inferiority.html",
+      "url_mobile": "",
+      "title": "The parallel evolution of computer chess and AI in health care : the inevitable journey to embracing cognitive inferiority",
+      "seendate": "20250924T201500Z",
+      "socialimage": "https://kevinmd.com/wp-content/uploads/image-1-6.jpg",
+      "domain": "kevinmd.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kcra.com/article/united-nations-ai-governance-global-forum/68026146",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T200000Z",
+      "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268d42f8891ba1.jpg?crop=1.00xw:0.847xh;0,0.0624xh",
+      "domain": "kcra.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.indiatvnews.com/technology/news/ai-takes-center-stage-at-this-year-s-un-meeting-on-global-challenges-2025-09-24-1009835",
+      "url_mobile": "https://www.indiatvnews.com/amp/technology/news/ai-takes-center-stage-at-this-year-s-un-meeting-on-global-challenges-2025-09-24-1009835",
+      "title": "AI takes center stage at this year UN meeting on global challenges",
+      "seendate": "20250924T194500Z",
+      "socialimage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/09/ai-takes-center-stage-at-this-year-s-un-meeting-1758714548.jpg",
+      "domain": "indiatvnews.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wtae.com/article/united-nations-ai-governance-global-forum/68026146",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T193000Z",
+      "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268d42f8891ba1.jpg?crop=1.00xw:0.847xh;0,0.0624xh",
+      "domain": "wtae.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/deepmind-warns-ais-that-may-resist-shutdowns-a-29540",
+      "url_mobile": "",
+      "title": "DeepMind Warns of AIs That May Resist Shutdowns",
+      "seendate": "20250924T193000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/deepmind-warns-ais-that-may-resist-shutdowns-image_large-8-a-29540.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wpbf.com/article/united-nations-ai-governance-global-forum/68026146",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T190000Z",
+      "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268d42f8891ba1.jpg?crop=1.00xw:0.847xh;0,0.0624xh",
+      "domain": "wpbf.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ketv.com/article/united-nations-ai-governance-global-forum/68026146",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T184500Z",
+      "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268d42f8891ba1.jpg?crop=1.00xw:0.847xh;0,0.0624xh",
+      "domain": "ketv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/deepmind-warns-ais-that-may-resist-shutdowns-a-29540",
+      "url_mobile": "",
+      "title": "DeepMind Warns of AIs That May Resist Shutdowns",
+      "seendate": "20250924T174500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/deepmind-warns-ais-that-may-resist-shutdowns-image_large-8-a-29540.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.worldpoliticsreview.com/uk-eu-ai-regulation/",
+      "url_mobile": "",
+      "title": "AI Regulation Is the Latest U . K .- EU Fault Line",
+      "seendate": "20250924T170000Z",
+      "socialimage": "https://www.worldpoliticsreview.com/wp-content/uploads/2025/09/uk-eu-ai-regulation-09242025-1.jpg",
+      "domain": "worldpoliticsreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://metro.co.uk/2025/09/24/hunger-strike-held-outside-london-ai-lab-stop-humans-crushed-like-ants-24248935/",
+      "url_mobile": "https://metro.co.uk/2025/09/24/hunger-strike-held-outside-london-ai-lab-stop-humans-crushed-like-ants-24248935/amp/",
+      "title": "Hunger strike held outside London AI lab to  stop humans being crushed like ant | News Tech",
+      "seendate": "20250924T163000Z",
+      "socialimage": "https://metro.co.uk/wp-content/uploads/2025/09/SEI_267446028-4d93-e1758715808613_1758730454.jpg?quality=90&strip=all&crop=1",
+      "domain": "metro.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://sofrep.com/news/sofrep-daily-2025-sep-24-am/",
+      "url_mobile": "",
+      "title": "Morning Brief : USS America Returns to San Diego , Colombia Petro Seeks Trump Probe , Estonia Boosts Border Defenses",
+      "seendate": "20250924T153000Z",
+      "socialimage": "https://cms.sofrep.com/wp-content/uploads/2025/09/Colombias-President-Gustavo-Petro.jpg",
+      "domain": "sofrep.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wcnc.com/article/news/nation-world/ai-joins-global-challenges-agenda-un-meeting/507-f5ef62b9-9a23-4f0f-a7f8-61b5bbd2503e",
+      "url_mobile": "",
+      "title": "U . N . leaders focus on AI governance at annual meetup",
+      "seendate": "20250924T131500Z",
+      "socialimage": "https://media.wcnc.com/assets/CCT/images/cbec0cc6-9695-4f35-8afe-a989232eaf81/20250924T112038/cbec0cc6-9695-4f35-8afe-a989232eaf81_1140x641.jpg",
+      "domain": "wcnc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kcentv.com/article/news/nation-world/ai-joins-global-challenges-agenda-un-meeting/507-f5ef62b9-9a23-4f0f-a7f8-61b5bbd2503e",
+      "url_mobile": "",
+      "title": "U . N . leaders focus on AI governance at annual meetup",
+      "seendate": "20250924T131500Z",
+      "socialimage": "https://media.kcentv.com/assets/CCT/images/cbec0cc6-9695-4f35-8afe-a989232eaf81/20250924T112038/cbec0cc6-9695-4f35-8afe-a989232eaf81_1140x641.jpg",
+      "domain": "kcentv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.abc10.com/article/news/nation-world/ai-joins-global-challenges-agenda-un-meeting/507-f5ef62b9-9a23-4f0f-a7f8-61b5bbd2503e",
+      "url_mobile": "",
+      "title": "U . N . leaders focus on AI governance at annual meetup",
+      "seendate": "20250924T130000Z",
+      "socialimage": "https://media.abc10.com/assets/CCT/images/cbec0cc6-9695-4f35-8afe-a989232eaf81/20250924T112038/cbec0cc6-9695-4f35-8afe-a989232eaf81_1140x641.jpg",
+      "domain": "abc10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/med-attracts-multimodal-ai-ahead-of-big-release-302565267.html",
+      "url_mobile": "",
+      "title": " . med Attracts Multimodal AI Ahead of Big Release",
+      "seendate": "20250924T130000Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.11alive.com/article/news/nation-world/ai-joins-global-challenges-agenda-un-meeting/507-f5ef62b9-9a23-4f0f-a7f8-61b5bbd2503e",
+      "url_mobile": "",
+      "title": "U . N . leaders focus on AI governance at annual meetup",
+      "seendate": "20250924T130000Z",
+      "socialimage": "https://media.11alive.com/assets/CCT/images/cbec0cc6-9695-4f35-8afe-a989232eaf81/20250924T112038/cbec0cc6-9695-4f35-8afe-a989232eaf81_1140x641.jpg",
+      "domain": "11alive.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wusa9.com/article/news/nation-world/ai-joins-global-challenges-agenda-un-meeting/507-f5ef62b9-9a23-4f0f-a7f8-61b5bbd2503e",
+      "url_mobile": "",
+      "title": "U . N . leaders focus on AI governance at annual meetup",
+      "seendate": "20250924T124500Z",
+      "socialimage": "https://media.wusa9.com/assets/CCT/images/cbec0cc6-9695-4f35-8afe-a989232eaf81/20250924T112038/cbec0cc6-9695-4f35-8afe-a989232eaf81_1140x641.jpg",
+      "domain": "wusa9.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.13newsnow.com/article/news/nation-world/ai-joins-global-challenges-agenda-un-meeting/507-f5ef62b9-9a23-4f0f-a7f8-61b5bbd2503e",
+      "url_mobile": "",
+      "title": "U . N . leaders focus on AI governance at annual meetup",
+      "seendate": "20250924T124500Z",
+      "socialimage": "https://media.13newsnow.com/assets/CCT/images/cbec0cc6-9695-4f35-8afe-a989232eaf81/20250924T112038/cbec0cc6-9695-4f35-8afe-a989232eaf81_1140x641.jpg",
+      "domain": "13newsnow.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.arabnews.com/node/2616534/world",
+      "url_mobile": "https://www.arabnews.com/node/2616534/amp",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T111500Z",
+      "socialimage": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2025/09/24/4642627-1229652533.jpg?itok=w9Tr1P9l",
+      "domain": "arabnews.com",
+      "language": "English",
+      "sourcecountry": "Saudi Arabia"
+    },
+    {
+      "url": "https://www.journal-news.com/news/nation-world/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/NEJOOHOW7JKAXAIRF5FSGSDUBA/",
+      "url_mobile": "https://www.daytondailynews.com/news/nation-world/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/NEJOOHOW7JKAXAIRF5FSGSDUBA/?outputType=amp",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T080000Z",
+      "socialimage": "https://www.journal-news.com/resizer/v2/OXZVWVDK5ZF3NJ23JUL4SUVCME.jpg?auth=31dcdc3e2cf179573f19696e0c7cb7af49d0a1c08040192b876a434ef63d6fa3&smart=true",
+      "domain": "journal-news.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ksat.com/business/2025/09/24/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T063000Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PFYWHQM3NND6FNQKDT35VCTU2I.jpg?_a=DATAg1eAZAA0",
+      "domain": "ksat.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.spacedaily.com/afp/250924012709.j2eafks7.html",
+      "url_mobile": "",
+      "title": "In just one year , Google turns AI setbacks into dominance",
+      "seendate": "20250924T063000Z",
+      "socialimage": "",
+      "domain": "spacedaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/24/cnbcs-uk-exchange-newsletter-how-britains-startup-sector-is-evolving.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/24/cnbcs-uk-exchange-newsletter-how-britains-startup-sector-is-evolving.html",
+      "title": "CNBC united kingdom Exchange newsletter : How Britain startup sector is evolving",
+      "seendate": "20250924T060000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/105427119-1535726763136gettyimages-505224904.jpeg?v=1758643480",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://infotechlead.com/artificial-intelligence/alibaba-unveils-qwen3-max-its-most-powerful-ai-language-model-yet-91256",
+      "url_mobile": "https://infotechlead.com/artificial-intelligence/alibaba-unveils-qwen3-max-its-most-powerful-ai-language-model-yet-91256?amp=1",
+      "title": "Alibaba Unveils Qwen3 - Max : Its Most Powerful AI Language Model Yet",
+      "seendate": "20250924T060000Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2025/09/Alibaba-Qwen3-Max-AI.jpg",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.digitaljournal.com/business/in-just-one-year-google-turns-ai-setbacks-into-dominance/article",
+      "url_mobile": "",
+      "title": "In just one year , Google turns AI setbacks into dominance",
+      "seendate": "20250924T054500Z",
+      "socialimage": "https://www.digitaljournal.com/wp-content/uploads/2025/09/28bee4b8c73c47fdf798641a6f0102e86acfb6ca.jpg",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bozemandailychronicle.com/ap_news/business/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/article_24ebe6f2-461c-5936-a748-55680ac210b1.html",
+      "url_mobile": "https://www.bozemandailychronicle.com/ap_news/business/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/article_24ebe6f2-461c-5936-a748-55680ac210b1.amp.html",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T053000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/4/d5/4d534ca3-e555-5c81-8caf-a84ab79d4c5d/68d0cc2278e61.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "bozemandailychronicle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wboc.com/news/international/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/article_3ccdd9c6-2a8c-5bb2-a1df-fb4e644a1a32.html",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T051500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/wboc.com/content/tncms/assets/v3/editorial/3/5b/35b2ab55-45f3-5ea6-a022-9ad0c065af4c/68d0cb4e466a6.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "wboc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.whec.com/ap-top-news/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T050000Z",
+      "socialimage": "https://www.whec.com/wp-content/uploads/apimg/2025/09/United_Nations_Gaza_71641.jpg",
+      "domain": "whec.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/09/24/google-courts-gamers-with-mobile-ai-gaming-agent-leagues",
+      "url_mobile": "",
+      "title": "Google courts gamers with mobile AI gaming agent , leagues",
+      "seendate": "20250924T050000Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2025/09/24/3536687.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/google-turns-ai-setbacks-into-dominance-in-just-one-year/article70087242.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/google-turns-ai-setbacks-into-dominance-in-just-one-year/article70087242.ece/amp/",
+      "title": "Google turns AI setbacks into dominance in just one year",
+      "seendate": "20250924T050000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/dzm3mf/article70087243.ece/alternates/LANDSCAPE_1200/2025-09-22T100930Z_2102900106_RC28HEASEZR4_RTRMADP_3_TECH-ANTITRUST-GOOGLE-AD-TECH.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.mymotherlode.com/news/technology/4343869/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting.html",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T041500Z",
+      "socialimage": "https://www.mymotherlode.com/wp-content/uploads/2025/09/AP_57ed70f406c64a70be883d80fd12a40e_442ebf2b6d.jpg",
+      "domain": "mymotherlode.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://abcnews.go.com/Technology/wireStory/ai-joins-list-global-challenges-agenda-meeting-125878995",
+      "url_mobile": "https://abcnews.go.com/amp/Technology/wireStory/ai-joins-list-global-challenges-agenda-meeting-125878995",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T041500Z",
+      "socialimage": "https://i.abcnewsfe.com/a/7c2cdaa9-0a75-4547-b649-4aeffcab5a50/wirestory_5cb0f21feeb3e734cc0c25eab67fe26d_16x9.jpg",
+      "domain": "abcnews.go.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kob.com/ap-top-news/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T040000Z",
+      "socialimage": "https://www.kob.com/wp-content/uploads/apimg/2025/09/United_Nations_Gaza_71641.jpg",
+      "domain": "kob.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.springfieldnewssun.com/news/nation-world/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/NEJOOHOW7JKAXAIRF5FSGSDUBA/",
+      "url_mobile": "https://www.daytondailynews.com/news/nation-world/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/NEJOOHOW7JKAXAIRF5FSGSDUBA/?outputType=amp",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T040000Z",
+      "socialimage": "https://www.springfieldnewssun.com/resizer/v2/OXZVWVDK5ZF3NJ23JUL4SUVCME.jpg?auth=31dcdc3e2cf179573f19696e0c7cb7af49d0a1c08040192b876a434ef63d6fa3&smart=true",
+      "domain": "springfieldnewssun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailygazette.com/hv360/ap/business/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/article_271b4876-290f-52e9-bb3e-ab3e6c3fe5a7.html",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T040000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/a/f6/af64800a-54c1-5cc8-88cf-8695f2da2365/68d0cad725270.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "dailygazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wdio.com/ap-top-news/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T040000Z",
+      "socialimage": "https://www.wdio.com/wp-content/uploads/apimg/2025/09/United_Nations_Gaza_71641.jpg",
+      "domain": "wdio.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2025/09/23/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting \u2013 Winnipeg Free Press",
+      "seendate": "20250924T040000Z",
+      "socialimage": "",
+      "domain": "winnipegfreepress.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.clickondetroit.com/business/2025/09/24/ai-joins-list-of-global-challenges-on-agenda-for-un-meeting/",
+      "url_mobile": "",
+      "title": "AI joins list of global challenges on agenda for UN meeting",
+      "seendate": "20250924T034500Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PFYWHQM3NND6FNQKDT35VCTU2I.jpg?_a=DATAg1eAZAA0",
+      "domain": "clickondetroit.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kten.com/news/in-just-one-year-google-turns-ai-setbacks-into-dominance/article_9e653f98-090f-5d2a-94c6-20a8c5fdb446.html",
+      "url_mobile": "",
+      "title": "In just one year , Google turns AI setbacks into dominance",
+      "seendate": "20250924T031500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/kten.com/content/tncms/assets/v3/editorial/5/19/5191037e-66b5-581b-84d7-2fd7dedc622e/68d354c8152ae.image.jpg?crop=341%2C341%2C85%2C0",
+      "domain": "kten.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.com/just-one-year-google-turns-ai-setbacks-dominance-3784296",
+      "url_mobile": "",
+      "title": "In Just One Year , Google Turns AI Setbacks Into Dominance",
+      "seendate": "20250924T024500Z",
+      "socialimage": "https://d.ibtimes.com/en/full/4623375/google-ceo-sundar-pichai-walks-lunch-allen-company-sun-valley-conference-july-9-2025.jpg",
+      "domain": "ibtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/diskussion/1031336-1/google-alltimehigh-next-limit-is-the-sky",
+      "url_mobile": "",
+      "title": "Google - alltimehigh - next limit is the sky",
+      "seendate": "20250923T224500Z",
+      "socialimage": "",
+      "domain": "wallstreet-online.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.webpronews.com/detect-ai-generated-images-fast-tools-to-combat-misinformation/",
+      "url_mobile": "",
+      "title": "Detect AI - Generated Images : Fast Tools to Combat Misinformation",
+      "seendate": "20250923T204500Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-fab11ffd-46ef-4892-80f4-43361a560b3d.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/chances-rise-two-atlantic-storms-125207252.html",
+      "url_mobile": "",
+      "title": "Chances rise for two new Atlantic storms to form . One might be near Florida",
+      "seendate": "20250923T201500Z",
+      "socialimage": "https://media.zenfs.com/en/miami_herald_mcclatchy_975/f190eb16eb01dbe1b5aa79c69b60448b",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techxplore.com/news/2025-09-behavioral-insights-ai-driven-volume.html",
+      "url_mobile": "",
+      "title": "Behavioral insights enhance AI - driven recommendations more than data volume increases , study shows",
+      "seendate": "20250923T200000Z",
+      "socialimage": "https://scx2.b-cdn.net/gfx/news/hires/2025/behavioral-insights-en.jpg",
+      "domain": "techxplore.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-23-mits-scigen-unlocks-new-era-in-quantum-materials-discovery-reshaping-future-of-computing",
+      "url_mobile": "",
+      "title": "MIT SCIGEN Unlocks New Era in Quantum Materials Discovery , Reshaping Future of Computing",
+      "seendate": "20250923T194500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://cacm.acm.org/opinion/not-every-ai-problem-is-a-data-problem/",
+      "url_mobile": "",
+      "title": "Not Every AI Problem Is a Data Problem \u2013 Communications of the ACM",
+      "seendate": "20250923T191500Z",
+      "socialimage": "",
+      "domain": "cacm.acm.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-23-the-dawn-of-autonomous-intelligence-how-advanced-ai-and-generative-ai-are-reshaping-global-industries",
+      "url_mobile": "",
+      "title": "The Dawn of Autonomous Intelligence : How Advanced AI and Generative AI are Reshaping Global Industries",
+      "seendate": "20250923T191500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.financialsense.com/blog/21406/human-level-ai-and-bmis-dr-alan-thompson-us-china-race-superintelligence",
+      "url_mobile": "",
+      "title": "Human - Level AI and BMIs : Dr Alan Thompson on US - China Race for Superintelligence",
+      "seendate": "20250923T183000Z",
+      "socialimage": "https://static.financialsense.com/styles/bli_2x1_100_custom_user_screen_lg_min_1x/public/images/2025-05/ai-superintelligence-woman.webp?itok=CKME-YhX",
+      "domain": "financialsense.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.aol.com/articles/bryan-norcross-disturbances-watch-florida-134449560.html",
+      "url_mobile": "",
+      "title": "Bryan Norcross : Disturbances to watch for Florida , the Southeast US and Bermuda",
+      "seendate": "20250923T180000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/WPT80_eVcaUbm6egdXrHdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_weather_976/37bcd9bb6178ad94e89e305a7eb67b8d",
+      "domain": "aol.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zmescience.com/science/ai-in-gaming-industry-is-here/",
+      "url_mobile": "",
+      "title": "AI in Gaming Is Already Reshaping the Industry and It Is Only Getting Faster",
+      "seendate": "20250923T173000Z",
+      "socialimage": "https://cdn.zmescience.com/wp-content/uploads/2025/09/glenn-carstens-peters-0woyPEJQ7jc-unsplash.jpg",
+      "domain": "zmescience.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bworldonline.com/opinion/2025/09/24/700316/the-papal-guidelines-on-artificial-intelligence/",
+      "url_mobile": "https://www.bworldonline.com/opinion/2025/09/24/700316/the-papal-guidelines-on-artificial-intelligence/?amp",
+      "title": "The Papal guidelines on artificial intelligence - BusinessWorld Online",
+      "seendate": "20250923T170000Z",
+      "socialimage": "https://www.bworldonline.com/wp-content/uploads/2025/09/AI-two-hands-touching-each-other-in-front-of-a-pink-background.jpg",
+      "domain": "bworldonline.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.webpronews.com/googles-gemini-ai-sidekick-revolutionizes-android-gaming-with-real-time-tips/",
+      "url_mobile": "",
+      "title": "Google Gemini AI Sidekick Revolutionizes Android Gaming with Real - Time Tips",
+      "seendate": "20250923T170000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-940e8d68-e1cf-427b-940b-f244d1892877.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2025/09/23/this-is-a-test-of-eye-on-ai-for-september-22/",
+      "url_mobile": "",
+      "title": "Is AI - generated  workslop  to blame for a lack of productivity gains ? ",
+      "seendate": "20250923T163000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2154933783-e1758642009733.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cantechletter.com/2025/09/what-does-rbc-think-of-evertz-technologies/",
+      "url_mobile": "https://www.cantechletter.com/2025/09/what-does-rbc-think-of-evertz-technologies/amp/",
+      "title": "What does RBC think of Evertz Technologies ? ",
+      "seendate": "20250923T151500Z",
+      "socialimage": "https://www.cantechletter.com/wp-content/uploads/2013/12/evertz.jpg",
+      "domain": "cantechletter.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.androidcentral.com/apps-software/google-plays-redesign-finally-puts-your-taste-front-and-center",
+      "url_mobile": "",
+      "title": "Google Play redesign finally puts your taste front and center",
+      "seendate": "20250923T134500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/mSMhvHNGR2MBVTe2a6YoA5.jpg",
+      "domain": "androidcentral.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/23/next-decade-winner-cloud-stocks-monster-return/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "The Next Decade Winners : 3 Cloud Stocks That Could Deliver Monster Returns",
+      "seendate": "20250923T114500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/833954/gettyimages-1480633240.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/google-deepmind-updates-frontier-safety-framework-for-ai-model-risks/article70083973.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/google-deepmind-updates-frontier-safety-framework-for-ai-model-risks/article70083973.ece/amp/",
+      "title": "Google DeepMind updates Frontier Safety Framework for AI model risks",
+      "seendate": "20250923T101500Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/lgzb8m/article70083959.ece/alternates/LANDSCAPE_1200/2025-02-17T190326Z_834733260_RC2IWCAU299I_RTRMADP_3_TECH-AI.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/23/prediction-alphabets-ai-advances-could-add-3-trill/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Prediction : Alphabet AI Advances Could Add $3 Trillion in Market Cap by 2030",
+      "seendate": "20250923T090000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/834457/gettyimages-2155672333.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2025-09/66507274-ai-in-oncology-for-analytical-solutions-market-size-share-to-surpass-dollar-8-86-billion-by-2035-growing-at-a-cagr-21-vantage-market-research-008.htm",
+      "url_mobile": "",
+      "title": "AI in Oncology For Analytical Solutions Market Size & Share to Surpass $8 . 86 Billion by 2035 , Growing at a CAGR 21 % ",
+      "seendate": "20250923T081500Z",
+      "socialimage": "",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/ai-scientists-and-political-leaders-sign-letter-calling-for-red-lines-in-ai-policy/article70083735.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/ai-scientists-and-political-leaders-sign-letter-calling-for-red-lines-in-ai-policy/article70083735.ece/amp/",
+      "title": "AI scientists and political leaders sign letter calling for  red line in AI policy",
+      "seendate": "20250923T080000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/vobwtr/article70083727.ece/alternates/LANDSCAPE_1200/2025-06-09T125145Z_1389822526_RC2LICANVJSV_RTRMADP_3_BRITAIN-COURT-GETTY-STABILITYAI.jpg",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/",
+      "url_mobile": "",
+      "title": "Google DeepMind Warns Of AI Models Resisting Shutdown , Manipulating Users",
+      "seendate": "20250923T074500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68d2485580545b9689189ad5/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/silicon-saga-from-cpu-to-xpu-challengers-chip-in/articleshow/124055648.cms",
+      "url_mobile": "https://m.economictimes.com/tech/artificial-intelligence/silicon-saga-from-cpu-to-xpu-challengers-chip-in/amp_articleshow/124055648.cms",
+      "title": "Silicon saga : From CPU to XPU , challengers chip in",
+      "seendate": "20250923T033000Z",
+      "socialimage": "",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thejakartapost.com/world/2025/09/23/scientists-urge-global-ai-red-lines-.html",
+      "url_mobile": "",
+      "title": "Scientists urge global AI  red line - Americas",
+      "seendate": "20250923T030000Z",
+      "socialimage": "https://img.jakpost.net/c/2025/07/20/2025_07_20_164661_1752976125._large.jpg",
+      "domain": "thejakartapost.com",
+      "language": "English",
+      "sourcecountry": "Indonesia"
+    },
+    {
+      "url": "https://siliconangle.com/2025/09/22/google-deepmind-expands-frontier-ai-safety-framework-counter-manipulation-shutdown-risks/",
+      "url_mobile": "",
+      "title": "Google DeepMind expands frontier AI safety framework to counter manipulation and shutdown risks",
+      "seendate": "20250923T020000Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/deepmindsafety.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/78a47e84a906793c",
+      "url_mobile": "",
+      "title": "AI gone rogue : Models may try to stop people from shutting them down , Google warns",
+      "seendate": "20250922T233000Z",
+      "socialimage": "https://biztoc.com/cdn/950/og.png",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.theregister.com/2025/09/22/google_ai_misalignment_risk/",
+      "url_mobile": "",
+      "title": "DeepMind : Models may resist shutdowns",
+      "seendate": "20250922T231500Z",
+      "socialimage": "https://regmedia.co.uk/2024/05/24/robot_shutterstock.jpg",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.bgr.com/1970824/google-gemini-genie-feature-chat-gpt-missing/",
+      "url_mobile": "",
+      "title": "Google Gemini Has One Gaming Feature That ChatGPT Cant Compete With ( Yet ) ",
+      "seendate": "20250922T211500Z",
+      "socialimage": "https://www.bgr.com/img/gallery/google-gemini-has-one-gaming-feature-that-chatgpt-cant-compete-with-yet/l-intro-1758214393.jpg",
+      "domain": "bgr.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/asml-invests-e1-3b-in-mistral-ai-gains-11-stake-in-e11-7b-valuation/",
+      "url_mobile": "",
+      "title": "ASML Invests \u20ac1 . 3B in Mistral AI , Gains 11 % Stake in \u20ac11 . 7B Valuation",
+      "seendate": "20250922T191500Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-c80f7118-2a52-4491-aee0-59cffb8be2ca.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnews.com/tech/tech-news/un-general-assembly-opens-plea-binding-ai-safeguards-red-lines-nobel-rcna231973",
+      "url_mobile": "https://www.nbcnews.com/news/amp/rcna231973",
+      "title": "UN General Assembly opens with plea for binding AI safeguards",
+      "seendate": "20250922T191500Z",
+      "socialimage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250922-nobel-prize-ai-lr-a8152f.jpg",
+      "domain": "nbcnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-22-the-ai-tsunami-how-a-generational-tech-shift-is-reshaping-industries-and-igniting-new-investment-frontiers",
+      "url_mobile": "",
+      "title": "The AI Tsunami : How a Generational Tech Shift is Reshaping Industries and Igniting New Investment Frontiers",
+      "seendate": "20250922T184500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/",
+      "url_mobile": "",
+      "title": "DeepMind AI safety report explores the perils of  misaligned  AI",
+      "seendate": "20250922T184500Z",
+      "socialimage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/deepmind-1152x648.jpg",
+      "domain": "arstechnica.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/22/nobel-prize-winners-call-for-binding-international-red-lines-on-ai.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/22/nobel-prize-winners-call-for-binding-international-red-lines-on-ai.html",
+      "title": "Nobel Prize winners call for binding international  red line on AI",
+      "seendate": "20250922T173000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108202209-1758557405605-gettyimages-175270671-60000_05_704870.jpeg?v=1758557448",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://chicagomaroon.com/48413/news/could-ai-transform-weather-forecasting/",
+      "url_mobile": "",
+      "title": "Could AI Transform Weather Forecasting ? ",
+      "seendate": "20250922T164500Z",
+      "socialimage": "https://chicagomaroon.com/wp-content/uploads/2025/04/Crear_Sruthi-Kotlo.jpg",
+      "domain": "chicagomaroon.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/22/the-motley-fool-interviews-dave-gilboa-co-founder/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "The Motley Fool Interviews Dave Gilboa , Co - Founder and Co - CEO of Warby Parker",
+      "seendate": "20250922T164500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/832880/dave-gilboa-co-founder-and-co-ceo-of-warby-parker.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/22/invest-in-quantum-computing-stocks-great-buys/",
+      "url_mobile": "",
+      "title": "Want to Invest in Quantum Computing ? 3 Stocks That Are Great Buys Right Now",
+      "seendate": "20250922T161500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/833923/gettyimages-1275073399-1200x675-128554e.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.euronews.com/next/2025/09/22/european-lawmakers-join-nobel-laureates-and-tech-leaders-in-call-for-global-ai-red-lines",
+      "url_mobile": "",
+      "title": "European lawmakers join Nobel laureates and tech leaders in call for global AI  red lines  ",
+      "seendate": "20250922T160000Z",
+      "socialimage": "https://static.euronews.com/articles/stories/09/47/76/93/1200x675_cmsv2_eaba83a6-4898-50db-9b66-72647966e17a-9477693.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-22-meta-platforms-soars-on-q2-earnings-bets-big-on-personal-superintelligence",
+      "url_mobile": "",
+      "title": "Meta Platforms Soars on Q2 Earnings , Bets Big on  Personal Superintelligence  ",
+      "seendate": "20250922T154500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.toptechnews.com/news/gemini-flash-thinking-google-ai-reveals-thoughts/",
+      "url_mobile": "",
+      "title": "Gemini 2 . 0 Flash Thinking : Google AI Model Reveals Its Thoughts",
+      "seendate": "20250922T143000Z",
+      "socialimage": "https://www.toptechnews.com/wp-content/uploads/2024/12/Gemini-2.0-Flash-Thinking.webp",
+      "domain": "toptechnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tribune.com.pk/story/2566972/nano-banana-googles-new-favorite-fruit",
+      "url_mobile": "",
+      "title": "Nano Banana : Google new favorite fruit",
+      "seendate": "20250922T113000Z",
+      "socialimage": "https://i.tribune.com.pk/media/images/nanobanana-thumbnail1758008049-0/nanobanana-thumbnail1758008049-0-640x480.webp",
+      "domain": "tribune.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.elliotlakestandard.ca:443/opinion/columnists/daley-rise-of-chatbots-detracts-from-developing-ai-for-common-good/wcm/462eae7e-c836-4dec-8d83-076e4a0238bf",
+      "url_mobile": "",
+      "title": "Daley : Rise of chatbots detracts from developing AI for common good",
+      "seendate": "20250922T034500Z",
+      "socialimage": "",
+      "domain": "elliotlakestandard.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.saultthisweek.com:443/opinion/columnists/daley-rise-of-chatbots-detracts-from-developing-ai-for-common-good/wcm/462eae7e-c836-4dec-8d83-076e4a0238bf",
+      "url_mobile": "",
+      "title": "Daley : Rise of chatbots detracts from developing AI for common good",
+      "seendate": "20250922T024500Z",
+      "socialimage": "",
+      "domain": "saultthisweek.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.thesudburystar.com:443/opinion/columnists/daley-rise-of-chatbots-detracts-from-developing-ai-for-common-good/wcm/462eae7e-c836-4dec-8d83-076e4a0238bf",
+      "url_mobile": "",
+      "title": "Daley : Rise of chatbots detracts from developing AI for common good",
+      "seendate": "20250922T021500Z",
+      "socialimage": "",
+      "domain": "thesudburystar.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.timminspress.com:443/opinion/columnists/daley-rise-of-chatbots-detracts-from-developing-ai-for-common-good/wcm/462eae7e-c836-4dec-8d83-076e4a0238bf",
+      "url_mobile": "",
+      "title": "Daley : Rise of chatbots detracts from developing AI for common good",
+      "seendate": "20250922T020000Z",
+      "socialimage": "",
+      "domain": "timminspress.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.northernnews.ca:443/opinion/columnists/daley-rise-of-chatbots-detracts-from-developing-ai-for-common-good/wcm/462eae7e-c836-4dec-8d83-076e4a0238bf",
+      "url_mobile": "",
+      "title": "Daley : Rise of chatbots detracts from developing AI for common good",
+      "seendate": "20250922T013000Z",
+      "socialimage": "",
+      "domain": "northernnews.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.nugget.ca:443/opinion/columnists/daley-rise-of-chatbots-detracts-from-developing-ai-for-common-good/wcm/462eae7e-c836-4dec-8d83-076e4a0238bf",
+      "url_mobile": "",
+      "title": "Daley : Rise of chatbots detracts from developing AI for common good",
+      "seendate": "20250922T011500Z",
+      "socialimage": "",
+      "domain": "nugget.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/",
+      "url_mobile": "",
+      "title": "Silicon Valley bets big on  environment to train AI agents",
+      "seendate": "20250921T201500Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1356382582.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businesstoday.in/nri/visa/story/elon-musk-satya-nadella-and-others-h-1b-holders-who-built-americas-tech-giants-494995-2025-09-21",
+      "url_mobile": "https://www.businesstoday.in/amp/nri/visa/story/elon-musk-satya-nadella-and-others-h-1b-holders-who-built-americas-tech-giants-494995-2025-09-21",
+      "title": "Elon Musk , Satya Nadella , and others : H 1B holders who built America tech giants",
+      "seendate": "20250921T060000Z",
+      "socialimage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202509/68cf8aac2430d-nadella--musk-are-among-top-h-1b-visa-holders-who-shaped-us-tech-industry-211830873-16x9.jpeg",
+      "domain": "businesstoday.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wired.com/story/how-distillation-makes-ai-models-smaller-and-cheaper/",
+      "url_mobile": "",
+      "title": "Distillation Can Make AI Models Smaller and Cheaper",
+      "seendate": "20250920T161500Z",
+      "socialimage": "https://media.wired.com/photos/68ca9371156a7f15ecfea1d5/191:100/w_1280,c_limit/Distillation-Explainer-crNico-H.-Brausch-Lede.jpeg",
+      "domain": "wired.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2025/09/20/aws-scientist-why-hallucinations-are-ai-llm-greatest-asset/",
+      "url_mobile": "",
+      "title": "AWS scientist : Your AI strategy needs mathematical logic",
+      "seendate": "20250920T141500Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Byron-headshot-horizontal.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/youtube-unveils-30-ai-tools-at-made-on-youtube-2025-for-creators/",
+      "url_mobile": "",
+      "title": "YouTube Unveils 30+ AI Tools at Made on YouTube 2025 for Creators",
+      "seendate": "20250920T113000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-b200d5c2-eea4-49e9-b772-4701b32edb31.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.com/zuckerbergs-ai-lab-has-few-seats-boatwho-gets-why-its-so-limited-3784012",
+      "url_mobile": "",
+      "title": "Zuckerberg AI Lab Has  Few Seats on the Boat  Who Gets In , and Why It So Limited",
+      "seendate": "20250920T101500Z",
+      "socialimage": "https://d.ibtimes.com/en/full/4622800/mark-zuckerberg.jpg",
+      "domain": "ibtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailystar.co.uk/news/world-news/engineer-who-accurately-predicted-impact-35910751",
+      "url_mobile": "",
+      "title": "Engineer who accurately predicted impact of AI a decade ago reveals how 2030 will look",
+      "seendate": "20250920T100000Z",
+      "socialimage": "https://i2-prod.dailystar.co.uk/article35910858.ece/ALTERNATES/s1200/0_Clipboard-1.jpg",
+      "domain": "dailystar.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://lfpress.com/opinion/columnists/daley-rise-of-chatbots-detracts-from-developing-ai-for-common-good",
+      "url_mobile": "",
+      "title": "Rise of chatbots detracts from developing AI for common good",
+      "seendate": "20250920T060000Z",
+      "socialimage": "",
+      "domain": "lfpress.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bankinfosecurity.com/irregular-secures-80m-series-to-combat-ai-model-exploits-a-29489",
+      "url_mobile": "",
+      "title": "Irregular Secures $80M Series A to Combat AI Model Exploits",
+      "seendate": "20250920T021500Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/irregular-secures-80m-series-to-combat-ai-model-exploits-image_large-8-a-29489.jpg",
+      "domain": "bankinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://foreignpolicy.com/2025/09/19/is-artificial-intelligence-worth-the-investment/",
+      "url_mobile": "",
+      "title": "Is Artificial Intelligence Worth the Investment ? ",
+      "seendate": "20250920T011500Z",
+      "socialimage": "https://foreignpolicy.com/wp-content/uploads/2025/09/artificial-intelligence-investment-GettyImages-2202548643.jpg",
+      "domain": "foreignpolicy.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/google-gemini-ai-september-update-camera-integration-and-image-editing-boost/",
+      "url_mobile": "",
+      "title": "Google Gemini AI September Update : Camera Integration and Image Editing Boost",
+      "seendate": "20250919T220000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f2b4b764-8ae0-4762-91f9-dd77c5314605.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nzherald.co.nz/business/what-exactly-are-ai-companies-trying-to-build-heres-a-guide/24R6F67TY5D7JA235MRD5552AQ/",
+      "url_mobile": "",
+      "title": "What exactly are AI companies trying to build ? Here a guide",
+      "seendate": "20250919T210000Z",
+      "socialimage": "https://www.nzherald.co.nz/resizer/v2/ZYFKVAVMWFCEPJUHMXKHIYOHYI.jpg?auth=aa7bd20f66481f3aaaf29835f24a5e3c7880bf1ee6fc165a5998db56aa9f20a6&quality=70&focal=1749%2C1293&smart=false",
+      "domain": "nzherald.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/alphabet-becoming-walt-disney-big-103000607.html",
+      "url_mobile": "",
+      "title": "Alphabet Is Becoming the Walt Disney of Big Tech . Here What It Means for Investors",
+      "seendate": "20250919T203000Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/1cff67235b004887e3cd94b4008cea9c",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.co.uk/zuckerbergs-ai-lab-has-few-seats-boatwho-gets-why-its-so-limited-1744683",
+      "url_mobile": "",
+      "title": "Zuckerberg AI Lab Has  Few Seats on the Boat  Who Gets In , and Why It So Limited",
+      "seendate": "20250919T174500Z",
+      "socialimage": "https://d.ibtimes.co.uk/en/full/1717037/mark-zuckerberg.jpg",
+      "domain": "ibtimes.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.independent.co.uk/news/world/americas/trump-musk-thiel-tommy-robinson-tech-far-right-power-b2829680.html",
+      "url_mobile": "",
+      "title": "There are disturbing aspects to the Silicon Valley Trump whisperers that shouldnt be ignored",
+      "seendate": "20250919T173000Z",
+      "socialimage": "https://static.independent.co.uk/2025/09/15/11/44/musk1.jpeg?&crop=1200:800",
+      "domain": "independent.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.local10.com/weather/hurricane/2025/09/19/gabrielle-staging-a-comeback-forecast-to-become-a-hurricane-this-weekend/",
+      "url_mobile": "",
+      "title": "Gabrielle staging a comeback , forecast to become a hurricane this weekend",
+      "seendate": "20250919T173000Z",
+      "socialimage": "https://www.local10.com/resizer/v2/E63JL3Q6MZFK5NRMJ3LHSXSQMY.png?auth=2098f392909ffaf3237d0e8d70706c80d7480659888525c7aaccfe49954313e5",
+      "domain": "local10.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wired.com/story/youtube-thinks-ai-is-its-next-big-bang/",
+      "url_mobile": "",
+      "title": "YouTube Thinks AI Is Its Next Big Bang",
+      "seendate": "20250919T154500Z",
+      "socialimage": "https://media.wired.com/photos/68cc53fb0c32f09229665c1c/191:100/w_1280,c_limit/Backchannel-Youtube-Turns-20-Business-94941943.jpg",
+      "domain": "wired.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/international/2025/09/19/839785.htm",
+      "url_mobile": "https://amp.insurancejournal.com/news/international/2025/09/19/839785.htm",
+      "title": "Hong Kong Braces for Twin Storms as Forecasters Predict Super Typhoon",
+      "seendate": "20250919T111500Z",
+      "socialimage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "domain": "insurancejournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theindependent.co.zw/opinion/article/200046229/the-epistemological-problem-of-ai",
+      "url_mobile": "https://www.newsday.co.zw/theindependent/amp/opinion/article/200046229/the-epistemological-problem-of-ai",
+      "title": "The epistemological problem of AI - The Zimbabwe Independent",
+      "seendate": "20250919T104500Z",
+      "socialimage": "https://cdn.thestandard.co.zw/images/theindependent/uploads/2025/09/IZdsTsjGgzCwjBwwGomI58sfEEXkV4Y7pKNd2ctc.jpg",
+      "domain": "theindependent.co.zw",
+      "language": "English",
+      "sourcecountry": "Zimbabwe"
+    },
+    {
+      "url": "https://invezz.com/news/2025/09/19/nvidia-backs-uk-ai-sector-with-2b-investment-in-startups-supercomputing/",
+      "url_mobile": "",
+      "title": "Nvidia backs united kingdom AI sector with $2 . 7B investment in startups , supercomputing",
+      "seendate": "20250919T084500Z",
+      "socialimage": "https://invezz.com/wp-content/uploads/2025/09/20250919_1229_Nvidia-Boosts-UK-AI_simple_compose_01k5gc7japfeybzb35yep8t52s-1024x683.png",
+      "domain": "invezz.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-spends-over-900-million-to-buy-enfabrica-ceo-licence-technology-heres-why/articleshow/123992318.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-spends-over-900-million-to-buy-enfabrica-ceo-licence-technology-heres-why/amp_articleshow/123992318.cms",
+      "title": "Nvidia spends over $900 million to buy Enfabrica CEO , licence technology : Here why",
+      "seendate": "20250919T074500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-123992300,width-1070,height-580,imgsize-69750,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.aol.co.uk/articles/trump-big-beautiful-tech-pact-053000473.html",
+      "url_mobile": "",
+      "title": "Trump big , beautiful tech pact is a watershed moment for Brexit Britain",
+      "seendate": "20250919T060000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/YKPy8.y8fNZu6BNnkPTvHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/aol_the_telegraph_624/0c49d626c25350cc3f785f7a5b87bd82",
+      "domain": "aol.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.defenseone.com/technology/2025/09/what-rapid-pace-ai-means-chinas-threats-toward-taiwan/408220/",
+      "url_mobile": "",
+      "title": "What the rapid pace of AI means for China threats toward Taiwan",
+      "seendate": "20250919T054500Z",
+      "socialimage": "https://cdn.defenseone.com/media/img/cd/2025/09/19/GettyImages_2178296747/open-graph.jpg",
+      "domain": "defenseone.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/alphabets-ai-pivot-mirrors-disney-fuels-growth-despite-chatgpt-risks/",
+      "url_mobile": "",
+      "title": "Alphabet AI Pivot Mirrors Disney , Fuels Growth Despite ChatGPT Risks",
+      "seendate": "20250919T004500Z",
+      "socialimage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f388cb75-5b2c-496a-a80d-35285f77df7b.jpeg?fit=720%2C960&ssl=1",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.latimes.com/business/story/2025-09-18/youtube-targets-creators-and-consumers-in-broad-generative-ai-push",
+      "url_mobile": "",
+      "title": "YouTube gives creators powerful AI tools to make their videos even more addictive",
+      "seendate": "20250918T220000Z",
+      "socialimage": "https://california-times-brightspot.s3.amazonaws.com/d7/3e/2a160fe209d274a33d07e3134ff2/1x-1.jpg",
+      "domain": "latimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bostonglobe.com/2025/09/18/world/behind-castle-walls-rich-powerful-wine-dine-trump-beams/",
+      "url_mobile": "",
+      "title": "Behind castle walls , the rich and powerful wine and dine and Trump beams",
+      "seendate": "20250918T213000Z",
+      "socialimage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/WLOCCYRVEHJVQQYP6CQ55ZDT6E.jpg?auth=893244afb791583e75b96aabcb392fd7c32a6b54e94906d08559a9f9c43aeff7",
+      "domain": "bostonglobe.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/25/09/47750529/chatgpt-vs-anthropic-can-a-400-growth-safety-play-beat-consumer-hype",
+      "url_mobile": "",
+      "title": "ChatGPT Vs . Anthropic : Can A 400 % Growth Safety Play Beat Consumer Hype ? - Amazon . com ( NASDAQ : AMZN ) ",
+      "seendate": "20250918T203000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/09/18/Close--Up-Of-Computer-Chip-With-Ai-Sign-.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.trend.az/world/4092177.html",
+      "url_mobile": "",
+      "title": "Digital doomsday : between apocalypse and reality",
+      "seendate": "20250918T163000Z",
+      "socialimage": "https://www.trend.az/media/2025/09/18/1580948989120.jpg",
+      "domain": "trend.az",
+      "language": "English",
+      "sourcecountry": "Azerbaijan"
+    },
+    {
+      "url": "https://www.scmp.com/tech/big-tech/article/3326015/alibaba-releases-open-source-ai-agent-rival-openais-flagship-deep-research",
+      "url_mobile": "https://amp.scmp.com/tech/big-tech/article/3326015/alibaba-releases-open-source-ai-agent-rival-openais-flagship-deep-research",
+      "title": "Alibaba releases open - source AI agent to rival OpenAI flagship Deep Research",
+      "seendate": "20250918T133000Z",
+      "socialimage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/09/18/86e7880d-e59f-4350-8273-f351df400a93_d4a23cb0.jpg?itok=NmaBQLqh&v=1758192024",
+      "domain": "scmp.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.cjr.org/analysis/journalists-need-their-own-benchmark-tests-for-ai-tools.php",
+      "url_mobile": "",
+      "title": "Journalists Need Their Own Benchmark Tests for AI Tools - Columbia Journalism Review",
+      "seendate": "20250918T121500Z",
+      "socialimage": "https://www.cjr.org/wp-content/uploads/2025/09/AP24059741756486-scaled.jpg",
+      "domain": "cjr.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.foodonline.com/doc/first-of-its-kind-agriculture-maps-help-hawai-i-track-crops-boost-food-security-0001",
+      "url_mobile": "",
+      "title": "First - Of - Its - Kind Agriculture Maps Help Hawai\u02bbi Track Crops , Boost Food Security",
+      "seendate": "20250918T093000Z",
+      "socialimage": "",
+      "domain": "foodonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-and-google-deepmind-ai-models-win-gold-at-icpc/article70064653.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/openai-and-google-deepmind-ai-models-win-gold-at-icpc/article70064653.ece/amp/",
+      "title": "OpenAI and Google DeepMind AI models win gold at ICPC",
+      "seendate": "20250918T090000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/j69ns8/article70064632.ece/alternates/LANDSCAPE_1200/2025-09-04T113614Z_2007596069_RC2LICAWLPM7_RTRMADP_3_TECH-ANTITRUST-GOOGLE-INNOVATION.jpg",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/trends/nvidia-ceo-jensen-huang-calls-google-gemini-s-nano-banana-so-good-sundar-pichai-reacts-13556311.html",
+      "url_mobile": "https://www.moneycontrol.com/news/trends/nvidia-ceo-jensen-huang-calls-google-gemini-s-nano-banana-so-good-sundar-pichai-reacts-13556311.html/amp",
+      "title": "Nvidia CEO Jensen Huang calls Google Gemini Nano Banana  so good . Sundar Pichai reacts",
+      "seendate": "20250918T073000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2025/09/20250918050953_ddshdjjhdfr.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://indianexpress.com/article/trending/trending-globally/nvidia-ceo-goes-bananas-for-google-gemini-nano-banana-trend-sundar-pichai-reacts-as-jensen-10257016/",
+      "url_mobile": "https://indianexpress.com/article/trending/trending-globally/nvidia-ceo-goes-bananas-for-google-gemini-nano-banana-trend-sundar-pichai-reacts-as-jensen-10257016/lite/",
+      "title": "Nvidia CEO goes  banana for Google Gemini Nano Banana trend , Sundar Pichai reacts as Jensen | Trending News",
+      "seendate": "20250918T071500Z",
+      "socialimage": "https://images.indianexpress.com/2025/09/Google-Gemini-Nano-Banana-Trend.jpg",
+      "domain": "indianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.reseller.co.nz/article/4059096/microsoft-launches-its-own-llms-heres-what-that-really-means-3.html",
+      "url_mobile": "",
+      "title": "Microsoft launches its own LLMs here what that really means",
+      "seendate": "20250918T070000Z",
+      "socialimage": "https://www.reseller.co.nz/wp-content/uploads/2025/09/4059096-0-59128600-1758161251-shutterstock_1536940715.jpg?quality=50&strip=all",
+      "domain": "reseller.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    },
+    {
+      "url": "https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/",
+      "url_mobile": "",
+      "title": "India leads the way on Google Nano Banana with a local creative twist",
+      "seendate": "20250918T070000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2025/09/google-gemini-nano-banana-india-trends-techcrunch.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.campaignindia.in:443/article/youtube-doubles-down-on-ai-brand-deals-and-creator-tools/504865",
+      "url_mobile": "",
+      "title": "YouTube doubles down on AI , brand deals and creator tools | Marketing",
+      "seendate": "20250918T064500Z",
+      "socialimage": "https://cdn.i.haymarketmedia.asia/?n=campaign-india%2fcontent%2fNeal+Mohan.jpg&q=75&v=20250320&c=1",
+      "domain": "campaignindia.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.euronews.com/2025/09/18/trump-and-king-charles-hail-us-uk-special-bond-in-lavish-state-dinner-speech",
+      "url_mobile": "",
+      "title": "Trump and King Charles hail US - united kingdom special bond in lavish state dinner",
+      "seendate": "20250918T063000Z",
+      "socialimage": "https://static.euronews.com/articles/stories/09/47/17/97/1200x675_cmsv2_83661444-23c6-5215-97c6-215d522c5904-9471797.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/news/trends/sundar-pichai-beams-as-nvidia-ceo-jensen-huang-says-he-s-blown-away-by-google-s-nano-banana-11758164197063.html",
+      "url_mobile": "https://www.livemint.com/news/trends/sundar-pichai-beams-as-nvidia-ceo-jensen-huang-says-he-s-blown-away-by-google-s-nano-banana/amp-11758164197063.html",
+      "title": "Sundar Pichai beams as Nvidia CEO Jensen Huang says he  blown away  by Google Nano Banana",
+      "seendate": "20250918T044500Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2025/09/18/600x338/AI-EDUCATION-WH-13_1758164213901_1758164265598.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.billboard.com/pro/youtube-new-ai-tools-creators-made-on-event/",
+      "url_mobile": "",
+      "title": "YouTube Announces New AI Tools for Creators at  Made on  Event",
+      "seendate": "20250918T024500Z",
+      "socialimage": "",
+      "domain": "billboard.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/magazines/panache/how-good-is-that-nano-banana-nvidia-ceos-viral-remark-on-googles-new-ai-tool-gets-sundar-pichais-reaction/articleshow/123960244.cms",
+      "url_mobile": "https://m.economictimes.com/magazines/panache/how-good-is-that-nano-banana-nvidia-ceos-viral-remark-on-googles-new-ai-tool-gets-sundar-pichais-reaction/amp_articleshow/123960244.cms",
+      "title": "  How good is that Nano Banana ? Nvidia CEO viral remark on Google new AI tool gets Sundar Pichai reaction",
+      "seendate": "20250918T021500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-123960381,width-1200,height-630,imgsize-54576,overlay-etpanache/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.mykxlg.com/news/national/the-latest-trump-enjoys-royal-pageantry-during-unprecedented-second-uk-state-visit/article_8a3f8e90-d939-5e9b-932a-c16b4c90e82b.html",
+      "url_mobile": "",
+      "title": "The Latest : Trump enjoys royal pageantry during unprecedented second united kingdom state visit",
+      "seendate": "20250918T001500Z",
+      "socialimage": "",
+      "domain": "mykxlg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://communitynewspapers.com/featured/big-leap-forward-how-ai-is-already-shaping-your-hurricane-forecasts/",
+      "url_mobile": "",
+      "title": "  Big leap forward : How AI is already shaping your hurricane forecasts",
+      "seendate": "20250918T000000Z",
+      "socialimage": "https://communitynewspapers.com/wp-content/uploads/2025/09/urlhttp3A2F2Fnpr-brightspot.s3.amazonaws.com2Fc72Fd82F88d8c04c4f4b9eccfe0acd0658102Fwave-full-res-gridsat-202406281800.png",
+      "domain": "communitynewspapers.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/googles-gemini-2-5-wins-gold-at-2025-icpc-outshines-human-teams/",
+      "url_mobile": "",
+      "title": "Google Gemini 2 . 5 Wins Gold at 2025 ICPC , Outshines Human Teams",
+      "seendate": "20250917T231500Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-948b20fe-d58d-4815-acec-5578e75de45d.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yumasun.com/news/national_news/the-latest-trump-enjoys-royal-pageantry-during-unprecedented-second-uk-state-visit/article_92cbe4d2-5fd0-5ef0-b10d-81cc62c83d13.html",
+      "url_mobile": "",
+      "title": "The Latest : Trump enjoys royal pageantry during unprecedented second united kingdom state visit",
+      "seendate": "20250917T231500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/yumasun.com/content/tncms/assets/v3/editorial/f/0e/f0ed2979-514a-592b-90ca-7c886b206c69/68cacb20d2dec.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "yumasun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://siliconangle.com/2025/09/17/irregular-raises-80m-set-ai-security-standards-frontier-models/",
+      "url_mobile": "",
+      "title": "Irregular raises $80M to set AI security standards for frontier models",
+      "seendate": "20250917T231500Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/irregular.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thetimes.com/uk/royal-family/article/donald-trump-in-uk-visit-king-charles-p5l23shmh",
+      "url_mobile": "",
+      "title": "Donald Trump : united kingdom and US are  two notes of the same chord  ",
+      "seendate": "20250917T223000Z",
+      "socialimage": "https://www.thetimes.com/imageserver/image/%2Fbb572bfa-e8f4-494e-91b1-6cb6b4fd03c7.jpg?crop=4743%2C2667%2C0%2C43",
+      "domain": "thetimes.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.reflector.com/news/national/the-latest-trump-enjoys-royal-pageantry-during-unprecedented-second-uk-state-visit/article_f71e1e91-b75d-5791-b09a-8e24525a9dcc.html",
+      "url_mobile": "",
+      "title": "The Latest : Trump enjoys royal pageantry during unprecedented second united kingdom state visit",
+      "seendate": "20250917T223000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/e/0d/e0dd4669-e11f-5d0b-812f-a1bc5354fa04/68cac7550da48.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "reflector.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://lufkindailynews.com/anpa/us/the-latest-trump-enjoys-royal-pageantry-during-unprecedented-second-uk-state-visit/article_bae97472-18dc-5eaf-b22e-388f19cecd94.html",
+      "url_mobile": "",
+      "title": "The Latest : Trump enjoys royal pageantry during unprecedented second united kingdom state visit",
+      "seendate": "20250917T210000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/d/2b/d2be1ac8-e694-5286-a700-6f8b1067d1f8/68cac5729ebdf.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "lufkindailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://infotel.ca/newsitem/world/cp1139936452",
+      "url_mobile": "",
+      "title": "The Latest : Trump enjoys royal pageantry during unprecedented second united kingdom state visit | iNFOnews",
+      "seendate": "20250917T210000Z",
+      "socialimage": "https://infotel.ca/images/news/cp/photos/25048d49980013d3bc2585ad28f0aba899fe29a34958e0d393d0294da1244013.jpg?q=90",
+      "domain": "infotel.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.dnaindia.com/viral/report-google-gemini-nano-banana-is-viral-in-india-check-out-all-top-trends-3180605",
+      "url_mobile": "https://www.dnaindia.com/viral/report-google-gemini-nano-banana-is-viral-in-india-check-out-all-top-trends-3180605/amp",
+      "title": "Google Gemini Nano Banana is viral in India ; check out all top trends",
+      "seendate": "20250917T190000Z",
+      "socialimage": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2025/09/17/2723111-2025-2025-09-17t225921.373.jpg",
+      "domain": "dnaindia.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.hindustantimes.com/trending/who-is-rajesh-yabaji-blackbuck-ceo-to-move-office-out-of-bengaluru-s-orr-due-to-potholes-traffic-101758129601567.html",
+      "url_mobile": "https://www.hindustantimes.com/trending/who-is-rajesh-yabaji-blackbuck-ceo-to-move-office-out-of-bengaluru-s-orr-due-to-potholes-traffic-101758129601567-amp.html",
+      "title": "Who is Rajesh Yabaji ? BlackBuck CEO to move office out of Bengaluru ORR due to potholes , traffic",
+      "seendate": "20250917T174500Z",
+      "socialimage": "https://www.hindustantimes.com/ht-img/img/2025/09/17/1600x900/Rajesh_Yabaji_1758129863965_1758129870921.jpg",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/778773/the-hunger-strike-to-end-ai-anthropic-google-deepmind-agi",
+      "url_mobile": "",
+      "title": "The hunger strike to end AI",
+      "seendate": "20250917T124500Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257956_AI_hunger_strike_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.hawaiitelegraph.com/news/278582757/irregular-raises-80-million-to-set-the-security-standards-for-frontier-ai",
+      "url_mobile": "",
+      "title": "Irregular Raises $80 Million to Set the Security Standards for Frontier AI",
+      "seendate": "20250917T124500Z",
+      "socialimage": "",
+      "domain": "hawaiitelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/mark-zuckerberg-trying-to-wow-skeptics-ai-glasses-meta-connect-2025-9",
+      "url_mobile": "",
+      "title": "Mark Zuckerberg Is Trying to Wow Skeptics Again at Meta Connect",
+      "seendate": "20250917T124500Z",
+      "socialimage": "https://i.insider.com/68c9e162f9db348adc0b9b19?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2025-09/66460487-irregular-raises-dollar-80-million-to-set-the-security-standards-for-frontier-ai-200.htm",
+      "url_mobile": "",
+      "title": "Irregular Raises $80 Million to Set the Security Standards for Frontier AI",
+      "seendate": "20250917T124500Z",
+      "socialimage": "https://www.finanznachrichten.de/content/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://physicsworld.com/a/the-pros-and-cons-of-reinforcement-learning-in-physical-science/",
+      "url_mobile": "",
+      "title": "The pros and cons of reinforcement learning in physical science \u2013 Physics World",
+      "seendate": "20250917T121500Z",
+      "socialimage": "https://physicsworld.com/wp-content/uploads/2025/09/david-silver-at-hlf.jpg",
+      "domain": "physicsworld.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.aol.com/articles/read-pitch-deck-ex-deepmind-070001063.html",
+      "url_mobile": "",
+      "title": "Read the pitch deck these ex - DeepMind scientists used to raise $5 million for an AI  algorithm factory  ",
+      "seendate": "20250917T113000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/ABm.cpeRDGnkohDR6xgrMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_business_insider_articles_308/9dab029faaac294a2a183992cfa6955d",
+      "domain": "aol.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessweekly.co.uk/posts/hiverge-clinches-5m-to-build-algorithm-factory",
+      "url_mobile": "",
+      "title": "Hiverge clinches $5m to build  algorithm factory  ",
+      "seendate": "20250917T113000Z",
+      "socialimage": "https://ik.imagekit.io/businessweekly/thumbnails/Hiverge_Cambridge_Station-Road_kdQo0n07S.jpg?tr=w-400)",
+      "domain": "businessweekly.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://article.wn.com/view/2025/09/17/YouTube_unveils_new_AI_tools_to_supercharge_shorts_creation/",
+      "url_mobile": "",
+      "title": "YouTube unveils new AI tools to supercharge shorts creation",
+      "seendate": "20250917T104500Z",
+      "socialimage": "",
+      "domain": "article.wn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hindustantimes.com/trending/how-neel-nanda-came-to-lead-a-google-deepmind-team-at-just-26-you-can-just-do-things-101758096431625.html",
+      "url_mobile": "https://www.hindustantimes.com/trending/how-neel-nanda-came-to-lead-a-google-deepmind-team-at-just-26-you-can-just-do-things-101758096431625-amp.html",
+      "title": "How Neel Nanda came to lead a Google DeepMind team at just 26 :  You can just do things  ",
+      "seendate": "20250917T090000Z",
+      "socialimage": "https://www.hindustantimes.com/ht-img/img/2025/09/17/1600x900/1_1758096649365_1758096659309.png",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://invezz.com/news/2025/09/17/money-power-ai-what-trumps-uk-visit-is-all-about/",
+      "url_mobile": "",
+      "title": "Money , power , AI : what Trump united kingdom visit is all about",
+      "seendate": "20250917T090000Z",
+      "socialimage": "https://invezz.com/wp-content/uploads/2025/09/20250917_074024_AEI39-1024x640.png",
+      "domain": "invezz.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://en.apa.az/america/us-to-invest-42-billion-in-uk-technology-sector-477931",
+      "url_mobile": "",
+      "title": "US to invest $42 billion in united kingdom technology sector",
+      "seendate": "20250917T081500Z",
+      "socialimage": "https://en.apa.az/storage/news/2025/september/17/big/68ca41a7cc4bc68ca41a7cc4bd175808554368ca41a7cc4ba68ca41a7cc4bb.webp",
+      "domain": "en.apa.az",
+      "language": "English",
+      "sourcecountry": "Azerbaijan"
+    },
+    {
+      "url": "https://www.gulf-times.com/article/710886/international/youtube-unveils-new-ai-tools-to-supercharge-shorts-creation",
+      "url_mobile": "https://www.gulf-times.com/article/710886/international/youtube-unveils-new-ai-tools-to-supercharge-shorts-creation/amp",
+      "title": "YouTube unveils new AI tools to supercharge shorts creation",
+      "seendate": "20250917T071500Z",
+      "socialimage": "https://www.gulf-times.com/gulftimes/uploads/images/2025/09/17/357928.jfif",
+      "domain": "gulf-times.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "http://www.srilankasource.com/news/278582048/adobe-continues-to-lead-in-creative-ai-innovation-with-firefly-updates",
+      "url_mobile": "",
+      "title": "Adobe Continues to Lead in Creative AI Innovation with Firefly Updates",
+      "seendate": "20250917T064500Z",
+      "socialimage": "https://image.chitra.live/api/v1/wps/f686923/c7883527-957f-46a4-a26b-7abbd45c242a/0/NTg0MmRlNjYtMzM-600x315.jpg",
+      "domain": "srilankasource.com",
+      "language": "English",
+      "sourcecountry": "Sri Lanka"
+    },
+    {
+      "url": "https://slguardian.org/trump-in-london-trade-deal-talks-and-31bn-u-s-tech-investment-boost-for-britain/",
+      "url_mobile": "",
+      "title": "Trump in London : Trade Deal Talks and \u00a331bn U . S . Tech Investment Boost for Britain",
+      "seendate": "20250917T061500Z",
+      "socialimage": "https://slguardian.org/wp-content/uploads/2025/09/bf413978-lk.jpg",
+      "domain": "slguardian.org",
+      "language": "English",
+      "sourcecountry": "Sri Lanka"
+    },
+    {
+      "url": "https://www.myjoyonline.com/google-owner-reveals-5bn-ai-investment-in-uk-ahead-of-trump-visit/",
+      "url_mobile": "",
+      "title": "Google owner reveals \u00a35bn AI investment in united kingdom ahead of Trump visit",
+      "seendate": "20250917T060000Z",
+      "socialimage": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-1448.png",
+      "domain": "myjoyonline.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-breaks-silence-on-microsoft-meta-poaching-google-deepmind-employees-i-do-know-individual-cases-can-/articleshow/123934119.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-breaks-silence-on-microsoft-meta-poaching-google-deepmind-employees-i-do-know-individual-cases-can-/amp_articleshow/123934119.cms",
+      "title": "Google CEO Sundar Pichai breaks silence on Microsoft , Meta  poaching  Google DeepMind employees : I do know individual cases can ... ",
+      "seendate": "20250917T060000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-123934116,width-1070,height-580,imgsize-22098,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/uk-and-us-agree-42-billion-tech-pact-to-mark-trumps-visit/article70059650.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/uk-and-us-agree-42-billion-tech-pact-to-mark-trumps-visit/article70059650.ece/amp/",
+      "title": "Trump united kingdom state visit : Britain , US sign $42B tech pact in AI , quantum ; Microsoft to invest \u00a331B",
+      "seendate": "20250917T060000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/2r5gfo/article70059705.ece/alternates/LANDSCAPE_1200/2025-09-16T050017Z_1706465732_RC2OVFAOPBSM_RTRMADP_3_USA-TRUMP-BRITAIN.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.newstatesman.com/business/economics/2025/09/trump-visits-his-vassal-state",
+      "url_mobile": "",
+      "title": "Trump visits his vassal state",
+      "seendate": "20250917T054500Z",
+      "socialimage": "https://dl6pgk4f88hky.cloudfront.net/2025/09/16/GettyImages-2226742254-800x418.jpg",
+      "domain": "newstatesman.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/16/the-smartest-artificial-intelligence-ai-stocks-to/",
+      "url_mobile": "",
+      "title": "The Smartest Artificial Intelligence ( AI ) Stocks to Buy With $1 , 000",
+      "seendate": "20250917T034500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/833063/gettyimages-1189081858.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/16/the-smartest-artificial-intelligence-ai-stocks-to/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "The Smartest Artificial Intelligence ( AI ) Stocks to Buy With $1 , 000",
+      "seendate": "20250917T020000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/833063/gettyimages-1189081858.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/c8aac3b11ee3d3dd",
+      "url_mobile": "",
+      "title": "What the tech giants arent telling us",
+      "seendate": "20250917T014500Z",
+      "socialimage": "https://biztoc.com/cdn/c8aac3b11ee3d3dd_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://fortune.com/2025/09/16/hiverge-google-deepmind-researchers-5-million-seed-round-for-ai-algorithm-design-company/",
+      "url_mobile": "",
+      "title": "Exclusive : Ex - Google DeepMinder algorithm - making AI company gets $5 million in seed funding",
+      "seendate": "20250916T234500Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Alhussein-Fawzi-photo-for-Hiverge-story-e1758053386199.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://pakistankakhudahafiz.com/google-says-to-invest-5bn-pounds-in-uk-ahead-of-trump-visit/",
+      "url_mobile": "",
+      "title": "Google Says To Invest 5bn Pounds In united kingdom Ahead Of Trump Visit",
+      "seendate": "20250916T233000Z",
+      "socialimage": "https://pakistankakhudahafiz.com/wp-content/uploads/2025/09/16125944c02cda4.webp",
+      "domain": "pakistankakhudahafiz.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.cnet.com/tech/services-and-software/youtube-unveils-new-ai-tools-for-crafting-shorts-more-upgrades-for-creators/",
+      "url_mobile": "",
+      "title": "YouTube Unveils New AI Tools for Crafting Shorts , More Upgrades for Creators",
+      "seendate": "20250916T231500Z",
+      "socialimage": "https://www.cnet.com/a/img/resize/77a52c6f6810aeb7966842ba8d190fd025f9eeec/hub/2025/09/16/1733743d-cef5-479e-a5f0-2071dedacdde/moyt25-creation-shorts-veo3-productcard.jpg?auto=webp&fit=crop",
+      "domain": "cnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.thetimes.com/business-money/companies/article/microsoft-pledges-22bn-for-british-ai-supercomputer-and-data-centres-3z3zf0ttn",
+      "url_mobile": "",
+      "title": "Microsoft pledges \u00a322bn for British AI supercomputer and data centres",
+      "seendate": "20250916T230000Z",
+      "socialimage": "https://www.thetimes.com/imageserver/image/%2F5d71634e-1896-498a-873a-49bf5c0d9f55.jpg?crop=6000%2C3375%2C0%2C313",
+      "domain": "thetimes.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.miragenews.com/us-uk-pact-to-boost-drug-discovery-create-jobs-1534658/",
+      "url_mobile": "",
+      "title": "US - UK Pact to Boost Drug Discovery , Create Jobs",
+      "seendate": "20250916T230000Z",
+      "socialimage": "https://assets.publishing.service.gov.uk/media/68c96e59de855c02ab517b7d/s960_uk-us-historic-partnership-govuk.png",
+      "domain": "miragenews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gizmodo.com/get-ready-to-see-more-ai-on-youtube-2000659520",
+      "url_mobile": "",
+      "title": "Get Ready to See More AI on YouTube",
+      "seendate": "20250916T230000Z",
+      "socialimage": "https://gizmodo.com/app/uploads/2025/06/Block-YouTube-Ads-With-VPN-1200x675.jpg",
+      "domain": "gizmodo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.sky.com/story/trump-to-sign-us-uk-tech-partnership-in-drive-for-ai-13432253",
+      "url_mobile": "",
+      "title": "Trump to sign US - UK tech partnership in drive for AI",
+      "seendate": "20250916T223000Z",
+      "socialimage": "https://e3.365dm.com/25/07/1600x900/skynews-keir-starmer-donald-trump_6976103.jpg",
+      "domain": "news.sky.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.zdnet.com/article/how-googles-new-ai-model-protects-user-privacy-without-sacrificing-performance/",
+      "url_mobile": "",
+      "title": "How Google new AI model protects user privacy without sacrificing performance",
+      "seendate": "20250916T211500Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/d3b2ca72490b4de3eb1bbae89016e87741b3dad8/2025/09/16/2bd7914c-622c-46a3-a19e-c7bc9230afd1/googai5555gettyimages-2234049984.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://fortune.com/2025/09/16/openai-chatgpt-anthropic-claude-usage-studies-potential-job-losses-ahead/",
+      "url_mobile": "",
+      "title": "OpenAI ChatGPT and Anthropic Claude chatbot usage studies may signal job losses ahead",
+      "seendate": "20250916T193000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2232888092-e1758037843381.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.eejournal.com/industry_news/groundbreaking-ai-aims-to-speed-lifesaving-therapies/",
+      "url_mobile": "",
+      "title": "Groundbreaking AI aims to speed lifesaving therapies",
+      "seendate": "20250916T190000Z",
+      "socialimage": "",
+      "domain": "eejournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://deadline.com/2025/09/youtube-has-paid-100-billion-to-creators-since-2021-1236545311/",
+      "url_mobile": "",
+      "title": "YouTube Says It Has Paid $100B To Creators , Artists And Media Companies Over Past 4 Years",
+      "seendate": "20250916T160000Z",
+      "socialimage": "https://deadline.com/wp-content/uploads/2025/09/Practice-mode-product-mock.jpg",
+      "domain": "deadline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.upi.com/Top_News/World-News/2025/09/16/uk-Google-investment-British-AI/8361758027006/",
+      "url_mobile": "https://www.upi.com/amp/Top_News/World-News/2025/09/16/uk-Google-investment-British-AI/8361758027006/",
+      "title": "Google announces $6 . 8 billion investment in British AI",
+      "seendate": "20250916T153000Z",
+      "socialimage": "https://cdnph.upi.com/sv/ph/og/upi_com/8361758027006/2025/1/0b850d912592f13dbdf61e381298664d/v1.5/Google-announces-68-billion-investment-in-British-AI.jpg",
+      "domain": "upi.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://tribuneonlineng.com/googles-owner-to-invest-5bn-in-uk-ai-ahead-of-trumps-visit/",
+      "url_mobile": "https://tribuneonlineng.com/googles-owner-to-invest-5bn-in-uk-ai-ahead-of-trumps-visit/amp/",
+      "title": "Google owner to invest \u00a35bn in united kingdom AI ahead of Trump visit",
+      "seendate": "20250916T134500Z",
+      "socialimage": "https://tribuneonlineng.com/wp-content/uploads/2025/09/GOOGLE.jpg",
+      "domain": "tribuneonlineng.com",
+      "language": "English",
+      "sourcecountry": "Nigeria"
+    },
+    {
+      "url": "https://techxplore.com/news/2025-09-google-invest-5bn-uk-trump.html",
+      "url_mobile": "",
+      "title": "Google says to invest \u00a35bn in united kingdom ahead of Trump visit",
+      "seendate": "20250916T131500Z",
+      "socialimage": "https://scx2.b-cdn.net/gfx/news/hires/2023/google.jpg",
+      "domain": "techxplore.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.euronews.com/business/2025/09/16/google-pledges-5bn-investment-in-the-uk-creating-ai-driven-jobs",
+      "url_mobile": "",
+      "title": "Google pledges \u00a35bn investment in the united kingdom , creating AI - driven jobs",
+      "seendate": "20250916T124500Z",
+      "socialimage": "https://static.euronews.com/articles/stories/09/46/84/70/1200x675_cmsv2_e3e28856-a6c8-5798-a539-5da848d63c81-9468470.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hindustantimes.com/india-news/gemini-ai-photo-trend-not-just-saree-here-are-4-other-looks-for-you-to-try-101758013675110.html",
+      "url_mobile": "https://www.hindustantimes.com/india-news/gemini-ai-photo-trend-not-just-saree-here-are-4-other-looks-for-you-to-try-101758013675110-amp.html",
+      "title": "Gemini AI photo trend : Not just saree , here are 4 other looks for you to try",
+      "seendate": "20250916T123000Z",
+      "socialimage": "https://www.hindustantimes.com/ht-img/img/2025/09/16/1600x900/Red_Saree_1757910984328_1757910984532_1758014317832.png",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.ghanaweb.com/GhanaHomePage/business/Google-owner-reveals-5-billion-AI-investment-in-UK-ahead-of-Trump-visit-2000894",
+      "url_mobile": "https://mobile.ghanaweb.com/GhanaHomePage/business/Google-owner-reveals-5-billion-AI-investment-in-UK-ahead-of-Trump-visit-2000894",
+      "title": "Google owner reveals \u00a35 billion AI investment in united kingdom ahead of Trump visit",
+      "seendate": "20250916T121500Z",
+      "socialimage": "https://cdn.ghanaweb.com/imagelib/pics/577/57794584.jpg",
+      "domain": "ghanaweb.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/25/09/47685743/google-reveals-6-8-billion-uk-ai-drive-as-trump-lands-for-high-stakes-talks",
+      "url_mobile": "",
+      "title": "What Going On With Alphabet Stock Tuesday ? - Alphabet ( NASDAQ : GOOGL ), Shell ( NYSE : SHEL ) ",
+      "seendate": "20250916T103000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/09/16/Stuttgart--Germany---July-20--2023-Googl.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cityam.com/google-pledges-5bn-investment-as-it-opens-first-uk-data-centre/",
+      "url_mobile": "",
+      "title": "Google pledges \u00a35bn investment as it opens first united kingdom data centre",
+      "seendate": "20250916T103000Z",
+      "socialimage": "https://www.cityam.com/wp-content/uploads/2025/09/Google-UK-DC-Render-08-e1757956657648.png",
+      "domain": "cityam.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/money/markets/article-15102757/Google-reveals-UK-AI-investment-ahead-Trump-state-visit.html",
+      "url_mobile": "",
+      "title": "Google reveals \u00a35bn united kingdom AI investment ahead of Trump state visit",
+      "seendate": "20250916T101500Z",
+      "socialimage": "https://i.dailymail.co.uk/1s/2025/09/16/09/102174779-0-image-a-5_1758013044888.jpg",
+      "domain": "dailymail.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1078510/google-pledges-5bn-uk-investment-to-drive-ai-growth-1078510.html",
+      "url_mobile": "",
+      "title": "Google pledges \u00a35bn united kingdom investment to drive AI growth",
+      "seendate": "20250916T084500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA5XC8yMDIyLTExLTE1LTA4LTM3LTI5LWI3MDM4NjE4YmJjNjViODE0YmIwOTkwZmNlYzA4YTZhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.yorkpress.co.uk/news/national/25469451.google-invest-5bn-uk-next-two-years/",
+      "url_mobile": "",
+      "title": "Google to invest \u00a35bn in united kingdom over next two years",
+      "seendate": "20250916T084500Z",
+      "socialimage": "https://www.yorkpress.co.uk/resources/images/19961695.jpg?type=og-image",
+      "domain": "yorkpress.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "company": "IBM",
+  "query": "\"IBM\" (AI OR \"artificial intelligence\")",
+  "start": "20250101000000",
+  "end": "20250930235959",
+  "count": 0,
+  "articles": []
+}

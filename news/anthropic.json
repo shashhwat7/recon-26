@@ -1,0 +1,2509 @@
+{
+  "company": "Anthropic",
+  "query": "\"Anthropic\" (Claude OR AI)",
+  "start": "20250101000000",
+  "end": "20250930235959",
+  "count": 250,
+  "articles": [
+    {
+      "url": "https://www.jdsupra.com/legalnews/hot-topics-in-international-trade-2348459/",
+      "url_mobile": "",
+      "title": "Hot Topics in International Trade - October 2025 - Sanctions , Bans , and Tariffs How The U . S . is Fueling Chinese Innovation | Braumiller Law Group , PLLC",
+      "seendate": "20251001T183000Z",
+      "socialimage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16144_1624.jpg",
+      "domain": "jdsupra.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/demystifying-generative-ai-for-the-9671175/",
+      "url_mobile": "",
+      "title": "Demystifying Generative AI for the Modern Juror | IMS Legal Strategies",
+      "seendate": "20251001T174500Z",
+      "socialimage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16237_5128.jpg",
+      "domain": "jdsupra.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnet.com/tech/services-and-software/want-more-ai-with-your-microsoft-office-its-arriving-in-a-365-premium-version/",
+      "url_mobile": "",
+      "title": "Want More AI With Your Microsoft Office ? It Arriving in a 365 Premium Version",
+      "seendate": "20251001T170000Z",
+      "socialimage": "https://www.cnet.com/a/img/resize/1287f94177ca60235bee91330ce62c36179c5f26/hub/2025/10/01/355eebb1-711c-4b54-8811-dfe3cadf59b1/microsoft365.jpg?auto=webp&fit=crop",
+      "domain": "cnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2025/oct/01/anthropic-ai-model-claude-sonnet-asks-if-it-is-being-tested",
+      "url_mobile": "",
+      "title": "  I think youre testing me : Anthropic new AI model asks testers to come clean | Artificial intelligence ( AI ) ",
+      "seendate": "20251001T124500Z",
+      "socialimage": "https://i.guim.co.uk/img/media/c47c8f6c4613b795e08bc654fc369fd933c82565/0_0_4848_3881/master/4848.jpg?&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3ca06e4a4ef021e85fac94b055e1337",
+      "domain": "theguardian.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.tomsguide.com/ai/claude/your-claude-chats-are-being-used-to-train-ai-heres-how-to-opt-out",
+      "url_mobile": "",
+      "title": "How to opt out of Claude AI training on your chats",
+      "seendate": "20251001T123000Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/JJRERgoMoG89VPQroNSv3h-2560-80.jpg",
+      "domain": "tomsguide.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/25/10/47962282/linkedin-ceo-ryan-roslansky-reveals-how-microsofts-copilot-now-shapes-every-high-stakes-email-to-ceo",
+      "url_mobile": "",
+      "title": "LinkedIn CEO Ryan Roslansky Reveals How Microsoft Copilot Now Shapes Every High - Stakes Email To CEOs , World Leaders - Microsoft ( NASDAQ : MSFT ) ",
+      "seendate": "20251001T101500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/10/01/Microsoft-Copilot-Artificial-Intelligenc.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tomsguide.com/ai/claude-4-5-just-launched-7-prompts-that-show-what-it-can-really-do",
+      "url_mobile": "",
+      "title": "Claude 4 . 5 just launched 7 prompts that show what it can really do",
+      "seendate": "20251001T081500Z",
+      "socialimage": "https://cdn.mos.cms.futurecdn.net/fhdpVmykdrm9B6RmqcEEQ3-2000-80.jpg",
+      "domain": "tomsguide.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/amazon-vp-karthik-ramakrishnan-key-to-alexa-development-steps-down-amid-senior-ai-departures-1620407/",
+      "url_mobile": "https://www.insidermonkey.com/blog/amazon-vp-karthik-ramakrishnan-key-to-alexa-development-steps-down-amid-senior-ai-departures-1620407/?amp=1",
+      "title": "Amazon VP Karthik Ramakrishnan , Key to Alexa Development , Steps Down Amid Senior AI Departures",
+      "seendate": "20251001T064500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19152853/AMZN-insidermonkey-1695151731080.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/anthropic-releases-claude-sonnet-4-170000315.html",
+      "url_mobile": "",
+      "title": "Anthropic releases Claude Sonnet 4 . 5 , a model it says can build software and accomplish business tasks autonomously",
+      "seendate": "20251001T050000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/4e.wZEZArXQauPYSe6DRwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/ebd0ed86c852737b85b1134f0bb9f2c1",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://observer.com/2025/09/ai-change-vc-deals-investing-approach/",
+      "url_mobile": "",
+      "title": "A . I . Is Changing What Venture Capitalists Back and How They Invest",
+      "seendate": "20251001T034500Z",
+      "socialimage": "https://observer.com/wp-content/uploads/sites/2/2025/09/galina-nelyubova-f4UrqquCdVY-unsplash.jpg?quality=80",
+      "domain": "observer.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/09/30/sora-2-launches-from-openai-heres-the-latest-in-the-ai-arms-race/",
+      "url_mobile": "",
+      "title": "AI Arms Race : Here Are The Latest Product Breakthroughs As  Sora 2  Launches",
+      "seendate": "20250930T234500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68dc63fc99221522c3688e4b/0x0.jpg?format=jpg&crop=2990,1681,x0,y312,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/openai-benchmark-ai-matches-humans-in-half-of-key-jobs-eyes-gdp-boost/",
+      "url_mobile": "",
+      "title": "OpenAI Benchmark : AI Matches Humans in Half of Key Jobs , Eyes GDP Boost",
+      "seendate": "20250930T234500Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-bc521da5-5780-4a11-95ef-38b5c132f603.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.latimes.com/business/story/2025-09-30/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding",
+      "url_mobile": "",
+      "title": "Is AI  vibe - coding  transforming tech jobs or creating dangerous illusions ? ",
+      "seendate": "20250930T230000Z",
+      "socialimage": "https://california-times-brightspot.s3.amazonaws.com/dc/85/848fc5d5429ab58209997d84794a/e26460447de64cfd9074c2e35eb000ca.jpg",
+      "domain": "latimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/30/did-elon-musk-just-say-checkmate-to-amazon/",
+      "url_mobile": "",
+      "title": "Did Elon Musk Just Say  Checkmate  to Amazon ? ",
+      "seendate": "20250930T221500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/835281/gettyimages-1422925468-5.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pottsmerc.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T213000Z",
+      "socialimage": "https://www.pottsmerc.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "pottsmerc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2025/09/30/ai-models-are-already-as-good-as-experts-at-half-of-tasks-a-new-openai-benchmark-gdpval-suggests/",
+      "url_mobile": "",
+      "title": "Top AI models are getting really good at completing professional tasks , new OpenAI GDPval benchmark shows",
+      "seendate": "20250930T203000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2185274880-e1759253408822.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-30-google-gemini-ai-unleashes-instant-summarization-reshaping-productivity-and-googles-ai-ambitions",
+      "url_mobile": "",
+      "title": "Google Gemini AI Unleashes Instant Summarization , Reshaping Productivity and Google AI Ambitions",
+      "seendate": "20250930T203000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.journal-advocate.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T203000Z",
+      "socialimage": "https://www.journal-advocate.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "journal-advocate.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fortmorgantimes.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T203000Z",
+      "socialimage": "https://www.fortmorgantimes.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "fortmorgantimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://fortune.com/2025/09/30/openai-stripe-acp-chatgpt-instant-checkout-could-blow-up-online-shopping/",
+      "url_mobile": "",
+      "title": "How OpenAI and Stripe latest move could blow up online shopping as we know it",
+      "seendate": "20250930T203000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/Instant-Checkout.png",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-30-ai-achieves-expert-level-performance-in-half-of-professional-tasks-redefining-future-of-work",
+      "url_mobile": "",
+      "title": "AI Achieves Expert - Level Performance in Half of Professional Tasks , Redefining Future of Work",
+      "seendate": "20250930T203000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/microsoft-msft-announces-it-will-integrate-ai-models-from-anthropic-into-its-copilot-assistant-1618781/",
+      "url_mobile": "https://www.insidermonkey.com/blog/microsoft-msft-announces-it-will-integrate-ai-models-from-anthropic-into-its-copilot-assistant-1618781/?amp=1",
+      "title": "Microsoft ( MSFT ) Announces it Will Integrate AI Models from Anthropic Into its Copilot Assistant",
+      "seendate": "20250930T201500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19152304/MSFT-insidermonkey-1695151382226.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geneamusings.com/2025/09/sarah-cutter-knapps-life-memories-ai.html",
+      "url_mobile": "",
+      "title": "Genea - Musings : Sarah ( Cutter ) Knapp Life Memories - An AI - Assisted Memoir",
+      "seendate": "20250930T194500Z",
+      "socialimage": "",
+      "domain": "geneamusings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.41nbc.com/tech-report-tesla-probe-urged-chatgpt-adds-checkout-ai-ads-target-emotions-crypto-firms-launch-education-drive/",
+      "url_mobile": "",
+      "title": "Tech Report : Tesla probe urged , ChatGPT adds checkout , AI ads target emotions , crypto firms launch education drive 41NBC News",
+      "seendate": "20250930T194500Z",
+      "socialimage": "https://www.41nbc.com/content/uploads/2025/09/y/z/80418e00-xggzq1.jpg",
+      "domain": "41nbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailylocal.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T194500Z",
+      "socialimage": "https://www.dailylocal.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "dailylocal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
+      "url_mobile": "",
+      "title": "Designing agentic loops",
+      "seendate": "20250930T193000Z",
+      "socialimage": "",
+      "domain": "simonwillison.net",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.orlandosentinel.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T193000Z",
+      "socialimage": "https://www.orlandosentinel.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "orlandosentinel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thereporteronline.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T193000Z",
+      "socialimage": "https://www.thereporteronline.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "thereporteronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/servicenow-unveils-ai-experience-the-ui-for-enterprise-ai-ce7d5bd8df8ff622",
+      "url_mobile": "",
+      "title": "ServiceNow Unveils AI Experience , the UI for Enterprise AI",
+      "seendate": "20250930T190000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.techcentral.ie/claude-releases-sonnet-4-5/",
+      "url_mobile": "",
+      "title": "Claude releases Sonnet 4 . 5 - TechCentral . ie",
+      "seendate": "20250930T190000Z",
+      "socialimage": "https://www.techcentral.ie/wp-content/uploads/2022/04/Web_Dev_22.jpg",
+      "domain": "techcentral.ie",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://www.dailycamera.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T184500Z",
+      "socialimage": "https://www.dailycamera.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "dailycamera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.lowellsun.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T184500Z",
+      "socialimage": "https://www.lowellsun.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "lowellsun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.broomfieldenterprise.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T181500Z",
+      "socialimage": "https://www.broomfieldenterprise.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "broomfieldenterprise.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.republicanherald.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T181500Z",
+      "socialimage": "https://www.republicanherald.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "republicanherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coloradohometownweekly.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T180000Z",
+      "socialimage": "https://www.coloradohometownweekly.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "coloradohometownweekly.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mainlinemedianews.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T173000Z",
+      "socialimage": "https://www.mainlinemedianews.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "mainlinemedianews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sun-sentinel.com/2025/09/30/ai-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250930T171500Z",
+      "socialimage": "https://www.sun-sentinel.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680-1.jpg",
+      "domain": "sun-sentinel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/ronschmelzer/2025/09/30/banking-on-trust-fico-launches-financial-foundation-models/",
+      "url_mobile": "",
+      "title": "Banking On Trust : FICO Launches Financial Foundation Models",
+      "seendate": "20250930T160000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68dbf3dd2408e538bea0ec52/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.medscape.com/viewarticle/depression-apps-do-they-have-role-clinical-practice-2025a1000q6d",
+      "url_mobile": "",
+      "title": "Depression Apps : Do They Have a Role in Clinical Practice ? ",
+      "seendate": "20250930T154500Z",
+      "socialimage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_210916_texting_800x450.jpg",
+      "domain": "medscape.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=17217",
+      "url_mobile": "",
+      "title": "Chainlink and 24 financial market participants progress industry initiative",
+      "seendate": "20250930T143000Z",
+      "socialimage": "",
+      "domain": "assetservicingtimes.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.forbes.com/sites/selk/2025/09/30/beyond-efficiency-prompting-ai-to-innovate/",
+      "url_mobile": "",
+      "title": "Beyond Efficiency : Prompting AI To Innovate",
+      "seendate": "20250930T143000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68dac0c30d013f1e12afa396/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/victordey/2025/09/30/servicenow-says-ai-first-interfaces-will-define-the-future-of-enterprise-ai/",
+      "url_mobile": "",
+      "title": "ServiceNow Says AI - First Interfaces Will Define The Future Of Enterprise AI",
+      "seendate": "20250930T133000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68dbd33a8e1c02389d0eed39/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/anthropic-launches-claude-sonnet-4-5-excels-in-coding-outpaces-gpt-5/",
+      "url_mobile": "",
+      "title": "Anthropic Launches Claude Sonnet 4 . 5 : Excels in Coding , Outpaces GPT - 5",
+      "seendate": "20250930T123000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-2eca02ce-5b11-40cf-9c2a-e95de9d31995.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/anthropics-claude-sonnet-4-5-tackles-30-hour-ai-coding-marathons/",
+      "url_mobile": "",
+      "title": "Anthropic Claude Sonnet 4 . 5 Tackles 30 - Hour AI Coding Marathons",
+      "seendate": "20250930T123000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-6144ab6e-de6c-4605-9a45-3d1466e8504c.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/aws-integrates-claude-4-5-sonnet-into-bedrock-for-advanced-enterprise-ai/",
+      "url_mobile": "",
+      "title": "AWS Integrates Claude 4 . 5 Sonnet into Bedrock for Advanced Enterprise AI",
+      "seendate": "20250930T123000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-23b9eb43-904a-42e1-9aff-e0c1a37ca226.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/2025093030/sudden-acceleration-not-a-bubble-is-the-ai-story-that-investors-are-missing-says-this-top-researcher",
+      "url_mobile": "",
+      "title": "Sudden acceleration , not a bubble , is the AI story that investors are missing , says this top researcher",
+      "seendate": "20250930T121500Z",
+      "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/312110/20250930/claude-sonnet-45-stronger-almost-every-way-can-code-30-hours-straight.htm",
+      "url_mobile": "",
+      "title": "Claude Sonnet 4 . 5  Stronger in Almost Every Way , Can Code For 30 Hours Straight",
+      "seendate": "20250930T121500Z",
+      "socialimage": "https://d.techtimes.com/en/full/459495/claude-sonnet-45-stronger-almost-every-way-can-code.jpg",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digit.in/news/wearable-devices/youtuber-shares-alarming-photos-after-samsung-galaxy-ring-swells-on-finger.html",
+      "url_mobile": "https://www.digit.in/news/wearable-devices/youtuber-shares-alarming-photos-after-samsung-galaxy-ring-swells-on-finger.html/amp/",
+      "title": "YouTuber shares alarming photos after Samsung Galaxy Ring swells on finger",
+      "seendate": "20250930T120000Z",
+      "socialimage": "",
+      "domain": "digit.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.hngn.com/articles/268295/20250930/claude-sonnet-45-stronger-almost-every-way-can-code-30-hours-straight.htm",
+      "url_mobile": "",
+      "title": "Claude Sonnet 4 . 5  Stronger in Almost Every Way , Can Code For 30 Hours Straight",
+      "seendate": "20250930T101500Z",
+      "socialimage": "https://d.hngn.com/en/full/300065/claude-sonnet-45-stronger-almost-every-way-can-code.jpg",
+      "domain": "hngn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techxplore.com/news/2025-09-anthropic-ai-touting-coding-supremacy.html",
+      "url_mobile": "",
+      "title": "Anthropic launches new AI model , touting coding supremacy",
+      "seendate": "20250930T091500Z",
+      "socialimage": "https://scx2.b-cdn.net/gfx/news/2025/dario-amodei-co-founde-1.jpg",
+      "domain": "techxplore.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconrepublic.com/machines/anthropic-deepseek-ai-model-sonnet-4-5-claude-v3-2-exp-china",
+      "url_mobile": "",
+      "title": "What to know about DeepSeek and Anthropic latest AI models",
+      "seendate": "20250930T084500Z",
+      "socialimage": "",
+      "domain": "siliconrepublic.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://infotechlead.com/artificial-intelligence/claude-sonnet-4-5-the-worlds-most-advanced-ai-coding-model-for-developers-91358",
+      "url_mobile": "https://infotechlead.com/artificial-intelligence/claude-sonnet-4-5-the-worlds-most-advanced-ai-coding-model-for-developers-91358?amp=1",
+      "title": "Claude Sonnet 4 . 5 : The World Most Advanced AI Coding Model for Developers",
+      "seendate": "20250930T074500Z",
+      "socialimage": "https://infotechlead.com/wp-content/uploads/2025/09/Sonnet-4.5-vs-AI-rivals.png",
+      "domain": "infotechlead.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/anthropic-launches-claude-4-5-and-targets-professional-uses-of-ai-ce7d5bdbd08cf126",
+      "url_mobile": "",
+      "title": "Anthropic launches Claude 4 . 5 and targets professional uses of AI",
+      "seendate": "20250930T073000Z",
+      "socialimage": "https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/09/30/anthropic-launches-new-ai-model-touting-coding-supremacy",
+      "url_mobile": "",
+      "title": "Anthropic launches new AI model , touting coding supremacy",
+      "seendate": "20250930T054500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2025/09/30/3546834.JPG",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.moneycontrol.com/technology/anthropic-launches-claude-sonnet-4-5-its-most-powerful-model-for-coding-article-13589305.html",
+      "url_mobile": "https://www.moneycontrol.com/technology/anthropic-launches-claude-sonnet-4-5-its-most-powerful-model-for-coding-article-13589305.html/amp",
+      "title": "Anthropic launches Claude Sonnet 4 . 5 , its most powerful model for coding",
+      "seendate": "20250930T050000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2023/09/402330537.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-claude-45-touts-better-abilities-targets-business-customers/article70111589.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-claude-45-touts-better-abilities-targets-business-customers/article70111589.ece/amp/",
+      "title": "Anthropic launches Claude 4 . 5 , touts better abilities , targets business customers",
+      "seendate": "20250930T044500Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/h2m8xo/article70111597.ece/alternates/LANDSCAPE_1200/2025-09-25T223814Z_474966659_RC29ZGADRRK3_RTRMADP_3_ANTHROPIC-AI-COPYRIGHT-SETTLEMENT.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.scmp.com/tech/tech-trends/article/3327314/anthropic-says-new-model-can-code-its-own-30-hours-straight",
+      "url_mobile": "https://amp.scmp.com/tech/tech-trends/article/3327314/anthropic-says-new-model-can-code-its-own-30-hours-straight",
+      "title": "Anthropic says new model can code on its own for 30 hours straight",
+      "seendate": "20250930T043000Z",
+      "socialimage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/09/30/f3cb4023-1ffd-451f-94f9-1940bc7fc5a6_a446410b.jpg?itok=swpCdIzI&v=1759200455",
+      "domain": "scmp.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://biztoc.com/x/4dba729674a78e44",
+      "url_mobile": "",
+      "title": "Anthropic releases Claude Sonnet 4 . 5 , a model it says can build software and accomplish business tasks autonomously",
+      "seendate": "20250930T040000Z",
+      "socialimage": "https://biztoc.com/cdn/4dba729674a78e44_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.livemint.com/technology/tech-news/anthropic-launches-claude-sonnet-4-5-to-boost-ai-reasoning-coding-and-long-task-handling-11759196636025.html",
+      "url_mobile": "https://www.livemint.com/technology/tech-news/anthropic-launches-claude-sonnet-4-5-to-boost-ai-reasoning-coding-and-long-task-handling/amp-11759196636025.html",
+      "title": "Anthropic launches Claude Sonnet 4 . 5 to boost AI reasoning , coding and long - task handling",
+      "seendate": "20250930T040000Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2025/09/30/600x338/rfffffffffffffffffffffffffffffffffffffffffffffffff_1759196948357_1759196948450.png",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.icaew.com/insights/viewpoints-on-the-news/2025/sep-2025/cyber-attacks-cause-disruption-and-bankruptcy-fears",
+      "url_mobile": "",
+      "title": "Cyber attacks cause disruption and bankruptcy fears",
+      "seendate": "20250930T033000Z",
+      "socialimage": "https://www.icaew.com/-/media/corporate/images/insights/template-images/cyber-round-up-1600x900.ashx",
+      "domain": "icaew.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.timeshighereducation.com/campus/how-test-genais-impact-learning",
+      "url_mobile": "",
+      "title": "How to test GenAI impact on learning | THE Campus Learn , Share , Connect",
+      "seendate": "20250930T031500Z",
+      "socialimage": "https://timeshighereducation.com/campus/sites/default/files/2025-09/iStock-863291810.jpg",
+      "domain": "timeshighereducation.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-launches-claude-sonnet-4-5-its-latest-ai-model-designed-for-coding-10279401/",
+      "url_mobile": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-launches-claude-sonnet-4-5-its-latest-ai-model-designed-for-coding-10279401/lite/",
+      "title": "Anthropic launches Claude Sonnet 4 . 5 , its latest AI model designed for coding",
+      "seendate": "20250930T024500Z",
+      "socialimage": "https://images.indianexpress.com/2025/09/Dario_Amodei-fb.jpg",
+      "domain": "indianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.philstar.com/lifestyle/gadgets/2025/09/30/2476472/anthropic-launches-new-ai-model-touting-coding-supremacy",
+      "url_mobile": "https://www.philstar.com/lifestyle/gadgets/2025/09/30/2476472/anthropic-launches-new-ai-model-touting-coding-supremacy/amp/",
+      "title": "Anthropic launches new AI model , touting coding supremacy",
+      "seendate": "20250930T020000Z",
+      "socialimage": "https://media.philstar.com/photos/2024/09/15/artificial-intelligence-33825071280_2024-09-15_11-22-04.jpg",
+      "domain": "philstar.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.upi.com/Top_News/US/2025/09/29/Anthropic-launches-Claude-Sonnett-45-best-coding-model-world/1111759187715/",
+      "url_mobile": "https://www.upi.com/amp/Top_News/US/2025/09/29/Anthropic-launches-Claude-Sonnett-45-best-coding-model-world/1111759187715/",
+      "title": "AI advance : Anthropic says Claude Sonnet 4 . 5 is  best coding model  in world",
+      "seendate": "20250930T014500Z",
+      "socialimage": "https://cdnph.upi.com/sv/ph/og/i/1111759187715/2025/1/17591914891156/v1.5/AI-advance-Anthropic-says-Claude-Sonnet-45-best-coding-model-in-world.jpg",
+      "domain": "upi.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freemalaysiatoday.com/category/business/2025/09/30/anthropic-launches-new-ai-model-touting-coding-supremacy",
+      "url_mobile": "",
+      "title": "Anthropic launches new AI model , touting coding supremacy",
+      "seendate": "20250929T234500Z",
+      "socialimage": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/09/2b92b53f-anthropic.jpg",
+      "domain": "freemalaysiatoday.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://techxplore.com/news/2025-09-ai-software-jobs-dont-vibe.html",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250929T233000Z",
+      "socialimage": "https://scx2.b-cdn.net/gfx/news/hires/2025/ai-is-transforming-how.jpg",
+      "domain": "techxplore.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digitaljournal.com/tech-science/anthropic-launches-new-ai-model-touting-coding-supremacy/article",
+      "url_mobile": "",
+      "title": "Anthropic launches new AI model , touting coding supremacy",
+      "seendate": "20250929T230000Z",
+      "socialimage": "https://www.digitaljournal.com/wp-content/uploads/2025/09/45934e6a65fee45d8898e558672e27762c491aa2.jpg",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wcfcourier.com/article_0168fe35-3855-5541-8da2-edced85c15d9.html",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250929T230000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/c/22/c227b96d-5c8e-56b3-84d3-420a36ece214/68db067ec2dd4.image.jpg?crop=1762%2C926%2C0%2C117",
+      "domain": "wcfcourier.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://neworleanscitybusiness.com/blog/2025/09/29/ai-chatbots-coding-software-developers/",
+      "url_mobile": "",
+      "title": "AI chatbots transform coding for software developers | New Orleans CityBusiness",
+      "seendate": "20250929T220000Z",
+      "socialimage": "https://neworleanscitybusiness.com/files/2025/09/4.-AP25241765654680.jpg",
+      "domain": "neworleanscitybusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.suncommercial.com/brazil_times/news/national/article_df91632a-6af8-57df-8411-edc676cdc261.html",
+      "url_mobile": "",
+      "title": "Anthropic launches new AI model , touting coding supremacy",
+      "seendate": "20250929T213000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/suncommercial.com/content/tncms/assets/v3/editorial/2/7b/27bbaf46-810a-5a94-9f1e-dc5141dea68d/68dae99529480.image.jpg?crop=341%2C341%2C85%2C0",
+      "domain": "suncommercial.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gjsentinel.com/news/national/anthropic-launches-new-ai-model-touting-coding-supremacy/article_4eed6fe1-6c61-5b0f-b85b-0c9e2d5d2758.html",
+      "url_mobile": "https://www.gjsentinel.com/news/national/anthropic-launches-new-ai-model-touting-coding-supremacy/article_4eed6fe1-6c61-5b0f-b85b-0c9e2d5d2758.amp.html",
+      "title": "Anthropic launches new AI model , touting coding supremacy",
+      "seendate": "20250929T213000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/4/12/41283cf6-3a56-5875-9da3-e0f7bf04a463/68dae8ef88636.image.jpg?crop=341%2C341%2C85%2C0",
+      "domain": "gjsentinel.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.whec.com/ap-top-news/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250929T213000Z",
+      "socialimage": "https://www.whec.com/wp-content/uploads/apimg/2025/09/AI_Vibe_Coding_54680.jpg",
+      "domain": "whec.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ashleycountyledger.com/news/national/anthropic-launches-new-ai-model-touting-coding-supremacy/article_51770f57-5a31-5e00-a41f-c97afe27fcc7.html",
+      "url_mobile": "",
+      "title": "Anthropic launches new AI model , touting coding supremacy",
+      "seendate": "20250929T213000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/ashleycountyledger.com/content/tncms/assets/v3/editorial/f/7b/f7b3d2da-b307-5f6b-8f36-139b49802e9d/68dae957a9a88.image.jpg?crop=341%2C341%2C85%2C0",
+      "domain": "ashleycountyledger.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.springfieldnewssun.com/news/nation-world/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/LMOIORCFJNIGDFO2NVLSUBHQTI/",
+      "url_mobile": "https://www.daytondailynews.com/news/nation-world/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/LMOIORCFJNIGDFO2NVLSUBHQTI/?outputType=amp",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250929T200000Z",
+      "socialimage": "https://www.springfieldnewssun.com/resizer/v2/GW2VSDGE2ZBORHQ2MVZG6VCW7M.jpg?auth=58bfb3260fbe3c872012213653f8fad25d4cc0605e56254c9e797033ccd3f811&smart=true",
+      "domain": "springfieldnewssun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/f5b95c54f4ed54a1",
+      "url_mobile": "",
+      "title": "Anthropic Launches Claude Sonnet 4 . 5 and Introduces Claude Agent SDK",
+      "seendate": "20250929T194500Z",
+      "socialimage": "https://biztoc.com/cdn/950/og.png",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://fortune.com/2025/09/29/technology-ai-race-chatbots-chatgpt-claude-anthropic-is-changing-how-engineers-work-but-some-refuse-to-call-it-vibe-coding-responsibility-lies-with-humans-behind-code-openai-software-coders-lovable-vi/",
+      "url_mobile": "",
+      "title": "Engineers buck against  vibe - coding  label , saying responsibility still lies with the humans behind the code",
+      "seendate": "20250929T194500Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/AP25241765654680-e1759172849766.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-2-29-p-m-edt/article_6405451a-51a5-53b8-a3da-86c720e08672.html",
+      "url_mobile": "",
+      "title": "AP Business SummaryBrief at 2 : 55 p . m . EDT",
+      "seendate": "20250929T191500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg",
+      "domain": "mankatofreepress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://listenupyall.com/2025/09/29/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250929T191500Z",
+      "socialimage": "https://aprss.listenupyall.com/rss_feeds/images/e26460447de64cfd9074c2e35eb000ca.jpg",
+      "domain": "listenupyall.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://mynorthwest.com/lifestyle/ai-is-transforming-how-software-engineers-do-their-jobs-just-dont-call-it-vibe-coding/4137486",
+      "url_mobile": "",
+      "title": "AI is transforming how software engineers do their jobs . Just dont call it  vibe - coding  ",
+      "seendate": "20250929T190000Z",
+      "socialimage": "https://mynorthwest.com/wp-content/uploads/2025/09/AI_Vibe_Coding_54680.jpg",
+      "domain": "mynorthwest.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcrunch.com/2025/09/29/anthropic-launches-claude-sonnet-4-5-its-best-ai-model-for-coding/",
+      "url_mobile": "",
+      "title": "Anthropic launches Claude Sonnet 4 . 5 , its best AI model for coding",
+      "seendate": "20250929T183000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/anthropics-claude-sonnet-4-5-builds-slack-like-app-in-30-hours-autonomously/",
+      "url_mobile": "",
+      "title": "Anthropic Claude Sonnet 4 . 5 Builds Slack - Like App in 30 Hours Autonomously",
+      "seendate": "20250929T183000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-1b6739f4-d45c-427b-b3bf-1903c32cd4bc.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zdnet.com/article/claude-sonnet-4-5-could-be-your-next-breakthrough-coding-tool-how-to-access-it-today/",
+      "url_mobile": "",
+      "title": "Claude Sonnet 4 . 5 could be your next breakthrough coding tool - how to access it today",
+      "seendate": "20250929T181500Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/1266da3b6025cf356239a35cf1f66b3ed0f254e0/2025/09/29/321220ce-432c-4add-916e-abe9c732f7b0/gettyimages-695108738.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://biztoc.com/x/a7953139277fccde",
+      "url_mobile": "",
+      "title": "Anthropic launches Claude Sonnet 4 . 5 , its best AI model for coding",
+      "seendate": "20250929T181500Z",
+      "socialimage": "https://biztoc.com/cdn/a7953139277fccde_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://fortune.com/2025/09/29/anthropic-releases-claude-sonnet-4-5-a-model-it-says-can-build-software-and-accomplish-business-tasks-autonomously/",
+      "url_mobile": "",
+      "title": "Anthropic releases Claude 4 . 5 , a model it says can build software and accomplish business tasks autonomously",
+      "seendate": "20250929T180000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2235057548-e1758049499984.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wisbar.org/NewsPublications/WisconsinLawyer/Pages/Article.aspx?Volume=98&Issue=8&ArticleID=31210&source=carousel",
+      "url_mobile": "",
+      "title": "Wisconsin Lawyer : Practice Pulse When AI  Lie : The Legal Risks of Hallucinations : ",
+      "seendate": "20250929T180000Z",
+      "socialimage": "",
+      "domain": "wisbar.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-29-anthropics-claude-sonnet-45-unleashes-a-new-era-of-ai-powered-enterprise-software-development",
+      "url_mobile": "",
+      "title": "Anthropic Claude Sonnet 4 . 5 Unleashes a New Era of AI - Powered Enterprise Software Development",
+      "seendate": "20250929T180000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy",
+      "url_mobile": "",
+      "title": "Anthropic releases Claude Sonnet 4 . 5 in latest bid for AI agents and coding supremacy",
+      "seendate": "20250929T174500Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/anthropic-ai-model-claude-sonnet-extend-coding-lead-2025-9",
+      "url_mobile": "",
+      "title": "Anthropic Unveils Latest AI Model , Aiming to Extend Its Coding Lead",
+      "seendate": "20250929T174500Z",
+      "socialimage": "https://i.insider.com/68d86b0dcc993f9955cf102b?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+      "url_mobile": "",
+      "title": "Microsoft launches  vibe working  in Excel and Word",
+      "seendate": "20250929T163000Z",
+      "socialimage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/excelagentmode.jpg?quality=90&strip=all&crop=0%2C3.477724691513%2C100%2C93.044550616974",
+      "domain": "theverge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fairobserver.com/outside-the-box/a-chatbot-weighs-in-on-our-war-of-conflicting-realities/",
+      "url_mobile": "",
+      "title": "A Chatbot Weighs in on Our War of Conflicting Realities",
+      "seendate": "20250929T160000Z",
+      "socialimage": "https://www.fairobserver.com/wp-content/uploads/2025/09/man-3.jpg",
+      "domain": "fairobserver.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geneamusings.com/search?updated-max=2025-09-27T07:08:00-07:00&max-results=10",
+      "url_mobile": "",
+      "title": "Genea - Musings",
+      "seendate": "20250929T151500Z",
+      "socialimage": "",
+      "domain": "geneamusings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/a-dollar-vs-42-cents-elon-musks-xai-continues-fight-with-chatgpt-offers-grok-to-us-government-at-lower-price/articleshow/124214395.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/technology/tech-news/a-dollar-vs-42-cents-elon-musks-xai-continues-fight-with-chatgpt-offers-grok-to-us-government-at-lower-price/amp_articleshow/124214395.cms",
+      "title": "A dollar vs 42 cents : Elon Musk xAI continues  fight  with ChatGPT , offers Grok to US government at lower price",
+      "seendate": "20250929T140000Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-124214500,width-1070,height-580,imgsize-913186,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thedailystar.net/tech-startup/news/anthropic-triple-global-workforce-amid-overseas-growth-3997411",
+      "url_mobile": "",
+      "title": "Anthropic to triple global workforce amid overseas growth",
+      "seendate": "20250929T104500Z",
+      "socialimage": "",
+      "domain": "thedailystar.net",
+      "language": "English",
+      "sourcecountry": "Bangladesh"
+    },
+    {
+      "url": "https://www.siliconrepublic.com/jobs-news/ai-start-up-anthropic-workforce-major-global-expansion",
+      "url_mobile": "",
+      "title": "AI start - up Anthropic to triple workforce in major global expansion",
+      "seendate": "20250929T084500Z",
+      "socialimage": "",
+      "domain": "siliconrepublic.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    },
+    {
+      "url": "https://www.thepostathens.com/article/2025/09/visual-communication-scripps-ohio-university-artificial-intelligence",
+      "url_mobile": "",
+      "title": "Letter to the Editor : We would like to applaud Ethan Herx",
+      "seendate": "20250929T070000Z",
+      "socialimage": "https://snworksceo.imgix.net/ohi/84f5c505-4677-4904-bb59-655593c2d8f4.sized-1000x1000.jpg",
+      "domain": "thepostathens.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://masslawyersweekly.com/2025/09/28/judge-approves-1-5b-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250929T004500Z",
+      "socialimage": "https://masslawyersweekly.com/files/2025/09/AP25247699422658-scaled-1.webp",
+      "domain": "masslawyersweekly.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnews.com.au/news/anthropic-to-triple-global-workforce-amid-rising-overseas-demand-620629",
+      "url_mobile": "",
+      "title": "Anthropic to triple global workforce amid rising overseas demand",
+      "seendate": "20250928T230000Z",
+      "socialimage": "https://i.nextmedia.com.au/News/iStock-2203181438.jpg",
+      "domain": "itnews.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.webpronews.com/fiverr-lays-off-30-staff-after-ai-productivity-push-faces-backlash/",
+      "url_mobile": "",
+      "title": "Fiverr Lays Off 30 % Staff After AI Productivity Push , Faces Backlash",
+      "seendate": "20250928T193000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-b693c54c-4eef-40c2-a044-178dd5becf38.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geneamusings.com/2025_09_28_archive.html",
+      "url_mobile": "",
+      "title": "Genea - Musings : 09 / 28 / 25",
+      "seendate": "20250928T144500Z",
+      "socialimage": "",
+      "domain": "geneamusings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geneamusings.com/2025/09/abrahams-story-family-history-poem-song.html",
+      "url_mobile": "",
+      "title": "Genea - Musings :  Abraham Story  -- Family History Poem , Song , Audio Overview and Video Overview Created by Artificial Intelligence",
+      "seendate": "20250928T144500Z",
+      "socialimage": "",
+      "domain": "geneamusings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/28/a-new-buzzword-is-hanging-over-businesses-as-they-rush-into-ai.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/28/a-new-buzzword-is-hanging-over-businesses-as-they-rush-into-ai.html",
+      "title": "A new buzzword is hanging over businesses as they rush into AI",
+      "seendate": "20250928T074500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108204429-1758889385327-gettyimages-1427840896-pi-2631715.jpeg?v=1758901276",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techstory.in/1-5-billion-anthropic-copyright-settlement-a-message-to-ai-engines/",
+      "url_mobile": "",
+      "title": "$1 . 5 Billion Anthropic Copyright Settlement - A Message to AI Engines",
+      "seendate": "20250927T230000Z",
+      "socialimage": "https://techstory.in/wp-content/uploads/2025/09/maxresdefault-36.jpg",
+      "domain": "techstory.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thetimes.com/business-money/technology/article/cloudflare-mike-prince-ai-micropayments-media-xbxdt6m58",
+      "url_mobile": "",
+      "title": "The new web is killing old media . One CEO has a plan to stop the bots",
+      "seendate": "20250927T171500Z",
+      "socialimage": "https://www.thetimes.com/imageserver/image/%2F1e3d0593-01a4-46c6-8e13-18bc2b5e7818.jpg?crop=4000%2C2250%2C0%2C9",
+      "domain": "thetimes.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.sltrib.com/opinion/commentary/2025/09/27/opinion-theres-nothing-magical/",
+      "url_mobile": "",
+      "title": "Opinion : There nothing magical in the machine",
+      "seendate": "20250927T143000Z",
+      "socialimage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2F5G4G5UVR6VBNPJOBE7OQCMKISQ.jpg?auth=1ab8edf2e53ce447428915c7596b12a0e6c2d7135d174c1c5330454568230125",
+      "domain": "sltrib.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.foxnews.com/tech/north-korean-hackers-use-ai-forge-military-ids",
+      "url_mobile": "https://www.foxnews.com/tech/north-korean-hackers-use-ai-forge-military-ids.amp",
+      "title": "North Korean hackers use AI to create fake military IDs for attacks",
+      "seendate": "20250927T140000Z",
+      "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/GettyImages-1234739904.jpg",
+      "domain": "foxnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ktar.com/data-doctors/what-is-copilot-should-you-get/5754983/",
+      "url_mobile": "",
+      "title": "What is Microsoft Copilot and is it right for you ? ",
+      "seendate": "20250927T134500Z",
+      "socialimage": "https://ktar.com/wp-content/uploads/2025/09/pexels-altabena-10142683-1-e1758929815114.jpg",
+      "domain": "ktar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/ai-top-expert-rushing-artificial-superintelligence-could-wipe-us-out-2025-9",
+      "url_mobile": "",
+      "title": "AI Top Expert : Rushing Artificial Superintelligence Could Wipe Us Out",
+      "seendate": "20250927T124500Z",
+      "socialimage": "https://i.insider.com/68d68ac7cc993f9955cef96e?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/anthropic-to-triple-global-workforce-by-2025-on-claude-ai-demand/",
+      "url_mobile": "",
+      "title": "Anthropic to Triple Global Workforce by 2025 on Claude AI Demand",
+      "seendate": "20250927T123000Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-439dc455-df69-4ddc-bf19-fa4151d8547f.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/whats-colleges-ai-policy-192149617.html",
+      "url_mobile": "",
+      "title": "What your college AI policy ? Find out here . ",
+      "seendate": "20250927T104500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/nSPePQVZdwskCZ0AUDRLUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/mashable_articles_863/2df8d05b11e4b754fb58f9134d126d20",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/apple-builds-chatgpt-app-help-test-revamped-siri",
+      "url_mobile": "",
+      "title": "Apple builds a ChatGPT - like app to help test the revamped Siri",
+      "seendate": "20250927T080000Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/29c292a1062aecdb7f754f22f5d778143c9779e84ee9d7b495e621e5a07a28e7?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/apple-may-have-already-built-a-chatgpt-rival-but-you-wont-see-it-soon/",
+      "url_mobile": "",
+      "title": "Apple may have already built a ChatGPT rival , but you wont see it soon",
+      "seendate": "20250927T071500Z",
+      "socialimage": "https://www.digitaltrends.com/wp-content/uploads/2025/08/siri-chatgpt-iphone.jpeg",
+      "domain": "digitaltrends.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-to-triple-international-workforce-as-ai-models-drive-growth-outside-us/article70100896.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/anthropic-to-triple-international-workforce-as-ai-models-drive-growth-outside-us/article70100896.ece/amp/",
+      "title": "Anthropic to triple international workforce as AI models drive growth outside U . S . ",
+      "seendate": "20250927T064500Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/i4bd06/article70100962.ece/alternates/LANDSCAPE_1200/2025-01-22T060238Z_1853239093_RC2LU7AJ0JWD_RTRMADP_3_GOOGLE-INVESTMENT-ANTHROPIC.jpg",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/amazon-loses-vp-helping-lead-development-of-artificial-general-intelligence/article70100895.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/amazon-loses-vp-helping-lead-development-of-artificial-general-intelligence/article70100895.ece/amp/",
+      "title": "Amazon loses VP helping lead development of artificial general intelligence",
+      "seendate": "20250927T064500Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/1aomzy/article70100983.ece/alternates/LANDSCAPE_1200/2025-07-22T223916Z_592137246_RC2IWCAXAVNJ_RTRMADP_3_AMAZON-COM-AI.jpg",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.slashgear.com/1979748/microsoft-adds-anthropic-ai-to-copilot/",
+      "url_mobile": "",
+      "title": "Microsoft Has Added Anthropic AI To This Popular Copilot Assistant",
+      "seendate": "20250927T023000Z",
+      "socialimage": "https://www.slashgear.com/img/gallery/microsoft-has-added-anthropics-ai-to-this-popular-copilot-assistant/l-intro-1758921419.jpg",
+      "domain": "slashgear.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://siliconangle.com/2025/09/26/anthropic-triple-international-headcount-add-offices-following-latest-funding-round/",
+      "url_mobile": "",
+      "title": "Anthropic to triple international headcount , add offices following latest funding round",
+      "seendate": "20250927T001500Z",
+      "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/09/Anthropic-1.png",
+      "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1079294/anthropic-boosts-global-hiring-as-claude-ai-demand-surges-1079294.html",
+      "url_mobile": "",
+      "title": "Anthropic boosts global hiring as Claude AI demand surges",
+      "seendate": "20250927T000000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA5XC8yMDI0LTA1LTAxLTE2LTA1LTUyLTA0NjZjNzQzOTA2YWNkMjcyMmRiMGRkMzljMzI4YjEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/educators-embrace-critical-ai-literacy-for-ethical-classroom-use/",
+      "url_mobile": "",
+      "title": "Educators Embrace Critical AI Literacy for Ethical Classroom Use",
+      "seendate": "20250926T221500Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/09/xai-tmp-imgen-f949d521-bb23-45dc-b8b7-5f575c8be079.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/09/26/prediction-this-artificial-intelligence-ai-stock-w/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Prediction : This Artificial Intelligence ( AI ) Stock Will Be Worth More Than $5 Trillion by 2030 ( Hint : It Not Nvidia or Apple ) ",
+      "seendate": "20250926T214500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/834451/analyst_studying_charts_on_a_laptop.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.androidheadlines.com/2025/09/openai-tests-gpt-5-on-human-jobs-benchmark-shows-ai-matching-experts.html",
+      "url_mobile": "",
+      "title": "OpenAI Tests GPT - 5 on Human Jobs : Benchmark Shows AI Matching Experts",
+      "seendate": "20250926T213000Z",
+      "socialimage": "",
+      "domain": "androidheadlines.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.mediapost.com/publications/article/409453/anthropic-15-billion-settlement-with-authors-mov.html",
+      "url_mobile": "",
+      "title": "Anthropic $1 . 5 Billion Settlement With Authors Moves Forward",
+      "seendate": "20250926T210000Z",
+      "socialimage": "",
+      "domain": "mediapost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://searchengineland.com/guides/ai-visibility-index-findings",
+      "url_mobile": "",
+      "title": "What the AI Visibility Index tells us about LLMs & search",
+      "seendate": "20250926T201500Z",
+      "socialimage": "https://searchengineland.com/wp-content/seloads/2025/09/brand-visibility-index-featured-image.png",
+      "domain": "searchengineland.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.govinfosecurity.com/lyin-cheatin-ai-models-playing-game-a-29579",
+      "url_mobile": "",
+      "title": "Lyin  and Cheatin , AI Models Playing a Game",
+      "seendate": "20250926T190000Z",
+      "socialimage": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/lyin-cheatin-ai-models-playing-game-image_large-7-a-29579.jpg",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/national/2025/09/26/840753.htm",
+      "url_mobile": "https://amp.insurancejournal.com/news/national/2025/09/26/840753.htm",
+      "title": "Judge Preliminarily Approves $1 . 5B Anthropic Copyright Settlement",
+      "seendate": "20250926T181500Z",
+      "socialimage": "https://www.insurancejournal.com/app/uploads/2016/10/settlement-580x356.jpg",
+      "domain": "insurancejournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/amazon-loses-vp-helping-lead-development-of-artificial-general-intelligence/articleshow/124165281.cms",
+      "url_mobile": "https://m.economictimes.com/tech/technology/amazon-loses-vp-helping-lead-development-of-artificial-general-intelligence/amp_articleshow/124165281.cms",
+      "title": "Amazon loses VP helping lead development of artificial general intelligence",
+      "seendate": "20250926T181500Z",
+      "socialimage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32246,resizemode-75,msid-124165281/tech/technology/amazon-loses-vp-helping-lead-development-of-artificial-general-intelligence.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/anthropic-triple-international-workforce-ai-170224590.html",
+      "url_mobile": "",
+      "title": "Anthropic to triple international workforce as AI models drive growth outside US",
+      "seendate": "20250926T173000Z",
+      "socialimage": "https://media.zenfs.com/en/reuters-finance.com/109e9258c59e9b34c46458ede8ed052b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.worldipreview.com/copyright/court-backs-anthropics-record-dollar15bn-copyright-deal",
+      "url_mobile": "",
+      "title": "Court backs Anthropic record $1 . 5bn copyright deal | Copyright",
+      "seendate": "20250926T171500Z",
+      "socialimage": "https://cdn.worldipreview.com/convert/files/2025/09/a6f30ea0-9acf-11f0-86c3-ddf07e7f9b16-shutterstock_2450169677_Mehaniq.jpg/r%5Bwidth%5D=1280/a6f30ea0-9acf-11f0-86c3-ddf07e7f9b16-shutterstock_2450169677_Mehaniq.jpg",
+      "domain": "worldipreview.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/26/anthropic-global-ai-hiring-spree.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/26/anthropic-global-ai-hiring-spree.html",
+      "title": "Anthropic to triple international workforce in global AI push",
+      "seendate": "20250926T160000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107431256-1718898592166-gettyimages-1737213579-PGONCHAR_4313.jpeg?v=1757371002",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.tnledger.com/editorial/Article.aspx?id=194965",
+      "url_mobile": "",
+      "title": "The Nashville Ledger",
+      "seendate": "20250926T160000Z",
+      "socialimage": "",
+      "domain": "tnledger.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4499536-anthropic-to-ramp-up-global-expansion-in-enterprise-ai",
+      "url_mobile": "",
+      "title": "Anthropic to ramp up global expansion in enterprise AI ( AMZN : NASDAQ ) ",
+      "seendate": "20250926T160000Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151893327/image_2151893327.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.geneamusings.com/search?updated-max=2025-09-24T12:02:00-07:00&max-results=10",
+      "url_mobile": "",
+      "title": "Genea - Musings",
+      "seendate": "20250926T153000Z",
+      "socialimage": "",
+      "domain": "geneamusings.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://us.cnn.com/2025/09/26/business/ai-workslop-nightcap",
+      "url_mobile": "",
+      "title": "AI isnt taking over your job , but  workslop  is",
+      "seendate": "20250926T134500Z",
+      "socialimage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-685007437.jpg?c=16x9&q=w_800,c_fill",
+      "domain": "us.cnn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zdnet.com/article/ai-is-more-likely-to-transform-your-job-than-replace-it-indeed-finds/",
+      "url_mobile": "",
+      "title": "AI is more likely to transform your job than replace it , Indeed finds",
+      "seendate": "20250926T133000Z",
+      "socialimage": "https://www.zdnet.com/a/img/resize/0acc44152cd299ca62e2b829573965ed62e82dcc/2025/09/26/691ed012-9103-4625-bae0-7fe53312242f/ai-is-more-likely-to-transform-your-job-than-replace-it-indeed-finds.jpg?auto=webp&fit=crop",
+      "domain": "zdnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2025/09/26/a-study-on-agentic-frameworks-what-the-market-is-teaching-about-ais-next-layer/",
+      "url_mobile": "",
+      "title": "What The Market Is Teaching About AI Next Layer",
+      "seendate": "20250926T123000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/687e61ff5d7d849bcfdd0b5f/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2025/09/26/ai-agents-fail-at-a-high-rate-heres-what-logistics-leaders-can-do-about-it/",
+      "url_mobile": "",
+      "title": "AI Agents Fail At A High Rate Here What Logistics Leaders Can Do",
+      "seendate": "20250926T123000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/679d0883dfc2fd27a89a70ad/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/melissawheeler/2025/09/26/ai-self-discovery-finding-yourself-in-the-questions-you-ask/",
+      "url_mobile": "",
+      "title": "AI Self - Discovery : Finding Yourself In The Questions You Ask",
+      "seendate": "20250926T123000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68d5f9054ddb31f1a9d91060/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.euronews.com/next/2025/09/26/consumer-waiting-game-why-do-tech-products-launch-later-in-europe",
+      "url_mobile": "",
+      "title": "Consumer waiting game : Why do tech products launch later in Europe ? ",
+      "seendate": "20250926T063000Z",
+      "socialimage": "https://static.euronews.com/articles/stories/09/48/32/87/1200x675_cmsv2_778b3e6b-2b34-556b-8d93-caf0cfe6d7c4-9483287.jpg",
+      "domain": "euronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.brisbanetimes.com.au/national/queensland/davin-thought-his-painting-might-be-a-lloyd-rees-ai-helped-him-confirm-it-20250812-p5mmds.html",
+      "url_mobile": "",
+      "title": "Davin thought his painting might be a Lloyd Rees . AI helped him confirm it",
+      "seendate": "20250926T061500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.4902930678960964%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_41%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_rebranded_no_label_no_age_social_wm/349aaff65db3a80d3ae3f98755a1d77d9e57d4f5efd4b9a775d72dc530fec331",
+      "domain": "brisbanetimes.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.theage.com.au/national/queensland/davin-thought-his-painting-might-be-a-lloyd-rees-ai-helped-him-confirm-it-20250812-p5mmds.html",
+      "url_mobile": "",
+      "title": "Davin thought his painting might be a Lloyd Rees . AI helped him confirm it",
+      "seendate": "20250926T061500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.4902930678960964%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_41%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/349aaff65db3a80d3ae3f98755a1d77d9e57d4f5efd4b9a775d72dc530fec331",
+      "domain": "theage.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://lasvegassun.com/news/2025/sep/25/judge-approves-15-billion-copyright-settlement-bet/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors - Las Vegas Sun News",
+      "seendate": "20250926T061500Z",
+      "socialimage": "",
+      "domain": "lasvegassun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.smh.com.au/national/queensland/davin-thought-his-painting-might-be-a-lloyd-rees-ai-helped-him-confirm-it-20250812-p5mmds.html",
+      "url_mobile": "",
+      "title": "Davin thought his painting might be a Lloyd Rees . AI helped him confirm it",
+      "seendate": "20250926T061500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.4902930678960964%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_41%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/349aaff65db3a80d3ae3f98755a1d77d9e57d4f5efd4b9a775d72dc530fec331",
+      "domain": "smh.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.wltx.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T060000Z",
+      "socialimage": "https://media.wltx.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wltx.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wnep.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T060000Z",
+      "socialimage": "https://media.tegna-media.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wnep.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fox61.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T060000Z",
+      "socialimage": "https://media.tegna-media.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "fox61.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wtol.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T051500Z",
+      "socialimage": "https://media.wtol.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wtol.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.khou.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T051500Z",
+      "socialimage": "https://media.khou.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "khou.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.13wmaz.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T051500Z",
+      "socialimage": "https://media.13wmaz.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "13wmaz.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.10tv.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T051500Z",
+      "socialimage": "https://media.tegna-media.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "10tv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.king5.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T050000Z",
+      "socialimage": "https://media.king5.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "king5.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wwltv.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T050000Z",
+      "socialimage": "https://media.wwltv.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wwltv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fox43.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T043000Z",
+      "socialimage": "https://media.tegna-media.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "fox43.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/us-judge-preliminarily-approves-15-billion-anthropic-copyright-settlement/article70096260.ece",
+      "url_mobile": "https://www.thehindu.com/sci-tech/technology/us-judge-preliminarily-approves-15-billion-anthropic-copyright-settlement/article70096260.ece/amp/",
+      "title": "U . S . judge preliminarily approves $1 . 5 billion Anthropic copyright settlement",
+      "seendate": "20250926T043000Z",
+      "socialimage": "https://th-i.thgim.com/public/incoming/oyvg29/article70096262.ece/alternates/LANDSCAPE_1200/2025-09-25T223814Z_474966659_RC29ZGADRRK3_RTRMADP_3_ANTHROPIC-AI-COPYRIGHT-SETTLEMENT.JPG",
+      "domain": "thehindu.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.ksdk.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T043000Z",
+      "socialimage": "https://media.ksdk.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "ksdk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kgw.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T043000Z",
+      "socialimage": "https://media.kgw.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "kgw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kiiitv.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T043000Z",
+      "socialimage": "https://media.kiiitv.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "kiiitv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wfmynews2.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T043000Z",
+      "socialimage": "https://media.wfmynews2.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wfmynews2.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wfaa.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T041500Z",
+      "socialimage": "https://media.wfaa.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wfaa.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/8ce1f3d630ddde12",
+      "url_mobile": "",
+      "title": "Anthropic $1 . 5 Billion Settlement Over AI Training On Pirated Books Sets Precedent As Lawsuits Against OpenAI , Meta Loom",
+      "seendate": "20250926T041500Z",
+      "socialimage": "https://biztoc.com/cdn/8ce1f3d630ddde12_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/technology-law-insights-v-6-issue-9-2025-9013765/",
+      "url_mobile": "",
+      "title": "Technology Law Insights , V 6 , Issue 9 , 2025 | Spilman Thomas & Battle , PLLC",
+      "seendate": "20250926T034500Z",
+      "socialimage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13138_0636.jpg",
+      "domain": "jdsupra.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bssnews.net/news/315562",
+      "url_mobile": "",
+      "title": "Judge endorses Anthropic $1 . 5 bn copyright settlement",
+      "seendate": "20250926T033000Z",
+      "socialimage": "https://www.bssnews.net/assets/news_photos/2025/09/26/image-315562-1758855214.jpg",
+      "domain": "bssnews.net",
+      "language": "English",
+      "sourcecountry": "Bangladesh"
+    },
+    {
+      "url": "https://www.wqad.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T033000Z",
+      "socialimage": "https://media.tegna-media.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wqad.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://abcnews.go.com/Business/wireStory/judge-approves-15-billion-copyright-settlement-ai-company-125945606",
+      "url_mobile": "https://abcnews.go.com/amp/Business/wireStory/judge-approves-15-billion-copyright-settlement-ai-company-125945606",
+      "title": "Judge approves $1 . 5B copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250926T033000Z",
+      "socialimage": "https://i.abcnewsfe.com/a/18f43c35-9030-4fe4-8102-bc0c5ff260b6/wirestory_9643064e847a5e88ef6ee8b620b3a44c_16x9.jpg",
+      "domain": "abcnews.go.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.12newsnow.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T033000Z",
+      "socialimage": "https://media.12newsnow.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "12newsnow.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kcentv.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T031500Z",
+      "socialimage": "https://media.kcentv.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "kcentv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.firstcoastnews.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T031500Z",
+      "socialimage": "https://media.firstcoastnews.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "firstcoastnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wzzm13.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T031500Z",
+      "socialimage": "https://media.wzzm13.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wzzm13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kagstv.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T031500Z",
+      "socialimage": "https://media.kagstv.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "kagstv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.localmemphis.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T030000Z",
+      "socialimage": "https://media.tegna-media.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "localmemphis.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailycamera.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250926T024500Z",
+      "socialimage": "https://www.dailycamera.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "dailycamera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.krem.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T024500Z",
+      "socialimage": "https://media.krem.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "krem.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.5newsonline.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T024500Z",
+      "socialimage": "https://media.tegna-media.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "5newsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wcnc.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T023000Z",
+      "socialimage": "https://media.wcnc.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wcnc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.11alive.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T023000Z",
+      "socialimage": "https://media.11alive.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "11alive.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wusa9.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T023000Z",
+      "socialimage": "https://media.wusa9.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wusa9.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wbir.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T021500Z",
+      "socialimage": "https://media.wbir.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "wbir.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rttnews.com/3577351/elon-musk-s-xai-wins-federal-deal-to-sell-grok-chatbot-at-42-cents.aspx",
+      "url_mobile": "https://www.rttnews.com/amp/3577351/elon-musk-s-xai-wins-federal-deal-to-sell-grok-chatbot-at-42-cents.aspx",
+      "title": "Elon Musk XAI Wins Federal Deal To Sell Grok Chatbot At 42 Cents",
+      "seendate": "20250926T021500Z",
+      "socialimage": "https://cdn.rttnews.com/articleimages/ustopstories/2025/september/elon-25092025-lt.jpg",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kare11.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T021500Z",
+      "socialimage": "https://media.kare11.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "kare11.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.12news.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T021500Z",
+      "socialimage": "https://media.12news.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "12news.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.13newsnow.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T014500Z",
+      "socialimage": "https://media.13newsnow.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "13newsnow.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ktvb.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T013000Z",
+      "socialimage": "https://media.ktvb.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "ktvb.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newswest9.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T013000Z",
+      "socialimage": "https://media.newswest9.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "newswest9.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kens5.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T011500Z",
+      "socialimage": "https://media.kens5.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "kens5.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.digitaljournal.com/business/judge-endorses-anthropics-1-5-bn-copyright-settlement/article",
+      "url_mobile": "",
+      "title": "Judge endorses Anthropic $1 . 5 bn copyright settlement",
+      "seendate": "20250926T011500Z",
+      "socialimage": "https://www.digitaljournal.com/wp-content/uploads/2025/09/0962de87dd576144f0e17de599e6bcc983a3ddeb.jpg",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thedailyrecord.com/2025/09/25/anthropic-copyright-settlement-authors-judge-approval/",
+      "url_mobile": "",
+      "title": "Judge OKs $1 . 5B copyright settlement between Anthropic , authors",
+      "seendate": "20250926T011500Z",
+      "socialimage": "https://thedailyrecord.com/files/2025/09/anthropic-ai-copyright-lawsuit-settlement.jpg",
+      "domain": "thedailyrecord.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.whas11.com/article/news/nation-world/judge-approves-copyright-settlement-anthropic-and-authors/507-a61c2536-ec24-4e79-9028-eea308d93ab5",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5B AI book piracy settlement",
+      "seendate": "20250926T011500Z",
+      "socialimage": "https://media.whas11.com/assets/CCT/images/f09031dd-f579-4963-80a3-e27660530a46/20250905T193833/f09031dd-f579-4963-80a3-e27660530a46_1140x641.jpg",
+      "domain": "whas11.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/09/26/us-judge-approves-15-billion-anthropic-copyright-settlement-with-authors",
+      "url_mobile": "",
+      "title": "US judge preliminarily approves $1 . 5 billion Anthropic copyright settlement",
+      "seendate": "20250926T011500Z",
+      "socialimage": "https://apicms.thestar.com.my/uploads/images/2025/09/26/3540482.jpg",
+      "domain": "thestar.com.my",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://mynorthwest.com/national/judge-approves-1-5-billion-copyright-settlement-between-ai-company-anthropic-and-authors/4136101",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250926T010000Z",
+      "socialimage": "https://mynorthwest.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658-1.jpg",
+      "domain": "mynorthwest.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ksat.com/business/2025/09/25/judge-approves-15-billion-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250926T004500Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LNXU6ZVYHBDMDOUGR6ZZ77RVYE.jpg?_a=DATAg1eAZAA0",
+      "domain": "ksat.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/us-judge-preliminarily-approves-1-5-billion-anthropic-copyright-settlement-ce7d58d3da80f62d",
+      "url_mobile": "",
+      "title": "US judge preliminarily approves $1 . 5 billion Anthropic copyright settlement",
+      "seendate": "20250926T004500Z",
+      "socialimage": "https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-05/2025-05-30T200202Z_1_LYNXNPEL4T10W_RTROPTP_4_ANTHROPIC-AI.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://abcnews.go.com/US/wireStory/judge-approves-15-billion-copyright-settlement-ai-company-125945605",
+      "url_mobile": "https://abcnews.go.com/amp/US/wireStory/judge-approves-15-billion-copyright-settlement-ai-company-125945605",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250926T003000Z",
+      "socialimage": "https://i.abcnewsfe.com/a/18f43c35-9030-4fe4-8102-bc0c5ff260b6/wirestory_9643064e847a5e88ef6ee8b620b3a44c_16x9.jpg",
+      "domain": "abcnews.go.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.news4jax.com/business/2025/09/25/judge-approves-15-billion-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250926T001500Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LNXU6ZVYHBDMDOUGR6ZZ77RVYE.jpg?_a=DATAg1eAZAA0",
+      "domain": "news4jax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wgauradio.com/news/judge-approves-15/QTE76HPDUJBKDLWTSMW7QG3N5I/",
+      "url_mobile": "https://www.wgauradio.com/news/judge-approves-15/QTE76HPDUJBKDLWTSMW7QG3N5I/?outputType=amp",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250926T001500Z",
+      "socialimage": "https://cmg-cmg-rd-20015-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYYK77FLNSJM57TNWCJG2EEDGQQ.jpg?auth=0333b228343404fc306895a2fb43c95e1455a49abfe1844d827d44d0b4db5f5b&smart=true",
+      "domain": "wgauradio.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wyomingnewsnow.tv/news/national/judge-endorses-anthropics-1-5-bn-copyright-settlement/article_2d25b67d-acf2-5e06-8505-2aa32fad30ab.html",
+      "url_mobile": "",
+      "title": "Judge endorses Anthropic $1 . 5 bn copyright settlement",
+      "seendate": "20250926T001500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/wyomingnewsnow.tv/content/tncms/assets/v3/editorial/1/26/12666e41-56ce-543d-af24-0945cea69b16/68d5cd0293e3f.image.jpg?crop=341%2C341%2C85%2C0",
+      "domain": "wyomingnewsnow.tv",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.clickondetroit.com/business/2025/09/25/judge-approves-15-billion-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250926T000000Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LNXU6ZVYHBDMDOUGR6ZZ77RVYE.jpg?_a=DATAg1eAZAA0",
+      "domain": "clickondetroit.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.com/judge-endorses-anthropics-15-bn-copyright-settlement-3784484",
+      "url_mobile": "",
+      "title": "Judge Endorses Anthropic $1 . 5 Bn Copyright Settlement",
+      "seendate": "20250925T233000Z",
+      "socialimage": "https://d.ibtimes.com/en/full/4623803/anthropic-run-chief-executive-dario-amodei-scored-mixed-victory.jpg",
+      "domain": "ibtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reporterherald.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T233000Z",
+      "socialimage": "https://www.reporterherald.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "reporterherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.courant.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T233000Z",
+      "socialimage": "https://www.courant.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "courant.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.clickorlando.com/business/2025/09/25/judge-approves-15-billion-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250925T233000Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LNXU6ZVYHBDMDOUGR6ZZ77RVYE.jpg?_a=DATAg1eAZAA0",
+      "domain": "clickorlando.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mainlinemedianews.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T233000Z",
+      "socialimage": "https://www.mainlinemedianews.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "mainlinemedianews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2025-09/66540761-elon-musk-s-xai-wins-federal-deal-to-sell-grok-chatbot-at-42-cents-020.htm",
+      "url_mobile": "",
+      "title": "Elon Musk XAI Wins Federal Deal To Sell Grok Chatbot At 42 Cents",
+      "seendate": "20250925T231500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-tesla-inc-aktie-intraklein-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.standardspeaker.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T231500Z",
+      "socialimage": "https://www.standardspeaker.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "standardspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thereporteronline.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T231500Z",
+      "socialimage": "https://www.thereporteronline.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "thereporteronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bostonherald.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "https://www.bostonherald.com/2025/09/25/anthropic-authors-copyright/amp/",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T230000Z",
+      "socialimage": "https://www.bostonherald.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "bostonherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.timescall.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T230000Z",
+      "socialimage": "https://www.timescall.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "timescall.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.livemint.com/companies/news/judge-approves-1-5-billion-copyright-settlement-between-ai-company-anthropic-and-authors-11758833883422.html",
+      "url_mobile": "https://www.livemint.com/companies/news/judge-approves-1-5-billion-copyright-settlement-between-ai-company-anthropic-and-authors/amp-11758833883422.html",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250925T230000Z",
+      "socialimage": "https://www.livemint.com/lm-img/img/2024/12/06/600x338/company_3_1733465099406_1733465108677.png",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.orovillemr.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T230000Z",
+      "socialimage": "https://www.orovillemr.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "orovillemr.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.twincities.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T224500Z",
+      "socialimage": "https://www.twincities.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "twincities.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.akronnewsreporter.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T223000Z",
+      "socialimage": "https://www.akronnewsreporter.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "akronnewsreporter.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.journal-advocate.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T223000Z",
+      "socialimage": "https://www.journal-advocate.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "journal-advocate.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/25/judge-anthropic-case-preliminary-ok-to-1point5b-settlement-with-authors.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/25/judge-anthropic-case-preliminary-ok-to-1point5b-settlement-with-authors.html",
+      "title": "Judge Anthropic case preliminary OK to $1 . 5B settlement with authors",
+      "seendate": "20250925T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108181967-1758834890156-GettyImages-2194795244.jpg?v=1758834940",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mymotherlode.com/news/national/4350603/judge-approves-1-5-billion-copyright-settlement-between-ai-company-anthropic-and-authors.html",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250925T221500Z",
+      "socialimage": "https://www.mymotherlode.com/wp-content/uploads/2025/09/AP_6ca20751c12c4dcdb6eb45e47ecbe8bf_caa16b5a2b.jpg",
+      "domain": "mymotherlode.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kstp.com/ap-top-news/judge-approves-1-5-billion-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250925T221500Z",
+      "socialimage": "https://kstp.com/wp-content/uploads/apimg/2025/09/Anthropic_Authors_Copyright_22658.jpg",
+      "domain": "kstp.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.capitalgazette.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T221500Z",
+      "socialimage": "https://www.capitalgazette.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "capitalgazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sandiegouniontribune.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T220000Z",
+      "socialimage": "https://www.sandiegouniontribune.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "sandiegouniontribune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.click2houston.com/business/2025/09/25/judge-approves-15-billion-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250925T220000Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LNXU6ZVYHBDMDOUGR6ZZ77RVYE.jpg?_a=DATAg1eAZAA0",
+      "domain": "click2houston.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailylocal.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T220000Z",
+      "socialimage": "https://www.dailylocal.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "dailylocal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailynews.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "https://www.dailynews.com/2025/09/25/anthropic-authors-copyright/amp/",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T220000Z",
+      "socialimage": "https://www.dailynews.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "dailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sentinelandenterprise.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T220000Z",
+      "socialimage": "https://www.sentinelandenterprise.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "sentinelandenterprise.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kob.com/ap-top-news/judge-approves-1-5-billion-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250925T220000Z",
+      "socialimage": "https://www.kob.com/wp-content/uploads/apimg/2025/09/Anthropic_Authors_Copyright_22658.jpg",
+      "domain": "kob.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.clevelandstar.com/news/278600576/how-do-people-use-ai-new-2025-usage-statistics",
+      "url_mobile": "",
+      "title": "How do People Use AI ? New 2025 Usage Statistics",
+      "seendate": "20250925T220000Z",
+      "socialimage": "",
+      "domain": "clevelandstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.baltimoresun.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T214500Z",
+      "socialimage": "https://www.baltimoresun.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "baltimoresun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://americanbazaaronline.com/2025/09/25/neon-mobile-pays-users-for-phone-call-recordings-to-sell-data-to-ai-companies-468081/",
+      "url_mobile": "",
+      "title": "Neon Mobile pays users for phone call recordings to sell data to AI companies",
+      "seendate": "20250925T213000Z",
+      "socialimage": "https://americanbazaaronline.com/wp-content/uploads/2025/09/neon-mobile-2025-09-24-at-3.11.50PM.webp",
+      "domain": "americanbazaaronline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.winnipegfreepress.com/business/2025/09/25/judge-approves-1-5-billion-copyright-settlement-between-ai-company-anthropic-and-authors",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors \u2013 Winnipeg Free Press",
+      "seendate": "20250925T213000Z",
+      "socialimage": "",
+      "domain": "winnipegfreepress.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.wsls.com/business/2025/09/25/judge-approves-15-billion-copyright-settlement-between-ai-company-anthropic-and-authors/",
+      "url_mobile": "",
+      "title": "Judge approves $1 . 5 billion copyright settlement between AI company Anthropic and authors",
+      "seendate": "20250925T213000Z",
+      "socialimage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LNXU6ZVYHBDMDOUGR6ZZ77RVYE.jpg?_a=DATAg1eAZAA0",
+      "domain": "wsls.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ocregister.com/2025/09/25/anthropic-authors-copyright/",
+      "url_mobile": "https://www.ocregister.com/2025/09/25/anthropic-authors-copyright/amp/",
+      "title": "Judge approves $1 . 5 billion settlement between Anthropic , authors",
+      "seendate": "20250925T213000Z",
+      "socialimage": "https://www.ocregister.com/wp-content/uploads/2025/09/Anthropic_Authors_Copyright_22658_a1cdae.jpg",
+      "domain": "ocregister.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.albuquerqueexpress.com/news/278600576/how-do-people-use-ai-new-2025-usage-statistics",
+      "url_mobile": "",
+      "title": "How do People Use AI ? New 2025 Usage Statistics",
+      "seendate": "20250925T211500Z",
+      "socialimage": "",
+      "domain": "albuquerqueexpress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnet.com/tech/services-and-software/microsoft-365-copilot-adds-two-anthropic-ai-models-giving-users-a-choice/",
+      "url_mobile": "",
+      "title": "Microsoft 365 Copilot Adds Two Anthropic AI Models , Giving Users a Choice",
+      "seendate": "20250925T204500Z",
+      "socialimage": "https://www.cnet.com/a/img/resize/f6ac0cb9161a261bab14092cc54862e822790e6a/hub/2025/06/03/fbc815a7-8cc6-404c-848d-1f97bfadb9cf/copilot.jpg?auto=webp&fit=crop",
+      "domain": "cnet.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "http://www.nashvilleherald.com/news/278600576/how-do-people-use-ai-new-2025-usage-statistics",
+      "url_mobile": "",
+      "title": "How do People Use AI ? New 2025 Usage Statistics",
+      "seendate": "20250925T203000Z",
+      "socialimage": "",
+      "domain": "nashvilleherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.dallassun.com/news/278600576/how-do-people-use-ai-new-2025-usage-statistics",
+      "url_mobile": "",
+      "title": "How do People Use AI ? New 2025 Usage Statistics",
+      "seendate": "20250925T190000Z",
+      "socialimage": "",
+      "domain": "dallassun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.londonmercury.com/news/278600576/how-do-people-use-ai-new-2025-usage-statistics",
+      "url_mobile": "",
+      "title": "How do People Use AI ? New 2025 Usage Statistics",
+      "seendate": "20250925T184500Z",
+      "socialimage": "",
+      "domain": "londonmercury.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.upi.com/Top_News/US/2025/09/25/elon-musk-xai-grok-government/3381758818470/",
+      "url_mobile": "https://www.upi.com/amp/Top_News/US/2025/09/25/elon-musk-xai-grok-government/3381758818470/",
+      "title": "U . S . government gets cheap use of Elon Musk xAI Grok until 2027",
+      "seendate": "20250925T183000Z",
+      "socialimage": "https://cdnph.upi.com/sv/ph/og/upi/3381758818470/2025/1/7bd94ddeccf573a8256b17e8d26ddd3b/v1.5/US-government-gets-cheap-use-of-Elon-Musks-xAI-Grok-until-2027.jpg",
+      "domain": "upi.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.stlouisstar.com/news/278600576/how-do-people-use-ai-new-2025-usage-statistics",
+      "url_mobile": "",
+      "title": "How do People Use AI ? New 2025 Usage Statistics",
+      "seendate": "20250925T174500Z",
+      "socialimage": "",
+      "domain": "stlouisstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/zacharyfolk/2025/09/25/xais-grok-chatbot-scores-government-deal-days-after-trump-and-musk-meeting/",
+      "url_mobile": "",
+      "title": "Musk Friendly Again With Trump Gets Deal With US For xAi Chatbot",
+      "seendate": "20250925T173000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/68d574bc67a9d051d78ddcc0/0x0.jpg?format=jpg&crop=5088,2862,x0,y284,safe&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/world/us/most-powerful-ai-trump-elon-musk-come-together-once-again-after-charlie-kirk-funeral/articleshow/124124883.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/world/us/most-powerful-ai-trump-elon-musk-come-together-once-again-after-charlie-kirk-funeral/amp_articleshow/124124883.cms",
+      "title": "  Most powerful AI : Trump , Elon Musk come together once again after Charlie Kirk funeral",
+      "seendate": "20250925T164500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-124124916,width-1070,height-580,imgsize-621459,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://techcrunch.com/2025/09/25/elon-musks-xai-offers-grok-to-federal-government-for-42-cents/",
+      "url_mobile": "",
+      "title": "Elon Musk xAI offers Grok to federal government for 42 cents",
+      "seendate": "20250925T163000Z",
+      "socialimage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg",
+      "domain": "techcrunch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.searchenginejournal.com/marketing-is-4th-most-exposed-to-genai-indeed-study-finds/556911/",
+      "url_mobile": "",
+      "title": "Marketing Is 4th Most Exposed To GenAI , Indeed Study Finds",
+      "seendate": "20250925T151500Z",
+      "socialimage": "https://www.searchenginejournal.com/wp-content/uploads/2025/09/a55a4681-b371-42f3-a1da-7f2badff9eee-920.jpeg",
+      "domain": "searchenginejournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.techtimes.com/articles/312064/20250925/ai-app-neon-mobile-pays-users-call-recordings-what-cost-privacy.htm",
+      "url_mobile": "",
+      "title": "AI App Neon Mobile Pays Users for Call Recordings , But at What Cost to Privacy ? ",
+      "seendate": "20250925T133000Z",
+      "socialimage": "https://d.techtimes.com/en/full/459413/ai-app-neon-mobile-pays-users-call-recordings.png",
+      "domain": "techtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.telecomtv.com/content/telcos-and-ai-channel/swisscom-unveils-sovereign-ai-assistant-53911/",
+      "url_mobile": "https://www.telecomtv.com/content/telcos-and-ai-channel/swisscom-unveils-sovereign-ai-assistant-53911/amp/",
+      "title": "Swisscom unveils sovereign AI assistant",
+      "seendate": "20250925T111500Z",
+      "socialimage": "https://assets.telecomtv.com/assets/telecomtv/swisscom-source-swisscom-17940.jpg",
+      "domain": "telecomtv.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai-10270330/",
+      "url_mobile": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai-10270330/lite/",
+      "title": "Microsoft brings Anthropic AI models to 365 Copilot , diversifies beyond OpenAI",
+      "seendate": "20250925T104500Z",
+      "socialimage": "https://images.indianexpress.com/2025/09/Microsoftg-Reuters.jpg",
+      "domain": "indianexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://fortune.com/2025/09/25/intel-wants-apple-cash/",
+      "url_mobile": "",
+      "title": "Fortune Tech : Intel wants Apple cash , Microsoft taps Anthropic , OpenAI energy",
+      "seendate": "20250925T103000Z",
+      "socialimage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-171797034-e1758771276114.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/opinion/public-options-may-turn-global-ai-reasoning-into-a-mixed-oligopoly-market-13578860.html",
+      "url_mobile": "https://www.moneycontrol.com/news/opinion/public-options-may-turn-global-ai-reasoning-into-a-mixed-oligopoly-market-13578860.html/amp",
+      "title": "OPINION | Public options may turn global AI reasoning into a mixed oligopoly market",
+      "seendate": "20250925T101500Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2024/02/BeFunky-collage-2024-02-19T175936.187.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/isn-t-imagination-google-cloud-044136872.html",
+      "url_mobile": "",
+      "title": "It isnt your imagination : Google Cloud is flooding the zone",
+      "seendate": "20250925T073000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/mNeyfI.LJYo0YCX.2GHIeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/6cbf278bc455a0734988eaca19a0dc99",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai/124103091",
+      "url_mobile": "https://telecom.economictimes.indiatimes.com/amp/news/internet/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai/124103091",
+      "title": "Microsoft brings Anthropic AI models to 365 Copilot , diversifies beyond OpenAI",
+      "seendate": "20250925T063000Z",
+      "socialimage": "https://etimg.etb2bimg.com/thumb/msid-124103091,imgsize-13050,width-1200,height=627,overlay-ettelecom,resizemode-75/internet/microsoft-brings-anthropic-ai-models-to-365-copilot-diversifies-beyond-openai.jpg",
+      "domain": "telecom.economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20250925VL201/microsoft-openai-copilot-anthropic-opus.html",
+      "url_mobile": "",
+      "title": "Microsoft courts Anthropic for Copilot as OpenAI alliance turns less exclusive",
+      "seendate": "20250925T050000Z",
+      "socialimage": "https://img.digitimes.com/newsshow/20250925vl201_files/1_b.jpg",
+      "domain": "digitimes.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.thetimes.com/uk/education/article/alpha-school-texas-ai-learning-no-teachers-93m89svk5",
+      "url_mobile": "",
+      "title": "This primary school got rid of teachers and the parents approve",
+      "seendate": "20250925T043000Z",
+      "socialimage": "https://www.thetimes.com/imageserver/image/%2F20f2ccfe-d50e-4ea7-aa22-cbcb94edf5d4.jpg?crop=3523%2C1982%2C0%2C2080",
+      "domain": "thetimes.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.theregister.com/2025/09/25/microsoft_claude_copilot/",
+      "url_mobile": "",
+      "title": "Microsoft puts Claude on the M365 menu",
+      "seendate": "20250925T041500Z",
+      "socialimage": "https://regmedia.co.uk/2024/03/04/claude_shutterstock.jpg",
+      "domain": "theregister.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://newstalkkit.com/ixp/1135/p/ai-adoption-local-trends-washington/",
+      "url_mobile": "",
+      "title": "Why Some Regions Embrace AI While Others Lag Behind",
+      "seendate": "20250925T033000Z",
+      "socialimage": "https://townsquare.media/site/1135/files/2025/09/attachment-rs46611_gettyimages-1298626492-1.jpg?&q=75&format=natural",
+      "domain": "newstalkkit.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/3d71df0a56d0f51f",
+      "url_mobile": "",
+      "title": "Microsoft puts Claude on the M365 menu",
+      "seendate": "20250925T020000Z",
+      "socialimage": "https://biztoc.com/cdn/3d71df0a56d0f51f_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://newstalk870.am/ixp/1135/p/ai-adoption-local-trends-washington/",
+      "url_mobile": "",
+      "title": "Why Some Regions Embrace AI While Others Lag Behind",
+      "seendate": "20250925T004500Z",
+      "socialimage": "https://townsquare.media/site/1135/files/2025/09/attachment-rs46611_gettyimages-1298626492-1.jpg?&q=75&format=natural",
+      "domain": "newstalk870.am",
+      "language": "English",
+      "sourcecountry": "Armenia"
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20250924PD202/anthropic-surveillance-startup-government-policy.html",
+      "url_mobile": "",
+      "title": "Anthropic blocks law enforcement AI surveillance , sparks govt tension",
+      "seendate": "20250925T003000Z",
+      "socialimage": "https://img.digitimes.com/newsshow/20250924pd202_files/2_b.jpg",
+      "domain": "digitimes.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.bworldonline.com/technology/2025/09/25/700603/alibaba-launches-qwen3-max-ai-model-with-more-than-1-trillion-parameters/",
+      "url_mobile": "https://www.bworldonline.com/technology/2025/09/25/700603/alibaba-launches-qwen3-max-ai-model-with-more-than-1-trillion-parameters/?amp",
+      "title": "Alibaba launches Qwen3 - Max AI model with more than 1 trillion parameters",
+      "seendate": "20250924T210000Z",
+      "socialimage": "",
+      "domain": "bworldonline.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    }
+  ]
+}
