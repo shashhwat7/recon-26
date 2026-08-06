@@ -1,7 +1,7 @@
 {
   "company": "Google DeepMind",
   "query": "\"DeepMind\"",
-  "start": null,
+  "start": "20240101000000",
   "end": null,
   "count": 501,
   "articles": [

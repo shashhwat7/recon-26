@@ -1,7 +1,7 @@
 {
   "company": "Hugging Face",
   "query": "\"Hugging Face\"",
-  "start": null,
+  "start": "20240101000000",
   "end": null,
   "count": 500,
   "articles": [

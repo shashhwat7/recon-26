@@ -1,7 +1,7 @@
 {
   "company": "Stability AI",
   "query": "\"Stability AI\"",
-  "start": null,
+  "start": "20240101000000",
   "end": null,
   "count": 152,
   "articles": [

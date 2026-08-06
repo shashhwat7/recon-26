@@ -1,9 +1,9 @@
 {
   "company": "Anthropic",
   "query": "\"Anthropic\" (Claude OR AI)",
-  "start": null,
+  "start": "20240101000000",
   "end": null,
-  "count": 500,
+  "count": 501,
   "articles": [
     {
       "url": "https://www.jdsupra.com/legalnews/hot-topics-in-international-trade-2348459/",
@@ -5002,6 +5002,16 @@
       "seendate": "20260803T063000Z",
       "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-03-10-22-03.png",
       "domain": "siliconangle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theepochtimes.com/china/china-expands-ai-restrictions-by-targeting-domestic-providers-of-chatgpt-claude-access-6071551",
+      "url_mobile": "",
+      "title": "China Expands AI Restrictions by Targeting Domestic Providers of ChatGPT , Claude Access",
+      "seendate": "20260805T180000Z",
+      "socialimage": "https://img.theepochtimes.com/assets/uploads/2025/11/27/id5950750-Unknown-3-1080x720.jpg",
+      "domain": "theepochtimes.com",
       "language": "English",
       "sourcecountry": "United States"
     }

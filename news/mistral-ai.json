@@ -1,7 +1,7 @@
 {
   "company": "Mistral AI",
   "query": "\"Mistral AI\"",
-  "start": null,
+  "start": "20240101000000",
   "end": null,
   "count": 475,
   "articles": [
